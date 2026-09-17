@@ -1,8515 +1,7627 @@
-[Buttons]+attack 3fd1ba8
-[Buttons]+backward 3fd25a0
-[Buttons]+break 3fd2558
-[Buttons]+camin 84f7270
-[Buttons]+camout 834f9a0
-[Buttons]+campitchdown 834f980
-[Buttons]+campitchup 84f7290
-[Buttons]+camyawleft 8350260
-[Buttons]+camyawright 834f990
-[Buttons]+commandermousemove 3fd1b28
-[Buttons]+dodge 3fd24a0
-[Buttons]+duck 3fd2538
-[Buttons]+forward 3fd2578
-[Buttons]+graph 3fd2378
-[Buttons]+jump 3fd2448
-[Buttons]+klook 3fd1b48
-[Buttons]+left 3fd2400
-[Buttons]+lookdown 3fd2458
-[Buttons]+lookup 3fd2548
-[Buttons]+melee 3fd1b38
-[Buttons]+movedown 3fd23f0
-[Buttons]+moveleft 3fd2568
-[Buttons]+moveright 3fd2590
-[Buttons]+moveup 3fd1b58
-[Buttons]+offhand0 3fd1b68
-[Buttons]+offhand1 3fd2420
-[Buttons]+offhand2 3fd2490
-[Buttons]+offhand3 3fd24d0
-[Buttons]+offhand4 3fd24e8
-[Buttons]+pause_menu 3fd2410
-[Buttons]+ping 3fd1b78
-[Buttons]+reload 3fd23a8
-[Buttons]+right 3fd2438
-[Buttons]+scriptCommand3 3fd2388
-[Buttons]+speed 3fd1b10
-[Buttons]+strafe 3fd23b8
-[Buttons]+toggle_duck 3fd2368
-[Buttons]+toggle_zoom 3fd2398
-[Buttons]+use 3fd24b0
-[Buttons]+useAndReload 3fd2518
-[Buttons]+use_alt 3fd2358
-[Buttons]+use_long 3fd2528
-[Buttons]+variableScopeToggle 3fd23e0
-[Buttons]+walk 3fd2508
-[Buttons]+weaponCycle 3fd2468
-[Buttons]+weapon_discard 3fd24f8
-[Buttons]+zoom 3fd24c0
-[.Miscellaneous]ClientState 2fe320
-[.Miscellaneous]GlobalVars 1e1bab0
-[.Miscellaneous]HighlightSettings 6041bb0
-[.Miscellaneous]InputSystem 1ed3280
-[.Miscellaneous]LevelName 1e1bf3c
-[.Miscellaneous]LocalEntityHandle 24fe3c0
-[.Miscellaneous]LocalPlayer 2670e18
-[.Miscellaneous]ModelNames 1e45098
-[.Miscellaneous]NameList 834e7e0
-[.Miscellaneous]NetworkVarTablePtr 85ccf00
-[.Miscellaneous]ObserverList 58d6af8
-[.Miscellaneous]SignonState 1e1be24
-[.Miscellaneous]ViewAngles 2618
-[.Miscellaneous]ViewMatrix 11a390
-[.Miscellaneous]ViewRender 3fd0430
-[.Miscellaneous]ViewYaw 2324
-[.Miscellaneous]WeaponNames 3fd1ad8
-[.Miscellaneous]WeaponSettingsMeta_base 1b18
-[.Miscellaneous]camera_origin 1fcc
-[.Miscellaneous]cl_entitylist 58d4ad8
-[.Miscellaneous]lastVisibleTime_-2 1a92
-[.Miscellaneous]m_bleedoutState 27f8
-[.Miscellaneous]m_flProjectileScale 26f0
-[.Miscellaneous]m_flProjectileSpeed 26e8
-[.Miscellaneous]m_gameTimescale 974
-[.Miscellaneous]m_iHealth 324
-[.Miscellaneous]m_iName 481
-[.Miscellaneous]m_latestNonOffhandWeapons 1a04
-[.Miscellaneous]m_nForceBone dd0
-[.Miscellaneous]m_pStudioHdr 1000
-[.Miscellaneous]m_shieldHealth 190
-[.Miscellaneous]m_vecAbsOrigin 16c
-[.Miscellaneous]m_vecAbsVelocity 160
-[.Miscellaneous]timeBase 2178
-[DataMap.CBaseGrenade]m_DmgRadius 3024
-[DataMap.CBaseGrenade]m_doesExplode 303c
-[DataMap.CBaseGrenade]m_flDamage 30c0
-[DataMap.CBaseGrenade]m_grenadeCreationOrigin 302c
-[DataMap.CBaseGrenade]m_grenadeCreationTime 3028
-[DataMap.CBaseGrenade]m_grenadeStatusFlags 3038
-[DataMap.CBaseGrenade]m_hThrower 30c4
-[DataMap.CBaseGrenade]m_useMaskAbility 303d
-[DataMap.CBaseGrenade]m_vecVelocity 378
-[DataMap.CBaseViewModel]m_angAbsRotation 154
-[DataMap.CBaseViewModel]m_angNetworkAngles 384
-[DataMap.CBaseViewModel]m_attackEventStartTime 1f6c
-[DataMap.CBaseViewModel]m_bBlockEventLayer 1f60
-[DataMap.CBaseViewModel]m_bSequenceFinished e34
-[DataMap.CBaseViewModel]m_currentFrame.animCycle e8
-[DataMap.CBaseViewModel]m_currentFrame.modelIndex cc
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayAnimTime 182c
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayCycle 1898
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayFadeInDuration 1850
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayFadeOutDuration 1874
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayIsActive 1734
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayModelIndex 17ac
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayPlaybackRate 1788
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlaySequence 17d0
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayStartCycle 1764
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayStartTime 1740
-[DataMap.CBaseViewModel]m_currentFrameAnimatingOverlay.animOverlayWeight 17e4
-[DataMap.CBaseViewModel]m_currentFrameBaseAnimating.animModelIndex e58
-[DataMap.CBaseViewModel]m_currentFrameBaseAnimating.animPlaybackRate e54
-[DataMap.CBaseViewModel]m_currentFrameBaseAnimating.animSequence e60
-[DataMap.CBaseViewModel]m_currentFrameBaseAnimating.animStartCycle e50
-[DataMap.CBaseViewModel]m_currentFrameBaseAnimating.animStartTime e4c
-[DataMap.CBaseViewModel]m_eventSoundFadeStart 1f70
-[DataMap.CBaseViewModel]m_fEffects 330
-[DataMap.CBaseViewModel]m_hWeapon 1f64
-[DataMap.CBaseViewModel]m_isAdsTransition 1f61
-[DataMap.CBaseViewModel]m_localAngles 184
-[DataMap.CBaseViewModel]m_localOrigin 178
-[DataMap.CBaseViewModel]m_nBody d8c
-[DataMap.CBaseViewModel]m_nResetEventsStartTime d98
-[DataMap.CBaseViewModel]m_nextFidgetTime 1f74
-[DataMap.CBaseViewModel]m_projectileIsVisible 19c4
-[DataMap.CBaseViewModel]m_tracerAttachments 1f68
-[DataMap.CBaseViewModel]m_tracerAttachmentsScoped 1f6a
-[DataMap.CBaseViewModel]m_vecAbsOrigin 16c
-[DataMap.CBaseViewModel]m_viewModelOwner 19c0
-[DataMap.CCollisionProperty]m_collisionDetailLevel 2e
-[DataMap.CCollisionProperty]m_nSolidType 2c
-[DataMap.CCollisionProperty]m_triggerBloat 2d
-[DataMap.CCollisionProperty]m_usSolidFlags 28
-[DataMap.CCollisionProperty]m_vecMaxs 1c
-[DataMap.CCollisionProperty]m_vecMins 10
-[DataMap.CGrappleHook]m_grappleZipline 1600
-[DataMap.CGrappleHook]m_localAngles 184
-[DataMap.CGrappleHook]m_localOrigin 178
-[DataMap.CGrappleHook]m_pMoveParent 138
-[DataMap.CGrappleHook]m_parentAttachment 754
-[DataMap.CGrappleHook]m_visibilityFlags 32c
-[DataMap.CPlayerShared]m_nPlayerCond 8
-[DataMap.CPlayerState]deadflag 6c
-[DataMap.CPredictedFirstPersonProxy]m_SequenceTransitioner b50
-[DataMap.CPredictedFirstPersonProxy]m_angNetworkAngles 384
-[DataMap.CPredictedFirstPersonProxy]m_localAngles 184
-[DataMap.CPredictedFirstPersonProxy]m_localOrigin 178
-[DataMap.CPredictedFirstPersonProxy]m_vecVelocity 378
-[DataMap.CTurret]m_aimAngle 1960
-[DataMap.CTurret]m_maxConeAngle 1978
-[DataMap.CTurret]m_minConeAngle 196c
-[DataMap.CWeaponX]m_ActiveState 162c
-[DataMap.CWeaponX]m_SequenceTransitioner b50
-[DataMap.CWeaponX]m_ammoInClip 1630
-[DataMap.CWeaponX]m_ammoInStockpile 1634
-[DataMap.CWeaponX]m_attackTimeThisFrame 1610
-[DataMap.CWeaponX]m_bInReload 164a
-[DataMap.CWeaponX]m_bRemoveable 2f74
-[DataMap.CWeaponX]m_burstFireCount 17b0
-[DataMap.CWeaponX]m_burstFireIndex 17b4
-[DataMap.CWeaponX]m_chargeEndTime 1784
-[DataMap.CWeaponX]m_chargeEnergyDepleteStepCounter 17a8
-[DataMap.CWeaponX]m_chargeStartTime 1780
-[DataMap.CWeaponX]m_chargeWithoutManualInputCancelled 178c
-[DataMap.CWeaponX]m_cooldownEndTime 1798
-[DataMap.CWeaponX]m_curReactiveSkinKillCount 187f
-[DataMap.CWeaponX]m_curReactiveSkinKnockdownCount 1880
-[DataMap.CWeaponX]m_curSharedEnergyCost 1844
-[DataMap.CWeaponX]m_customActivity 166e
-[DataMap.CWeaponX]m_customActivityEndTime 1678
-[DataMap.CWeaponX]m_customActivityFlags 167c
-[DataMap.CWeaponX]m_customActivityOwner 1674
-[DataMap.CWeaponX]m_customActivitySequence 1670
-[DataMap.CWeaponX]m_discarded 1649
-[DataMap.CWeaponX]m_droppedModelIndex 1620
-[DataMap.CWeaponX]m_emissiveEventData 1888
-[DataMap.CWeaponX]m_energizeState 1658
-[DataMap.CWeaponX]m_energizedEndTime 1660
-[DataMap.CWeaponX]m_flNextEmptySoundTime 2f50
-[DataMap.CWeaponX]m_flTimeWeaponIdle 1640
-[DataMap.CWeaponX]m_fullyHeated 166c
-[DataMap.CWeaponX]m_grappleWeaponNeedsDryfire 1848
-[DataMap.CWeaponX]m_hasPendingMod 1840
-[DataMap.CWeaponX]m_heatValue 1664
-[DataMap.CWeaponX]m_heatValueOnLastFire 1668
-[DataMap.CWeaponX]m_holsterModelIndex 161c
-[DataMap.CWeaponX]m_iWorldModelIndex 1618
-[DataMap.CWeaponX]m_idealActivity 1626
-[DataMap.CWeaponX]m_idealSequence 1624
-[DataMap.CWeaponX]m_lastChargeFrac 1788
-[DataMap.CWeaponX]m_lastChargeLevel 17a0
-[DataMap.CWeaponX]m_lastEnergizeFrac 1790
-[DataMap.CWeaponX]m_lastEnergizeState 1659
-[DataMap.CWeaponX]m_lastFullyCharged 17a4
-[DataMap.CWeaponX]m_lastPrimaryAttackTime 1604
-[DataMap.CWeaponX]m_lastRegenTime 1794
-[DataMap.CWeaponX]m_lifetimeShots 163c
-[DataMap.CWeaponX]m_localOrigin 178
-[DataMap.CWeaponX]m_modBitfieldCurrent 17e4
-[DataMap.CWeaponX]m_modBitfieldDisabled 17f0
-[DataMap.CWeaponX]m_modBitfieldFromPlayer 17cc
-[DataMap.CWeaponX]m_modBitfieldInternal 17d8
-[DataMap.CWeaponX]m_nNextThinkTick 46c
-[DataMap.CWeaponX]m_needsEmptyCycleCheck 1776
-[DataMap.CWeaponX]m_needsReloadCheck 1775
-[DataMap.CWeaponX]m_nextPrimaryAttackTime 160c
-[DataMap.CWeaponX]m_nextReadyTime 1608
-[DataMap.CWeaponX]m_offhandSwitchSlot 1654
-[DataMap.CWeaponX]m_pendingModIndex 183c
-[DataMap.CWeaponX]m_playerData 1680
-[DataMap.CWeaponX]m_scriptActivated 187e
-[DataMap.CWeaponX]m_scriptControlledModValues 17fc
-[DataMap.CWeaponX]m_scriptControlledModValuesMap 181c
-[DataMap.CWeaponX]m_scriptFloat0 184c
-[DataMap.CWeaponX]m_scriptVector 1870
-[DataMap.CWeaponX]m_scriptVectorTransitionDuration 1850
-[DataMap.CWeaponX]m_scriptVectorTransitionEnd 1864
-[DataMap.CWeaponX]m_scriptVectorTransitionStart 1858
-[DataMap.CWeaponX]m_scriptVectorTransitionStartTime 1854
-[DataMap.CWeaponX]m_shotCount 17bc
-[DataMap.CWeaponX]m_shotIndexForSpread 17b8
-[DataMap.CWeaponX]m_shouldPlayIdleAnims 187c
-[DataMap.CWeaponX]m_shouldPlaySprintAnims 187d
-[DataMap.CWeaponX]m_skinOverride 1778
-[DataMap.CWeaponX]m_skinOverrideIsValid 177c
-[DataMap.CWeaponX]m_startEnergizingTime 165c
-[DataMap.CWeaponX]m_stockPileWasDraining 179c
-[DataMap.CWeaponX]m_sustainedDischargeEndTime 17c0
-[DataMap.CWeaponX]m_sustainedDischargeIsInPrimaryAttack 17c8
-[DataMap.CWeaponX]m_sustainedLaserCurrentSpread 17c4
-[DataMap.CWeaponX]m_sustainedLaserNextRandomSeed 17c9
-[DataMap.CWeaponX]m_targetingLaserEnabledScript 1774
-[DataMap.CWeaponX]m_tossRelease 1650
-[DataMap.CWeaponX]m_weapState 1644
-[DataMap.CWeaponX]m_weaponActivity 1628
-[DataMap.CWeaponX]m_weaponChargeLevelIncreasedAnimPlaying 179e
-[DataMap.CWeaponX]m_weaponIsActivelyFiring 3084
-[DataMap.CWeaponX]m_weaponIsCharging 179d
-[DataMap.CWeaponX]m_weaponOwner 1600
-[DataMap.CWeaponX]m_worldModelIndexOverride 1614
-[DataMap.C_ArsenalProp]m_ammoType 1685
-[DataMap.C_ArsenalProp]m_consoleMaxInteractAngle 1670
-[DataMap.C_ArsenalProp]m_consoleObbMaxs 1664
-[DataMap.C_ArsenalProp]m_consoleObbMins 1658
-[DataMap.C_ArsenalProp]m_consolePos0 1640
-[DataMap.C_ArsenalProp]m_consolePos1 164c
-[DataMap.C_ArsenalProp]m_groupNumber 1687
-[DataMap.C_ArsenalProp]m_itemCount 1686
-[DataMap.C_ArsenalProp]m_itemRespawnDuration 1600
-[DataMap.C_ArsenalProp]m_itemRespawnEndTime 1604
-[DataMap.C_ArsenalProp]m_serverBody 1674
-[DataMap.C_ArsenalProp]m_specialItemCount 1684
-[DataMap.C_ArsenalProp]m_specialItemDuration 162c
-[DataMap.C_ArsenalProp]m_specialItemIndex 163c
-[DataMap.C_BaseAnimatingOverlay]m_AnimOverlay 1608
-[DataMap.C_BaseAnimatingOverlay]m_AnimOverlayCount 16e0
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayAnimTime 182c
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayCycle 1898
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayFadeInDuration 1850
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayFadeOutDuration 1874
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayIsActive 1734
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayModelIndex 17ac
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayOrder 1808
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayPlaybackRate 1788
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlaySequence 17d0
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayStartCycle 1764
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayStartTime 1740
-[DataMap.C_BaseAnimatingOverlay]m_currentFrameAnimatingOverlay.animOverlayWeight 17e4
-[DataMap.C_BaseAnimating]m_SequenceTransitioner b50
-[DataMap.C_BaseAnimating]m_animActive 9a2
-[DataMap.C_BaseAnimating]m_animAutoPlayBeginTime 99c
-[DataMap.C_BaseAnimating]m_animCollisionEnabled 9a3
-[DataMap.C_BaseAnimating]m_animNetworkFlags 998
-[DataMap.C_BaseAnimating]m_animPlantingEnabled 9a5
-[DataMap.C_BaseAnimating]m_animRelativeToGroundEnabled 9a4
-[DataMap.C_BaseAnimating]m_bSequenceFinished e34
-[DataMap.C_BaseAnimating]m_bSequenceLooped e3c
-[DataMap.C_BaseAnimating]m_bSequenceLoops e3d
-[DataMap.C_BaseAnimating]m_bSequenceReadyForBreakout e3e
-[DataMap.C_BaseAnimating]m_camoIndex d90
-[DataMap.C_BaseAnimating]m_currentFrame.animCycle e8
-[DataMap.C_BaseAnimating]m_currentFrameBaseAnimating.animModelIndex e58
-[DataMap.C_BaseAnimating]m_currentFrameBaseAnimating.animPlaybackRate e54
-[DataMap.C_BaseAnimating]m_currentFrameBaseAnimating.animSequence e60
-[DataMap.C_BaseAnimating]m_currentFrameBaseAnimating.animStartCycle e50
-[DataMap.C_BaseAnimating]m_currentFrameBaseAnimating.animStartTime e4c
-[DataMap.C_BaseAnimating]m_currentFrameBaseAnimating.m_flPoseParameters e70
-[DataMap.C_BaseAnimating]m_fireDeferredStopsStartTime da0
-[DataMap.C_BaseAnimating]m_flModelScale e40
-[DataMap.C_BaseAnimating]m_nBody d8c
-[DataMap.C_BaseAnimating]m_nResetEventsStartTime d98
-[DataMap.C_BaseAnimating]m_nSkin d80
-[DataMap.C_BaseAnimating]m_networkAnimActive 9a0
-[DataMap.C_BaseAnimating]m_predictedAnimEventData aa0
-[DataMap.C_BaseAnimating]m_skinMod d84
-[DataMap.C_BaseCombatCharacter]m_akimboShouldAltFire 1a91
-[DataMap.C_BaseCombatCharacter]m_akimboState 1a90
-[DataMap.C_BaseCombatCharacter]m_bIsPlayerOverheating 1940
-[DataMap.C_BaseCombatCharacter]m_contextAction 1aa4
-[DataMap.C_BaseCombatCharacter]m_currentFrame.showActiveWeapon3p f4
-[DataMap.C_BaseCombatCharacter]m_currentFrame.weaponGettingSwitchedOut ec
-[DataMap.C_BaseCombatCharacter]m_deathVelocity 35c
-[DataMap.C_BaseCombatCharacter]m_flNextAttack 195c
-[DataMap.C_BaseCombatCharacter]m_hudInfo_visibilityTestAlwaysPasses 1a92
-[DataMap.C_BaseCombatCharacter]m_inventory 1988
-[DataMap.C_BaseCombatCharacter]m_lastCycleSlot 1a0c
-[DataMap.C_BaseCombatCharacter]m_lastFiredTime 1960
-[DataMap.C_BaseCombatCharacter]m_lastFiredWeapon 1964
-[DataMap.C_BaseCombatCharacter]m_lastSharedEnergyRegenTime 1978
-[DataMap.C_BaseCombatCharacter]m_lastSharedEnergyTakeTime 1984
-[DataMap.C_BaseCombatCharacter]m_latestMeleeWeapon 1a10
-[DataMap.C_BaseCombatCharacter]m_latestNonOffhandWeapons 1a04
-[DataMap.C_BaseCombatCharacter]m_latestPrimaryWeapons 19f4
-[DataMap.C_BaseCombatCharacter]m_latestPrimaryWeaponsIndexZeroOrOne 19fc
-[DataMap.C_BaseCombatCharacter]m_phaseShiftFlags 6b8
-[DataMap.C_BaseCombatCharacter]m_phaseShiftTimeEnd 1ad8
-[DataMap.C_BaseCombatCharacter]m_phaseShiftTimeStart 1ad4
-[DataMap.C_BaseCombatCharacter]m_phaseShiftType 1ad0
-[DataMap.C_BaseCombatCharacter]m_playerOverheatValue 1944
-[DataMap.C_BaseCombatCharacter]m_raiseFromMeleeEndTime 1968
-[DataMap.C_BaseCombatCharacter]m_selectedOffhands 1a06
-[DataMap.C_BaseCombatCharacter]m_selectedOffhandsPendingHybridAction 1a09
-[DataMap.C_BaseCombatCharacter]m_selectedWeapons 19f0
-[DataMap.C_BaseCombatCharacter]m_sharedEnergy 196c
-[DataMap.C_BaseCombatCharacter]m_sharedEnergyLockoutThreshold 1974
-[DataMap.C_BaseCombatCharacter]m_sharedEnergyMax 1970
-[DataMap.C_BaseCombatCharacter]m_sharedEnergyRegenDelay 1980
-[DataMap.C_BaseCombatCharacter]m_sharedEnergyRegenRate 197c
-[DataMap.C_BaseCombatCharacter]m_timeLastGeneratedPlayerOverheat 1950
-[DataMap.C_BaseCombatCharacter]m_weaponAmmoRegenDisabled 1a8b
-[DataMap.C_BaseCombatCharacter]m_weaponAmmoRegenDisabledRefCount 1a8c
-[DataMap.C_BaseCombatCharacter]m_weaponDelayEnableTime 1a18
-[DataMap.C_BaseCombatCharacter]m_weaponDisabledFlags 1a79
-[DataMap.C_BaseCombatCharacter]m_weaponDisabledInScript 1a1c
-[DataMap.C_BaseCombatCharacter]m_weaponPermission 1a14
-[DataMap.C_BaseCombatCharacter]m_weaponTypeDisabledFlags 1a7c
-[DataMap.C_BaseCombatCharacter]m_weaponTypeDisabledRefCount 1a80
-[DataMap.C_BaseEntity]m_Collision 3b8
-[DataMap.C_BaseEntity]m_ModelName 30
-[DataMap.C_BaseEntity]m_MoveCollide 3ab
-[DataMap.C_BaseEntity]m_MoveType 3aa
-[DataMap.C_BaseEntity]m_angAbsRotation 154
-[DataMap.C_BaseEntity]m_angNetworkAngles 384
-[DataMap.C_BaseEntity]m_bIsSoundCodeControllerValueSet 370
-[DataMap.C_BaseEntity]m_bRenderWithViewModels 39c
-[DataMap.C_BaseEntity]m_currentFrame.modelIndex cc
-[DataMap.C_BaseEntity]m_currentFrame.viewOffset dc
-[DataMap.C_BaseEntity]m_deathVelocity 35c
-[DataMap.C_BaseEntity]m_fEffects 330
-[DataMap.C_BaseEntity]m_fFlags c8
-[DataMap.C_BaseEntity]m_flFriction 390
-[DataMap.C_BaseEntity]m_flGravity 30c
-[DataMap.C_BaseEntity]m_flMaxspeed 328
-[DataMap.C_BaseEntity]m_flProxyRandomValue 310
-[DataMap.C_BaseEntity]m_flSoundCodeControllerValue 374
-[DataMap.C_BaseEntity]m_hGroundEntity 320
-[DataMap.C_BaseEntity]m_hOwnerEntity 398
-[DataMap.C_BaseEntity]m_iEFlags 88
-[DataMap.C_BaseEntity]m_iTeamNum 334
-[DataMap.C_BaseEntity]m_localAngles 184
-[DataMap.C_BaseEntity]m_localOrigin 178
-[DataMap.C_BaseEntity]m_nRenderFX 39d
-[DataMap.C_BaseEntity]m_nRenderMode 3a9
-[DataMap.C_BaseEntity]m_passThroughDirection 358
-[DataMap.C_BaseEntity]m_passThroughFlags 350
-[DataMap.C_BaseEntity]m_passThroughThickness 354
-[DataMap.C_BaseEntity]m_rgflCoordinateFrame 7d0
-[DataMap.C_BaseEntity]m_vecAbsOrigin 16c
-[DataMap.C_BaseEntity]m_vecAbsVelocity 160
-[DataMap.C_BaseEntity]m_vecAngVelocity 148
-[DataMap.C_BaseEntity]m_vecPrevAbsOrigin 300
-[DataMap.C_BaseEntity]m_vecVelocity 378
-[DataMap.C_BaseEntity]m_visibilityFlags 32c
-[DataMap.C_BreachableGlassManager]m_iHealths 970
-[DataMap.C_BreachableGlassManager]m_managerIdx a38
-[DataMap.C_BreakableSurface]m_nPanelBits bf0
-[DataMap.C_ClientRagdoll]m_bFadeOut 1600
-[DataMap.C_ClientRagdoll]m_bFadingOut 1621
-[DataMap.C_ClientRagdoll]m_bImportant 1601
-[DataMap.C_ClientRagdoll]m_bReleaseRagdoll 1620
-[DataMap.C_ClientRagdoll]m_clrRender 80
-[DataMap.C_ClientRagdoll]m_flEffectTime 1604
-[DataMap.C_ClientRagdoll]m_flFrictionModTime 1614
-[DataMap.C_ClientRagdoll]m_flFrictionTime 1618
-[DataMap.C_ClientRagdoll]m_flScaleEnd 1624
-[DataMap.C_ClientRagdoll]m_flScaleTimeEnd 1674
-[DataMap.C_ClientRagdoll]m_flScaleTimeStart 164c
-[DataMap.C_ClientRagdoll]m_iCurrentFriction 1608
-[DataMap.C_ClientRagdoll]m_iFrictionAnimState 161c
-[DataMap.C_ClientRagdoll]m_iMaxFriction 1610
-[DataMap.C_ClientRagdoll]m_iMinFriction 160c
-[DataMap.C_ClientRagdoll]m_nBody d8c
-[DataMap.C_ClientRagdoll]m_nRenderFX 39d
-[DataMap.C_ClientRagdoll]m_nRenderMode 3a9
-[DataMap.C_ClientRagdoll]m_nSkin d80
-[DataMap.C_ClientRagdoll]m_pRagdoll b18
-[DataMap.C_ClientRagdoll]m_skinMod d84
-[DataMap.C_CrossbowBolt]m_bounceCount 3010
-[DataMap.C_CrossbowBolt]m_doesGrow 3018
-[DataMap.C_CrossbowBolt]m_growStage1Size 3028
-[DataMap.C_CrossbowBolt]m_growStage1Tick 3024
-[DataMap.C_CrossbowBolt]m_growStage2Size 3030
-[DataMap.C_CrossbowBolt]m_growStage2Tick 302c
-[DataMap.C_CrossbowBolt]m_growStageFinalSize 3038
-[DataMap.C_CrossbowBolt]m_growStageFinalTick 3034
-[DataMap.C_CrossbowBolt]m_growStartSize 3020
-[DataMap.C_CrossbowBolt]m_maxBounceCount 3014
-[DataMap.C_DynamicProp]m_bClientSide 1600
-[DataMap.C_EnvWindShared]m_CurrentSwayVector 58
-[DataMap.C_EnvWindShared]m_PrevSwayVector 64
-[DataMap.C_EnvWindShared]m_Stream 98
-[DataMap.C_EnvWindShared]m_WindAveQueue 108
-[DataMap.C_EnvWindShared]m_WindVariationQueue 138
-[DataMap.C_EnvWindShared]m_WindVariationStream d0
-[DataMap.C_EnvWindShared]m_bGusting 88
-[DataMap.C_EnvWindShared]m_currentWindVector 4c
-[DataMap.C_EnvWindShared]m_flAveWindSpeed 84
-[DataMap.C_EnvWindShared]m_flGustDuration 2c
-[DataMap.C_EnvWindShared]m_flInitialWindSpeed 74
-[DataMap.C_EnvWindShared]m_flMaxGustDelay 28
-[DataMap.C_EnvWindShared]m_flMinGustDelay 24
-[DataMap.C_EnvWindShared]m_flSimTime 7c
-[DataMap.C_EnvWindShared]m_flStartTime 8
-[DataMap.C_EnvWindShared]m_flSwitchTime 80
-[DataMap.C_EnvWindShared]m_flVariationTime 78
-[DataMap.C_EnvWindShared]m_flWindAngleVariation 8c
-[DataMap.C_EnvWindShared]m_flWindSpeed 48
-[DataMap.C_EnvWindShared]m_flWindSpeedVariation 90
-[DataMap.C_EnvWindShared]m_iEntIndex 94
-[DataMap.C_EnvWindShared]m_iGustDirChange 30
-[DataMap.C_EnvWindShared]m_iInitialWindDir 70
-[DataMap.C_EnvWindShared]m_iMaxGust 20
-[DataMap.C_EnvWindShared]m_iMaxWind 14
-[DataMap.C_EnvWindShared]m_iMinGust 1c
-[DataMap.C_EnvWindShared]m_iMinWind 10
-[DataMap.C_EnvWindShared]m_iWindDir 44
-[DataMap.C_EnvWindShared]m_iWindSeed c
-[DataMap.C_EnvWindShared]m_iszGustSound 40
-[DataMap.C_EnvWindShared]m_location 34
-[DataMap.C_EnvWindShared]m_windRadius 18
-[DataMap.C_ExposureController]m_autoCompensation 970
-[DataMap.C_ExposureController]m_autoForceValue 974
-[DataMap.C_ExposureController]m_autoMax 97c
-[DataMap.C_ExposureController]m_autoMin 978
-[DataMap.C_ExposureController]m_autoSpeed 980
-[DataMap.C_ExposureController]m_directionalHalfAngle 98c
-[DataMap.C_ExposureController]m_isDirectional 988
-[DataMap.C_ExposureController]m_minFadeTime 984
-[DataMap.C_ExposureVolume]m_exposurePriority 988
-[DataMap.C_ExposureVolume]m_exposureTarget 978
-[DataMap.C_ExposureVolume]m_exposureTargetName 980
-[DataMap.C_ExposureVolume]m_volumeTester 970
-[DataMap.C_FogController]m_fogAngles 9dc
-[DataMap.C_FogController]m_fogParams 970
-[DataMap.C_FogController]m_useAbsAngles 9e8
-[DataMap.C_FogVolume]m_fogPriority 988
-[DataMap.C_FogVolume]m_fogTarget 978
-[DataMap.C_FogVolume]m_fogTargetName 980
-[DataMap.C_FogVolume]m_volumeTester 970
-[DataMap.C_GlobalNonRewinding]m_playerMiscData d78
-[DataMap.C_GlobalNonRewinding]m_playerObserver 978
-[DataMap.C_KnockBack]beginTime 14
-[DataMap.C_KnockBack]endTime 18
-[DataMap.C_KnockBack]velocity 8
-[DataMap.C_Missile]m_expandContractMissile 309d
-[DataMap.C_Missile]m_expandContractSettings 3134
-[DataMap.C_Missile]m_explosionIgnoreEntity 3190
-[DataMap.C_Missile]m_flGracePeriodEndsAt 3098
-[DataMap.C_Missile]m_hSpecificTarget 3074
-[DataMap.C_Missile]m_hasPlayedWhizby 3010
-[DataMap.C_Missile]m_homingSpeed 3060
-[DataMap.C_Missile]m_homingSpeedDodgingPlayer 3064
-[DataMap.C_Missile]m_lastThinkTime 318c
-[DataMap.C_Missile]m_launchDir 3068
-[DataMap.C_Missile]m_pathSettingsInitialized 309c
-[DataMap.C_Missile]m_postIgnitionSpeed 3094
-[DataMap.C_Missile]m_spiralMissile 309f
-[DataMap.C_Missile]m_spiralSettings 30c4
-[DataMap.C_Missile]m_targetOffset 3078
-[DataMap.C_Missile]m_targetPosition 3084
-[DataMap.C_Missile]m_useTargetPosition 3090
-[DataMap.C_Missile]m_whizBySoundName 3020
-[DataMap.C_Missile]m_whizByStart 3014
-[DataMap.C_NPC_SentryTurret]m_killCount 1eb4
-[DataMap.C_NPC_SentryTurret]m_titanKillCount 1eb8
-[DataMap.C_ParticleSystem]m_bActive 979
-[DataMap.C_ParticleSystem]m_bClientSide 978
-[DataMap.C_ParticleSystem]m_bInSkybox 985
-[DataMap.C_ParticleSystem]m_bPlaySounds a44
-[DataMap.C_ParticleSystem]m_killForReplay 986
-[DataMap.C_ParticleSystem]m_killIfOverLimit 987
-[DataMap.C_ParticleSystem]m_pauseAfterWarmup 984
-[DataMap.C_ParticleSystem]m_soundSuffix a48
-[DataMap.C_ParticleSystem]m_warmUpTime 980
-[DataMap.C_PlayerLocalData]m_airMoveBlockPlaneCount 1a4
-[DataMap.C_PlayerLocalData]m_airMoveBlockPlaneTime 1a0
-[DataMap.C_PlayerLocalData]m_airMoveBlockPlanes 188
-[DataMap.C_PlayerLocalData]m_airSlowMoFrac 4c
-[DataMap.C_PlayerLocalData]m_bAllowAutoMovement 60
-[DataMap.C_PlayerLocalData]m_bDrawViewmodel 5f
-[DataMap.C_PlayerLocalData]m_bitsActiveDevices 54
-[DataMap.C_PlayerLocalData]m_continuousUseBlocked 2e8
-[DataMap.C_PlayerLocalData]m_disableMeleeUntilRelease 1b8
-[DataMap.C_PlayerLocalData]m_dodgedInAir 1e
-[DataMap.C_PlayerLocalData]m_duckToggleOn 5d
-[DataMap.C_PlayerLocalData]m_fastFalling 1f
-[DataMap.C_PlayerLocalData]m_flFallVelocity 44
-[DataMap.C_PlayerLocalData]m_flStepSize 48
-[DataMap.C_PlayerLocalData]m_flSuitGrapplePower 40
-[DataMap.C_PlayerLocalData]m_flSuitJumpPower 3c
-[DataMap.C_PlayerLocalData]m_flSuitPower 38
-[DataMap.C_PlayerLocalData]m_forceSlide 5c
-[DataMap.C_PlayerLocalData]m_forceStance 58
-[DataMap.C_PlayerLocalData]m_groundNormal 2dc
-[DataMap.C_PlayerLocalData]m_iHideHUD 14
-[DataMap.C_PlayerLocalData]m_jetpackActivateTime 30
-[DataMap.C_PlayerLocalData]m_jetpackDeactivateTime 34
-[DataMap.C_PlayerLocalData]m_jumpPressTime 28
-[DataMap.C_PlayerLocalData]m_jumpedOffRodeo 1d
-[DataMap.C_PlayerLocalData]m_lastMantleBoostTime 24
-[DataMap.C_PlayerLocalData]m_meleeInputIndex 1c0
-[DataMap.C_PlayerLocalData]m_meleePressTime 1bc
-[DataMap.C_PlayerLocalData]m_nOldButtons c
-[DataMap.C_PlayerLocalData]m_nOldVehicleButtons 10
-[DataMap.C_PlayerLocalData]m_nStepside 8
-[DataMap.C_PlayerLocalData]m_oneHandedWeaponUsage 1c8
-[DataMap.C_PlayerLocalData]m_playerAnimChargingJump 209
-[DataMap.C_PlayerLocalData]m_playerAnimDodging 211
-[DataMap.C_PlayerLocalData]m_playerAnimFirstJumpFrame 210
-[DataMap.C_PlayerLocalData]m_playerAnimInAirWalk 21c
-[DataMap.C_PlayerLocalData]m_playerAnimJumpActivity 212
-[DataMap.C_PlayerLocalData]m_playerAnimJumpStartTime 20c
-[DataMap.C_PlayerLocalData]m_playerAnimJumping 208
-[DataMap.C_PlayerLocalData]m_playerAnimLandStartTime 218
-[DataMap.C_PlayerLocalData]m_playerAnimLanding 214
-[DataMap.C_PlayerLocalData]m_playerAnimMeleeParity 224
-[DataMap.C_PlayerLocalData]m_playerAnimMeleeStartTime 228
-[DataMap.C_PlayerLocalData]m_playerAnimPrevFrameSequenceMotionYaw 220
-[DataMap.C_PlayerLocalData]m_playerAnimShouldLand 215
-[DataMap.C_PlayerLocalData]m_playerAnimStationaryGoalFeetYaw 204
-[DataMap.C_PlayerLocalData]m_playerFloatLookEndTime 2d0
-[DataMap.C_PlayerLocalData]m_playerFloatLookStartTime 2cc
-[DataMap.C_PlayerLocalData]m_playerLocalGravityBlendEndDirection 27c
-[DataMap.C_PlayerLocalData]m_playerLocalGravityBlendEndRotation 26c
-[DataMap.C_PlayerLocalData]m_playerLocalGravityBlendEndTime 28c
-[DataMap.C_PlayerLocalData]m_playerLocalGravityBlendStartRotation 25c
-[DataMap.C_PlayerLocalData]m_playerLocalGravityBlendStartTime 288
-[DataMap.C_PlayerLocalData]m_playerLocalGravityBlendStrength 290
-[DataMap.C_PlayerLocalData]m_playerLocalGravityEntity 2c0
-[DataMap.C_PlayerLocalData]m_playerLocalGravityLineEnd 2b4
-[DataMap.C_PlayerLocalData]m_playerLocalGravityLineEndEntity 2c8
-[DataMap.C_PlayerLocalData]m_playerLocalGravityLineStart 2a8
-[DataMap.C_PlayerLocalData]m_playerLocalGravityLineStartEntity 2c4
-[DataMap.C_PlayerLocalData]m_playerLocalGravityPoint 29c
-[DataMap.C_PlayerLocalData]m_playerLocalGravityStrength 294
-[DataMap.C_PlayerLocalData]m_playerLocalGravityToWorldTransform 22c
-[DataMap.C_PlayerLocalData]m_playerLocalGravityType 298
-[DataMap.C_PlayerLocalData]m_prevJumpPressTime 2c
-[DataMap.C_PlayerLocalData]m_prevOneHandedWeaponUsage 1c9
-[DataMap.C_PlayerLocalData]m_queuedGrappleMeleeTime 1ac
-[DataMap.C_PlayerLocalData]m_queuedMeleePressTime 1a8
-[DataMap.C_PlayerLocalData]m_resetDuckToggle 5e
-[DataMap.C_PlayerLocalData]m_superJumpsUsed 18
-[DataMap.C_PlayerLocalData]m_titanDisembarkEnabled 1fd
-[DataMap.C_PlayerLocalData]m_titanEmbarkEnabled 1fc
-[DataMap.C_PlayerLocalData]m_useEnt 2ec
-[DataMap.C_PlayerLocalData]m_usedWallHighJump 20
-[DataMap.C_PlayerLocalData]m_wallrunFromJetpack 2d8
-[DataMap.C_PlayerLocalData]m_wallrunLatestFloorHeight 2d4
-[DataMap.C_PlayerLocalData]m_wasClimbingIntoMantle 1c
-[DataMap.C_PlayerLocalData]predictableFlags 50
-[DataMap.C_PlayerVehicle]m_SequenceTransitioner b50
-[DataMap.C_PlayerVehicle]m_blockDuckInput 1d09
-[DataMap.C_PlayerVehicle]m_cameraVehicleAccel2d 1d44
-[DataMap.C_PlayerVehicle]m_cameraVehicleAccelVert 1d48
-[DataMap.C_PlayerVehicle]m_cameraVehicleDecel 1d4c
-[DataMap.C_PlayerVehicle]m_cameraVehicleSpeed2d 1d3c
-[DataMap.C_PlayerVehicle]m_cameraVehicleSpeedVert 1d40
-[DataMap.C_PlayerVehicle]m_gravityLiftActive 1d21
-[DataMap.C_PlayerVehicle]m_gravityLiftEnterTime 1d24
-[DataMap.C_PlayerVehicle]m_gravityLiftExitTime 1d28
-[DataMap.C_PlayerVehicle]m_hoverVehicleAirStartTime 1ee4
-[DataMap.C_PlayerVehicle]m_hoverVehicleBanking 1f50
-[DataMap.C_PlayerVehicle]m_hoverVehicleBoostCollisionTime 1ec0
-[DataMap.C_PlayerVehicle]m_hoverVehicleDriverInFreelook 1f14
-[DataMap.C_PlayerVehicle]m_hoverVehicleFrictionLastTime 1f54
-[DataMap.C_PlayerVehicle]m_hoverVehicleFrictionNormal 1f5c
-[DataMap.C_PlayerVehicle]m_hoverVehicleFrictionPos 1f68
-[DataMap.C_PlayerVehicle]m_hoverVehicleFrictionSurfPropOther 1f58
-[DataMap.C_PlayerVehicle]m_hoverVehicleGlideDuration 1ee8
-[DataMap.C_PlayerVehicle]m_hoverVehicleGroundAngles 1d80
-[DataMap.C_PlayerVehicle]m_hoverVehicleHoverOffsetPrev 1d70
-[DataMap.C_PlayerVehicle]m_hoverVehicleHoverSimulationIsAwake 1d8e
-[DataMap.C_PlayerVehicle]m_hoverVehicleIsBoosting 1ec4
-[DataMap.C_PlayerVehicle]m_hoverVehicleIsGliding 1ec5
-[DataMap.C_PlayerVehicle]m_hoverVehicleIsMarkedAsDrivingForward 1f3a
-[DataMap.C_PlayerVehicle]m_hoverVehicleIsOnGround 1d8c
-[DataMap.C_PlayerVehicle]m_hoverVehicleLastBoostEffectTime 1f2c
-[DataMap.C_PlayerVehicle]m_hoverVehicleLastBoostTime 1f24
-[DataMap.C_PlayerVehicle]m_hoverVehicleLastGlideEndTime 1eec
-[DataMap.C_PlayerVehicle]m_hoverVehicleLastGlideStartTime 1ee0
-[DataMap.C_PlayerVehicle]m_hoverVehicleLastJumpTime 1ed8
-[DataMap.C_PlayerVehicle]m_hoverVehicleLookAheadAcceleration 1f18
-[DataMap.C_PlayerVehicle]m_hoverVehiclePhysPush 1f74
-[DataMap.C_PlayerVehicle]m_hoverVehicleSmoothTilt 1ef4
-[DataMap.C_PlayerVehicle]m_hoverVehicleSmoothTiltVelocity 1f00
-[DataMap.C_PlayerVehicle]m_hoverVehicleSmoothYaw 1f0c
-[DataMap.C_PlayerVehicle]m_hoverVehicleSmoothYawVelocity 1f10
-[DataMap.C_PlayerVehicle]m_hoverVehicleStunTimeEnd 1f3c
-[DataMap.C_PlayerVehicle]m_hoverVehicleThrottle 1f48
-[DataMap.C_PlayerVehicle]m_hoverVehicleUsedBoostTime 1ebc
-[DataMap.C_PlayerVehicle]m_inputHeldPostJump 1ef0
-[DataMap.C_PlayerVehicle]m_jumpEffectsStarted 1d20
-[DataMap.C_PlayerVehicle]m_localOrigin 178
-[DataMap.C_PlayerVehicle]m_vehicleActivated 1d08
-[DataMap.C_PlayerVehicle]m_vehicleDriver 1ce4
-[DataMap.C_PlayerVehicle]m_vehicleGroundDist 1d6c
-[DataMap.C_PlayerVehicle]m_vehicleGroundEntity 1d5c
-[DataMap.C_PlayerVehicle]m_vehicleGroundNormal 1d60
-[DataMap.C_PlayerVehicle]m_vehicleLaunchTime 1d2c
-[DataMap.C_PlayerVehicle]m_vehicleVelocity 1d50
-[DataMap.C_Player]m_DuckHullMax 2b28
-[DataMap.C_Player]m_DuckHullMin 2b1c
-[DataMap.C_Player]m_Local 1e88
-[DataMap.C_Player]m_SequenceTransitioner b50
-[DataMap.C_Player]m_StandHullMax 2b10
-[DataMap.C_Player]m_StandHullMin 2b04
-[DataMap.C_Player]m_activateBoost 30a5
-[DataMap.C_Player]m_activateGlide 30b8
-[DataMap.C_Player]m_activateJetpack 30ad
-[DataMap.C_Player]m_activeViewmodelModifiers 3a6c
-[DataMap.C_Player]m_activeZipline 2fac
-[DataMap.C_Player]m_afButtonLast 2a88
-[DataMap.C_Player]m_afButtonPressed 2a8c
-[DataMap.C_Player]m_afButtonReleased 2a90
-[DataMap.C_Player]m_ammoPoolCapacity 262c
-[DataMap.C_Player]m_animAimPitch 2b6c
-[DataMap.C_Player]m_animAimYaw 2b70
-[DataMap.C_Player]m_armoredLeapAirPos 4a80
-[DataMap.C_Player]m_armoredLeapEndPos 4a8c
-[DataMap.C_Player]m_armoredLeapPhase 4a9c
-[DataMap.C_Player]m_armoredLeapStartTime 4aa0
-[DataMap.C_Player]m_armoredLeapType 4a98
-[DataMap.C_Player]m_bDoMultiJumpPenalty 381d
-[DataMap.C_Player]m_bHasJumpedSinceTouchedGround 381c
-[DataMap.C_Player]m_bIsStickySprinting 2e52
-[DataMap.C_Player]m_bPlayedSprintStartEffects 2aa4
-[DataMap.C_Player]m_bZooming 1ce1
-[DataMap.C_Player]m_blackholeActive 2ca0
-[DataMap.C_Player]m_boostMeter 30a8
-[DataMap.C_Player]m_boosting 30a4
-[DataMap.C_Player]m_canStand 2b01
-[DataMap.C_Player]m_chargeJumpStartTime 37f0
-[DataMap.C_Player]m_classModsActive 2660
-[DataMap.C_Player]m_controllerModeActive 4938
-[DataMap.C_Player]m_currentFrame.animCycle e8
-[DataMap.C_Player]m_currentFrameBaseAnimating.animPlaybackRate e54
-[DataMap.C_Player]m_currentFrameBaseAnimating.animSequence e60
-[DataMap.C_Player]m_currentFrameBaseAnimating.animStartCycle e50
-[DataMap.C_Player]m_currentFrameBaseAnimating.animStartTime e4c
-[DataMap.C_Player]m_currentFrameBaseAnimating.m_flPoseParameters e70
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_duckTransitionRemainderMsec 250c
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_localGravityRotation 257c
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_stepSmoothingOffset 2500
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_vecPunchBase_Angle 2510
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_vecPunchBase_AngleVel 251c
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_vecPunchWeapon_Angle 2528
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_vecPunchWeapon_AngleVel.x 2534
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_vecPunchWeapon_AngleVel.y 2538
-[DataMap.C_Player]m_currentFrameLocalPlayer.m_vecPunchWeapon_AngleVel.z 253c
-[DataMap.C_Player]m_currentFramePlayer.m_ammoPoolCount 232c
-[DataMap.C_Player]m_currentFramePlayer.m_flHullHeight 2310
-[DataMap.C_Player]m_currentFramePlayer.m_sprintTiltFrac 2318
-[DataMap.C_Player]m_currentFramePlayer.m_traversalAnimProgress 2314
-[DataMap.C_Player]m_currentFramePlayer.m_ziprailBankTiltFrac 231c
-[DataMap.C_Player]m_currentFramePlayer.statusEffectsEndlessPlayerCUR 2270
-[DataMap.C_Player]m_currentFramePlayer.statusEffectsTimedPlayerCUR 2180
-[DataMap.C_Player]m_currentFramePlayer.timeBase 2178
-[DataMap.C_Player]m_damageImpulseNoDecelEndTime 2ad8
-[DataMap.C_Player]m_detachGrappleOnPlayAnimationEnd 306c
-[DataMap.C_Player]m_deviceForm 4940
-[DataMap.C_Player]m_dodging 37ad
-[DataMap.C_Player]m_dodgingInAir 381e
-[DataMap.C_Player]m_doingHalfDuck 2b00
-[DataMap.C_Player]m_dragReviveOutroStartTime 4b14
-[DataMap.C_Player]m_dragReviveState 4b10
-[DataMap.C_Player]m_duckState 2af8
-[DataMap.C_Player]m_fFlags c8
-[DataMap.C_Player]m_fIsSprinting 2aac
-[DataMap.C_Player]m_fIsWalking 2aad
-[DataMap.C_Player]m_fStickySprintMinTime 2aa0
-[DataMap.C_Player]m_fallSpeedGlideMultiplier 30c0
-[DataMap.C_Player]m_flFriction 390
-[DataMap.C_Player]m_flJumpGraceMultiTapFactor 37e8
-[DataMap.C_Player]m_flLastLandFromHeight 37f8
-[DataMap.C_Player]m_flMaxspeed 328
-[DataMap.C_Player]m_flStepSoundTime 2a98
-[DataMap.C_Player]m_flTimeAllSuitDevicesOff 2a9c
-[DataMap.C_Player]m_flTimeLastJumpGraceTap 37e4
-[DataMap.C_Player]m_flTimeLastJumped 37e0
-[DataMap.C_Player]m_flTimeLastLanded 37f4
-[DataMap.C_Player]m_flTimeLastTouchedGround 37dc
-[DataMap.C_Player]m_flTimeLastTouchedWall 37d4
-[DataMap.C_Player]m_gameMovementUtil.m_surfaceFriction 4200
-[DataMap.C_Player]m_gestureAutoKillBitfield 2a6c
-[DataMap.C_Player]m_gestureBlendInDuration 29ec
-[DataMap.C_Player]m_gestureBlendOutDuration 2a0c
-[DataMap.C_Player]m_gestureFadeOutDuration 2a4c
-[DataMap.C_Player]m_gestureFadeOutStartTime 2a2c
-[DataMap.C_Player]m_gestureSequences 29bc
-[DataMap.C_Player]m_gestureStartTimes 29cc
-[DataMap.C_Player]m_glideMeter 30b0
-[DataMap.C_Player]m_glideRechargeDelayAccumulator 30b4
-[DataMap.C_Player]m_glideUpwardsBoostEndTime 30bc
-[DataMap.C_Player]m_gliding 30af
-[DataMap.C_Player]m_grapple 2d90
-[DataMap.C_Player]m_grappleActive 2e18
-[DataMap.C_Player]m_grappleDetachTime 2e1c
-[DataMap.C_Player]m_grappleNeedWindowCheck 2e20
-[DataMap.C_Player]m_grappleNextWindowHint 2e24
-[DataMap.C_Player]m_gravityGrenadeStatusEffect 2e48
-[DataMap.C_Player]m_gravityLiftActive 2c7e
-[DataMap.C_Player]m_gravityLiftEjectTime 2c84
-[DataMap.C_Player]m_gravityLiftEjectVelocity 2c94
-[DataMap.C_Player]m_gravityLiftEnterTime 2c80
-[DataMap.C_Player]m_gravityLiftHoverTime 2c88
-[DataMap.C_Player]m_gravityLiftLastOrigin 2c8c
-[DataMap.C_Player]m_hGroundEntity 320
-[DataMap.C_Player]m_hViewModels 2e6c
-[DataMap.C_Player]m_hoverMeter 30d0
-[DataMap.C_Player]m_hoverRechargeDelayAccumulator 30d4
-[DataMap.C_Player]m_hovering 30cc
-[DataMap.C_Player]m_ignoreEntityForMovementUntilNotTouching 3d30
-[DataMap.C_Player]m_isHoverStrafed 30cd
-[DataMap.C_Player]m_isLungingToPosition 4280
-[DataMap.C_Player]m_isPerformingBoostAction 30d8
-[DataMap.C_Player]m_jetDriveAccel 2ccc
-[DataMap.C_Player]m_jetDriveActive 2ca2
-[DataMap.C_Player]m_jetDriveDecelWindowTimeOutTime 2cd0
-[DataMap.C_Player]m_jetDriveDoubleJumpVelBackFrac 2ce8
-[DataMap.C_Player]m_jetDriveDoubleJumpVelocity 2cdc
-[DataMap.C_Player]m_jetDriveInDecelWindow 2cd4
-[DataMap.C_Player]m_jetDriveSpeed 2cc8
-[DataMap.C_Player]m_jetDriveStartPos 2cb8
-[DataMap.C_Player]m_jetDriveStartTime 2cc4
-[DataMap.C_Player]m_jetDriveTargetEnt 2cb0
-[DataMap.C_Player]m_jetDriveTargetEntZOffset 2cb4
-[DataMap.C_Player]m_jetDriveTargetPos 2ca4
-[DataMap.C_Player]m_jetDriveTimeout 2cd8
-[DataMap.C_Player]m_jetDriveWasActive 2ca1
-[DataMap.C_Player]m_jetpack 30ac
-[DataMap.C_Player]m_jetpackAfterburner 30ae
-[DataMap.C_Player]m_jumpGraceTapCount 37ec
-[DataMap.C_Player]m_jumpPadDebounceExpireTime 34c
-[DataMap.C_Player]m_lastDodgeTime 37b0
-[DataMap.C_Player]m_lastFakeFloorPos 3810
-[DataMap.C_Player]m_lastJumpHeight 30dc
-[DataMap.C_Player]m_lastJumpWasSlide 3838
-[DataMap.C_Player]m_lastJumpWasSlideSuperJump 3839
-[DataMap.C_Player]m_lastJumpWasWallHighJump 37ac
-[DataMap.C_Player]m_lastMoveInputTime 3d2c
-[DataMap.C_Player]m_lastSlideBoost 2e44
-[DataMap.C_Player]m_lastSlideSuperJumpTime 383c
-[DataMap.C_Player]m_lastSlideTime 2e40
-[DataMap.C_Player]m_lastSlideWasBoost 2e3f
-[DataMap.C_Player]m_lastSprintPressTime 2ab8
-[DataMap.C_Player]m_lastUCmdSimulationRemainderTime 1d38
-[DataMap.C_Player]m_lastUCmdSimulationTicks 1d34
-[DataMap.C_Player]m_lastUseTime 3800
-[DataMap.C_Player]m_lastWallNormal 37a0
-[DataMap.C_Player]m_lastWallRunStartPos 2b50
-[DataMap.C_Player]m_lastZipline 2fb0
-[DataMap.C_Player]m_lastZiplineDetachTime 2fb4
-[DataMap.C_Player]m_launcherAirControlActive 3244
-[DataMap.C_Player]m_leanState 2afc
-[DataMap.C_Player]m_lerpToEndPos 2c44
-[DataMap.C_Player]m_lerpToEndTime 2c54
-[DataMap.C_Player]m_lerpToStartPos 2c38
-[DataMap.C_Player]m_lerpToStartTime 2c50
-[DataMap.C_Player]m_lungeCanFly 42b0
-[DataMap.C_Player]m_lungeEndPositionOffset 429c
-[DataMap.C_Player]m_lungeEndTime 42ac
-[DataMap.C_Player]m_lungeLockPitch 42b1
-[DataMap.C_Player]m_lungeMaxEndSpeed 42c0
-[DataMap.C_Player]m_lungeMaxTime 42bc
-[DataMap.C_Player]m_lungeSmoothTime 42b8
-[DataMap.C_Player]m_lungeStartPitch 42b4
-[DataMap.C_Player]m_lungeStartPositionOffset 4290
-[DataMap.C_Player]m_lungeStartTime 42a8
-[DataMap.C_Player]m_lungeTargetEntity 427c
-[DataMap.C_Player]m_lungeTargetPosition 4284
-[DataMap.C_Player]m_mantleBoostState 2c6c
-[DataMap.C_Player]m_melee 3370
-[DataMap.C_Player]m_movementDisabledCount 2ab0
-[DataMap.C_Player]m_nButtons 2a94
-[DataMap.C_Player]m_nNextThinkTick 46c
-[DataMap.C_Player]m_onSlopeTime 379c
-[DataMap.C_Player]m_oneHandFraction 2b68
-[DataMap.C_Player]m_pMoveParent 138
-[DataMap.C_Player]m_pilotModeActive 30c4
-[DataMap.C_Player]m_playAnimationNext 306e
-[DataMap.C_Player]m_playAnimationType 3068
-[DataMap.C_Player]m_playerKnockBacks 4b50
-[DataMap.C_Player]m_playerLaunchActivate 2d70
-[DataMap.C_Player]m_playerLaunchAvoidedMantle 2d71
-[DataMap.C_Player]m_playerLaunchHangTimeEnd 2d84
-[DataMap.C_Player]m_playerLaunchHangTimeRequested 2d88
-[DataMap.C_Player]m_playerLaunchLock3pRotation 2d72
-[DataMap.C_Player]m_playerLaunchStartTime 2d80
-[DataMap.C_Player]m_playerLaunchVelocity 2d74
-[DataMap.C_Player]m_prepClimbPusher 4908
-[DataMap.C_Player]m_prevMantleAngleOffset 2c70
-[DataMap.C_Player]m_prevMoveYaw 2e54
-[DataMap.C_Player]m_pushAwayFromTopAcceleration 490c
-[DataMap.C_Player]m_repeatedBoost 30a6
-[DataMap.C_Player]m_reviveTarget 4b18
-[DataMap.C_Player]m_shadowShieldActive 3080
-[DataMap.C_Player]m_shouldBeOneHanded 2b65
-[DataMap.C_Player]m_skydiveAnticipateEndTime 49a4
-[DataMap.C_Player]m_skydiveAnticipateStartTime 49a0
-[DataMap.C_Player]m_skydiveContraintPostion 4a14
-[DataMap.C_Player]m_skydiveContraintRadius 4a20
-[DataMap.C_Player]m_skydiveDisableSkydiveEndEntityHitNormal 49f4
-[DataMap.C_Player]m_skydiveDisableSkydiveEndEntityHitPosition 49e8
-[DataMap.C_Player]m_skydiveDistanceToLand 49a8
-[DataMap.C_Player]m_skydiveDiveAngle 49ac
-[DataMap.C_Player]m_skydiveEndTime 499c
-[DataMap.C_Player]m_skydiveFollowing 49d4
-[DataMap.C_Player]m_skydiveForwardPoseValueCurrent 4964
-[DataMap.C_Player]m_skydiveForwardPoseValueTarget 4960
-[DataMap.C_Player]m_skydiveForwardPoseValueVelocity 495c
-[DataMap.C_Player]m_skydiveFreelookEnabled 49bc
-[DataMap.C_Player]m_skydiveFreelookLockedAngle 49c0
-[DataMap.C_Player]m_skydiveFromSkywardLaunch 4a0d
-[DataMap.C_Player]m_skydiveFromUpdraft 4a0c
-[DataMap.C_Player]m_skydiveIsDiving 49b0
-[DataMap.C_Player]m_skydiveIsNearDisableSkydiveEndEntity 4978
-[DataMap.C_Player]m_skydivePlayerPitch 49cc
-[DataMap.C_Player]m_skydivePlayerYaw 49d0
-[DataMap.C_Player]m_skydiveScriptInputOverride 4a10
-[DataMap.C_Player]m_skydiveSidePoseValueCurrent 4970
-[DataMap.C_Player]m_skydiveSidePoseValueTarget 496c
-[DataMap.C_Player]m_skydiveSidePoseValueVelocity 4968
-[DataMap.C_Player]m_skydiveSlipVelocity 4a00
-[DataMap.C_Player]m_skydiveSpeed 49b4
-[DataMap.C_Player]m_skydiveStartTime 4998
-[DataMap.C_Player]m_skydiveState 4994
-[DataMap.C_Player]m_skydiveStrafeAngle 49b8
-[DataMap.C_Player]m_skydiveUnfollowVelocity 49d8
-[DataMap.C_Player]m_skydiveYawVelocity 4974
-[DataMap.C_Player]m_skywardDeployEndTime 4a44
-[DataMap.C_Player]m_skywardDeploySpeed 4a4c
-[DataMap.C_Player]m_skywardDeployStartPos 4a2c
-[DataMap.C_Player]m_skywardLaunchEndTime 4a48
-[DataMap.C_Player]m_skywardLaunchFastEndTime 4a40
-[DataMap.C_Player]m_skywardLaunchFastSpeed 4a54
-[DataMap.C_Player]m_skywardLaunchFollowing 4a69
-[DataMap.C_Player]m_skywardLaunchInterrupted 4a68
-[DataMap.C_Player]m_skywardLaunchSlowEndTime 4a3c
-[DataMap.C_Player]m_skywardLaunchSlowSpeed 4a50
-[DataMap.C_Player]m_skywardLaunchSlowStartTime 4a38
-[DataMap.C_Player]m_skywardLaunchState 4a24
-[DataMap.C_Player]m_skywardObstacleAvoidanceEndPos 4a6c
-[DataMap.C_Player]m_skywardOffset 4a58
-[DataMap.C_Player]m_skywardOffsetSpeed 4a64
-[DataMap.C_Player]m_skywardWeaponsEnabled 4a78
-[DataMap.C_Player]m_slideGateDebounceExpireTime 30c8
-[DataMap.C_Player]m_slideLongJumpAllowed 2e3e
-[DataMap.C_Player]m_sliding 2e3d
-[DataMap.C_Player]m_slipAirRestrictDirection 31c4
-[DataMap.C_Player]m_slipAirRestrictTime 31d0
-[DataMap.C_Player]m_slowMoEnabled 2e3c
-[DataMap.C_Player]m_sprintEndedFrac 2ad0
-[DataMap.C_Player]m_sprintEndedTime 2acc
-[DataMap.C_Player]m_sprintStartedFrac 2ac8
-[DataMap.C_Player]m_sprintStartedTime 2ac4
-[DataMap.C_Player]m_sprintTiltVel 2e58
-[DataMap.C_Player]m_stickySprintForwardDisableTime 2ac0
-[DataMap.C_Player]m_stickySprintForwardEnableTime 2abc
-[DataMap.C_Player]m_stickySprintStartTime 2ad4
-[DataMap.C_Player]m_timeJetpackHeightActivateCheckPassed 37d8
-[DataMap.C_Player]m_timeShouldTryGivePlayerDoubleJump 3868
-[DataMap.C_Player]m_touchingSlipTriggersAcceleration 31a8
-[DataMap.C_Player]m_touchingSlipTriggersCount 31c0
-[DataMap.C_Player]m_touchingSlipTriggersDirection 3148
-[DataMap.C_Player]m_touchingSlipTriggersOrigin 3100
-[DataMap.C_Player]m_touchingSlipTriggersSpeed 3190
-[DataMap.C_Player]m_traversalBegin 2bcc
-[DataMap.C_Player]m_traversalBlendOutStartOffset 2c20
-[DataMap.C_Player]m_traversalBlendOutStartTime 2c1c
-[DataMap.C_Player]m_traversalEnd 2be4
-[DataMap.C_Player]m_traversalForwardDir 2bf4
-[DataMap.C_Player]m_traversalHandAppearTime 2c14
-[DataMap.C_Player]m_traversalMid 2bd8
-[DataMap.C_Player]m_traversalMidFrac 2bf0
-[DataMap.C_Player]m_traversalProgress 2c0c
-[DataMap.C_Player]m_traversalRefPos 2c00
-[DataMap.C_Player]m_traversalReleaseTime 2c18
-[DataMap.C_Player]m_traversalStartTime 2c10
-[DataMap.C_Player]m_traversalState 2bc4
-[DataMap.C_Player]m_traversalType 2bc8
-[DataMap.C_Player]m_traversalYawDelta 2c2c
-[DataMap.C_Player]m_turret 2e68
-[DataMap.C_Player]m_upDir 2b38
-[DataMap.C_Player]m_upDirPredicted 2b44
-[DataMap.C_Player]m_updraftCount 4bd0
-[DataMap.C_Player]m_updraftEnterTime 4bd8
-[DataMap.C_Player]m_updraftLeaveTime 4bdc
-[DataMap.C_Player]m_updraftLiftAcceleration 4bf0
-[DataMap.C_Player]m_updraftLiftActivationHeight 4be8
-[DataMap.C_Player]m_updraftLiftExitDuration 4bf4
-[DataMap.C_Player]m_updraftLiftSpeed 4bec
-[DataMap.C_Player]m_updraftMaxShakeActivationHeight 4be4
-[DataMap.C_Player]m_updraftMinShakeActivationHeight 4be0
-[DataMap.C_Player]m_updraftSlowTime 4bf8
-[DataMap.C_Player]m_updraftStage 4bd4
-[DataMap.C_Player]m_useCredit 33a8
-[DataMap.C_Player]m_usePressedTime 37fc
-[DataMap.C_Player]m_vPrevGroundNormal 45f8
-[DataMap.C_Player]m_vecAbsVelocity 160
-[DataMap.C_Player]m_vecPreviouslyPredictedOrigin 37c8
-[DataMap.C_Player]m_vecVelocity 378
-[DataMap.C_Player]m_viewOffsetEntity 2e80
-[DataMap.C_Player]m_wallClimbSetUp 2c7c
-[DataMap.C_Player]m_wallDangleClimbProgressFloor 2c78
-[DataMap.C_Player]m_wallDangleDisableWeapon 2c74
-[DataMap.C_Player]m_wallDangleForceFallOff 2c69
-[DataMap.C_Player]m_wallDangleJumpOffTime 2c64
-[DataMap.C_Player]m_wallDangleLastPushedForward 2c6a
-[DataMap.C_Player]m_wallDangleMayHangHere 2c68
-[DataMap.C_Player]m_wallHangTime 2bc0
-[DataMap.C_Player]m_wallHanging 2c7d
-[DataMap.C_Player]m_wallRunClearTime 3798
-[DataMap.C_Player]m_wallRunCount 2b60
-[DataMap.C_Player]m_wallRunPushAwayTime 2b80
-[DataMap.C_Player]m_wallRunStartTime 3794
-[DataMap.C_Player]m_wallRunWeak 2b64
-[DataMap.C_Player]m_wallrunRetryNormal 2b9c
-[DataMap.C_Player]m_wallrunRetryPos 2b90
-[DataMap.C_Player]m_wallrunRetryTime 2b8c
-[DataMap.C_Player]m_zipline 2fc0
-[DataMap.C_Player]m_ziplineCooldownIndex 3064
-[DataMap.C_Player]m_ziplineGrenadeBeginStationAttachmentId 3058
-[DataMap.C_Player]m_ziplineGrenadeBeginStationEntity 3054
-[DataMap.C_Player]m_ziplineGrenadeEntity 3050
-[DataMap.C_Player]m_ziplineReattachCooldownTime 3060
-[DataMap.C_Player]m_ziplineState 2fbc
-[DataMap.C_Player]m_ziplineValid3pWeaponLayerAnim 2fb8
-[DataMap.C_Player]m_ziplineViewOffsetPosition 3038
-[DataMap.C_Player]m_ziplineViewOffsetVelocity 3044
-[DataMap.C_Player]m_ziprailBankTiltVel 2e4c
-[DataMap.C_Player]m_zoomBaseFrac 1ce8
-[DataMap.C_Player]m_zoomBaseTime 1cec
-[DataMap.C_Player]m_zoomFullStartTime 1cf0
-[DataMap.C_Player]m_zoomToggleOnStartTime 1ce4
-[DataMap.C_Player]pl 25a8
-[DataMap.C_Projectile]m_bounceIndex 2cdc
-[DataMap.C_Projectile]m_deflectionCount 2ce0
-[DataMap.C_Projectile]m_destructionDistance 1608
-[DataMap.C_Projectile]m_forceAdjustToGunBarrelDisabled 1601
-[DataMap.C_Projectile]m_hWeaponFileInfo 1668
-[DataMap.C_Projectile]m_hasCalledPostDataUpdate 2d92
-[DataMap.C_Projectile]m_hasIgnited 2d00
-[DataMap.C_Projectile]m_hasPlayedTrailEffect 2cc0
-[DataMap.C_Projectile]m_impactEffectTable 162c
-[DataMap.C_Projectile]m_inLagCompensation 2d01
-[DataMap.C_Projectile]m_isVortexRefired 2ccc
-[DataMap.C_Projectile]m_lastCollisionNormal 2cd0
-[DataMap.C_Projectile]m_launchOrigin 1654
-[DataMap.C_Projectile]m_launchVel 2c8c
-[DataMap.C_Projectile]m_modBitfield 1610
-[DataMap.C_Projectile]m_modVars 1678
-[DataMap.C_Projectile]m_modVarsAreValid 2c88
-[DataMap.C_Projectile]m_overrideMods 161c
-[DataMap.C_Projectile]m_passEntities 2d08
-[DataMap.C_Projectile]m_passThroughDepthTotal 160c
-[DataMap.C_Projectile]m_passThroughModCount 163c
-[DataMap.C_Projectile]m_passThroughPoints 1640
-[DataMap.C_Projectile]m_perPolyRadius 2cec
-[DataMap.C_Projectile]m_posBeforePhysicsSimulate 2cf4
-[DataMap.C_Projectile]m_preModdedTrailEffectIndices1p 164c
-[DataMap.C_Projectile]m_preModdedTrailEffectIndices3p 1650
-[DataMap.C_Projectile]m_projectileCreationTime 2cc8
-[DataMap.C_Projectile]m_projectileCreationTimeServer 1634
-[DataMap.C_Projectile]m_projectileLifeTimeEndTick 2cc4
-[DataMap.C_Projectile]m_projectileSpeed 2d70
-[DataMap.C_Projectile]m_projectileTrailIndex 1628
-[DataMap.C_Projectile]m_randomInt 2ce4
-[DataMap.C_Projectile]m_reducedEffects 1630
-[DataMap.C_Projectile]m_scriptCB 2c98
-[DataMap.C_Projectile]m_thrownByAI 2ce8
-[DataMap.C_Projectile]m_usesPositionFunction 2ccd
-[DataMap.C_Projectile]m_wantStartTrailEffect 2d90
-[DataMap.C_Projectile]m_weaponChargeFraction 1670
-[DataMap.C_Projectile]m_weaponChargeLevel 166c
-[DataMap.C_Projectile]m_weaponClassIndex 1604
-[DataMap.C_Projectile]m_weaponDataIsSet 1600
-[DataMap.C_Projectile]m_weaponSource 1638
-[DataMap.C_Projectile]m_wpnData 1660
-[DataMap.C_PropDoor]m_angle 16b4
-[DataMap.C_PropDoor]m_interactingPlayer 1718
-[DataMap.C_PropDoor]m_interactingPlayerWantsOpen 171c
-[DataMap.C_PropDoor]m_lastThinkTime 16d0
-[DataMap.C_PropDoor]m_localAngles 184
-[DataMap.C_PropDoor]m_localOrigin 178
-[DataMap.C_PropDoor]m_nNextThinkTick 46c
-[DataMap.C_PropDoor]m_nextHitSoundTime 16cc
-[DataMap.C_PropDoor]m_prevAngle 1728
-[DataMap.C_PropDoor]m_startAngle 16b8
-[DataMap.C_PropDoor]m_startAngleVel 16bc
-[DataMap.C_PropDoor]m_startMoveTime 16c0
-[DataMap.C_PropDoor]m_useDebounceEndTime 1720
-[DataMap.C_SequenceTransitionerLayer]m_sequenceTransitionerLayerActive 18
-[DataMap.C_SequenceTransitionerLayer]m_sequenceTransitionerLayerFadeOutDuration 30
-[DataMap.C_SequenceTransitionerLayer]m_sequenceTransitionerLayerPlaybackRate 28
-[DataMap.C_SequenceTransitionerLayer]m_sequenceTransitionerLayerSequence 20
-[DataMap.C_SequenceTransitionerLayer]m_sequenceTransitionerLayerStartCycle 1c
-[DataMap.C_SequenceTransitionerLayer]m_sequenceTransitionerLayerStartTime 2c
-[DataMap.C_SequenceTransitionerLayer]m_weight 24
-[DataMap.C_SequenceTransitioner]m_sequenceTransitionerLayerCount 1a0
-[DataMap.C_SequenceTransitioner]m_sequenceTransitionerLayers 50
-[DataMap.C_Team]m_iTeamTeamNum 97c
-[DataMap.C_Team]m_score 970
-[DataMap.C_Team]m_score2 974
-[DataMap.C_Team]m_scriptCustomValue 978
-[DataMap.C_Team]m_szTeamname 9a0
-[DataMap.C_TriggerCylinderHeavy]m_nextLaunchTime 9f8
-[DataMap.C_TriggerCylinderHeavy]m_teslaTrapObstructedEndTime a5c
-[DataMap.C_TriggerHurt]m_bitsDamageInflict 9c4
-[DataMap.C_TriggerHurt]m_damageModel 9c8
-[DataMap.C_TriggerHurt]m_flDamage 9b4
-[DataMap.C_TriggerHurt]m_flDamageCap 9b8
-[DataMap.C_TriggerHurt]m_flDmgResetTime 9c0
-[DataMap.C_TriggerHurt]m_flLastDmgTime 9bc
-[DataMap.C_TriggerHurt]m_flOriginalDamage 9b0
-[DataMap.C_VortexSphere]m_bulletAbsorbedCount 980
-[DataMap.C_VortexSphere]m_bulletFov 97c
-[DataMap.C_VortexSphere]m_enabled 970
-[DataMap.C_VortexSphere]m_gunAttachment 9a0
-[DataMap.C_VortexSphere]m_height 978
-[DataMap.C_VortexSphere]m_listNext 9b8
-[DataMap.C_VortexSphere]m_listPrev 9b0
-[DataMap.C_VortexSphere]m_ownerWeapon 988
-[DataMap.C_VortexSphere]m_projectileAbsorbedCount 984
-[DataMap.C_VortexSphere]m_radius 974
-[DataMap.C_VortexSphere]m_useExactSphereRadiusForHit 9a8
-[DataMap.C_VortexSphere]m_vortexEffect 98c
-[DataMap.C_VortexSphere]m_vortexLocalAngles 990
-[DataMap.C_WallrunCurve]height 984
-[DataMap.C_WallrunCurve]width 980
-[DataMap.C_WindEmitter]m_params.enabled 990
-[DataMap.C_WindEmitter]m_params.shapeParams 970
-[DataMap.C_WindEmitter]m_params.shapeType 98c
-[DataMap.C_WindEmitter]m_params.windDir 97c
-[DataMap.C_WindEmitter]m_params.windSpeed 988
-[DataMap.C_WindSettings]m_windGustTexture 970
-[DataMap.C_WindVolume]m_params.edgeFade 9ac
-[DataMap.C_WindVolume]m_params.enabled 9b8
-[DataMap.C_WindVolume]m_params.scale 97c
-[DataMap.C_WindVolume]m_params.shapeParams 970
-[DataMap.C_WindVolume]m_params.shapeType 9b0
-[DataMap.C_WindVolume]m_params.sortPriority 9b4
-[DataMap.C_WindVolume]m_params.windDir 994
-[DataMap.C_WindVolume]m_params.windGustScale 9a8
-[DataMap.C_WindVolume]m_params.windOrigin 988
-[DataMap.C_WindVolume]m_params.windSpeed 9a0
-[DataMap.C_WindVolume]m_params.windType 9a4
-[DataMap.C_WindowHint]halfSize 998
-[DataMap.C_WindowHint]halfSize[0] 998
-[DataMap.C_WindowHint]halfSize[1] 99c
-[DataMap.C_WindowHint]normal 980
-[DataMap.C_WindowHint]right 98c
-[DataMap.C_ZiplinePhysicsAttachedEntity]attachAcceleration c
-[DataMap.C_ZiplinePhysicsAttachedEntity]attachTime 18
-[DataMap.C_ZiplinePhysicsAttachedEntity]entity 8
-[DataMap.C_ZiplinePhysicsNode]position 8
-[DataMap.C_ZiplinePhysicsNode]prevPosition 14
-[DataMap.C_ZiplinePhysics]m_attachedEntities 240
-[DataMap.C_ZiplinePhysics]m_nodes 28
-[DataMap.C_ZiplinePhysics]m_numAttachedEntities 340
-[DataMap.C_ZiplinePhysics]m_numNodes 228
-[DataMap.C_ZiplinePhysics]m_remainingUnsimulatedTime 234
-[DataMap.C_ZiplinePhysics]m_springDistance 22c
-[DataMap.C_ZiplinePhysics]m_ziplineEnd 1c
-[DataMap.C_ZiplinePhysics]m_ziplineOwner 344
-[DataMap.C_ZiplinePhysics]m_ziplineStart 10
-[DataMap.C_ZiplinePhysics]m_ziplineType c
-[DataMap.C_Zipline]m_currentFrameZipline.numZiplinePoints 9a8
-[DataMap.C_Zipline]m_currentFrameZipline.ziplineDistances b2c
-[DataMap.C_Zipline]m_currentFrameZipline.ziplinePositions 9ac
-[DataMap.C_Zipline]m_currentFrameZipline.ziplinePreviousPositions a6c
-[DataMap.C_Zipline]m_detachEndOnUse 970
-[DataMap.C_Zipline]m_ziplinePhysics b80
-[DataMap.EmissiveScaleEventData]durPlateau 10
-[DataMap.EmissiveScaleEventData]durRampDown 14
-[DataMap.EmissiveScaleEventData]durRampUp c
-[DataMap.EmissiveScaleEventData]startTime 8
-[DataMap.GrappleData]m_grappleActivateTime 54
-[DataMap.GrappleData]m_grappleAttachTime 5c
-[DataMap.GrappleData]m_grappleAttached 48
-[DataMap.GrappleData]m_grappleAutoAimTarget 64
-[DataMap.GrappleData]m_grappleForcedRetracting 4c
-[DataMap.GrappleData]m_grappleGracePeriodFinished 4d
-[DataMap.GrappleData]m_grappleMeleeTarget 60
-[DataMap.GrappleData]m_grapplePointCount 44
-[DataMap.GrappleData]m_grapplePoints 14
-[DataMap.GrappleData]m_grapplePullTime 58
-[DataMap.GrappleData]m_grapplePulling 49
-[DataMap.GrappleData]m_grappleRetracting 4b
-[DataMap.GrappleData]m_grappleSwingDetachLowSpeed 70
-[DataMap.GrappleData]m_grappleSwingHoldTimeOrRemainingEdgeGrappleReelTime 74
-[DataMap.GrappleData]m_grappleSwinging 4a
-[DataMap.GrappleData]m_grappleUsedPower 50
-[DataMap.GrappleData]m_grappleVel 8
-[DataMap.PlayerMelee_PlayerData]attackActive c
-[DataMap.PlayerMelee_PlayerData]attackHitEntity 14
-[DataMap.PlayerMelee_PlayerData]attackHitEntityTime 18
-[DataMap.PlayerMelee_PlayerData]attackLastHitNonWorldEntity 1c
-[DataMap.PlayerMelee_PlayerData]attackRecoveryShouldBeQuick d
-[DataMap.PlayerMelee_PlayerData]attackStartTime 10
-[DataMap.PlayerMelee_PlayerData]isSprintAttack e
-[DataMap.PlayerMelee_PlayerData]lungeBoost 28
-[DataMap.PlayerMelee_PlayerData]meleeAttackParity 8
-[DataMap.PlayerMelee_PlayerData]pendingMeleePress 24
-[DataMap.PlayerMelee_PlayerData]previousMainOffhand 34
-[DataMap.PlayerMelee_PlayerData]scriptedState 20
-[DataMap.PlayerZiplineData_Client]m_lastMoveDir2D 58
-[DataMap.PlayerZiplineData_Client]m_mountingZiplineAlpha c
-[DataMap.PlayerZiplineData_Client]m_mountingZiplineSourcePosition 18
-[DataMap.PlayerZiplineData_Client]m_mountingZiplineSourceVelocity 24
-[DataMap.PlayerZiplineData_Client]m_mountingZiplineTargetPosition 30
-[DataMap.PlayerZiplineData_Client]m_slidingZiplineAlpha 54
-[DataMap.PlayerZiplineData_Client]m_ziplineEndTime 14
-[DataMap.PlayerZiplineData_Client]m_ziplinePathDirection 68
-[DataMap.PlayerZiplineData_Client]m_ziplineReenableWeapons 8
-[DataMap.PlayerZiplineData_Client]m_ziplineReverse 64
-[DataMap.PlayerZiplineData_Client]m_ziplineStartTime 10
-[DataMap.PlayerZiplineData_Client]m_ziplineUsePosition 48
-[DataMap.Player_ViewOffsetEntityData]lerpInDuration c
-[DataMap.Player_ViewOffsetEntityData]lerpOutDuration 10
-[DataMap.Player_ViewOffsetEntityData]stabilizePlayerEyeAngles 14
-[DataMap.Player_ViewOffsetEntityData]viewOffsetEntityHandle 8
-[DataMap.PredictedAnimEventData]m_predictedAnimEventCount 58
-[DataMap.PredictedAnimEventData]m_predictedAnimEventIndices 30
-[DataMap.PredictedAnimEventData]m_predictedAnimEventModel 64
-[DataMap.PredictedAnimEventData]m_predictedAnimEventSequence 60
-[DataMap.PredictedAnimEventData]m_predictedAnimEventTarget 5c
-[DataMap.PredictedAnimEventData]m_predictedAnimEventTimes 8
-[DataMap.PredictedAnimEventData]m_predictedAnimEventsReadyToFireTime 68
-[DataMap.StatusEffectEndlessData]seComboVars 8
-[DataMap.StatusEffectTimedData]seComboVars 8
-[DataMap.StatusEffectTimedData]seEaseOut 10
-[DataMap.StatusEffectTimedData]seTimeEnd c
-[DataMap.WeaponInventory_Client]activeWeapons 58
-[DataMap.WeaponInventory_Client]weapons 8
-[DataMap.WeaponPlayerData]m_akimboDisabled ec
-[DataMap.WeaponPlayerData]m_chargeAnimIndex 78
-[DataMap.WeaponPlayerData]m_chargeAnimIndexOld 7c
-[DataMap.WeaponPlayerData]m_chargeDebounce 43
-[DataMap.WeaponPlayerData]m_charmAttachment e4
-[DataMap.WeaponPlayerData]m_charmItemFlavorGUID e8
-[DataMap.WeaponPlayerData]m_charmModelIndex e0
-[DataMap.WeaponPlayerData]m_clipModelIsHidden 4b
-[DataMap.WeaponPlayerData]m_cooldownMilestone a4
-[DataMap.WeaponPlayerData]m_curZoomFOV c0
-[DataMap.WeaponPlayerData]m_currentAltFireAnimIndex d8
-[DataMap.WeaponPlayerData]m_customActivityAttachedModelAttachmentId 64
-[DataMap.WeaponPlayerData]m_customActivityAttachedModelIndex 60
-[DataMap.WeaponPlayerData]m_didFirstDeploy 49
-[DataMap.WeaponPlayerData]m_fastHolster 48
-[DataMap.WeaponPlayerData]m_fastHolsterScale 3c
-[DataMap.WeaponPlayerData]m_fireRateLerp_startFraction 6c
-[DataMap.WeaponPlayerData]m_fireRateLerp_startTime 68
-[DataMap.WeaponPlayerData]m_fireRateLerp_stopFraction 74
-[DataMap.WeaponPlayerData]m_fireRateLerp_stopTime 70
-[DataMap.WeaponPlayerData]m_fullReloadStartTime ac
-[DataMap.WeaponPlayerData]m_kickPatternScaleBase 2c
-[DataMap.WeaponPlayerData]m_kickScaleBasePitch 24
-[DataMap.WeaponPlayerData]m_kickScaleBaseYaw 28
-[DataMap.WeaponPlayerData]m_kickSpreadADS 1c
-[DataMap.WeaponPlayerData]m_kickSpreadHipfire 18
-[DataMap.WeaponPlayerData]m_kickSpringHeatBaseTime 30
-[DataMap.WeaponPlayerData]m_kickSpringHeatBaseValue 34
-[DataMap.WeaponPlayerData]m_kickTime 20
-[DataMap.WeaponPlayerData]m_latestDryfireTime d0
-[DataMap.WeaponPlayerData]m_legendaryModelIndex dc
-[DataMap.WeaponPlayerData]m_moveSpread 8
-[DataMap.WeaponPlayerData]m_offhandHybridNormalMode 46
-[DataMap.WeaponPlayerData]m_pendingReloadAttempt 45
-[DataMap.WeaponPlayerData]m_pendingTriggerPull 41
-[DataMap.WeaponPlayerData]m_pendingoffhandHybridToss 47
-[DataMap.WeaponPlayerData]m_prevSeqWeight a8
-[DataMap.WeaponPlayerData]m_realtimeModCanADS 5c
-[DataMap.WeaponPlayerData]m_realtimeModCmdCount 5b
-[DataMap.WeaponPlayerData]m_realtimeModCmdHead 5a
-[DataMap.WeaponPlayerData]m_realtimeModCmds 52
-[DataMap.WeaponPlayerData]m_rechamberMilestone a0
-[DataMap.WeaponPlayerData]m_reloadMilestone 9c
-[DataMap.WeaponPlayerData]m_reloadStartedEmpty 4d
-[DataMap.WeaponPlayerData]m_requestedAttackEndTime d4
-[DataMap.WeaponPlayerData]m_scriptFlags0 b8
-[DataMap.WeaponPlayerData]m_scriptInt0 bc
-[DataMap.WeaponPlayerData]m_scriptInt1 be
-[DataMap.WeaponPlayerData]m_scriptTime0 b0
-[DataMap.WeaponPlayerData]m_scriptTime1 b4
-[DataMap.WeaponPlayerData]m_secondaryAttackRequested 42
-[DataMap.WeaponPlayerData]m_segmentedAnimStartedAkimbo 4f
-[DataMap.WeaponPlayerData]m_segmentedAnimStartedOneHanded 4e
-[DataMap.WeaponPlayerData]m_segmentedReloadCanRestartLoop 50
-[DataMap.WeaponPlayerData]m_segmentedReloadEndSeqRequired 4c
-[DataMap.WeaponPlayerData]m_segmentedReloadLoopFireLocked 51
-[DataMap.WeaponPlayerData]m_semiAutoNeedsRechamber 44
-[DataMap.WeaponPlayerData]m_semiAutoTriggerDown 40
-[DataMap.WeaponPlayerData]m_semiAutoTriggerHoldTime 38
-[DataMap.WeaponPlayerData]m_shouldCatch 4a
-[DataMap.WeaponPlayerData]m_spreadStartFracADS 14
-[DataMap.WeaponPlayerData]m_spreadStartFracHip 10
-[DataMap.WeaponPlayerData]m_spreadStartTime c
-[DataMap.WeaponPlayerData]m_targetZoomFOV c4
-[DataMap.WeaponPlayerData]m_zoomFOVLerpEndTime cc
-[DataMap.WeaponPlayerData]m_zoomFOVLerpTime c8
-[NetworkedStringTables]EffectDispatch 3fcfb60
-[NetworkedStringTables]ExtraParticleFilesTable 3fcf2a8
-[NetworkedStringTables]ImpactEffectTableNames 3fd1ae0
-[NetworkedStringTables]Materials 3fcf288
-[NetworkedStringTables]Movies 3fd0420
-[NetworkedStringTables]ParticleEffectNames 3fcfb70
-[NetworkedStringTables]ScriptNames 3fd1af0
-[NetworkedStringTables]SkinNames 3fd0468
-[NetworkedStringTables]SoundIDs 3fd0448
-[NetworkedStringTables]VguiScreen 3fcf2a0
-[NetworkedStringTables]WeaponNames 3fd1ad8
-[NetworkedStringTables]wasapi 5686820
-[NetworkedStringTables]wasapi_ss 5686820
-[RecvTable.DT_AI_BaseNPC]m_aiNetworkFlags 1e7c
-[RecvTable.DT_AI_BaseNPC]m_aiSettingsIndex 1ea4
-[RecvTable.DT_AI_BaseNPC]m_aiSprinting 1e5a
-[RecvTable.DT_AI_BaseNPC]m_fireteamSlotIndex 1ce0
-[RecvTable.DT_AI_BaseNPC]m_hGroundEntity 320
-[RecvTable.DT_AI_BaseNPC]m_iHealth 324
-[RecvTable.DT_AI_BaseNPC]m_iMaxHealth 470
-[RecvTable.DT_AI_BaseNPC]m_inventory 1988
-[RecvTable.DT_AI_BaseNPC]m_isHologram 1e80
-[RecvTable.DT_AI_BaseNPC]m_lifeState 698
-[RecvTable.DT_AI_BaseNPC]m_localAngles 384
-[RecvTable.DT_AI_BaseNPC]m_localOrigin 18
-[RecvTable.DT_AI_BaseNPC]m_subclass 1ea8
-[RecvTable.DT_AI_BaseNPC]m_title 1e81
-[RecvTable.DT_AI_BaseNPC_StatusEffects]m_statusEffectsEndlessNPCNV 1d30
-[RecvTable.DT_AI_BaseNPC_StatusEffects]m_statusEffectsTimedNPCNV 1ce8
-[RecvTable.DT_AmbientGeneric]m_hasPolylineSegments 991
-[RecvTable.DT_AmbientGeneric]m_isEnabled 990
-[RecvTable.DT_AmbientGeneric]m_networkTableSoundID 994
-[RecvTable.DT_AmbientGeneric]m_networkedSegmentEndpointWorldSpace 99c
-[RecvTable.DT_AmbientGeneric]m_radius 978
-[RecvTable.DT_AnimRelativeData]m_animBlendBeginTime 60
-[RecvTable.DT_AnimRelativeData]m_animBlendEndTime 64
-[RecvTable.DT_AnimRelativeData]m_animEntityToRefOffset 44
-[RecvTable.DT_AnimRelativeData]m_animEntityToRefRotation 50
-[RecvTable.DT_AnimRelativeData]m_animIgnoreParentRot 70
-[RecvTable.DT_AnimRelativeData]m_animInitialCorrectPos 28
-[RecvTable.DT_AnimRelativeData]m_animInitialCorrectRot 34
-[RecvTable.DT_AnimRelativeData]m_animInitialRot 18
-[RecvTable.DT_AnimRelativeData]m_animInitialVel c
-[RecvTable.DT_AnimRelativeData]m_animMotionMode 74
-[RecvTable.DT_AnimRelativeData]m_animScriptModel 6c
-[RecvTable.DT_AnimRelativeData]m_animScriptSequence 68
-[RecvTable.DT_ArsenalProp]m_Collision 3b8
-[RecvTable.DT_ArsenalProp]m_CollisionGroup 438
-[RecvTable.DT_ArsenalProp]m_ammoType 1685
-[RecvTable.DT_ArsenalProp]m_cellY 4
-[RecvTable.DT_ArsenalProp]m_cellZ 8
-[RecvTable.DT_ArsenalProp]m_consoleIsBusy0 1688
-[RecvTable.DT_ArsenalProp]m_consoleIsBusy1 1689
-[RecvTable.DT_ArsenalProp]m_consoleMaxInteractAngle 1670
-[RecvTable.DT_ArsenalProp]m_consoleObbMaxs 1664
-[RecvTable.DT_ArsenalProp]m_consoleObbMins 1658
-[RecvTable.DT_ArsenalProp]m_consolePos0 1640
-[RecvTable.DT_ArsenalProp]m_consolePos1 164c
-[RecvTable.DT_ArsenalProp]m_fadeDist 764
-[RecvTable.DT_ArsenalProp]m_groupNumber 1687
-[RecvTable.DT_ArsenalProp]m_iSignifierName 478
-[RecvTable.DT_ArsenalProp]m_itemCount 1686
-[RecvTable.DT_ArsenalProp]m_itemRespawnDuration 1600
-[RecvTable.DT_ArsenalProp]m_itemRespawnEndTime 1604
-[RecvTable.DT_ArsenalProp]m_localAngles 384
-[RecvTable.DT_ArsenalProp]m_localOrigin c
-[RecvTable.DT_ArsenalProp]m_minimapData 848
-[RecvTable.DT_ArsenalProp]m_nModelIndex 60
-[RecvTable.DT_ArsenalProp]m_nSkin d80
-[RecvTable.DT_ArsenalProp]m_phaseShiftFlags 6b8
-[RecvTable.DT_ArsenalProp]m_realmsBitMask 930
-[RecvTable.DT_ArsenalProp]m_scriptNameIndex 588
-[RecvTable.DT_ArsenalProp]m_serverBody 1674
-[RecvTable.DT_ArsenalProp]m_skinMod d84
-[RecvTable.DT_ArsenalProp]m_specialItemCount 1684
-[RecvTable.DT_ArsenalProp]m_specialItemDuration 162c
-[RecvTable.DT_ArsenalProp]m_specialItemIndex 163c
-[RecvTable.DT_ArsenalProp]m_usableDistanceOverride 82c
-[RecvTable.DT_ArsenalProp]m_usableFOV 830
-[RecvTable.DT_ArsenalProp]m_usablePriority 828
-[RecvTable.DT_ArsenalProp]m_usableType 5c
-[RecvTable.DT_ArsenalProp]m_usePromptSize 834
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayAnimTime 100
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayFadeInDuration 124
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayFadeOutDuration 148
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayIsActive 8
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayModelIndex 80
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayOrder dc
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayPlaybackRate 5c
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlaySequence a4
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayStartCycle 38
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayStartTime 14
-[RecvTable.DT_BaseAnimatingOverlay]m_animOverlayWeight b8
-[RecvTable.DT_BaseAnimating]m_SequenceTransitioner b50
-[RecvTable.DT_BaseAnimating]m_animActive 9a0
-[RecvTable.DT_BaseAnimating]m_animAutoPlayBeginTime 99c
-[RecvTable.DT_BaseAnimating]m_animCollisionEnabled 9a3
-[RecvTable.DT_BaseAnimating]m_animFrozen 1e
-[RecvTable.DT_BaseAnimating]m_animModelIndex 14
-[RecvTable.DT_BaseAnimating]m_animNetworkFlags 998
-[RecvTable.DT_BaseAnimating]m_animPlantingEnabled 9a5
-[RecvTable.DT_BaseAnimating]m_animPlaybackRate 10
-[RecvTable.DT_BaseAnimating]m_animRelativeData 9a8
-[RecvTable.DT_BaseAnimating]m_animRelativeToGroundEnabled 9a4
-[RecvTable.DT_BaseAnimating]m_bClientSideRagdoll 1f
-[RecvTable.DT_BaseAnimating]m_bSequenceFinished e34
-[RecvTable.DT_BaseAnimating]m_camoIndex d90
-[RecvTable.DT_BaseAnimating]m_flEstIkOffset 8c
-[RecvTable.DT_BaseAnimating]m_flModelScale e40
-[RecvTable.DT_BaseAnimating]m_flPoseParameter 2c
-[RecvTable.DT_BaseAnimating]m_flSkyScaleEndTime b34
-[RecvTable.DT_BaseAnimating]m_flSkyScaleEndValue b2c
-[RecvTable.DT_BaseAnimating]m_flSkyScaleStartTime b30
-[RecvTable.DT_BaseAnimating]m_flSkyScaleStartValue b28
-[RecvTable.DT_BaseAnimating]m_itemFlavorGUID d74
-[RecvTable.DT_BaseAnimating]m_lockedAnimDeltaYaw e38
-[RecvTable.DT_BaseAnimating]m_nBody d8c
-[RecvTable.DT_BaseAnimating]m_nForceBone dd0
-[RecvTable.DT_BaseAnimating]m_nRagdollImpactFXTableId b24
-[RecvTable.DT_BaseAnimating]m_nSkin d80
-[RecvTable.DT_BaseAnimating]m_passDamageToParent 6c4
-[RecvTable.DT_BaseAnimating]m_predictedAnimEventData aa0
-[RecvTable.DT_BaseAnimating]m_skinMod d84
-[RecvTable.DT_BaseAnimating]m_syncingWithEntity a98
-[RecvTable.DT_BaseAnimating]m_vecForce 20
-[RecvTable.DT_BaseCombatCharacter]m_akimboShouldAltFire 1a91
-[RecvTable.DT_BaseCombatCharacter]m_akimboState 1a90
-[RecvTable.DT_BaseCombatCharacter]m_allowHudSelectionWhileWeaponsDisabled 1a8a
-[RecvTable.DT_BaseCombatCharacter]m_bIsPlayerOverheating 1940
-[RecvTable.DT_BaseCombatCharacter]m_cloakEndTime 1bc
-[RecvTable.DT_BaseCombatCharacter]m_cloakFadeInDuration 1c8
-[RecvTable.DT_BaseCombatCharacter]m_cloakFadeInEndTime 1c0
-[RecvTable.DT_BaseCombatCharacter]m_cloakFadeOutStartTime 1c4
-[RecvTable.DT_BaseCombatCharacter]m_cloakFlickerAmount 1cc
-[RecvTable.DT_BaseCombatCharacter]m_cloakFlickerEndTime 1d0
-[RecvTable.DT_BaseCombatCharacter]m_contextAction 1aa4
-[RecvTable.DT_BaseCombatCharacter]m_deathVelocity 35c
-[RecvTable.DT_BaseCombatCharacter]m_hudInfo_visibilityTestAlwaysPasses 1a92
-[RecvTable.DT_BaseCombatCharacter]m_lastCycleSlot 1a0c
-[RecvTable.DT_BaseCombatCharacter]m_lastFiredTime 1960
-[RecvTable.DT_BaseCombatCharacter]m_lastFiredWeapon 1964
-[RecvTable.DT_BaseCombatCharacter]m_lastSharedEnergyRegenTime 1978
-[RecvTable.DT_BaseCombatCharacter]m_lastSharedEnergyTakeTime 1984
-[RecvTable.DT_BaseCombatCharacter]m_latestNonOffhandWeapons 1a04
-[RecvTable.DT_BaseCombatCharacter]m_latestPrimaryWeapons 19f4
-[RecvTable.DT_BaseCombatCharacter]m_latestPrimaryWeaponsIndexZeroOrOne 19fc
-[RecvTable.DT_BaseCombatCharacter]m_minimapData 848
-[RecvTable.DT_BaseCombatCharacter]m_nameVisibilityFlags 898
-[RecvTable.DT_BaseCombatCharacter]m_phaseShiftTimeEnd 1ad8
-[RecvTable.DT_BaseCombatCharacter]m_phaseShiftTimeStart 1ad4
-[RecvTable.DT_BaseCombatCharacter]m_phaseShiftType 1ad0
-[RecvTable.DT_BaseCombatCharacter]m_playerOverheatValue 1944
-[RecvTable.DT_BaseCombatCharacter]m_raiseFromMeleeEndTime 1968
-[RecvTable.DT_BaseCombatCharacter]m_selectedWeapons 19f0
-[RecvTable.DT_BaseCombatCharacter]m_sharedEnergy 196c
-[RecvTable.DT_BaseCombatCharacter]m_sharedEnergyLockoutThreshold 1974
-[RecvTable.DT_BaseCombatCharacter]m_sharedEnergyMax 1970
-[RecvTable.DT_BaseCombatCharacter]m_sharedEnergyRegenDelay 1980
-[RecvTable.DT_BaseCombatCharacter]m_sharedEnergyRegenRate 197c
-[RecvTable.DT_BaseCombatCharacter]m_shieldHealth 190
-[RecvTable.DT_BaseCombatCharacter]m_shieldHealthMax 194
-[RecvTable.DT_BaseCombatCharacter]m_showActiveWeapon3p 10
-[RecvTable.DT_BaseCombatCharacter]m_squadID 340
-[RecvTable.DT_BaseCombatCharacter]m_targetInfoPingValue 1c70
-[RecvTable.DT_BaseCombatCharacter]m_teamMemberIndex 33c
-[RecvTable.DT_BaseCombatCharacter]m_timeLastGeneratedPlayerOverheat 1950
-[RecvTable.DT_BaseCombatCharacter]m_vecViewOffset.x 48
-[RecvTable.DT_BaseCombatCharacter]m_vecViewOffset.y 4c
-[RecvTable.DT_BaseCombatCharacter]m_vecViewOffset.z 50
-[RecvTable.DT_BaseCombatCharacter]m_weaponAmmoRegenDisabled 1a8b
-[RecvTable.DT_BaseCombatCharacter]m_weaponAmmoRegenDisabledRefCount 1a8c
-[RecvTable.DT_BaseCombatCharacter]m_weaponDelayEnableTime 1a18
-[RecvTable.DT_BaseCombatCharacter]m_weaponDisabledFlags 1a79
-[RecvTable.DT_BaseCombatCharacter]m_weaponDisabledInScript 1a1c
-[RecvTable.DT_BaseCombatCharacter]m_weaponGettingSwitchedOut 8
-[RecvTable.DT_BaseCombatCharacter]m_weaponInventorySlotLockedFlags 1a7a
-[RecvTable.DT_BaseCombatCharacter]m_weaponPermission 1a14
-[RecvTable.DT_BaseCombatCharacter]m_weaponTypeDisabledFlags 1a7c
-[RecvTable.DT_BaseCombatCharacter]m_weaponTypeDisabledRefCount 1a80
-[RecvTable.DT_BaseEntity]m_Collision 3b8
-[RecvTable.DT_BaseEntity]m_CollisionGroup 438
-[RecvTable.DT_BaseEntity]m_attachmentLerpEndTime 738
-[RecvTable.DT_BaseEntity]m_attachmentLerpStartAngles 748
-[RecvTable.DT_BaseEntity]m_attachmentLerpStartOrigin 73c
-[RecvTable.DT_BaseEntity]m_attachmentLerpStartTime 734
-[RecvTable.DT_BaseEntity]m_bIsSoundCodeControllerValueSet 370
-[RecvTable.DT_BaseEntity]m_bRenderWithViewModels 39c
-[RecvTable.DT_BaseEntity]m_baseTakeDamage 6bc
-[RecvTable.DT_BaseEntity]m_bossPlayer 144
-[RecvTable.DT_BaseEntity]m_cellY 4
-[RecvTable.DT_BaseEntity]m_cellZ 8
-[RecvTable.DT_BaseEntity]m_clIntensity 84
-[RecvTable.DT_BaseEntity]m_clrRender 80
-[RecvTable.DT_BaseEntity]m_collideWithOwner 440
-[RecvTable.DT_BaseEntity]m_contents 43c
-[RecvTable.DT_BaseEntity]m_dissolveEffectEntityHandle 814
-[RecvTable.DT_BaseEntity]m_exclusiveUseEnt 620
-[RecvTable.DT_BaseEntity]m_fEffects 54
-[RecvTable.DT_BaseEntity]m_fadeDist 764
-[RecvTable.DT_BaseEntity]m_firstChildEntityLink 928
-[RecvTable.DT_BaseEntity]m_firstParentEntityLink 92c
-[RecvTable.DT_BaseEntity]m_flSoundCodeControllerValue 374
-[RecvTable.DT_BaseEntity]m_grade 344
-[RecvTable.DT_BaseEntity]m_hOwnerEntity 398
-[RecvTable.DT_BaseEntity]m_holdUsePrompt 610
-[RecvTable.DT_BaseEntity]m_iName 481
-[RecvTable.DT_BaseEntity]m_iSignifierName 478
-[RecvTable.DT_BaseEntity]m_iTeamNum 334
-[RecvTable.DT_BaseEntity]m_ignoreParentRotation 2dc
-[RecvTable.DT_BaseEntity]m_ignorePredictedTriggerFlags 348
-[RecvTable.DT_BaseEntity]m_instanceNameIndex 58c
-[RecvTable.DT_BaseEntity]m_invulnerableToDamageCount 6c0
-[RecvTable.DT_BaseEntity]m_localAngles 384
-[RecvTable.DT_BaseEntity]m_localOrigin c
-[RecvTable.DT_BaseEntity]m_meleeResponseFlags 2d8
-[RecvTable.DT_BaseEntity]m_nModelIndex 60
-[RecvTable.DT_BaseEntity]m_nRenderFX 39d
-[RecvTable.DT_BaseEntity]m_nRenderMode 3a9
-[RecvTable.DT_BaseEntity]m_networkedFlags 2d0
-[RecvTable.DT_BaseEntity]m_parentAttachment 34
-[RecvTable.DT_BaseEntity]m_parentAttachmentModel 758
-[RecvTable.DT_BaseEntity]m_passThroughDirection 358
-[RecvTable.DT_BaseEntity]m_passThroughFlags 350
-[RecvTable.DT_BaseEntity]m_passThroughThickness 354
-[RecvTable.DT_BaseEntity]m_phaseShiftFlags 6b8
-[RecvTable.DT_BaseEntity]m_pressUsePrompt 618
-[RecvTable.DT_BaseEntity]m_realmsBitMask 930
-[RecvTable.DT_BaseEntity]m_scriptNameIndex 588
-[RecvTable.DT_BaseEntity]m_usableDistanceOverride 82c
-[RecvTable.DT_BaseEntity]m_usableFOV 830
-[RecvTable.DT_BaseEntity]m_usablePriority 828
-[RecvTable.DT_BaseEntity]m_usableType 5c
-[RecvTable.DT_BaseEntity]m_usePromptSize 834
-[RecvTable.DT_BaseEntity]m_useRefractionCloak 3ac
-[RecvTable.DT_BaseEntity]m_visibilityFlags 32c
-[RecvTable.DT_BaseEntity]m_wantsScopeHighlight 2cc
-[RecvTable.DT_BaseEntity]moveparent 30
-[RecvTable.DT_BaseGrenade]m_DmgRadius 3024
-[RecvTable.DT_BaseGrenade]m_baseTakeDamage 6bc
-[RecvTable.DT_BaseGrenade]m_doesExplode 303c
-[RecvTable.DT_BaseGrenade]m_grenadeStatusFlags 3038
-[RecvTable.DT_BaseGrenade]m_invulnerableToDamageCount 6c0
-[RecvTable.DT_BaseGrenade]m_parentAttachment 34
-[RecvTable.DT_BaseGrenade]m_parentAttachmentModel 758
-[RecvTable.DT_BaseGrenade]m_ziplineGrenadeExpectedEndPosition 30a0
-[RecvTable.DT_BaseGrenade]moveparent 30
-[RecvTable.DT_BaseToggle]m_flMoveTargetTime 994
-[RecvTable.DT_BaseToggle]m_movementType 990
-[RecvTable.DT_BaseToggle]m_vecFinalDest 984
-[RecvTable.DT_BaseViewModel]m_animFrozen 1e
-[RecvTable.DT_BaseViewModel]m_animModelIndex 14
-[RecvTable.DT_BaseViewModel]m_animOverlayAnimTime 100
-[RecvTable.DT_BaseViewModel]m_animOverlayFadeInDuration 124
-[RecvTable.DT_BaseViewModel]m_animOverlayFadeOutDuration 148
-[RecvTable.DT_BaseViewModel]m_animOverlayIsActive 8
-[RecvTable.DT_BaseViewModel]m_animOverlayModelIndex 80
-[RecvTable.DT_BaseViewModel]m_animOverlayOrder dc
-[RecvTable.DT_BaseViewModel]m_animOverlayPlaybackRate 5c
-[RecvTable.DT_BaseViewModel]m_animOverlaySequence a4
-[RecvTable.DT_BaseViewModel]m_animOverlayStartCycle 38
-[RecvTable.DT_BaseViewModel]m_animOverlayStartTime 14
-[RecvTable.DT_BaseViewModel]m_animOverlayWeight b8
-[RecvTable.DT_BaseViewModel]m_animPlaybackRate 10
-[RecvTable.DT_BaseViewModel]m_animSequence 1c
-[RecvTable.DT_BaseViewModel]m_animStartCycle c
-[RecvTable.DT_BaseViewModel]m_animStartTime 8
-[RecvTable.DT_BaseViewModel]m_attackEventStartTime 1f6c
-[RecvTable.DT_BaseViewModel]m_bBlockEventLayer 1f60
-[RecvTable.DT_BaseViewModel]m_bSequenceFinished e34
-[RecvTable.DT_BaseViewModel]m_clrRender 80
-[RecvTable.DT_BaseViewModel]m_eventSoundFadeStart 1f70
-[RecvTable.DT_BaseViewModel]m_fEffects 54
-[RecvTable.DT_BaseViewModel]m_fireDeferredStopsStartTime da0
-[RecvTable.DT_BaseViewModel]m_flModelScale e40
-[RecvTable.DT_BaseViewModel]m_hWeapon 1f64
-[RecvTable.DT_BaseViewModel]m_isAdsTransition 1f61
-[RecvTable.DT_BaseViewModel]m_nBody d8c
-[RecvTable.DT_BaseViewModel]m_nModelIndex 60
-[RecvTable.DT_BaseViewModel]m_nRenderMode 3a9
-[RecvTable.DT_BaseViewModel]m_nResetEventsStartTime d98
-[RecvTable.DT_BaseViewModel]m_nextFidgetTime 1f74
-[RecvTable.DT_BaseViewModel]m_overlayEventParity 1711
-[RecvTable.DT_BaseViewModel]m_projectileIsVisible 19c4
-[RecvTable.DT_BaseViewModel]m_tracerAttachments 1f68
-[RecvTable.DT_BaseViewModel]m_tracerAttachmentsScoped 1f6a
-[RecvTable.DT_BaseViewModel]m_viewModelOwner 19c0
-[RecvTable.DT_BreachableGlassManager]m_iHealths 970
-[RecvTable.DT_BreachableGlassManager]m_managerIdx a38
-[RecvTable.DT_BreachableGlassManager]m_realmsBitMask 930
-[RecvTable.DT_BreakableSurface]m_RawPanelBitVec 9f0
-[RecvTable.DT_BreakableSurface]m_bIsBroken 9b8
-[RecvTable.DT_BreakableSurface]m_flPanelHeight 984
-[RecvTable.DT_BreakableSurface]m_flPanelWidth 980
-[RecvTable.DT_BreakableSurface]m_nNumHigh 97c
-[RecvTable.DT_BreakableSurface]m_nNumWide 978
-[RecvTable.DT_BreakableSurface]m_nSurfaceType 9bc
-[RecvTable.DT_BreakableSurface]m_vCorner 9ac
-[RecvTable.DT_BreakableSurface]m_vNormal 988
-[RecvTable.DT_BreakableSurface]m_vUp 994
-[RecvTable.DT_CPropDoor]m_angle 16b4
-[RecvTable.DT_CPropDoor]m_cellY 4
-[RecvTable.DT_CPropDoor]m_cellZ 8
-[RecvTable.DT_CPropDoor]m_closedAngle 16b0
-[RecvTable.DT_CPropDoor]m_fEffects 54
-[RecvTable.DT_CPropDoor]m_iTeamNum 334
-[RecvTable.DT_CPropDoor]m_interactingPlayer 1718
-[RecvTable.DT_CPropDoor]m_interactingPlayerWantsOpen 171c
-[RecvTable.DT_CPropDoor]m_isLocked 16c4
-[RecvTable.DT_CPropDoor]m_isReinforced 16c5
-[RecvTable.DT_CPropDoor]m_localAngles 384
-[RecvTable.DT_CPropDoor]m_localOrigin c
-[RecvTable.DT_CPropDoor]m_meleeResponseFlags 2d8
-[RecvTable.DT_CPropDoor]m_nModelIndex 60
-[RecvTable.DT_CPropDoor]m_nSkin d80
-[RecvTable.DT_CPropDoor]m_networkedFlags 2d0
-[RecvTable.DT_CPropDoor]m_oppositeDoor 16c8
-[RecvTable.DT_CPropDoor]m_skinMod d84
-[RecvTable.DT_CPropDoor]m_startAngle 16b8
-[RecvTable.DT_CPropDoor]m_startAngleVel 16bc
-[RecvTable.DT_CPropDoor]m_startMoveTime 16c0
-[RecvTable.DT_CPropDoor]m_usableType 5c
-[RecvTable.DT_CascadeLight]m_LightColor 99f
-[RecvTable.DT_CascadeLight]m_bEnableShadows 99d
-[RecvTable.DT_CascadeLight]m_bEnabled 99c
-[RecvTable.DT_CascadeLight]m_cloudMaskName 9a3
-[RecvTable.DT_CascadeLight]m_cloudOffset aa8
-[RecvTable.DT_CascadeLight]m_cloudScale ab4
-[RecvTable.DT_CascadeLight]m_envLightShadowDirection 988
-[RecvTable.DT_CascadeLight]m_shadowDirection 970
-[RecvTable.DT_CollisionProperty]m_collisionDetailLevel 2e
-[RecvTable.DT_CollisionProperty]m_nSolidType 2c
-[RecvTable.DT_CollisionProperty]m_nSurroundType 3c
-[RecvTable.DT_CollisionProperty]m_triggerBloat 2d
-[RecvTable.DT_CollisionProperty]m_usSolidFlags 28
-[RecvTable.DT_CollisionProperty]m_vecMaxs 1c
-[RecvTable.DT_CollisionProperty]m_vecMins 10
-[RecvTable.DT_CollisionProperty]m_vecSpecifiedSurroundingMaxs 54
-[RecvTable.DT_CollisionProperty]m_vecSpecifiedSurroundingMins 48
-[RecvTable.DT_ColorCorrection]m_MaxFalloff 980
-[RecvTable.DT_ColorCorrection]m_MinFalloff 97c
-[RecvTable.DT_ColorCorrection]m_bClientSide a9a
-[RecvTable.DT_ColorCorrection]m_bEnabled a98
-[RecvTable.DT_ColorCorrection]m_bExclusive a9b
-[RecvTable.DT_ColorCorrection]m_bMaster a99
-[RecvTable.DT_ColorCorrection]m_flCurWeight 990
-[RecvTable.DT_ColorCorrection]m_flFadeInDuration 984
-[RecvTable.DT_ColorCorrection]m_flFadeOutDuration 988
-[RecvTable.DT_ColorCorrection]m_flMaxWeight 98c
-[RecvTable.DT_ColorCorrection]m_hOwnerEntity 398
-[RecvTable.DT_ColorCorrection]m_localOrigin 970
-[RecvTable.DT_ColorCorrection]m_netLookupFilename 994
-[RecvTable.DT_ConnectionQualityIndex]m_connectionQualityIndex 2639
-[RecvTable.DT_CurrentData_LocalPlayer]m_duckTransitionRemainderMsec 24
-[RecvTable.DT_CurrentData_LocalPlayer]m_localGravityRotation 88
-[RecvTable.DT_CurrentData_LocalPlayer]m_pushedFixedPointOffset 64
-[RecvTable.DT_CurrentData_LocalPlayer]m_pushedFixedPointOffsetReplayCompensated 70
-[RecvTable.DT_CurrentData_LocalPlayer]m_shieldChangeAmountPerSource 58
-[RecvTable.DT_CurrentData_LocalPlayer]m_stepSmoothingOffset 18
-[RecvTable.DT_CurrentData_LocalPlayer]m_vecPunchBase_Angle 28
-[RecvTable.DT_CurrentData_LocalPlayer]m_vecPunchBase_AngleVel 34
-[RecvTable.DT_CurrentData_LocalPlayer]m_vecPunchWeapon_Angle 40
-[RecvTable.DT_CurrentData_LocalPlayer]m_vecPunchWeapon_AngleVel 4c
-[RecvTable.DT_CurrentData_LocalPlayer]m_viewConeAngleMax c
-[RecvTable.DT_CurrentData_Player]m_ammoPoolCount 30
-[RecvTable.DT_CurrentData_Player]m_angEyeAngles.x 18
-[RecvTable.DT_CurrentData_Player]m_angEyeAngles.y 1c
-[RecvTable.DT_CurrentData_Player]m_flHullHeight 14
-[RecvTable.DT_CurrentData_Player]m_sprintTiltFrac 28
-[RecvTable.DT_CurrentData_Player]m_traversalAnimProgress 24
-[RecvTable.DT_CurrentData_Player]m_ziprailBankTiltFrac 2c
-[RecvTable.DT_DeathBoxProp]m_Collision 3b8
-[RecvTable.DT_DeathBoxProp]m_CollisionGroup 438
-[RecvTable.DT_DeathBoxProp]m_bAnimateInStaticShadow 1602
-[RecvTable.DT_DeathBoxProp]m_bUseHitboxesForRenderBox 1601
-[RecvTable.DT_DeathBoxProp]m_cellY 4
-[RecvTable.DT_DeathBoxProp]m_cellZ 8
-[RecvTable.DT_DeathBoxProp]m_customOwnerName 1680
-[RecvTable.DT_DeathBoxProp]m_exclusiveUseEnt 620
-[RecvTable.DT_DeathBoxProp]m_fEffects 54
-[RecvTable.DT_DeathBoxProp]m_fadeDist 764
-[RecvTable.DT_DeathBoxProp]m_firstChildEntityLink 928
-[RecvTable.DT_DeathBoxProp]m_firstParentEntityLink 92c
-[RecvTable.DT_DeathBoxProp]m_hOwnerEntity 398
-[RecvTable.DT_DeathBoxProp]m_holdUsePrompt 610
-[RecvTable.DT_DeathBoxProp]m_iSignifierName 478
-[RecvTable.DT_DeathBoxProp]m_iTeamNum 334
-[RecvTable.DT_DeathBoxProp]m_lifeState 698
-[RecvTable.DT_DeathBoxProp]m_localAngles 384
-[RecvTable.DT_DeathBoxProp]m_localOrigin c
-[RecvTable.DT_DeathBoxProp]m_meleeResponseFlags 2d8
-[RecvTable.DT_DeathBoxProp]m_nModelIndex 60
-[RecvTable.DT_DeathBoxProp]m_nSkin d80
-[RecvTable.DT_DeathBoxProp]m_networkedFlags 2d0
-[RecvTable.DT_DeathBoxProp]m_parentAttachment 34
-[RecvTable.DT_DeathBoxProp]m_parentAttachmentModel 758
-[RecvTable.DT_DeathBoxProp]m_phaseShiftFlags 6b8
-[RecvTable.DT_DeathBoxProp]m_pressUsePrompt 618
-[RecvTable.DT_DeathBoxProp]m_realmsBitMask 930
-[RecvTable.DT_DeathBoxProp]m_scriptNameIndex 588
-[RecvTable.DT_DeathBoxProp]m_scriptNetData 69c
-[RecvTable.DT_DeathBoxProp]m_usableDistanceOverride 82c
-[RecvTable.DT_DeathBoxProp]m_usableFOV 830
-[RecvTable.DT_DeathBoxProp]m_usablePriority 828
-[RecvTable.DT_DeathBoxProp]m_usableType 5c
-[RecvTable.DT_DeathBoxProp]m_usePromptSize 834
-[RecvTable.DT_DeathBoxProp]m_visibilityFlags 32c
-[RecvTable.DT_DeathBoxProp]moveparent 30
-[RecvTable.DT_DynamicBreachableGlass]m_deathTime 1600
-[RecvTable.DT_DynamicBreachableGlass]m_iHealth 324
-[RecvTable.DT_DynamicBreachableGlass]m_shape 1610
-[RecvTable.DT_DynamicLight]m_Exponent 978
-[RecvTable.DT_DynamicLight]m_Flags 970
-[RecvTable.DT_DynamicLight]m_InnerAngle 97c
-[RecvTable.DT_DynamicLight]m_LightStyle 971
-[RecvTable.DT_DynamicLight]m_OuterAngle 980
-[RecvTable.DT_DynamicLight]m_Radius 974
-[RecvTable.DT_DynamicLight]m_SpotRadius 984
-[RecvTable.DT_DynamicPropLightweight]m_Collision 3b8
-[RecvTable.DT_DynamicPropLightweight]m_CollisionGroup 438
-[RecvTable.DT_DynamicPropLightweight]m_cellY 4
-[RecvTable.DT_DynamicPropLightweight]m_cellZ 8
-[RecvTable.DT_DynamicPropLightweight]m_fEffects 54
-[RecvTable.DT_DynamicPropLightweight]m_fadeDist 764
-[RecvTable.DT_DynamicPropLightweight]m_localAngles 384
-[RecvTable.DT_DynamicPropLightweight]m_localOrigin c
-[RecvTable.DT_DynamicPropLightweight]m_meleeResponseFlags 2d8
-[RecvTable.DT_DynamicPropLightweight]m_nModelIndex 60
-[RecvTable.DT_DynamicPropLightweight]m_nSkin d80
-[RecvTable.DT_DynamicPropLightweight]m_networkedFlags 2d0
-[RecvTable.DT_DynamicPropLightweight]m_parentAttachment 34
-[RecvTable.DT_DynamicPropLightweight]m_parentAttachmentModel 758
-[RecvTable.DT_DynamicPropLightweight]m_phaseShiftFlags 6b8
-[RecvTable.DT_DynamicPropLightweight]m_skinMod d84
-[RecvTable.DT_DynamicPropLightweight]m_visibilityFlags 32c
-[RecvTable.DT_DynamicPropLightweight]moveparent 30
-[RecvTable.DT_DynamicProp]m_bAnimateInStaticShadow 1602
-[RecvTable.DT_DynamicProp]m_bUseHitboxesForRenderBox 1601
-[RecvTable.DT_DynamicProp]m_lifeState 698
-[RecvTable.DT_EffectData]m_attachmentIdForViewmodel 61
-[RecvTable.DT_EffectData]m_effectEntHandle 4c
-[RecvTable.DT_EffectData]m_effectFlags 30
-[RecvTable.DT_EffectData]m_flMagnitude 58
-[RecvTable.DT_EffectData]m_flRadius 5c
-[RecvTable.DT_EffectData]m_flScale 54
-[RecvTable.DT_EffectData]m_iEffectName 9c
-[RecvTable.DT_EffectData]m_iImpactEffectTableIndex 78
-[RecvTable.DT_EffectData]m_instanceIdx 94
-[RecvTable.DT_EffectData]m_instanceIdxForViewmodel 98
-[RecvTable.DT_EffectData]m_nAttachmentId 60
-[RecvTable.DT_EffectData]m_nColor 7c
-[RecvTable.DT_EffectData]m_nDamageType 64
-[RecvTable.DT_EffectData]m_nOtherEntIndex 68
-[RecvTable.DT_EffectData]m_nSurfaceProp 62
-[RecvTable.DT_EffectData]m_otherEntHandle 50
-[RecvTable.DT_EffectData]m_persistentWeaponEffect 90
-[RecvTable.DT_EffectData]m_scriptCallback 48
-[RecvTable.DT_EffectData]m_sharedInt32_A 70
-[RecvTable.DT_EffectData]m_sharedInt32_B 74
-[RecvTable.DT_EffectData]m_vAngles 24
-[RecvTable.DT_EffectData]m_vNormal 18
-[RecvTable.DT_EffectData]m_vOrigin.y 4
-[RecvTable.DT_EffectData]m_vOrigin.z 8
-[RecvTable.DT_EffectData]m_vStart.x c
-[RecvTable.DT_EffectData]m_vStart.y 10
-[RecvTable.DT_EffectData]m_vStart.z 14
-[RecvTable.DT_EmissiveScaleEvent]durPlateau 10
-[RecvTable.DT_EmissiveScaleEvent]durRampDown 14
-[RecvTable.DT_EmissiveScaleEvent]durRampUp c
-[RecvTable.DT_EmissiveScaleEvent]startTime 8
-[RecvTable.DT_EntityDissolve]m_flFadeLength 980
-[RecvTable.DT_EntityDissolve]m_flFadeStart 97c
-[RecvTable.DT_EntityDissolve]m_flStartTime 978
-[RecvTable.DT_EntityDissolve]m_isLethal 988
-[RecvTable.DT_EntityDissolve]m_nDissolveType 984
-[RecvTable.DT_EntityLinkPage]entity d74
-[RecvTable.DT_EntityLinkPage]next 974
-[RecvTable.DT_EntityLinkPage]pageIndex 970
-[RecvTable.DT_EnvWindShared]m_flGustDuration 2c
-[RecvTable.DT_EnvWindShared]m_flInitialWindSpeed 74
-[RecvTable.DT_EnvWindShared]m_flMaxGustDelay 28
-[RecvTable.DT_EnvWindShared]m_flMinGustDelay 24
-[RecvTable.DT_EnvWindShared]m_flStartTime 8
-[RecvTable.DT_EnvWindShared]m_iGustDirChange 30
-[RecvTable.DT_EnvWindShared]m_iInitialWindDir 70
-[RecvTable.DT_EnvWindShared]m_iMaxGust 20
-[RecvTable.DT_EnvWindShared]m_iMaxWind 14
-[RecvTable.DT_EnvWindShared]m_iMinGust 1c
-[RecvTable.DT_EnvWindShared]m_iMinWind 10
-[RecvTable.DT_EnvWindShared]m_iWindSeed c
-[RecvTable.DT_FerroProp]m_Collision 3b8
-[RecvTable.DT_FerroProp]m_CollisionGroup 438
-[RecvTable.DT_FerroProp]m_bAnimateInStaticShadow 1602
-[RecvTable.DT_FerroProp]m_bUseHitboxesForRenderBox 1601
-[RecvTable.DT_FerroProp]m_cellY 4
-[RecvTable.DT_FerroProp]m_cellZ 8
-[RecvTable.DT_FerroProp]m_contents 43c
-[RecvTable.DT_FerroProp]m_exclusiveUseEnt 620
-[RecvTable.DT_FerroProp]m_fEffects 54
-[RecvTable.DT_FerroProp]m_fadeDist 764
-[RecvTable.DT_FerroProp]m_firstChildEntityLink 928
-[RecvTable.DT_FerroProp]m_firstParentEntityLink 92c
-[RecvTable.DT_FerroProp]m_flModelScale e40
-[RecvTable.DT_FerroProp]m_hOwnerEntity 398
-[RecvTable.DT_FerroProp]m_highlightGenericContexts 295
-[RecvTable.DT_FerroProp]m_holdUsePrompt 610
-[RecvTable.DT_FerroProp]m_iName 481
-[RecvTable.DT_FerroProp]m_iSignifierName 478
-[RecvTable.DT_FerroProp]m_iTeamNum 334
-[RecvTable.DT_FerroProp]m_lifeState 698
-[RecvTable.DT_FerroProp]m_localAngles 384
-[RecvTable.DT_FerroProp]m_localOrigin c
-[RecvTable.DT_FerroProp]m_meleeResponseFlags 2d8
-[RecvTable.DT_FerroProp]m_minimapData 848
-[RecvTable.DT_FerroProp]m_nModelIndex 60
-[RecvTable.DT_FerroProp]m_networkedFlags 2d0
-[RecvTable.DT_FerroProp]m_parentAttachment 34
-[RecvTable.DT_FerroProp]m_parentAttachmentModel 758
-[RecvTable.DT_FerroProp]m_passThroughDirection 358
-[RecvTable.DT_FerroProp]m_passThroughFlags 350
-[RecvTable.DT_FerroProp]m_passThroughThickness 354
-[RecvTable.DT_FerroProp]m_phaseShiftFlags 6b8
-[RecvTable.DT_FerroProp]m_pressUsePrompt 618
-[RecvTable.DT_FerroProp]m_realmsBitMask 930
-[RecvTable.DT_FerroProp]m_scriptNameIndex 588
-[RecvTable.DT_FerroProp]m_usableDistanceOverride 82c
-[RecvTable.DT_FerroProp]m_usableFOV 830
-[RecvTable.DT_FerroProp]m_usablePriority 828
-[RecvTable.DT_FerroProp]m_usableType 5c
-[RecvTable.DT_FerroProp]m_usePromptSize 834
-[RecvTable.DT_FerroProp]m_visibilityFlags 32c
-[RecvTable.DT_FerroProp]moveparent 30
-[RecvTable.DT_FuncBrushLightweight]m_Collision 3b8
-[RecvTable.DT_FuncBrushLightweight]m_CollisionGroup 438
-[RecvTable.DT_FuncBrushLightweight]m_cellY 4
-[RecvTable.DT_FuncBrushLightweight]m_cellZ 8
-[RecvTable.DT_FuncBrushLightweight]m_localAngles 384
-[RecvTable.DT_FuncBrushLightweight]m_localOrigin c
-[RecvTable.DT_FuncBrushLightweight]m_meleeResponseFlags 2d8
-[RecvTable.DT_FuncBrushLightweight]m_nModelIndex 60
-[RecvTable.DT_FuncBrushLightweight]m_networkedFlags 2d0
-[RecvTable.DT_FuncBrushLightweight]m_parentAttachment 34
-[RecvTable.DT_FuncBrushLightweight]m_parentAttachmentModel 758
-[RecvTable.DT_FuncBrushLightweight]m_visibilityFlags 32c
-[RecvTable.DT_FuncBrushLightweight]moveparent 30
-[RecvTable.DT_GlobalNonRewinding]m_gameTimescale 974
-[RecvTable.DT_GlobalNonRewinding]m_playerMiscData d78
-[RecvTable.DT_GlobalNonRewinding]m_playerObserver 978
-[RecvTable.DT_GrappleData]m_grappleActivateTime 54
-[RecvTable.DT_GrappleData]m_grappleAttachTime 5c
-[RecvTable.DT_GrappleData]m_grappleAttached 48
-[RecvTable.DT_GrappleData]m_grappleAutoAimTarget 64
-[RecvTable.DT_GrappleData]m_grappleForcedRetracting 4c
-[RecvTable.DT_GrappleData]m_grappleGracePeriodFinished 4d
-[RecvTable.DT_GrappleData]m_grappleHasGoodVelocity 68
-[RecvTable.DT_GrappleData]m_grappleLastGoodVelocityTime 6c
-[RecvTable.DT_GrappleData]m_grappleMeleeTarget 60
-[RecvTable.DT_GrappleData]m_grapplePointCount 44
-[RecvTable.DT_GrappleData]m_grapplePoints[0] 14
-[RecvTable.DT_GrappleData]m_grapplePullTime 58
-[RecvTable.DT_GrappleData]m_grapplePulling 49
-[RecvTable.DT_GrappleData]m_grappleRetracting 4b
-[RecvTable.DT_GrappleData]m_grappleSwingDetachLowSpeed 70
-[RecvTable.DT_GrappleData]m_grappleSwingHoldTimeOrRemainingEdgeGrappleReelTime 74
-[RecvTable.DT_GrappleData]m_grappleSwinging 4a
-[RecvTable.DT_GrappleData]m_grappleUsedPower 50
-[RecvTable.DT_GrappleData]m_grappleVel 8
-[RecvTable.DT_GrappleHook]m_cellY 4
-[RecvTable.DT_GrappleHook]m_cellZ 8
-[RecvTable.DT_GrappleHook]m_grappleZipline 1600
-[RecvTable.DT_GrappleHook]m_hOwnerEntity 398
-[RecvTable.DT_GrappleHook]m_localAngles 384
-[RecvTable.DT_GrappleHook]m_localOrigin c
-[RecvTable.DT_GrappleHook]m_nModelIndex 60
-[RecvTable.DT_GrappleHook]m_parentAttachment 34
-[RecvTable.DT_GrappleHook]m_realmsBitMask 930
-[RecvTable.DT_GrappleHook]m_visibilityFlags 32c
-[RecvTable.DT_GrappleHook]moveparent 30
-[RecvTable.DT_HardPointEntity]m_estimatedCaptureTime 978
-[RecvTable.DT_HardPointEntity]m_hardpointID 998
-[RecvTable.DT_HardPointEntity]m_iTeamNum 334
-[RecvTable.DT_HardPointEntity]m_localOrigin 18
-[RecvTable.DT_HardPointEntity]m_minimapData 848
-[RecvTable.DT_HardPointEntity]m_progressRefPoint 97c
-[RecvTable.DT_HardPointEntity]m_state 974
-[RecvTable.DT_HardPointEntity]m_teamIMCAICount 984
-[RecvTable.DT_HardPointEntity]m_teamIMCPlayerCount 98c
-[RecvTable.DT_HardPointEntity]m_teamIMCPlayerTitanCount 994
-[RecvTable.DT_HardPointEntity]m_teamMilitiaAICount 980
-[RecvTable.DT_HardPointEntity]m_teamMilitiaPlayerCount 988
-[RecvTable.DT_HardPointEntity]m_teamMilitiaPlayerTitanCount 990
-[RecvTable.DT_HardPointEntity]m_terminal 9a0
-[RecvTable.DT_HighlightSettings]m_highlightFadeDuration 2a0
-[RecvTable.DT_HighlightSettings]m_highlightFadeParity 2a8
-[RecvTable.DT_HighlightSettings]m_highlightFocused 29d
-[RecvTable.DT_HighlightSettings]m_highlightGenericContexts 295
-[RecvTable.DT_HighlightSettings]m_highlightTeamBits 1e8
-[RecvTable.DT_HighlightSettings]m_highlightTeamIndex 1d8
-[RecvTable.DT_HoverVehicleSeat_s]state 4
-[RecvTable.DT_ImportantOnEntSound]m_beginTime 978
-[RecvTable.DT_ImportantOnEntSound]m_hAttachedToEntity 974
-[RecvTable.DT_ImportantOnEntSound]m_hSuppressedClient 97c
-[RecvTable.DT_ImportantOnEntSound]m_milesSignal 980
-[RecvTable.DT_ImportantOnEntSound]m_networkTableSoundID 970
-[RecvTable.DT_ImportantOnEntSound]m_selector 988
-[RecvTable.DT_InfoPlacementHelper]m_localAngles 384
-[RecvTable.DT_InfoPlacementHelper]m_localOrigin 18
-[RecvTable.DT_InfoPlacementHelper]m_parentAttachment 34
-[RecvTable.DT_InfoPlacementHelper]m_parentAttachmentModel 758
-[RecvTable.DT_InfoPlacementHelper]moveparent 30
-[RecvTable.DT_InfoTarget]m_bIsSoundCodeControllerValueSet 370
-[RecvTable.DT_InfoTarget]m_cellY 4
-[RecvTable.DT_InfoTarget]m_cellZ 8
-[RecvTable.DT_InfoTarget]m_firstChildEntityLink 928
-[RecvTable.DT_InfoTarget]m_firstParentEntityLink 92c
-[RecvTable.DT_InfoTarget]m_flSoundCodeControllerValue 374
-[RecvTable.DT_InfoTarget]m_hOwnerEntity 398
-[RecvTable.DT_InfoTarget]m_iName 481
-[RecvTable.DT_InfoTarget]m_iSignifierName 478
-[RecvTable.DT_InfoTarget]m_iTeamNum 334
-[RecvTable.DT_InfoTarget]m_instanceNameIndex 58c
-[RecvTable.DT_InfoTarget]m_localAngles 384
-[RecvTable.DT_InfoTarget]m_localOrigin c
-[RecvTable.DT_InfoTarget]m_parentAttachment 34
-[RecvTable.DT_InfoTarget]m_parentAttachmentModel 758
-[RecvTable.DT_InfoTarget]m_scriptNameIndex 588
-[RecvTable.DT_InfoTarget]moveparent 30
-[RecvTable.DT_LocalPlayerExclusive]m_Local 1e88
-[RecvTable.DT_LocalPlayerExclusive]m_activateBoost 30a5
-[RecvTable.DT_LocalPlayerExclusive]m_activateGlide 30b8
-[RecvTable.DT_LocalPlayerExclusive]m_activateJetpack 30ad
-[RecvTable.DT_LocalPlayerExclusive]m_airAcceleration 3844
-[RecvTable.DT_LocalPlayerExclusive]m_airSpeed 3840
-[RecvTable.DT_LocalPlayerExclusive]m_amazonPrimeBits 4b24
-[RecvTable.DT_LocalPlayerExclusive]m_armsModelIndex 4bfc
-[RecvTable.DT_LocalPlayerExclusive]m_bConstraintPastRadius 3638
-[RecvTable.DT_LocalPlayerExclusive]m_bIsStickySprinting 2e52
-[RecvTable.DT_LocalPlayerExclusive]m_blackholeActive 2ca0
-[RecvTable.DT_LocalPlayerExclusive]m_boostMeter 30a8
-[RecvTable.DT_LocalPlayerExclusive]m_boosting 30a4
-[RecvTable.DT_LocalPlayerExclusive]m_consumableInventory 26a8
-[RecvTable.DT_LocalPlayerExclusive]m_currentFrameLocalPlayer 2350
-[RecvTable.DT_LocalPlayerExclusive]m_deathFieldIndex 4c00
-[RecvTable.DT_LocalPlayerExclusive]m_detachGrappleOnPlayAnimationEnd 306c
-[RecvTable.DT_LocalPlayerExclusive]m_dodging 37ad
-[RecvTable.DT_LocalPlayerExclusive]m_dodgingInAir 381e
-[RecvTable.DT_LocalPlayerExclusive]m_enemyNamesAsFriendly 3090
-[RecvTable.DT_LocalPlayerExclusive]m_enemyNamesAsFriendlyCount 30a0
-[RecvTable.DT_LocalPlayerExclusive]m_fStickySprintMinTime 2aa0
-[RecvTable.DT_LocalPlayerExclusive]m_fallSpeedGlideMultiplier 30c0
-[RecvTable.DT_LocalPlayerExclusive]m_firstPersonProxy 3878
-[RecvTable.DT_LocalPlayerExclusive]m_flConstraintRadius 362c
-[RecvTable.DT_LocalPlayerExclusive]m_flConstraintSpeedFactor 3634
-[RecvTable.DT_LocalPlayerExclusive]m_flConstraintWidth 3630
-[RecvTable.DT_LocalPlayerExclusive]m_flFriction 390
-[RecvTable.DT_LocalPlayerExclusive]m_flLaggedMovementValue 3d28
-[RecvTable.DT_LocalPlayerExclusive]m_glideRechargeDelayAccumulator 30b4
-[RecvTable.DT_LocalPlayerExclusive]m_glideUpwardsBoostEndTime 30bc
-[RecvTable.DT_LocalPlayerExclusive]m_gliding 30af
-[RecvTable.DT_LocalPlayerExclusive]m_gravityLiftActive 2c7e
-[RecvTable.DT_LocalPlayerExclusive]m_groundFrictionScale 2b88
-[RecvTable.DT_LocalPlayerExclusive]m_hConstraintEntity 361c
-[RecvTable.DT_LocalPlayerExclusive]m_hObserverTarget 3698
-[RecvTable.DT_LocalPlayerExclusive]m_hThirdPersonEnt 38d8
-[RecvTable.DT_LocalPlayerExclusive]m_hardpointEntity 388c
-[RecvTable.DT_LocalPlayerExclusive]m_highSpeedViewmodelAnims 3065
-[RecvTable.DT_LocalPlayerExclusive]m_hoverMeter 30d0
-[RecvTable.DT_LocalPlayerExclusive]m_hoverRechargeDelayAccumulator 30d4
-[RecvTable.DT_LocalPlayerExclusive]m_hovering 30cc
-[RecvTable.DT_LocalPlayerExclusive]m_iObserverMode 368c
-[RecvTable.DT_LocalPlayerExclusive]m_ignoreEntityForMovementUntilNotTouching 3d30
-[RecvTable.DT_LocalPlayerExclusive]m_isHoverStrafed 30cd
-[RecvTable.DT_LocalPlayerExclusive]m_isLungingToPosition 4280
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveAccel 2ccc
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveActive 2ca2
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveDecelWindowTimeOutTime 2cd0
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveDoubleJumpVelBackFrac 2ce8
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveDoubleJumpVelocity 2cdc
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveInDecelWindow 2cd4
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveSpeed 2cc8
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveStartPos 2cb8
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveStartTime 2cc4
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveTargetEnt 2cb0
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveTargetEntZOffset 2cb4
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveTargetPos 2ca4
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveTimeout 2cd8
-[RecvTable.DT_LocalPlayerExclusive]m_jetDriveWasActive 2ca1
-[RecvTable.DT_LocalPlayerExclusive]m_jetpack 30ac
-[RecvTable.DT_LocalPlayerExclusive]m_jetpackAfterburner 30ae
-[RecvTable.DT_LocalPlayerExclusive]m_lastJumpHeight 30dc
-[RecvTable.DT_LocalPlayerExclusive]m_lastKillTime 3760
-[RecvTable.DT_LocalPlayerExclusive]m_lastUCmdSimulationRemainderTime 1d38
-[RecvTable.DT_LocalPlayerExclusive]m_lastUCmdSimulationTicks 1d34
-[RecvTable.DT_LocalPlayerExclusive]m_lastWallRunStartPos 2b50
-[RecvTable.DT_LocalPlayerExclusive]m_lastZipline 2fb0
-[RecvTable.DT_LocalPlayerExclusive]m_lastZiplineDetachTime 2fb4
-[RecvTable.DT_LocalPlayerExclusive]m_lerpToEndPos 2c44
-[RecvTable.DT_LocalPlayerExclusive]m_lerpToEndTime 2c54
-[RecvTable.DT_LocalPlayerExclusive]m_lerpToStartPos 2c38
-[RecvTable.DT_LocalPlayerExclusive]m_lerpToStartTime 2c50
-[RecvTable.DT_LocalPlayerExclusive]m_localOrigin 18
-[RecvTable.DT_LocalPlayerExclusive]m_localOrigin.z 18
-[RecvTable.DT_LocalPlayerExclusive]m_lungeCanFly 42b0
-[RecvTable.DT_LocalPlayerExclusive]m_lungeEndPositionOffset 429c
-[RecvTable.DT_LocalPlayerExclusive]m_lungeEndTime 42ac
-[RecvTable.DT_LocalPlayerExclusive]m_lungeLockPitch 42b1
-[RecvTable.DT_LocalPlayerExclusive]m_lungeMaxEndSpeed 42c0
-[RecvTable.DT_LocalPlayerExclusive]m_lungeMaxTime 42bc
-[RecvTable.DT_LocalPlayerExclusive]m_lungeSmoothTime 42b8
-[RecvTable.DT_LocalPlayerExclusive]m_lungeStartPitch 42b4
-[RecvTable.DT_LocalPlayerExclusive]m_lungeStartPositionOffset 4290
-[RecvTable.DT_LocalPlayerExclusive]m_lungeStartTime 42a8
-[RecvTable.DT_LocalPlayerExclusive]m_lungeTargetEntity 427c
-[RecvTable.DT_LocalPlayerExclusive]m_lungeTargetPosition 4284
-[RecvTable.DT_LocalPlayerExclusive]m_mantleBoostState 2c6c
-[RecvTable.DT_LocalPlayerExclusive]m_minimapTargetLerpTime 4920
-[RecvTable.DT_LocalPlayerExclusive]m_minimapTargetZoomScale 491c
-[RecvTable.DT_LocalPlayerExclusive]m_nearbyPusherCount 48f8
-[RecvTable.DT_LocalPlayerExclusive]m_observerModeStaticAngles 36e4
-[RecvTable.DT_LocalPlayerExclusive]m_observerModeStaticFOVOverride 36f0
-[RecvTable.DT_LocalPlayerExclusive]m_observerModeStaticPosition 36d8
-[RecvTable.DT_LocalPlayerExclusive]m_petTitanMode 38d0
-[RecvTable.DT_LocalPlayerExclusive]m_pilotModeActive 30c4
-[RecvTable.DT_LocalPlayerExclusive]m_pingOffset 4934
-[RecvTable.DT_LocalPlayerExclusive]m_playAnimationEntityBlocker 3074
-[RecvTable.DT_LocalPlayerExclusive]m_playAnimationEntityBlockerDucking 3078
-[RecvTable.DT_LocalPlayerExclusive]m_playAnimationNext 306e
-[RecvTable.DT_LocalPlayerExclusive]m_playAnimationType 3068
-[RecvTable.DT_LocalPlayerExclusive]m_playerKnockBacks 4b50
-[RecvTable.DT_LocalPlayerExclusive]m_playerLaunchActivate 2d70
-[RecvTable.DT_LocalPlayerExclusive]m_playerLaunchAvoidedMantle 2d71
-[RecvTable.DT_LocalPlayerExclusive]m_playerLaunchHangTimeEnd 2d84
-[RecvTable.DT_LocalPlayerExclusive]m_playerLaunchHangTimeRequested 2d88
-[RecvTable.DT_LocalPlayerExclusive]m_playerLaunchLock3pRotation 2d72
-[RecvTable.DT_LocalPlayerExclusive]m_playerLaunchStartTime 2d80
-[RecvTable.DT_LocalPlayerExclusive]m_playerLaunchVelocity 2d74
-[RecvTable.DT_LocalPlayerExclusive]m_playerLookTargetEntity 3a50
-[RecvTable.DT_LocalPlayerExclusive]m_playerLookTargetOffset 3a54
-[RecvTable.DT_LocalPlayerExclusive]m_playerScriptNetDataExclusive 4928
-[RecvTable.DT_LocalPlayerExclusive]m_predictedFirstPersonProxy 387c
-[RecvTable.DT_LocalPlayerExclusive]m_prepClimbPusher 4908
-[RecvTable.DT_LocalPlayerExclusive]m_prevMantleAngleOffset 2c70
-[RecvTable.DT_LocalPlayerExclusive]m_prevMoveYaw 2e54
-[RecvTable.DT_LocalPlayerExclusive]m_pushAwayFromTopAcceleration 490c
-[RecvTable.DT_LocalPlayerExclusive]m_repeatedBoost 30a6
-[RecvTable.DT_LocalPlayerExclusive]m_replayImportantSounds_beginTime 3328
-[RecvTable.DT_LocalPlayerExclusive]m_replayImportantSounds_networkTableSoundID 3318
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveAnticipateEndTime 49a4
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveAnticipateStartTime 49a0
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveDisableSkydiveEndEntityHitNormal 49f4
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveDisableSkydiveEndEntityHitPosition 49e8
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveDistanceToLand 49a8
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveEndTime 499c
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveFollowing 49d4
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveForwardPoseValueCurrent 4964
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveForwardPoseValueVelocity 495c
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveFreelookEnabled 49bc
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveFreelookLockedAngle 49c0
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveFromUpdraft 4a0c
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveIsNearDisableSkydiveEndEntity 4978
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveSidePoseValueCurrent 4970
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveSidePoseValueVelocity 4968
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveSlipVelocity 4a00
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveStartTime 4998
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveUnfollowVelocity 49d8
-[RecvTable.DT_LocalPlayerExclusive]m_skydiveYawVelocity 4974
-[RecvTable.DT_LocalPlayerExclusive]m_skywardDeployEndTime 4a44
-[RecvTable.DT_LocalPlayerExclusive]m_skywardDeploySpeed 4a4c
-[RecvTable.DT_LocalPlayerExclusive]m_skywardDeployStartPos 4a2c
-[RecvTable.DT_LocalPlayerExclusive]m_skywardObstacleAvoidanceEndPos 4a6c
-[RecvTable.DT_LocalPlayerExclusive]m_skywardOffsetSpeed 4a64
-[RecvTable.DT_LocalPlayerExclusive]m_slideGateDebounceExpireTime 30c8
-[RecvTable.DT_LocalPlayerExclusive]m_slideLongJumpAllowed 2e3e
-[RecvTable.DT_LocalPlayerExclusive]m_sliding 2e3d
-[RecvTable.DT_LocalPlayerExclusive]m_slipAirRestrictDirection 31c4
-[RecvTable.DT_LocalPlayerExclusive]m_slipAirRestrictTime 31d0
-[RecvTable.DT_LocalPlayerExclusive]m_slowMoEnabled 2e3c
-[RecvTable.DT_LocalPlayerExclusive]m_sprintEndedFrac 2ad0
-[RecvTable.DT_LocalPlayerExclusive]m_sprintEndedTime 2acc
-[RecvTable.DT_LocalPlayerExclusive]m_sprintFracPoseParameter 2e5e
-[RecvTable.DT_LocalPlayerExclusive]m_sprintStartedFrac 2ac8
-[RecvTable.DT_LocalPlayerExclusive]m_sprintStartedTime 2ac4
-[RecvTable.DT_LocalPlayerExclusive]m_sprintTiltPoseParameter 2e5c
-[RecvTable.DT_LocalPlayerExclusive]m_sprintTiltVel 2e58
-[RecvTable.DT_LocalPlayerExclusive]m_stickySprintStartTime 2ad4
-[RecvTable.DT_LocalPlayerExclusive]m_tethers 1c74
-[RecvTable.DT_LocalPlayerExclusive]m_thirdPerson 3940
-[RecvTable.DT_LocalPlayerExclusive]m_thirdPersonShoulderView 38dc
-[RecvTable.DT_LocalPlayerExclusive]m_thirdPersonViewForces1pAnimEventAudio 38dd
-[RecvTable.DT_LocalPlayerExclusive]m_timeShouldTryGivePlayerDoubleJump 3868
-[RecvTable.DT_LocalPlayerExclusive]m_touchingSlipTriggersAcceleration 31a8
-[RecvTable.DT_LocalPlayerExclusive]m_touchingSlipTriggersCount 31c0
-[RecvTable.DT_LocalPlayerExclusive]m_touchingSlipTriggersDirection 3148
-[RecvTable.DT_LocalPlayerExclusive]m_touchingSlipTriggersOrigin 3100
-[RecvTable.DT_LocalPlayerExclusive]m_touchingSlipTriggersSpeed 3190
-[RecvTable.DT_LocalPlayerExclusive]m_traversalBegin 2bcc
-[RecvTable.DT_LocalPlayerExclusive]m_traversalBlendOutStartOffset 2c20
-[RecvTable.DT_LocalPlayerExclusive]m_traversalBlendOutStartTime 2c1c
-[RecvTable.DT_LocalPlayerExclusive]m_traversalEnd 2be4
-[RecvTable.DT_LocalPlayerExclusive]m_traversalHandAppearTime 2c14
-[RecvTable.DT_LocalPlayerExclusive]m_traversalMid 2bd8
-[RecvTable.DT_LocalPlayerExclusive]m_traversalMidFrac 2bf0
-[RecvTable.DT_LocalPlayerExclusive]m_traversalProgress 2c0c
-[RecvTable.DT_LocalPlayerExclusive]m_traversalReleaseTime 2c18
-[RecvTable.DT_LocalPlayerExclusive]m_traversalStartTime 2c10
-[RecvTable.DT_LocalPlayerExclusive]m_twitchDropsBits 4b2c
-[RecvTable.DT_LocalPlayerExclusive]m_twitchDropsInitialized 4b20
-[RecvTable.DT_LocalPlayerExclusive]m_upDirPredicted 2b44
-[RecvTable.DT_LocalPlayerExclusive]m_updraftCount 4bd0
-[RecvTable.DT_LocalPlayerExclusive]m_updraftEnterTime 4bd8
-[RecvTable.DT_LocalPlayerExclusive]m_updraftLeaveTime 4bdc
-[RecvTable.DT_LocalPlayerExclusive]m_updraftLiftAcceleration 4bf0
-[RecvTable.DT_LocalPlayerExclusive]m_updraftLiftActivationHeight 4be8
-[RecvTable.DT_LocalPlayerExclusive]m_updraftLiftExitDuration 4bf4
-[RecvTable.DT_LocalPlayerExclusive]m_updraftLiftSpeed 4bec
-[RecvTable.DT_LocalPlayerExclusive]m_updraftMaxShakeActivationHeight 4be4
-[RecvTable.DT_LocalPlayerExclusive]m_updraftMinShakeActivationHeight 4be0
-[RecvTable.DT_LocalPlayerExclusive]m_updraftSlowTime 4bf8
-[RecvTable.DT_LocalPlayerExclusive]m_updraftStage 4bd4
-[RecvTable.DT_LocalPlayerExclusive]m_vecAbsVelocity 160
-[RecvTable.DT_LocalPlayerExclusive]m_vecBaseVelocity 314
-[RecvTable.DT_LocalPlayerExclusive]m_vecConstraintCenter 3620
-[RecvTable.DT_LocalPlayerExclusive]m_vecVelocity.x 378
-[RecvTable.DT_LocalPlayerExclusive]m_vecVelocity.y 37c
-[RecvTable.DT_LocalPlayerExclusive]m_vecVelocity.z 380
-[RecvTable.DT_LocalPlayerExclusive]m_viewConeActive 3364
-[RecvTable.DT_LocalPlayerExclusive]m_viewConeLerpTime 3abc
-[RecvTable.DT_LocalPlayerExclusive]m_viewConeParented 3365
-[RecvTable.DT_LocalPlayerExclusive]m_viewConeParity 3368
-[RecvTable.DT_LocalPlayerExclusive]m_wallDangleDisableWeapon 2c74
-[RecvTable.DT_LocalPlayerExclusive]m_wallDangleForceFallOff 2c69
-[RecvTable.DT_LocalPlayerExclusive]m_wallDangleJumpOffTime 2c64
-[RecvTable.DT_LocalPlayerExclusive]m_wallDangleLastPushedForward 2c6a
-[RecvTable.DT_LocalPlayerExclusive]m_wallDangleMayHangHere 2c68
-[RecvTable.DT_LocalPlayerExclusive]m_wallRunClearTime 3798
-[RecvTable.DT_LocalPlayerExclusive]m_wallRunStartTime 3794
-[RecvTable.DT_LocalPlayerExclusive]m_wallrunFrictionScale 2b84
-[RecvTable.DT_LocalPlayerExclusive]m_zipline 2fc0
-[RecvTable.DT_LocalPlayerExclusive]m_ziplineAllowed 2fa8
-[RecvTable.DT_LocalPlayerExclusive]m_ziplineCooldownIndex 3064
-[RecvTable.DT_LocalPlayerExclusive]m_ziplineGrenadeEntity 3050
-[RecvTable.DT_LocalPlayerExclusive]m_ziplineReattachCooldownTime 3060
-[RecvTable.DT_LocalPlayerExclusive]m_ziplineViewOffsetPosition 3038
-[RecvTable.DT_LocalPlayerExclusive]m_ziplineViewOffsetVelocity 3044
-[RecvTable.DT_LocalPlayerExclusive]m_ziprailBankTiltPoseParameter 2e50
-[RecvTable.DT_LocalPlayerExclusive]m_ziprailBankTiltVel 2e4c
-[RecvTable.DT_Local]attackedCount 164
-[RecvTable.DT_Local]lastAttacker 160
-[RecvTable.DT_Local]m_accelScale 64
-[RecvTable.DT_Local]m_airMoveBlockPlaneCount 1a4
-[RecvTable.DT_Local]m_airMoveBlockPlaneTime 1a0
-[RecvTable.DT_Local]m_airMoveBlockPlanes[0] 188
-[RecvTable.DT_Local]m_airSlowMoFrac 4c
-[RecvTable.DT_Local]m_animNearZ 15c
-[RecvTable.DT_Local]m_audio.entIndex 140
-[RecvTable.DT_Local]m_audio.localBits 13c
-[RecvTable.DT_Local]m_audio.localSound[0] d8
-[RecvTable.DT_Local]m_audio.localSound[1] e4
-[RecvTable.DT_Local]m_audio.localSound[2] f0
-[RecvTable.DT_Local]m_audio.localSound[3] fc
-[RecvTable.DT_Local]m_audio.localSound[4] 108
-[RecvTable.DT_Local]m_audio.localSound[5] 114
-[RecvTable.DT_Local]m_audio.localSound[6] 120
-[RecvTable.DT_Local]m_audio.localSound[7] 12c
-[RecvTable.DT_Local]m_audio.soundscapeIndex 138
-[RecvTable.DT_Local]m_bAllowAutoMovement 60
-[RecvTable.DT_Local]m_bDrawViewmodel 5f
-[RecvTable.DT_Local]m_bitsActiveDevices 54
-[RecvTable.DT_Local]m_cinematicEventFlags 1ec
-[RecvTable.DT_Local]m_continuousUseBlocked 2e8
-[RecvTable.DT_Local]m_disableMeleeUntilRelease 1b8
-[RecvTable.DT_Local]m_disembarkStartTime 1d4
-[RecvTable.DT_Local]m_dodgePowerDelayScale 6c
-[RecvTable.DT_Local]m_dodgedInAir 1e
-[RecvTable.DT_Local]m_duckToggleOn 5d
-[RecvTable.DT_Local]m_ejectStartTime 1d0
-[RecvTable.DT_Local]m_fastFalling 1f
-[RecvTable.DT_Local]m_flCockpitEntryTime 1cc
-[RecvTable.DT_Local]m_flFallVelocity 44
-[RecvTable.DT_Local]m_flStepSize 48
-[RecvTable.DT_Local]m_flSuitGrapplePower 40
-[RecvTable.DT_Local]m_flSuitJumpPower 3c
-[RecvTable.DT_Local]m_flSuitPower 38
-[RecvTable.DT_Local]m_forceSlide 5c
-[RecvTable.DT_Local]m_forceStance 58
-[RecvTable.DT_Local]m_forcedDialogueOnly 1f0
-[RecvTable.DT_Local]m_groundNormal 2dc
-[RecvTable.DT_Local]m_hSkyCamera 84
-[RecvTable.DT_Local]m_hotDropImpactTime 1d8
-[RecvTable.DT_Local]m_iHideHUD 14
-[RecvTable.DT_Local]m_jetpackActivateTime 30
-[RecvTable.DT_Local]m_jetpackDeactivateTime 34
-[RecvTable.DT_Local]m_jumpPressTime 28
-[RecvTable.DT_Local]m_jumpedOffRodeo 1d
-[RecvTable.DT_Local]m_lastMantleBoostTime 24
-[RecvTable.DT_Local]m_meleeInputIndex 1c0
-[RecvTable.DT_Local]m_meleePressTime 1bc
-[RecvTable.DT_Local]m_objectiveEndTime 1e8
-[RecvTable.DT_Local]m_objectiveEntity 1e4
-[RecvTable.DT_Local]m_objectiveIndex 1e0
-[RecvTable.DT_Local]m_oneHandedWeaponUsage 1c8
-[RecvTable.DT_Local]m_outOfBoundsDeadTime 1dc
-[RecvTable.DT_Local]m_playerAnimChargingJump 209
-[RecvTable.DT_Local]m_playerAnimDodging 211
-[RecvTable.DT_Local]m_playerAnimFirstJumpFrame 210
-[RecvTable.DT_Local]m_playerAnimInAirWalk 21c
-[RecvTable.DT_Local]m_playerAnimJumpActivity 212
-[RecvTable.DT_Local]m_playerAnimJumpStartTime 20c
-[RecvTable.DT_Local]m_playerAnimJumping 208
-[RecvTable.DT_Local]m_playerAnimLandStartTime 218
-[RecvTable.DT_Local]m_playerAnimLanding 214
-[RecvTable.DT_Local]m_playerAnimMeleeParity 224
-[RecvTable.DT_Local]m_playerAnimMeleeStartTime 228
-[RecvTable.DT_Local]m_playerAnimPrevFrameSequenceMotionYaw 220
-[RecvTable.DT_Local]m_playerAnimShouldLand 215
-[RecvTable.DT_Local]m_playerAnimStationaryGoalFeetYaw 204
-[RecvTable.DT_Local]m_playerFloatLookEndTime 2d0
-[RecvTable.DT_Local]m_playerFloatLookStartTime 2cc
-[RecvTable.DT_Local]m_playerLocalGravityBlendEndDirection 27c
-[RecvTable.DT_Local]m_playerLocalGravityBlendEndRotation 26c
-[RecvTable.DT_Local]m_playerLocalGravityBlendEndTime 28c
-[RecvTable.DT_Local]m_playerLocalGravityBlendStartRotation 25c
-[RecvTable.DT_Local]m_playerLocalGravityBlendStartTime 288
-[RecvTable.DT_Local]m_playerLocalGravityBlendStrength 290
-[RecvTable.DT_Local]m_playerLocalGravityEntity 2c0
-[RecvTable.DT_Local]m_playerLocalGravityLineEnd 2b4
-[RecvTable.DT_Local]m_playerLocalGravityLineEndEntity 2c8
-[RecvTable.DT_Local]m_playerLocalGravityLineStart 2a8
-[RecvTable.DT_Local]m_playerLocalGravityLineStartEntity 2c4
-[RecvTable.DT_Local]m_playerLocalGravityPoint 29c
-[RecvTable.DT_Local]m_playerLocalGravityStrength 294
-[RecvTable.DT_Local]m_playerLocalGravityType 298
-[RecvTable.DT_Local]m_powerRegenRateScale 68
-[RecvTable.DT_Local]m_prevJumpPressTime 2c
-[RecvTable.DT_Local]m_queuedGrappleMeleeTime 1ac
-[RecvTable.DT_Local]m_queuedMeleePressTime 1a8
-[RecvTable.DT_Local]m_resetDuckToggle 5e
-[RecvTable.DT_Local]m_skybox3d.fog.HDRColorScale b4
-[RecvTable.DT_Local]m_skybox3d.fog.botAlt 90
-[RecvTable.DT_Local]m_skybox3d.fog.densityScale ac
-[RecvTable.DT_Local]m_skybox3d.fog.dirColor bc
-[RecvTable.DT_Local]m_skybox3d.fog.dirColorStr a4
-[RecvTable.DT_Local]m_skybox3d.fog.direction c0
-[RecvTable.DT_Local]m_skybox3d.fog.distColor b8
-[RecvTable.DT_Local]m_skybox3d.fog.distColorStr a0
-[RecvTable.DT_Local]m_skybox3d.fog.distOffset a8
-[RecvTable.DT_Local]m_skybox3d.fog.enable d2
-[RecvTable.DT_Local]m_skybox3d.fog.halfAngleDeg b0
-[RecvTable.DT_Local]m_skybox3d.fog.halfDistBot 98
-[RecvTable.DT_Local]m_skybox3d.fog.halfDistTop 9c
-[RecvTable.DT_Local]m_skybox3d.fog.topAlt 94
-[RecvTable.DT_Local]m_skybox3d.scale 88
-[RecvTable.DT_Local]m_skybox3d.useWorldFog 8c
-[RecvTable.DT_Local]m_superJumpsUsed 18
-[RecvTable.DT_Local]m_titanBubbleShieldTime 1f8
-[RecvTable.DT_Local]m_titanBuildTime 1f4
-[RecvTable.DT_Local]m_titanDisembarkEnabled 1fd
-[RecvTable.DT_Local]m_titanEmbarkEnabled 1fc
-[RecvTable.DT_Local]m_trackedChildProjectileCount 1c4
-[RecvTable.DT_Local]m_useEnt 2ec
-[RecvTable.DT_Local]m_usedWallHighJump 20
-[RecvTable.DT_Local]m_voicePackIndex 200
-[RecvTable.DT_Local]m_wallrunFromJetpack 2d8
-[RecvTable.DT_Local]m_wallrunLatestFloorHeight 2d4
-[RecvTable.DT_Local]m_wasClimbingIntoMantle 1c
-[RecvTable.DT_Local]predictableFlags 50
-[RecvTable.DT_LootGrabber]m_impactEffectColorID 1680
-[RecvTable.DT_LootGrabber]m_lootBeingGrabbed 1688
-[RecvTable.DT_LootGrabber]m_lootGrabDist 168c
-[RecvTable.DT_LootGrabber]m_lootGrabberType 1682
-[RecvTable.DT_LootGrabber]m_minimapData 848
-[RecvTable.DT_MTXUserInfoEntity]data0 970
-[RecvTable.DT_MTXUserInfoEntity]data1 15ec
-[RecvTable.DT_MinimapBaseEntityData]customState 48
-[RecvTable.DT_MinimapBaseEntityData]flags 40
-[RecvTable.DT_MinimapBaseEntityData]objectScale 4c
-[RecvTable.DT_MinimapBaseEntityData]visibilityShowFlag 20
-[RecvTable.DT_MinimapBaseEntityData]zOrder 44
-[RecvTable.DT_Missile]m_hSpecificTarget 3074
-[RecvTable.DT_Missile]m_targetPosition 3084
-[RecvTable.DT_Missile]m_useTargetPosition 3090
-[RecvTable.DT_MovieDisplay]m_bEnabled 970
-[RecvTable.DT_MovieDisplay]m_bForcedSlave ab6
-[RecvTable.DT_MovieDisplay]m_bLetterbox ab4
-[RecvTable.DT_MovieDisplay]m_bLooping 971
-[RecvTable.DT_MovieDisplay]m_bPausesWithClient ab5
-[RecvTable.DT_MovieDisplay]m_bStretchToFill ab3
-[RecvTable.DT_MovieDisplay]m_bUseCustomUVs ab7
-[RecvTable.DT_MovieDisplay]m_flUMax ac0
-[RecvTable.DT_MovieDisplay]m_flUMin abc
-[RecvTable.DT_MovieDisplay]m_flVMax ac8
-[RecvTable.DT_MovieDisplay]m_flVMin ac4
-[RecvTable.DT_MovieDisplay]m_szExternalAudioFilename a73
-[RecvTable.DT_MovieDisplay]m_szGroupName 9f3
-[RecvTable.DT_MovieDisplay]m_szMovieFilename 973
-[RecvTable.DT_NPC_Drone]m_bAttackTarget 1eb0
-[RecvTable.DT_NPC_Drone]m_beamSpread 1eb8
-[RecvTable.DT_NPC_Drone]m_scanTarget 1eb4
-[RecvTable.DT_NPC_SentryTurret]m_controlPanel 1ec0
-[RecvTable.DT_NPC_SentryTurret]m_eyeAttach 1ebc
-[RecvTable.DT_NPC_SentryTurret]m_killCount 1eb4
-[RecvTable.DT_NPC_SentryTurret]m_titanKillCount 1eb8
-[RecvTable.DT_NPC_SentryTurret]m_turretState 1eb0
-[RecvTable.DT_NPC_Titan]m_canStand 1f48
-[RecvTable.DT_NPC_Titan]m_grapple 1eb8
-[RecvTable.DT_NPC_Titan]m_grappleActive 1f40
-[RecvTable.DT_NPC_Titan]m_grappleDetachTime 1f44
-[RecvTable.DT_NPC_Titan]m_grappleHook 1eb0
-[RecvTable.DT_NPC_Titan]m_inventory 1988
-[RecvTable.DT_NPC_Titan]m_selectedOffhands 1a06
-[RecvTable.DT_NPC_Titan]m_titanSoul 1ac8
-[RecvTable.DT_NonRewindMiscData]m_musicPackAssigned 4
-[RecvTable.DT_ParticleSystem]m_bActive 979
-[RecvTable.DT_ParticleSystem]m_bForceRenderAlways 97b
-[RecvTable.DT_ParticleSystem]m_bInSkybox 985
-[RecvTable.DT_ParticleSystem]m_bLOSBlockScan 98e
-[RecvTable.DT_ParticleSystem]m_bPlaySounds a44
-[RecvTable.DT_ParticleSystem]m_controlPoint1AttachmentId 9f8
-[RecvTable.DT_ParticleSystem]m_controlPointAttachTypes 9e4
-[RecvTable.DT_ParticleSystem]m_enemyControlPoint 98c
-[RecvTable.DT_ParticleSystem]m_enemyControlPointOverride 98d
-[RecvTable.DT_ParticleSystem]m_fEffects 54
-[RecvTable.DT_ParticleSystem]m_flStartTime 97c
-[RecvTable.DT_ParticleSystem]m_hControlPointEnts 9d0
-[RecvTable.DT_ParticleSystem]m_hOwnerEntity 398
-[RecvTable.DT_ParticleSystem]m_iEffectIndex 970
-[RecvTable.DT_ParticleSystem]m_iTeamNum 334
-[RecvTable.DT_ParticleSystem]m_killForReplay 986
-[RecvTable.DT_ParticleSystem]m_localAngles 384
-[RecvTable.DT_ParticleSystem]m_localOrigin 18
-[RecvTable.DT_ParticleSystem]m_nStopType 974
-[RecvTable.DT_ParticleSystem]m_parentAttachType a04
-[RecvTable.DT_ParticleSystem]m_parentAttachment 34
-[RecvTable.DT_ParticleSystem]m_parentAttachmentModel 758
-[RecvTable.DT_ParticleSystem]m_realmsBitMask 930
-[RecvTable.DT_ParticleSystem]m_soundSuffix a48
-[RecvTable.DT_ParticleSystem]m_vServerControlPointColorIds 9fd
-[RecvTable.DT_ParticleSystem]m_vServerControlPoints 994
-[RecvTable.DT_ParticleSystem]m_visibilityFlags 32c
-[RecvTable.DT_ParticleSystem]moveparent 30
-[RecvTable.DT_PhysicsProp]m_bAwake 1608
-[RecvTable.DT_PhysicsProp]m_collisionMaxs 164c
-[RecvTable.DT_PhysicsProp]m_collisionMins 1640
-[RecvTable.DT_PhysicsProp]m_fMass 163c
-[RecvTable.DT_PhysicsProp]m_iPhysicsMode 1638
-[RecvTable.DT_PhysicsProp]m_ignoresCollisionWithCombatCharacters 1609
-[RecvTable.DT_PhysicsProp]m_isRolling 160a
-[RecvTable.DT_PhysicsProp]m_networkTableRollSoundId 160c
-[RecvTable.DT_PlayerDecoy]m_classModsActive[0] 1960
-[RecvTable.DT_PlayerDecoy]m_cloakEndTime 1bc
-[RecvTable.DT_PlayerDecoy]m_cloakFadeInDuration 1c8
-[RecvTable.DT_PlayerDecoy]m_cloakFadeInEndTime 1c0
-[RecvTable.DT_PlayerDecoy]m_cloakFadeOutStartTime 1c4
-[RecvTable.DT_PlayerDecoy]m_cloakFlickerAmount 1cc
-[RecvTable.DT_PlayerDecoy]m_cloakFlickerEndTime 1d0
-[RecvTable.DT_PlayerDecoy]m_currentClass 1958
-[RecvTable.DT_PlayerDecoy]m_currentState 1940
-[RecvTable.DT_PlayerDecoy]m_decoyFlags 1944
-[RecvTable.DT_PlayerDecoy]m_decoyVelocity 1970
-[RecvTable.DT_PlayerDecoy]m_iHealth 324
-[RecvTable.DT_PlayerDecoy]m_iMaxHealth 470
-[RecvTable.DT_PlayerDecoy]m_lastPulseTime 1950
-[RecvTable.DT_PlayerDecoy]m_nameVisibilityFlags 898
-[RecvTable.DT_PlayerDecoy]m_primaryWeaponHandle 19a8
-[RecvTable.DT_PlayerDecoy]m_shieldHealth 190
-[RecvTable.DT_PlayerDecoy]m_shieldHealthMax 194
-[RecvTable.DT_PlayerDecoy]m_squadID 340
-[RecvTable.DT_PlayerDecoy]m_teamMemberIndex 33c
-[RecvTable.DT_PlayerDecoy]m_vecViewOffset.x 48
-[RecvTable.DT_PlayerDecoy]m_vecViewOffset.y 4c
-[RecvTable.DT_PlayerDecoy]m_vecViewOffset.z 50
-[RecvTable.DT_PlayerKnockBack]beginTime 14
-[RecvTable.DT_PlayerKnockBack]endTime 18
-[RecvTable.DT_PlayerKnockBack]velocity 8
-[RecvTable.DT_PlayerMelee_PlayerData]attackActive c
-[RecvTable.DT_PlayerMelee_PlayerData]attackHitEntity 14
-[RecvTable.DT_PlayerMelee_PlayerData]attackHitEntityTime 18
-[RecvTable.DT_PlayerMelee_PlayerData]attackLastHitNonWorldEntity 1c
-[RecvTable.DT_PlayerMelee_PlayerData]attackRecoveryShouldBeQuick d
-[RecvTable.DT_PlayerMelee_PlayerData]attackStartTime 10
-[RecvTable.DT_PlayerMelee_PlayerData]isSprintAttack e
-[RecvTable.DT_PlayerMelee_PlayerData]lungeBoost 28
-[RecvTable.DT_PlayerMelee_PlayerData]meleeAttackParity 8
-[RecvTable.DT_PlayerMelee_PlayerData]pendingMeleePress 24
-[RecvTable.DT_PlayerMelee_PlayerData]previousMainOffhand 34
-[RecvTable.DT_PlayerMelee_PlayerData]scriptedState 20
-[RecvTable.DT_PlayerState]currentClass 10
-[RecvTable.DT_PlayerState]deadflag 6c
-[RecvTable.DT_PlayerState]onDeathClass 20
-[RecvTable.DT_PlayerState]requestedClass 18
-[RecvTable.DT_PlayerStickerInventory]m_stickerInventoryItemflaves[0] 4c08
-[RecvTable.DT_PlayerTasklist]m_customInt 974
-[RecvTable.DT_PlayerTasklist]m_notifyTime 970
-[RecvTable.DT_PlayerTasklist]m_taskCountGoal 9e0
-[RecvTable.DT_PlayerTasklist]m_taskCountNow a14
-[RecvTable.DT_PlayerTasklist]m_taskEnts b18
-[RecvTable.DT_PlayerTasklist]m_taskFlags a48
-[RecvTable.DT_PlayerTasklist]m_taskFloats ae4
-[RecvTable.DT_PlayerTasklist]m_taskGameTimes a7c
-[RecvTable.DT_PlayerTasklist]m_taskInts ab0
-[RecvTable.DT_PlayerTasklist]m_taskStatus 978
-[RecvTable.DT_PlayerTasklist]m_taskStringA b4c
-[RecvTable.DT_PlayerTasklist]m_taskStringB b8c
-[RecvTable.DT_PlayerTasklist]m_taskStringC bcc
-[RecvTable.DT_PlayerTasklist]m_taskStringD c0c
-[RecvTable.DT_PlayerTasklist]m_taskStringE c4c
-[RecvTable.DT_PlayerTasklist]m_taskStringF c8c
-[RecvTable.DT_PlayerTasklist]m_taskStringG ccc
-[RecvTable.DT_PlayerTasklist]m_taskStringH d0c
-[RecvTable.DT_PlayerTasklist]m_taskStringI d4c
-[RecvTable.DT_PlayerTasklist]m_taskStringJ d8c
-[RecvTable.DT_PlayerTasklist]m_taskStringK dcc
-[RecvTable.DT_PlayerTasklist]m_taskStringL e0c
-[RecvTable.DT_PlayerTasklist]m_taskStringM e4c
-[RecvTable.DT_PlayerTasklist]m_taskType 9ac
-[RecvTable.DT_PlayerTeamShared]m_healResources_healthTarget 2634
-[RecvTable.DT_PlayerTeamShared]m_lastTimeDamaged 31d4
-[RecvTable.DT_PlayerTeamShared]m_lastTimeDamagedByNPC 31dc
-[RecvTable.DT_PlayerTeamShared]m_lastTimeDamagedByOtherPlayer 31d8
-[RecvTable.DT_PlayerTeamShared]m_lastTimeDidDamageToNPC 31e4
-[RecvTable.DT_PlayerTeamShared]m_lastTimeDidDamageToOtherPlayer 31e0
-[RecvTable.DT_PlayerTeamShared]m_lastTimeUsedAbilityOrWeapon 31e8
-[RecvTable.DT_PlayerVehicle]m_abilityAttachmentEnts 1fa8
-[RecvTable.DT_PlayerVehicle]m_abilityAttachmentInts 1fb0
-[RecvTable.DT_PlayerVehicle]m_blockDuckInput 1d09
-[RecvTable.DT_PlayerVehicle]m_cameraVehicleAccel2d 1d44
-[RecvTable.DT_PlayerVehicle]m_cameraVehicleAccelVert 1d48
-[RecvTable.DT_PlayerVehicle]m_cameraVehicleDecel 1d4c
-[RecvTable.DT_PlayerVehicle]m_cameraVehicleMaxDist 1d34
-[RecvTable.DT_PlayerVehicle]m_cameraVehicleMaxVertDist 1d38
-[RecvTable.DT_PlayerVehicle]m_cameraVehicleSpeed2d 1d3c
-[RecvTable.DT_PlayerVehicle]m_cameraVehicleSpeedVert 1d40
-[RecvTable.DT_PlayerVehicle]m_driverActivationTime 1cec
-[RecvTable.DT_PlayerVehicle]m_driverDeactivationTime 1cf0
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleBanking 1f50
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleFrictionLastTime 1f54
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleFrictionNormal 1f5c
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleFrictionPos 1f68
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleFrictionSurfPropOther 1f58
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleIsMarkedAsDrivingForward 1f3a
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleIsOnGround 1d8c
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleIsParked 1f39
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleLastBoostEffectTime 1f2c
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleLastBoostTime 1f24
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleSeats 1f80
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleStunDebounce 1f44
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleStunDuration 1f40
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleStunTimeEnd 1f3c
-[RecvTable.DT_PlayerVehicle]m_hoverVehicleThrottle 1f48
-[RecvTable.DT_PlayerVehicle]m_iHealth 324
-[RecvTable.DT_PlayerVehicle]m_iMaxHealth 470
-[RecvTable.DT_PlayerVehicle]m_inventory 1988
-[RecvTable.DT_PlayerVehicle]m_lifeState 698
-[RecvTable.DT_PlayerVehicle]m_localAngles 384
-[RecvTable.DT_PlayerVehicle]m_materialDualColorMask 20f4
-[RecvTable.DT_PlayerVehicle]m_overrideVehicleAngles 2054
-[RecvTable.DT_PlayerVehicle]m_overrideVehicleAnglesUntilTick 2060
-[RecvTable.DT_PlayerVehicle]m_pushingEnt 2088
-[RecvTable.DT_PlayerVehicle]m_selectedOffhands 1a06
-[RecvTable.DT_PlayerVehicle]m_selectedOffhandsPendingHybridAction 1a09
-[RecvTable.DT_PlayerVehicle]m_vecViewOffset.x 48
-[RecvTable.DT_PlayerVehicle]m_vecViewOffset.y 4c
-[RecvTable.DT_PlayerVehicle]m_vecViewOffset.z 50
-[RecvTable.DT_PlayerVehicle]m_vehicleActivated 1d08
-[RecvTable.DT_PlayerVehicle]m_vehicleDriver 1ce4
-[RecvTable.DT_PlayerVehicle]m_vehicleFlags 1d0c
-[RecvTable.DT_PlayerVehicle]m_vehicleGroundEntity 1d5c
-[RecvTable.DT_PlayerVehicle]m_vehicleGroundNormal 1d60
-[RecvTable.DT_PlayerVehicle]m_vehicleLaunchTime 1d2c
-[RecvTable.DT_PlayerVehicle]m_vehiclePlayerCount 1d04
-[RecvTable.DT_PlayerVehicle]m_vehiclePlayers[0] 1cf4
-[RecvTable.DT_PlayerVehicle]m_vehicleType 1d10
-[RecvTable.DT_PlayerVehicle]m_vehicleVelocity 1d50
-[RecvTable.DT_PlayerWaypoint]m_cellY 4
-[RecvTable.DT_PlayerWaypoint]m_cellZ 8
-[RecvTable.DT_PlayerWaypoint]m_hOwnerEntity 398
-[RecvTable.DT_PlayerWaypoint]m_iSignifierName 478
-[RecvTable.DT_PlayerWaypoint]m_iTeamNum 334
-[RecvTable.DT_PlayerWaypoint]m_localOrigin c
-[RecvTable.DT_PlayerWaypoint]m_networkedFlags 2d0
-[RecvTable.DT_PlayerWaypoint]m_objectivePackedInt a58
-[RecvTable.DT_PlayerWaypoint]m_parentAttachment 34
-[RecvTable.DT_PlayerWaypoint]m_parentAttachmentModel 758
-[RecvTable.DT_PlayerWaypoint]m_realmsBitMask 930
-[RecvTable.DT_PlayerWaypoint]m_teamMemberIndex 33c
-[RecvTable.DT_PlayerWaypoint]m_visibilityFlags 32c
-[RecvTable.DT_PlayerWaypoint]m_waypointAssetA b28
-[RecvTable.DT_PlayerWaypoint]m_waypointAssetB ba8
-[RecvTable.DT_PlayerWaypoint]m_waypointBitfield 974
-[RecvTable.DT_PlayerWaypoint]m_waypointCustomType a80
-[RecvTable.DT_PlayerWaypoint]m_waypointEnts 978
-[RecvTable.DT_PlayerWaypoint]m_waypointFloats a38
-[RecvTable.DT_PlayerWaypoint]m_waypointGameTimes 9f8
-[RecvTable.DT_PlayerWaypoint]m_waypointGroupFlags a7c
-[RecvTable.DT_PlayerWaypoint]m_waypointGroupName a5c
-[RecvTable.DT_PlayerWaypoint]m_waypointInts a18
-[RecvTable.DT_PlayerWaypoint]m_waypointStringA aa0
-[RecvTable.DT_PlayerWaypoint]m_waypointStringB ae0
-[RecvTable.DT_PlayerWaypoint]m_waypointType 970
-[RecvTable.DT_PlayerWaypoint]m_waypointVectors 998
-[RecvTable.DT_PlayerWaypoint]moveparent 30
-[RecvTable.DT_PlayerZipline]m_lastMoveDir2D 58
-[RecvTable.DT_PlayerZipline]m_mountingZiplineAlpha c
-[RecvTable.DT_PlayerZipline]m_mountingZiplineSourcePosition 18
-[RecvTable.DT_PlayerZipline]m_mountingZiplineSourceVelocity 24
-[RecvTable.DT_PlayerZipline]m_mountingZiplineTargetPosition 30
-[RecvTable.DT_PlayerZipline]m_slidingZiplineAlpha 54
-[RecvTable.DT_PlayerZipline]m_ziplineEndTime 14
-[RecvTable.DT_PlayerZipline]m_ziplinePathDirection 68
-[RecvTable.DT_PlayerZipline]m_ziplineReenableWeapons 8
-[RecvTable.DT_PlayerZipline]m_ziplineReverse 64
-[RecvTable.DT_PlayerZipline]m_ziplineStartTime 10
-[RecvTable.DT_PlayerZipline]m_ziplineUsePosition 48
-[RecvTable.DT_Player]isLocalOriginLocal c
-[RecvTable.DT_Player]m_DuckHullMax 2b28
-[RecvTable.DT_Player]m_DuckHullMin 2b1c
-[RecvTable.DT_Player]m_Shared 4608
-[RecvTable.DT_Player]m_StandHullMax 2b10
-[RecvTable.DT_Player]m_StandHullMin 2b04
-[RecvTable.DT_Player]m_activeZipline 2fac
-[RecvTable.DT_Player]m_ammoPoolCapacity 262c
-[RecvTable.DT_Player]m_animViewEntity 2ec0
-[RecvTable.DT_Player]m_armorType 4930
-[RecvTable.DT_Player]m_armoredLeapAirPos 4a80
-[RecvTable.DT_Player]m_armoredLeapEndPos 4a8c
-[RecvTable.DT_Player]m_armoredLeapPhase 4a9c
-[RecvTable.DT_Player]m_armoredLeapStartTime 4aa0
-[RecvTable.DT_Player]m_armoredLeapType 4a98
-[RecvTable.DT_Player]m_autoSprintForced 2aa8
-[RecvTable.DT_Player]m_bHasMatchAdminRole 38b8
-[RecvTable.DT_Player]m_bShouldDrawPlayerWhileUsingViewEntity 3618
-[RecvTable.DT_Player]m_bZooming 1ce1
-[RecvTable.DT_Player]m_bleedoutStartTime 27fc
-[RecvTable.DT_Player]m_bleedoutState 27f8
-[RecvTable.DT_Player]m_canStand 2b01
-[RecvTable.DT_Player]m_chargeJumpStartTime 37f0
-[RecvTable.DT_Player]m_classModsActive[0] 2660
-[RecvTable.DT_Player]m_communicationsAutoBlocked 33b6
-[RecvTable.DT_Player]m_controllerModeActive 4938
-[RecvTable.DT_Player]m_crossPlayChat 2650
-[RecvTable.DT_Player]m_crossPlayChatFriends 2651
-[RecvTable.DT_Player]m_currentFramePlayer 2178
-[RecvTable.DT_Player]m_damageComboLatestUpdateTime 29b4
-[RecvTable.DT_Player]m_damageComboStartHealth 29b8
-[RecvTable.DT_Player]m_damageImpulseNoDecelEndTime 2ad8
-[RecvTable.DT_Player]m_deviceForm 4940
-[RecvTable.DT_Player]m_dragReviveOutroStartTime 4b14
-[RecvTable.DT_Player]m_dragReviveState 4b10
-[RecvTable.DT_Player]m_duckState 2af8
-[RecvTable.DT_Player]m_entitySyncingWithMe 2b34
-[RecvTable.DT_Player]m_extraShieldHealth 3088
-[RecvTable.DT_Player]m_extraShieldTier 308c
-[RecvTable.DT_Player]m_fFlags c8
-[RecvTable.DT_Player]m_fIsSprinting 2aac
-[RecvTable.DT_Player]m_flDeathTime 3764
-[RecvTable.DT_Player]m_flMaxspeed 328
-[RecvTable.DT_Player]m_gestureAutoKillBitfield 2a6c
-[RecvTable.DT_Player]m_gestureBlendInDuration 29ec
-[RecvTable.DT_Player]m_gestureBlendOutDuration 2a0c
-[RecvTable.DT_Player]m_gestureFadeOutDuration 2a4c
-[RecvTable.DT_Player]m_gestureFadeOutStartTime 2a2c
-[RecvTable.DT_Player]m_gestureSequences 29bc
-[RecvTable.DT_Player]m_gestureStartTimes 29cc
-[RecvTable.DT_Player]m_glideMeter 30b0
-[RecvTable.DT_Player]m_grapple 2d90
-[RecvTable.DT_Player]m_grappleActive 2e18
-[RecvTable.DT_Player]m_grappleDetachTime 2e1c
-[RecvTable.DT_Player]m_grappleEnemyCustomMaterialIndex 2e38
-[RecvTable.DT_Player]m_grappleFriendlyCustomMaterialIndex 2e34
-[RecvTable.DT_Player]m_grappleHook 3880
-[RecvTable.DT_Player]m_hColorCorrectionCtrl 4234
-[RecvTable.DT_Player]m_hGroundEntity 320
-[RecvTable.DT_Player]m_hViewModels 2e6c
-[RecvTable.DT_Player]m_hardware 2638
-[RecvTable.DT_Player]m_hasBadReputation 2630
-[RecvTable.DT_Player]m_hasMic 33b4
-[RecvTable.DT_Player]m_helmetType 492c
-[RecvTable.DT_Player]m_iHealth 324
-[RecvTable.DT_Player]m_iMaxHealth 470
-[RecvTable.DT_Player]m_iSpawnParity 3684
-[RecvTable.DT_Player]m_inPartyChat 33b5
-[RecvTable.DT_Player]m_inventory 1988
-[RecvTable.DT_Player]m_isPerformingBoostAction 30d8
-[RecvTable.DT_Player]m_jumpPadDebounceExpireTime 34c
-[RecvTable.DT_Player]m_laserSightColor 2654
-[RecvTable.DT_Player]m_laserSightColorCustomized 2652
-[RecvTable.DT_Player]m_lastDodgeTime 37b0
-[RecvTable.DT_Player]m_lastJumpWasWallHighJump 37ac
-[RecvTable.DT_Player]m_lastLaunchTriggerTouched 3238
-[RecvTable.DT_Player]m_lastMoveInputTime 3d2c
-[RecvTable.DT_Player]m_lastSprintPressTime 2ab8
-[RecvTable.DT_Player]m_lastTimeKilledOtherPlayer 4c58
-[RecvTable.DT_Player]m_launchCount 3240
-[RecvTable.DT_Player]m_launcherAirControlActive 3244
-[RecvTable.DT_Player]m_leanState 2afc
-[RecvTable.DT_Player]m_lifeState 698
-[RecvTable.DT_Player]m_melee 3370
-[RecvTable.DT_Player]m_movementDisabledCount 2ab0
-[RecvTable.DT_Player]m_nextTitanRespawnAvailable 38bc
-[RecvTable.DT_Player]m_nucleusId 2648
-[RecvTable.DT_Player]m_overlayEventParity 1711
-[RecvTable.DT_Player]m_passives[_0_] 27a8
-[RecvTable.DT_Player]m_petTitan 3884
-[RecvTable.DT_Player]m_pilotClassIndex 4658
-[RecvTable.DT_Player]m_platformUserId 2640
-[RecvTable.DT_Player]m_playerFlags 33ac
-[RecvTable.DT_Player]m_playerMoveSpeedScale 33b8
-[RecvTable.DT_Player]m_playerScriptNetDataGlobal 4924
-[RecvTable.DT_Player]m_playerSettingForHoldToSprint 2ab5
-[RecvTable.DT_Player]m_playerSettingForStickySprintForward 2ab4
-[RecvTable.DT_Player]m_playerVehicleCount 2aec
-[RecvTable.DT_Player]m_playerVehicleDriven 2af0
-[RecvTable.DT_Player]m_playerVehicleUseTime 2af4
-[RecvTable.DT_Player]m_playerVehicles 2ae4
-[RecvTable.DT_Player]m_ragdollCreationOrigin 3768
-[RecvTable.DT_Player]m_ragdollCreationYaw 3774
-[RecvTable.DT_Player]m_reviveTarget 4b18
-[RecvTable.DT_Player]m_selectedOffhands 1a06
-[RecvTable.DT_Player]m_selectedOffhandsPendingHybridAction 1a09
-[RecvTable.DT_Player]m_shadowShieldActive 3080
-[RecvTable.DT_Player]m_skill_mu 38b4
-[RecvTable.DT_Player]m_skydiveContraintPostion 4a14
-[RecvTable.DT_Player]m_skydiveContraintRadius 4a20
-[RecvTable.DT_Player]m_skydiveDiveAngle 49ac
-[RecvTable.DT_Player]m_skydiveForwardPoseValueTarget 4960
-[RecvTable.DT_Player]m_skydiveFromSkywardLaunch 4a0d
-[RecvTable.DT_Player]m_skydiveIsDiving 49b0
-[RecvTable.DT_Player]m_skydivePlayerPitch 49cc
-[RecvTable.DT_Player]m_skydivePlayerYaw 49d0
-[RecvTable.DT_Player]m_skydiveScriptInputOverride 4a10
-[RecvTable.DT_Player]m_skydiveSidePoseValueTarget 496c
-[RecvTable.DT_Player]m_skydiveSpeed 49b4
-[RecvTable.DT_Player]m_skydiveState 4994
-[RecvTable.DT_Player]m_skydiveStrafeAngle 49b8
-[RecvTable.DT_Player]m_skywardLaunchEndTime 4a48
-[RecvTable.DT_Player]m_skywardLaunchFastEndTime 4a40
-[RecvTable.DT_Player]m_skywardLaunchFastSpeed 4a54
-[RecvTable.DT_Player]m_skywardLaunchFollowing 4a69
-[RecvTable.DT_Player]m_skywardLaunchInterrupted 4a68
-[RecvTable.DT_Player]m_skywardLaunchSlowEndTime 4a3c
-[RecvTable.DT_Player]m_skywardLaunchSlowSpeed 4a50
-[RecvTable.DT_Player]m_skywardLaunchSlowStartTime 4a38
-[RecvTable.DT_Player]m_skywardLaunchState 4a24
-[RecvTable.DT_Player]m_skywardObstacleAvoidanceEndPos 4a6c
-[RecvTable.DT_Player]m_skywardOffset 4a58
-[RecvTable.DT_Player]m_skywardWeaponsEnabled 4a78
-[RecvTable.DT_Player]m_statusEffectsEndlessPlayerNV 28f0
-[RecvTable.DT_Player]m_statusEffectsTimedPlayerNV 2800
-[RecvTable.DT_Player]m_stickySprintForwardDisableTime 2ac0
-[RecvTable.DT_Player]m_stickySprintForwardEnableTime 2abc
-[RecvTable.DT_Player]m_tempShieldHealth 3084
-[RecvTable.DT_Player]m_timeJetpackHeightActivateCheckPassed 37d8
-[RecvTable.DT_Player]m_titanSoul 1ac8
-[RecvTable.DT_Player]m_title 4258
-[RecvTable.DT_Player]m_traversalForwardDir 2bf4
-[RecvTable.DT_Player]m_traversalRefPos 2c00
-[RecvTable.DT_Player]m_traversalState 2bc4
-[RecvTable.DT_Player]m_traversalType 2bc8
-[RecvTable.DT_Player]m_traversalYawDelta 2c2c
-[RecvTable.DT_Player]m_traversalYawPoseParameter 2c30
-[RecvTable.DT_Player]m_turret 2e68
-[RecvTable.DT_Player]m_ubEFNoInterpParity 4230
-[RecvTable.DT_Player]m_upDir 2b38
-[RecvTable.DT_Player]m_useCredit 33a8
-[RecvTable.DT_Player]m_viewOffsetEntity 2e80
-[RecvTable.DT_Player]m_wallClimbSetUp 2c7c
-[RecvTable.DT_Player]m_wallHanging 2c7d
-[RecvTable.DT_Player]m_xp 38ac
-[RecvTable.DT_Player]m_ziplineGrenadeBeginStationAttachmentId 3058
-[RecvTable.DT_Player]m_ziplineGrenadeBeginStationEntity 3054
-[RecvTable.DT_Player]m_ziplineState 2fbc
-[RecvTable.DT_Player]m_ziplineValid3pWeaponLayerAnim 2fb8
-[RecvTable.DT_Player]m_zoomBaseFrac 1ce8
-[RecvTable.DT_Player]m_zoomBaseTime 1cec
-[RecvTable.DT_Player]m_zoomFullStartTime 1cf0
-[RecvTable.DT_Player]m_zoomToggleOnStartTime 1ce4
-[RecvTable.DT_Player]pl 25a8
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityAngleLerpInDuration 4
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityDrawPlayer 25
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityLerpOutDuration c
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityNumThirdPersonCameraAttachments 20
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityOriginLerpInDuration 8
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityParity 38
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityStabilizePlayerEyeAngles 10
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityThirdPersonCameraAttachment 18
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityThirdPersonCameraParity 14
-[RecvTable.DT_Player_AnimViewEntityData]animViewEntityThirdPersonCameraVisibilityChecks 24
-[RecvTable.DT_Player_AnimViewEntityData]fovSmoothTime 2c
-[RecvTable.DT_Player_AnimViewEntityData]fovTarget 28
-[RecvTable.DT_Player_ViewOffsetEntityData]lerpInDuration c
-[RecvTable.DT_Player_ViewOffsetEntityData]lerpOutDuration 10
-[RecvTable.DT_Player_ViewOffsetEntityData]stabilizePlayerEyeAngles 14
-[RecvTable.DT_Player_ViewOffsetEntityData]viewOffsetEntityHandle 8
-[RecvTable.DT_PointCamera]m_FOV 9d0
-[RecvTable.DT_PointCamera]m_bActive a11
-[RecvTable.DT_PointCamera]m_bFogEnable a10
-[RecvTable.DT_PortalNonLocalPlayerExclusive]m_cellY 4
-[RecvTable.DT_PortalNonLocalPlayerExclusive]m_cellZ 8
-[RecvTable.DT_PortalNonLocalPlayerExclusive]m_localOrigin c
-[RecvTable.DT_PortalNonLocalPlayerExclusive]m_localOrigin.z c
-[RecvTable.DT_PortalNonLocalPlayerExclusive]m_originRelativeToPusher 3c
-[RecvTable.DT_PortalNonLocalPlayerExclusive]m_pusher 38
-[RecvTable.DT_PortalNonLocalPlayerExclusive]m_sliding 2e3d
-[RecvTable.DT_PortalPointPush]m_bEnabled 970
-[RecvTable.DT_PortalPointPush]m_flConeOfInfluence 980
-[RecvTable.DT_PortalPointPush]m_flInnerRadius 97c
-[RecvTable.DT_PortalPointPush]m_flMagnitude 974
-[RecvTable.DT_PortalPointPush]m_flRadius 978
-[RecvTable.DT_PostProcessController]m_bMaster 988
-[RecvTable.DT_PostProcessController]m_flPostProcessParameters 970
-[RecvTable.DT_PredictedAnimEventData]m_predictedAnimEventCount 58
-[RecvTable.DT_PredictedAnimEventData]m_predictedAnimEventIndices 30
-[RecvTable.DT_PredictedAnimEventData]m_predictedAnimEventModel 64
-[RecvTable.DT_PredictedAnimEventData]m_predictedAnimEventSequence 60
-[RecvTable.DT_PredictedAnimEventData]m_predictedAnimEventTarget 5c
-[RecvTable.DT_PredictedAnimEventData]m_predictedAnimEventTimes 8
-[RecvTable.DT_PredictedAnimEventData]m_predictedAnimEventsReadyToFireTime 68
-[RecvTable.DT_Projectile]m_CollisionGroup 438
-[RecvTable.DT_Projectile]m_PredictableID 6cc
-[RecvTable.DT_Projectile]m_cellY 4
-[RecvTable.DT_Projectile]m_cellZ 8
-[RecvTable.DT_Projectile]m_destructionDistance 1608
-[RecvTable.DT_Projectile]m_forceAdjustToGunBarrelDisabled 1601
-[RecvTable.DT_Projectile]m_hOwnerEntity 398
-[RecvTable.DT_Projectile]m_iTeamNum 334
-[RecvTable.DT_Projectile]m_impactEffectTable 162c
-[RecvTable.DT_Projectile]m_launchOrigin 1654
-[RecvTable.DT_Projectile]m_localAngles 384
-[RecvTable.DT_Projectile]m_localOrigin c
-[RecvTable.DT_Projectile]m_modBitfield 1610
-[RecvTable.DT_Projectile]m_nModelIndex 60
-[RecvTable.DT_Projectile]m_networkedFlags 2d0
-[RecvTable.DT_Projectile]m_overrideMods 161c
-[RecvTable.DT_Projectile]m_passThroughDepthTotal 160c
-[RecvTable.DT_Projectile]m_passThroughModCount 163c
-[RecvTable.DT_Projectile]m_passThroughPoints 1640
-[RecvTable.DT_Projectile]m_preModdedTrailEffectIndices1p 164c
-[RecvTable.DT_Projectile]m_preModdedTrailEffectIndices3p 1650
-[RecvTable.DT_Projectile]m_projectileCreationTimeServer 1634
-[RecvTable.DT_Projectile]m_projectileTrailIndex 1628
-[RecvTable.DT_Projectile]m_realmsBitMask 930
-[RecvTable.DT_Projectile]m_reducedEffects 1630
-[RecvTable.DT_Projectile]m_vecVelocity 378
-[RecvTable.DT_Projectile]m_weaponClassIndex 1604
-[RecvTable.DT_Projectile]m_weaponDataIsSet 1600
-[RecvTable.DT_Projectile]m_weaponSource 1638
-[RecvTable.DT_PropSurvival]m_Collision 3b8
-[RecvTable.DT_PropSurvival]m_CollisionGroup 438
-[RecvTable.DT_PropSurvival]m_ammoInClip 1600
-[RecvTable.DT_PropSurvival]m_camoIndex d90
-[RecvTable.DT_PropSurvival]m_cellY 4
-[RecvTable.DT_PropSurvival]m_cellZ 8
-[RecvTable.DT_PropSurvival]m_customScriptInt 1604
-[RecvTable.DT_PropSurvival]m_fEffects 54
-[RecvTable.DT_PropSurvival]m_iSignifierName 478
-[RecvTable.DT_PropSurvival]m_itemFlavorGUID d74
-[RecvTable.DT_PropSurvival]m_localAngles 384
-[RecvTable.DT_PropSurvival]m_localOrigin c
-[RecvTable.DT_PropSurvival]m_meleeResponseFlags 2d8
-[RecvTable.DT_PropSurvival]m_modBitfield 1614
-[RecvTable.DT_PropSurvival]m_nBody d8c
-[RecvTable.DT_PropSurvival]m_nModelIndex 60
-[RecvTable.DT_PropSurvival]m_nSkin d80
-[RecvTable.DT_PropSurvival]m_networkedFlags 2d0
-[RecvTable.DT_PropSurvival]m_parentAttachment 34
-[RecvTable.DT_PropSurvival]m_parentAttachmentModel 758
-[RecvTable.DT_PropSurvival]m_realmsBitMask 930
-[RecvTable.DT_PropSurvival]m_skinMod d84
-[RecvTable.DT_PropSurvival]m_survivalPropFadeDist 1624
-[RecvTable.DT_PropSurvival]m_survivalProperty 1608
-[RecvTable.DT_PropSurvival]m_usableDistanceOverride 82c
-[RecvTable.DT_PropSurvival]m_usableFOV 830
-[RecvTable.DT_PropSurvival]m_usablePriority 828
-[RecvTable.DT_PropSurvival]m_usableType 5c
-[RecvTable.DT_PropSurvival]m_usePromptSize 834
-[RecvTable.DT_PropSurvival]m_visibilityFlags 32c
-[RecvTable.DT_PropSurvival]m_weaponNameIndex 1610
-[RecvTable.DT_PropSurvival]moveparent 30
-[RecvTable.DT_PushingEntState]angles 10
-[RecvTable.DT_PushingEntState]origin 4
-[RecvTable.DT_RopeKeyframe]m_RopeFlags ad8
-[RecvTable.DT_RopeKeyframe]m_Slack db4
-[RecvTable.DT_RopeKeyframe]m_TextureScale db8
-[RecvTable.DT_RopeKeyframe]m_Width dcc
-[RecvTable.DT_RopeKeyframe]m_bConstrainBetweenEndpoints e60
-[RecvTable.DT_RopeKeyframe]m_clrRender 80
-[RecvTable.DT_RopeKeyframe]m_constraintIterations dac
-[RecvTable.DT_RopeKeyframe]m_endOffset a80
-[RecvTable.DT_RopeKeyframe]m_fLockedPoints dbc
-[RecvTable.DT_RopeKeyframe]m_fadeDist 764
-[RecvTable.DT_RopeKeyframe]m_flScrollSpeed ad4
-[RecvTable.DT_RopeKeyframe]m_hEndPoint d68
-[RecvTable.DT_RopeKeyframe]m_hOwnerEntity 398
-[RecvTable.DT_RopeKeyframe]m_hPrevPoint d6c
-[RecvTable.DT_RopeKeyframe]m_hStartPoint d64
-[RecvTable.DT_RopeKeyframe]m_iEndAttachment d71
-[RecvTable.DT_RopeKeyframe]m_iRopeMaterialModelIndex adc
-[RecvTable.DT_RopeKeyframe]m_iStartAttachment d70
-[RecvTable.DT_RopeKeyframe]m_localOrigin 18
-[RecvTable.DT_RopeKeyframe]m_lockDirectionCutoffLength dc0
-[RecvTable.DT_RopeKeyframe]m_lockDirectionStrength dc4
-[RecvTable.DT_RopeKeyframe]m_nChangeCount dc8
-[RecvTable.DT_RopeKeyframe]m_nRenderMode 3a9
-[RecvTable.DT_RopeKeyframe]m_nSegments d60
-[RecvTable.DT_RopeKeyframe]m_parentAttachment 34
-[RecvTable.DT_RopeKeyframe]m_parentAttachmentModel 758
-[RecvTable.DT_RopeKeyframe]m_ropeDampening db0
-[RecvTable.DT_RopeKeyframe]m_ropeLength da4
-[RecvTable.DT_RopeKeyframe]m_ropeZiplineAutoDetachDistance 970
-[RecvTable.DT_RopeKeyframe]m_startOffset a74
-[RecvTable.DT_RopeKeyframe]m_subdivSliceCount da0
-[RecvTable.DT_RopeKeyframe]m_subdivStackCount d9c
-[RecvTable.DT_RopeKeyframe]m_visibilityFlags 32c
-[RecvTable.DT_RopeKeyframe]m_wiggleEndTime a90
-[RecvTable.DT_RopeKeyframe]m_wiggleFadeStartTime a8c
-[RecvTable.DT_RopeKeyframe]m_wiggleMagnitude a98
-[RecvTable.DT_RopeKeyframe]m_wiggleMaxLen a94
-[RecvTable.DT_RopeKeyframe]m_wiggleSpeed a9c
-[RecvTable.DT_RopeKeyframe]m_ziplineMoveSpeedScale a70
-[RecvTable.DT_RopeKeyframe]m_ziplineSagEnable 974
-[RecvTable.DT_RopeKeyframe]m_ziplineSagHeight 978
-[RecvTable.DT_RopeKeyframe]moveparent 30
-[RecvTable.DT_ScriptMoverLightweight]m_RotateToAnglesEnd 181c
-[RecvTable.DT_ScriptMoverLightweight]m_RotateToAnglesStart 1810
-[RecvTable.DT_ScriptMoverLightweight]m_fEffects 54
-[RecvTable.DT_ScriptMoverLightweight]m_fadeDist 764
-[RecvTable.DT_ScriptMoverLightweight]m_initialAngles 1854
-[RecvTable.DT_ScriptMoverLightweight]m_initialOrigin 1848
-[RecvTable.DT_ScriptMoverLightweight]m_meleeResponseFlags 2d8
-[RecvTable.DT_ScriptMoverLightweight]m_moveGravity 1798
-[RecvTable.DT_ScriptMoverLightweight]m_moveModeIsLocal 1871
-[RecvTable.DT_ScriptMoverLightweight]m_moveModeNonPhysics 1868
-[RecvTable.DT_ScriptMoverLightweight]m_moveToEndPos 1770
-[RecvTable.DT_ScriptMoverLightweight]m_moveToStartPos 1764
-[RecvTable.DT_ScriptMoverLightweight]m_moveToTimeEaseIn 1784
-[RecvTable.DT_ScriptMoverLightweight]m_moveToTimeEaseOut 1788
-[RecvTable.DT_ScriptMoverLightweight]m_moveToTimeEnd 1780
-[RecvTable.DT_ScriptMoverLightweight]m_moveToTimeStart 177c
-[RecvTable.DT_ScriptMoverLightweight]m_moveVelocity 178c
-[RecvTable.DT_ScriptMoverLightweight]m_moverNetworkAngularVelocity 148
-[RecvTable.DT_ScriptMoverLightweight]m_moverNetworkCellY 4
-[RecvTable.DT_ScriptMoverLightweight]m_moverNetworkCellZ 8
-[RecvTable.DT_ScriptMoverLightweight]m_moverNetworkLinearVelocity 378
-[RecvTable.DT_ScriptMoverLightweight]m_moverNetworkLocalAngles 384
-[RecvTable.DT_ScriptMoverLightweight]m_moverNetworkLocalOrigin c
-[RecvTable.DT_ScriptMoverLightweight]m_nModelIndex 60
-[RecvTable.DT_ScriptMoverLightweight]m_networkedFlags 2d0
-[RecvTable.DT_ScriptMoverLightweight]m_parentAttachment 34
-[RecvTable.DT_ScriptMoverLightweight]m_parentAttachmentModel 758
-[RecvTable.DT_ScriptMoverLightweight]m_rotateAxis 1838
-[RecvTable.DT_ScriptMoverLightweight]m_rotateModeIsLocal 1872
-[RecvTable.DT_ScriptMoverLightweight]m_rotateModeNonPhysics 186c
-[RecvTable.DT_ScriptMoverLightweight]m_rotateSpeed 1844
-[RecvTable.DT_ScriptMoverLightweight]m_rotateToTimeEaseIn 1830
-[RecvTable.DT_ScriptMoverLightweight]m_rotateToTimeEaseOut 1834
-[RecvTable.DT_ScriptMoverLightweight]m_rotateToTimeEnd 182c
-[RecvTable.DT_ScriptMoverLightweight]m_rotateToTimeStart 1828
-[RecvTable.DT_ScriptMoverLightweight]m_scriptNameIndex 588
-[RecvTable.DT_ScriptMoverLightweight]m_trainAcceleration 17c0
-[RecvTable.DT_ScriptMoverLightweight]m_trainAutoRollLookAheadDistance 1804
-[RecvTable.DT_ScriptMoverLightweight]m_trainAutoRollMax 1808
-[RecvTable.DT_ScriptMoverLightweight]m_trainAutoRollStrength 1800
-[RecvTable.DT_ScriptMoverLightweight]m_trainBreadcrumb 17d8
-[RecvTable.DT_ScriptMoverLightweight]m_trainBreadcrumbBegin 17f8
-[RecvTable.DT_ScriptMoverLightweight]m_trainBreadcrumbCount 17fc
-[RecvTable.DT_ScriptMoverLightweight]m_trainCurrentNode 17b0
-[RecvTable.DT_ScriptMoverLightweight]m_trainFollowDistance 17d4
-[RecvTable.DT_ScriptMoverLightweight]m_trainFollowMover 17d0
-[RecvTable.DT_ScriptMoverLightweight]m_trainGoalSpeed 17bc
-[RecvTable.DT_ScriptMoverLightweight]m_trainInitialSpeed 17b8
-[RecvTable.DT_ScriptMoverLightweight]m_trainLastDistance 17c8
-[RecvTable.DT_ScriptMoverLightweight]m_trainLastNode 17c4
-[RecvTable.DT_ScriptMoverLightweight]m_trainLastSpeed 17cc
-[RecvTable.DT_ScriptMoverLightweight]m_trainPitchMax 1860
-[RecvTable.DT_ScriptMoverLightweight]m_trainSimulateBeforeMeEntity 180c
-[RecvTable.DT_ScriptMoverLightweight]m_trainStartDistance 17ac
-[RecvTable.DT_ScriptMoverLightweight]m_trainStartTime 17a4
-[RecvTable.DT_ScriptMoverLightweight]m_trainStopNode 17b4
-[RecvTable.DT_ScriptMoverLightweight]m_trainStopTime 17a8
-[RecvTable.DT_ScriptMoverLightweight]m_useNonPhysicsMoveInterpolation 1884
-[RecvTable.DT_ScriptMoverLightweight]moveparent 30
-[RecvTable.DT_ScriptMoverTrainNode]m_cellY 4
-[RecvTable.DT_ScriptMoverTrainNode]m_cellZ 8
-[RecvTable.DT_ScriptMoverTrainNode]m_firstChildEntityLink 928
-[RecvTable.DT_ScriptMoverTrainNode]m_firstParentEntityLink 92c
-[RecvTable.DT_ScriptMoverTrainNode]m_localOrigin c
-[RecvTable.DT_ScriptMoverTrainNode]m_numSmoothPoints 970
-[RecvTable.DT_ScriptMoverTrainNode]m_perfectCircularRotation 97c
-[RecvTable.DT_ScriptMoverTrainNode]m_scriptNameIndex 588
-[RecvTable.DT_ScriptMoverTrainNode]m_tangentType 978
-[RecvTable.DT_ScriptMoverTrainNode]m_trainNodeMakeSmoothPointsParity 974
-[RecvTable.DT_ScriptMover]m_initialAngles 1854
-[RecvTable.DT_ScriptMover]m_initialOrigin 1848
-[RecvTable.DT_ScriptMover]m_localAngles 384
-[RecvTable.DT_ScriptMover]m_parentAttachment 34
-[RecvTable.DT_ScriptMover]m_vecAngVelocity 148
-[RecvTable.DT_ScriptMover]m_vecVelocity 378
-[RecvTable.DT_ScriptNetData_SNDC_DEATH_BOX]m_bools[0] c80
-[RecvTable.DT_ScriptNetData_SNDC_DEATH_BOX]m_entities[0] cd4
-[RecvTable.DT_ScriptNetData_SNDC_DEATH_BOX]m_float32s[0] cc8
-[RecvTable.DT_ScriptNetData_SNDC_DEATH_BOX]m_int32s[0] c90
-[RecvTable.DT_ScriptNetData_SNDC_DEATH_BOX]m_ranges[0] c86
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL]m_bools[0] c80
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL]m_entities[0] d90
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL]m_float32s[0] d28
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL]m_int32s[0] ce0
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL]m_ranges[0] c92
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL_NON_REWIND]m_bools[0] c80
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL_NON_REWIND]m_entities[0] d30
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL_NON_REWIND]m_float32s[0] ce8
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL_NON_REWIND]m_int32s[0] cb8
-[RecvTable.DT_ScriptNetData_SNDC_GLOBAL_NON_REWIND]m_ranges[0] c92
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE]m_bools[0] c80
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE]m_entities[0] d58
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE]m_float32s[0] d00
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE]m_int32s[0] ce0
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE]m_ranges[0] ca4
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE_EXPANDED]m_bools[0] c80
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE_EXPANDED]m_entities[0] d80
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE_EXPANDED]m_float32s[0] d28
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE_EXPANDED]m_int32s[0] d08
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE_EXPANDED]m_ranges[0] ca4
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_GLOBAL]m_bools[0] c80
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_GLOBAL]m_entities[0] db0
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_GLOBAL]m_float32s[0] d78
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_GLOBAL]m_int32s[0] ce0
-[RecvTable.DT_ScriptNetData_SNDC_PLAYER_GLOBAL]m_ranges[0] c92
-[RecvTable.DT_ScriptNetData_SNDC_TITAN_SOUL]m_bools[0] c80
-[RecvTable.DT_ScriptNetData_SNDC_TITAN_SOUL]m_entities[0] ce8
-[RecvTable.DT_ScriptNetData_SNDC_TITAN_SOUL]m_float32s[0] cc0
-[RecvTable.DT_ScriptNetData_SNDC_TITAN_SOUL]m_int32s[0] cb0
-[RecvTable.DT_ScriptNetData_SNDC_TITAN_SOUL]m_ranges[0] c8a
-[RecvTable.DT_ScriptProp]m_armorType 1704
-[RecvTable.DT_ScriptProp]m_bFollowsParentPlayerEyeYaw 1711
-[RecvTable.DT_ScriptProp]m_cloakEndTime 1bc
-[RecvTable.DT_ScriptProp]m_cloakFadeInDuration 1c8
-[RecvTable.DT_ScriptProp]m_cloakFadeInEndTime 1c0
-[RecvTable.DT_ScriptProp]m_cloakFadeOutStartTime 1c4
-[RecvTable.DT_ScriptProp]m_cloakFlickerAmount 1cc
-[RecvTable.DT_ScriptProp]m_cloakFlickerEndTime 1d0
-[RecvTable.DT_ScriptProp]m_footstepType 16c0
-[RecvTable.DT_ScriptProp]m_iHealth 324
-[RecvTable.DT_ScriptProp]m_iMaxHealth 470
-[RecvTable.DT_ScriptProp]m_minimapData 848
-[RecvTable.DT_ScriptProp]m_nameVisibilityFlags 898
-[RecvTable.DT_ScriptProp]m_renderColorFriendly 1700
-[RecvTable.DT_ScriptProp]m_renderColorFriendlyIsValid 1710
-[RecvTable.DT_ScriptProp]m_scriptPropFlags 1708
-[RecvTable.DT_ScriptProp]m_scriptPropSmartAmmoLockType 170c
-[RecvTable.DT_ScriptProp]m_title 16a0
-[RecvTable.DT_ScriptTraceVolume]m_boxMaxs 984
-[RecvTable.DT_ScriptTraceVolume]m_boxMins 978
-[RecvTable.DT_ScriptTraceVolume]m_drawDebug 990
-[RecvTable.DT_ScriptTraceVolume]m_shapeType 970
-[RecvTable.DT_ScriptTraceVolume]m_sphereRadius 974
-[RecvTable.DT_SequenceTransitionerLayer]m_sequenceTransitionerLayerActive 18
-[RecvTable.DT_SequenceTransitionerLayer]m_sequenceTransitionerLayerFadeOutDuration 30
-[RecvTable.DT_SequenceTransitionerLayer]m_sequenceTransitionerLayerPlaybackRate 28
-[RecvTable.DT_SequenceTransitionerLayer]m_sequenceTransitionerLayerSequence 20
-[RecvTable.DT_SequenceTransitionerLayer]m_sequenceTransitionerLayerStartCycle 1c
-[RecvTable.DT_SequenceTransitionerLayer]m_sequenceTransitionerLayerStartTime 2c
-[RecvTable.DT_ServerAnimationData]m_animSequence 1c
-[RecvTable.DT_ServerAnimationData]m_animStartCycle c
-[RecvTable.DT_ServerAnimationData]m_animStartTime 8
-[RecvTable.DT_ServerAnimationData]m_fireDeferredStopsStartTime da0
-[RecvTable.DT_ServerAnimationData]m_nResetEventsStartTime d98
-[RecvTable.DT_SoundData]m_networkTableID 10
-[RecvTable.DT_SoundData]m_seek 18
-[RecvTable.DT_SoundData]m_selector 1c
-[RecvTable.DT_SoundData]m_soundID 8
-[RecvTable.DT_SoundData]m_soundIsStart 14
-[RecvTable.DT_SpikeStripInfo]m_arePlayersInStrip 978
-[RecvTable.DT_SpikeStripInfo]m_enabledLocations 970
-[RecvTable.DT_SpikeStripInfo]m_mainSpike 97c
-[RecvTable.DT_SpikeStripInfo]m_mainSpikeCreationTime 980
-[RecvTable.DT_SpikeStripInfo]m_spikeLocalAngles c54
-[RecvTable.DT_SpikeStripInfo]m_spikeLocalOffsets a38
-[RecvTable.DT_SpikeStripInfo]m_spikeParents 984
-[RecvTable.DT_StatusEffectPlugin]m_hOwnerEntity 398
-[RecvTable.DT_StatusEffectPlugin]m_statusEffectsEndlessPluginNV 988
-[RecvTable.DT_StatusEffectPlugin]m_statusEffectsTimedPluginNV 970
-[RecvTable.DT_StatusEffectTimedData]seComboVars 8
-[RecvTable.DT_StatusEffectTimedData]seEaseOut 10
-[RecvTable.DT_StatusEffectTimedData]sePausedTimeRemaining 14
-[RecvTable.DT_StatusEffectTimedData]seTimeEnd c
-[RecvTable.DT_TEBreakModel]m_angRotation.x 34
-[RecvTable.DT_TEBreakModel]m_angRotation.y 38
-[RecvTable.DT_TEBreakModel]m_angRotation.z 3c
-[RecvTable.DT_TEBreakModel]m_fTime 64
-[RecvTable.DT_TEBreakModel]m_nCount 60
-[RecvTable.DT_TEBreakModel]m_nFlags 68
-[RecvTable.DT_TEBreakModel]m_nModelIndex 5c
-[RecvTable.DT_TEBreakModel]m_nRandomization 58
-[RecvTable.DT_TEBreakModel]m_vecOrigin 28
-[RecvTable.DT_TEBreakModel]m_vecSize 40
-[RecvTable.DT_TEBreakModel]m_vecVelocity 4c
-[RecvTable.DT_TEExplosion]m_chMaterialType 5c
-[RecvTable.DT_TEExplosion]m_fScale 38
-[RecvTable.DT_TEExplosion]m_impactEffectTableIndex 6c
-[RecvTable.DT_TEExplosion]m_nFlags 40
-[RecvTable.DT_TEExplosion]m_nFrameRate 3c
-[RecvTable.DT_TEExplosion]m_nMagnitude 68
-[RecvTable.DT_TEExplosion]m_nRadius 60
-[RecvTable.DT_TEExplosion]m_owner 74
-[RecvTable.DT_TEExplosion]m_surfaceProp 70
-[RecvTable.DT_TEExplosion]m_vecImpactDir 50
-[RecvTable.DT_TEExplosion]m_vecNormal 44
-[RecvTable.DT_TEExplosion]m_victim 78
-[RecvTable.DT_TEGibEvent]m_attackDir 2c
-[RecvTable.DT_TEGibEvent]m_hVictim 28
-[RecvTable.DT_TEParticleSystem]m_vecOrigin.x 28
-[RecvTable.DT_TEParticleSystem]m_vecOrigin.y 2c
-[RecvTable.DT_TEParticleSystem]m_vecOrigin.z 30
-[RecvTable.DT_TEPhysicsProp]m_angRotation.x 34
-[RecvTable.DT_TEPhysicsProp]m_angRotation.y 38
-[RecvTable.DT_TEPhysicsProp]m_angRotation.z 3c
-[RecvTable.DT_TEPhysicsProp]m_nEffects 58
-[RecvTable.DT_TEPhysicsProp]m_nFlags 54
-[RecvTable.DT_TEPhysicsProp]m_nModelIndex 4c
-[RecvTable.DT_TEPhysicsProp]m_nSkin 50
-[RecvTable.DT_TEPhysicsProp]m_vecOrigin 28
-[RecvTable.DT_TEPhysicsProp]m_vecVelocity 40
-[RecvTable.DT_TEProjectileTrail]m_endPos 38
-[RecvTable.DT_TEProjectileTrail]m_impactEffectTable 58
-[RecvTable.DT_TEProjectileTrail]m_modBitfield 48
-[RecvTable.DT_TEProjectileTrail]m_owner 28
-[RecvTable.DT_TEProjectileTrail]m_projectileTrailIndex 54
-[RecvTable.DT_TEProjectileTrail]m_startPos 2c
-[RecvTable.DT_TEProjectileTrail]m_weaponClassIndex 44
-[RecvTable.DT_TEScriptParticleSystemOnEntity]m_attachType 30
-[RecvTable.DT_TEScriptParticleSystemOnEntity]m_attachType2 34
-[RecvTable.DT_TEScriptParticleSystemOnEntity]m_attachmentId 38
-[RecvTable.DT_TEScriptParticleSystemOnEntity]m_attachmentId2 39
-[RecvTable.DT_TEScriptParticleSystemOnEntity]m_effectIndex 28
-[RecvTable.DT_TEScriptParticleSystemOnEntity]m_ent 2c
-[RecvTable.DT_TEScriptParticleSystem]m_angles 38
-[RecvTable.DT_TEScriptParticleSystem]m_controlPoint1 44
-[RecvTable.DT_TEScriptParticleSystem]m_effectIndex 28
-[RecvTable.DT_TEScriptParticleSystem]m_origin 2c
-[RecvTable.DT_TEShatterSurface]m_flHeight 5c
-[RecvTable.DT_TEShatterSurface]m_flShardSize 60
-[RecvTable.DT_TEShatterSurface]m_flWidth 58
-[RecvTable.DT_TEShatterSurface]m_nSurfaceType 64
-[RecvTable.DT_TEShatterSurface]m_vecAngles 34
-[RecvTable.DT_TEShatterSurface]m_vecForce 40
-[RecvTable.DT_TEShatterSurface]m_vecForcePos 4c
-[RecvTable.DT_TEShatterSurface]m_vecOrigin 28
-[RecvTable.DT_Team]m_iTeamTeamNum 97c
-[RecvTable.DT_Team]m_score 970
-[RecvTable.DT_Team]m_score2 974
-[RecvTable.DT_Team]m_scriptCustomValue 978
-[RecvTable.DT_Team]m_szTeamname 9a0
-[RecvTable.DT_Tether]health c
-[RecvTable.DT_Tether]healthDrainCutoffPct 1c
-[RecvTable.DT_Tether]healthDrainDelay 18
-[RecvTable.DT_Tether]healthDrainPerSec 20
-[RecvTable.DT_Tether]healthStretchDamageScale 24
-[RecvTable.DT_Tether]healthVelocityDamageScale 28
-[RecvTable.DT_Tether]maxHealth 10
-[RecvTable.DT_Tether]radius 2c
-[RecvTable.DT_Tether]strength 14
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntBlendInEaseInDuration 1c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntBlendInEaseOutDuration 20
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntBlendInTotalDuration 18
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntBlendOutDuration 24
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntDrawViewmodel 12
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntEnableCameraLag 13
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntFixedClientOnly 10
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntFixedDist 30
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntFixedHeight 34
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntFixedPitch 28
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntFixedRight 38
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntFixedYaw 2c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntFreezeLookControls 14
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntLookaheadLerpAheadRate bc
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntLookaheadLerpToCenterRate c0
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntLookaheadLowerEntSpeed b0
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntLookaheadMaxAngle b8
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntLookaheadUpperEntSpeed b4
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntMaxPitch a4
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntMaxYaw 9c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntMinPitch a0
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntMinYaw 98
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntPitchIsFreelook d
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntPushedInByGeo 11
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntShouldViewAnglesFollowThirdPersonEnt c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntSpringToCenterDelay ac
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntSpringToCenterRate a8
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntUseFixedDist f
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableDistEnd 40
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableDistEndTime 48
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableDistLerpLogGrowthFactor 50
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableDistLerpType 4c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableDistStart 3c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableDistStartTime 44
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableHeightEnd 58
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableHeightEndTime 60
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableHeightLerpLogGrowthFactor 68
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableHeightLerpType 64
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableHeightStart 54
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableHeightStartTime 5c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableRightEnd 70
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableRightEndTime 78
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableRightLerpLogGrowthFactor 80
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableRightLerpType 7c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableRightStart 6c
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntVariableRightStartTime 74
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntViewOffset.y 4
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntViewOffset.z 8
-[RecvTable.DT_ThirdPersonView]m_thirdPersonEntYawIsFreelook e
-[RecvTable.DT_TitanSoul]m_bEjecting cf9
-[RecvTable.DT_TitanSoul]m_bossPlayer 144
-[RecvTable.DT_TitanSoul]m_coreChargeExpireTime b20
-[RecvTable.DT_TitanSoul]m_coreChargeStartTime b28
-[RecvTable.DT_TitanSoul]m_coreUseDuration b2c
-[RecvTable.DT_TitanSoul]m_damageComboLatestUpdateTime b30
-[RecvTable.DT_TitanSoul]m_damageComboStartHealth b34
-[RecvTable.DT_TitanSoul]m_doomed cec
-[RecvTable.DT_TitanSoul]m_invalidHealthBarEnt cf8
-[RecvTable.DT_TitanSoul]m_isValidRodeoTarget cfa
-[RecvTable.DT_TitanSoul]m_lastRodeoHitTime b10
-[RecvTable.DT_TitanSoul]m_meleeResponseFlags 2d8
-[RecvTable.DT_TitanSoul]m_networkedFlags 2d0
-[RecvTable.DT_TitanSoul]m_nextCoreChargeAvailable b18
-[RecvTable.DT_TitanSoul]m_playerSettingsNum cf0
-[RecvTable.DT_TitanSoul]m_shieldHealth 190
-[RecvTable.DT_TitanSoul]m_shieldHealthMax 194
-[RecvTable.DT_TitanSoul]m_stance ce8
-[RecvTable.DT_TitanSoul]m_titan 970
-[RecvTable.DT_TitanSoul]m_titanSoulScriptNetData 978
-[RecvTable.DT_TitanSoul_StatusEffects]m_statusEffectsEndlessTitanSoulNV c28
-[RecvTable.DT_TitanSoul_StatusEffects]m_statusEffectsTimedTitanSoulNV b38
-[RecvTable.DT_TriggerCylinderHeavy]m_airControlMoveAccel a30
-[RecvTable.DT_TriggerCylinderHeavy]m_airControlMoveSpeed a2c
-[RecvTable.DT_TriggerCylinderHeavy]m_blackholeInnerMoveSpeed a48
-[RecvTable.DT_TriggerCylinderHeavy]m_blackholeInnerPullSpeed a40
-[RecvTable.DT_TriggerCylinderHeavy]m_blackholeInnerRadius a4c
-[RecvTable.DT_TriggerCylinderHeavy]m_blackholeIsStrongPulling a34
-[RecvTable.DT_TriggerCylinderHeavy]m_blackholeOuterMoveSpeed a44
-[RecvTable.DT_TriggerCylinderHeavy]m_blackholeOuterPullSpeed a3c
-[RecvTable.DT_TriggerCylinderHeavy]m_blackholeStrongPullAddlSpeed a38
-[RecvTable.DT_TriggerCylinderHeavy]m_enableDoubleJump a08
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityCannonLaunched 9fc
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftEjectForwardSpeed a20
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftEjectUpSpeed a1c
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftMaxEjectTime a24
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftMaxHoverTime a28
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftToCenterAccel a18
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftToCenterSpeed a14
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftUpAccel a10
-[RecvTable.DT_TriggerCylinderHeavy]m_gravityLiftUpSpeed a0c
-[RecvTable.DT_TriggerCylinderHeavy]m_launchDelayAmount a04
-[RecvTable.DT_TriggerCylinderHeavy]m_launchDir a74
-[RecvTable.DT_TriggerCylinderHeavy]m_launchFlightTime a00
-[RecvTable.DT_TriggerCylinderHeavy]m_launchPower 9e8
-[RecvTable.DT_TriggerCylinderHeavy]m_limitedAirControl a09
-[RecvTable.DT_TriggerCylinderHeavy]m_mortarRingSegementEnd a8c
-[RecvTable.DT_TriggerCylinderHeavy]m_mortarRingSegementStart a88
-[RecvTable.DT_TriggerCylinderHeavy]m_nextLaunchTime 9f8
-[RecvTable.DT_TriggerCylinderHeavy]m_punchHardAmount 9f0
-[RecvTable.DT_TriggerCylinderHeavy]m_punchRandomBoost 9f4
-[RecvTable.DT_TriggerCylinderHeavy]m_punchSoftAmount 9ec
-[RecvTable.DT_TriggerCylinderHeavy]m_teslaTrapBaseHeight a54
-[RecvTable.DT_TriggerCylinderHeavy]m_teslaTrapEnd a64
-[RecvTable.DT_TriggerCylinderHeavy]m_teslaTrapFXVisible a50
-[RecvTable.DT_TriggerCylinderHeavy]m_teslaTrapObstructedEndTime a5c
-[RecvTable.DT_TriggerCylinderHeavy]m_teslaTrapStart a60
-[RecvTable.DT_TriggerCylinderHeavy]m_teslaTrapUp a68
-[RecvTable.DT_TriggerCylinderHeavy]m_triggerType 9e0
-[RecvTable.DT_TriggerCylinderHeavy]m_vertOverride 9e4
-[RecvTable.DT_TriggerCylinderNetworked]m_aboveHeight 9bc
-[RecvTable.DT_TriggerCylinderNetworked]m_belowHeight 9c0
-[RecvTable.DT_TriggerCylinderNetworked]m_radius 9b8
-[RecvTable.DT_TriggerCylinderNetworked]m_triggerFilterMask 9b0
-[RecvTable.DT_TriggerPointGravity]m_constantPullStregnth 9c8
-[RecvTable.DT_TriggerPointGravity]m_pullAccel 9c0
-[RecvTable.DT_TriggerPointGravity]m_pullInnerRadius 9b4
-[RecvTable.DT_TriggerPointGravity]m_pullOuterRadius 9b0
-[RecvTable.DT_TriggerPointGravity]m_pullSpeed 9c4
-[RecvTable.DT_TriggerPointGravity]m_reduceSpeedInnerRadius 9bc
-[RecvTable.DT_TriggerPointGravity]m_reduceSpeedOuterRadius 9b8
-[RecvTable.DT_TriggerSlipSphere]m_defaultSlipDirection 9b0
-[RecvTable.DT_TriggerSlipSphere]m_slipAcceleration 9c0
-[RecvTable.DT_TriggerSlipSphere]m_slipSpeed 9bc
-[RecvTable.DT_TriggerSlipSphere]m_sphereOverrideRadius 9d0
-[RecvTable.DT_Turret]m_driver 195c
-[RecvTable.DT_Turret]m_driverDetachTime 198c
-[RecvTable.DT_Turret]m_driverState 1990
-[RecvTable.DT_Turret]m_forceAimPitch 1984
-[RecvTable.DT_Turret]m_forceAimYaw 1988
-[RecvTable.DT_Turret]m_iHealth 324
-[RecvTable.DT_Turret]m_iMaxHealth 470
-[RecvTable.DT_Turret]m_overlayEventParity 1711
-[RecvTable.DT_Turret]m_settingsIndex 1948
-[RecvTable.DT_Turret]m_title 19a0
-[RecvTable.DT_Turret]m_turretWeapon 1994
-[RecvTable.DT_UVAnimProp]m_bUVAnimPlaying 1680
-[RecvTable.DT_UVAnimProp]m_flLastKeyTime 1688
-[RecvTable.DT_UVAnimProp]m_flUVAnimStartTime 1684
-[RecvTable.DT_VFogVolume]m_absorption 9a0
-[RecvTable.DT_VFogVolume]m_ambientIntensity 9d4
-[RecvTable.DT_VFogVolume]m_ambientProbeOffset 9d8
-[RecvTable.DT_VFogVolume]m_edgeFade 9c8
-[RecvTable.DT_VFogVolume]m_emission 9b8
-[RecvTable.DT_VFogVolume]m_enabled a24
-[RecvTable.DT_VFogVolume]m_noiseAmplitude a10
-[RecvTable.DT_VFogVolume]m_noiseCenter a14
-[RecvTable.DT_VFogVolume]m_noiseScale a04
-[RecvTable.DT_VFogVolume]m_noiseVelocity_space 9f4
-[RecvTable.DT_VFogVolume]m_noiseVelocity_time a00
-[RecvTable.DT_VFogVolume]m_phaseG 9c4
-[RecvTable.DT_VFogVolume]m_scattering 9ac
-[RecvTable.DT_VFogVolume]m_shapeType 9cc
-[RecvTable.DT_VFogVolume]m_size a18
-[RecvTable.DT_VFogVolume]m_sunIntensity 9d0
-[RecvTable.DT_VFogVolume]m_zFarFadeEnd 9f0
-[RecvTable.DT_VFogVolume]m_zFarFadeStart 9ec
-[RecvTable.DT_VFogVolume]m_zNearFadeEnd 9e8
-[RecvTable.DT_VFogVolume]m_zNearFadeStart 9e4
-[RecvTable.DT_VGuiScreen]m_fScreenFlags 9a4
-[RecvTable.DT_VGuiScreen]m_flHeight 974
-[RecvTable.DT_VGuiScreen]m_flWidth 970
-[RecvTable.DT_VGuiScreen]m_hPlayerOwner a08
-[RecvTable.DT_VGuiScreen]m_nAttachmentId 99c
-[RecvTable.DT_VGuiScreen]m_nOverlayMaterial 9a0
-[RecvTable.DT_VGuiScreen]m_nPanelName 980
-[RecvTable.DT_VehicleDriverExclusive]m_cryptoDroneBatteryFraction 1fa4
-[RecvTable.DT_VehicleDriverExclusive]m_gravityLiftActive 1d21
-[RecvTable.DT_VehicleDriverExclusive]m_gravityLiftEnterTime 1d24
-[RecvTable.DT_VehicleDriverExclusive]m_gravityLiftExitTime 1d28
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleAccel 1e84
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleAirAccel 1ea0
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleAirStartTime 1ee4
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleBoostCollisionTime 1ec0
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleBoostCooldown 1eac
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleBoostMax 1ea8
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleBoostMin 1ea4
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleBoostPartialCooldown 1eb0
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleBoostRegenRate 1eb4
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleDebugFlyMode 1f38
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleDecel 1e90
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleDecelPowerBraking 1e9c
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleDriverInFreelook 1f14
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleGlideDuration 1ee8
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleHoverOffsetPrev[0] 1d70
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleIsBoosting 1ec4
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleIsGliding 1ec5
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleJumpBoostCost 1ed4
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleJumpDebounceDuration 1edc
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleJumpSpeed 1ed0
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleJumpToExit 1ecc
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleLastGlideEndTime 1eec
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleLastGlideStartTime 1ee0
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleLastJumpTime 1ed8
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleLookAheadAcceleration 1f18
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleMaxSpeed 1e80
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehiclePhysPush 1f74
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleSmoothTilt 1ef4
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleSmoothTiltVelocity 1f00
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleSmoothYaw 1f0c
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleSmoothYawVelocity 1f10
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleTotalBoostTime 1eb8
-[RecvTable.DT_VehicleDriverExclusive]m_hoverVehicleUsedBoostTime 1ebc
-[RecvTable.DT_VehicleDriverExclusive]m_inputHeldPostJump 1ef0
-[RecvTable.DT_VehicleDriverExclusive]m_jumpEffectsStarted 1d20
-[RecvTable.DT_VehicleDriverExclusive]m_localOrigin 18
-[RecvTable.DT_VehicleDriverExclusive]m_localOrigin.z 18
-[RecvTable.DT_VehicleDriverExclusive]m_pushedFixedPointOffset 2070
-[RecvTable.DT_VehicleNonDriverExclusive]m_cellY 4
-[RecvTable.DT_VehicleNonDriverExclusive]m_cellZ 8
-[RecvTable.DT_VehicleNonDriverExclusive]m_localOrigin c
-[RecvTable.DT_VehicleNonDriverExclusive]m_localOrigin.z c
-[RecvTable.DT_VortexSphere]m_bulletAbsorbedCount 980
-[RecvTable.DT_VortexSphere]m_bulletFov 97c
-[RecvTable.DT_VortexSphere]m_enabled 970
-[RecvTable.DT_VortexSphere]m_gunAttachment 9a0
-[RecvTable.DT_VortexSphere]m_height 978
-[RecvTable.DT_VortexSphere]m_iHealth 324
-[RecvTable.DT_VortexSphere]m_iMaxHealth 470
-[RecvTable.DT_VortexSphere]m_ownerWeapon 988
-[RecvTable.DT_VortexSphere]m_projectileAbsorbedCount 984
-[RecvTable.DT_VortexSphere]m_radius 974
-[RecvTable.DT_VortexSphere]m_spawnflags c4
-[RecvTable.DT_VortexSphere]m_useExactSphereRadiusForHit 9a8
-[RecvTable.DT_VortexSphere]m_vortexEffect 98c
-[RecvTable.DT_VortexSphere]m_vortexLocalAngles 990
-[RecvTable.DT_WaterLODControl]m_flCheapWaterEndDistance 974
-[RecvTable.DT_WaterLODControl]m_flCheapWaterStartDistance 970
-[RecvTable.DT_WeaponInventory]activeWeapons 64
-[RecvTable.DT_WeaponInventory]offhandWeapons 38
-[RecvTable.DT_WeaponInventory]weapons 8
-[RecvTable.DT_WeaponPlayerData]m_akimboDisabled ec
-[RecvTable.DT_WeaponPlayerData]m_chargeAnimIndex 78
-[RecvTable.DT_WeaponPlayerData]m_chargeAnimIndexOld 7c
-[RecvTable.DT_WeaponPlayerData]m_chargeDebounce 43
-[RecvTable.DT_WeaponPlayerData]m_charmAttachment e4
-[RecvTable.DT_WeaponPlayerData]m_charmItemFlavorGUID e8
-[RecvTable.DT_WeaponPlayerData]m_charmModelIndex e0
-[RecvTable.DT_WeaponPlayerData]m_clipModelIsHidden 4b
-[RecvTable.DT_WeaponPlayerData]m_cooldownMilestone a4
-[RecvTable.DT_WeaponPlayerData]m_curZoomFOV c0
-[RecvTable.DT_WeaponPlayerData]m_currentAltFireAnimIndex d8
-[RecvTable.DT_WeaponPlayerData]m_customActivityAttachedModelAttachmentId 64
-[RecvTable.DT_WeaponPlayerData]m_customActivityAttachedModelIndex 60
-[RecvTable.DT_WeaponPlayerData]m_didFirstDeploy 49
-[RecvTable.DT_WeaponPlayerData]m_fastHolster 48
-[RecvTable.DT_WeaponPlayerData]m_fastHolsterScale 3c
-[RecvTable.DT_WeaponPlayerData]m_fireRateLerp_startFraction 6c
-[RecvTable.DT_WeaponPlayerData]m_fireRateLerp_startTime 68
-[RecvTable.DT_WeaponPlayerData]m_fireRateLerp_stopFraction 74
-[RecvTable.DT_WeaponPlayerData]m_fireRateLerp_stopTime 70
-[RecvTable.DT_WeaponPlayerData]m_fullReloadStartTime ac
-[RecvTable.DT_WeaponPlayerData]m_kickPatternScaleBase 2c
-[RecvTable.DT_WeaponPlayerData]m_kickScaleBasePitch 24
-[RecvTable.DT_WeaponPlayerData]m_kickScaleBaseYaw 28
-[RecvTable.DT_WeaponPlayerData]m_kickSpreadADS 1c
-[RecvTable.DT_WeaponPlayerData]m_kickSpreadHipfire 18
-[RecvTable.DT_WeaponPlayerData]m_kickSpringHeatBaseTime 30
-[RecvTable.DT_WeaponPlayerData]m_kickSpringHeatBaseValue 34
-[RecvTable.DT_WeaponPlayerData]m_kickTime 20
-[RecvTable.DT_WeaponPlayerData]m_latestDryfireTime d0
-[RecvTable.DT_WeaponPlayerData]m_legendaryModelIndex dc
-[RecvTable.DT_WeaponPlayerData]m_moveSpread 8
-[RecvTable.DT_WeaponPlayerData]m_offhandHybridNormalMode 46
-[RecvTable.DT_WeaponPlayerData]m_pendingReloadAttempt 45
-[RecvTable.DT_WeaponPlayerData]m_pendingTriggerPull 41
-[RecvTable.DT_WeaponPlayerData]m_pendingoffhandHybridToss 47
-[RecvTable.DT_WeaponPlayerData]m_prevSeqWeight a8
-[RecvTable.DT_WeaponPlayerData]m_proScreen_float0 90
-[RecvTable.DT_WeaponPlayerData]m_proScreen_float1 94
-[RecvTable.DT_WeaponPlayerData]m_proScreen_float2 98
-[RecvTable.DT_WeaponPlayerData]m_proScreen_int0 84
-[RecvTable.DT_WeaponPlayerData]m_proScreen_int1 88
-[RecvTable.DT_WeaponPlayerData]m_proScreen_int2 8c
-[RecvTable.DT_WeaponPlayerData]m_proScreen_owner 80
-[RecvTable.DT_WeaponPlayerData]m_realtimeModCanADS 5c
-[RecvTable.DT_WeaponPlayerData]m_realtimeModCmdCount 5b
-[RecvTable.DT_WeaponPlayerData]m_realtimeModCmdHead 5a
-[RecvTable.DT_WeaponPlayerData]m_realtimeModCmds 52
-[RecvTable.DT_WeaponPlayerData]m_rechamberMilestone a0
-[RecvTable.DT_WeaponPlayerData]m_reloadMilestone 9c
-[RecvTable.DT_WeaponPlayerData]m_reloadStartedEmpty 4d
-[RecvTable.DT_WeaponPlayerData]m_requestedAttackEndTime d4
-[RecvTable.DT_WeaponPlayerData]m_scriptFlags0 b8
-[RecvTable.DT_WeaponPlayerData]m_scriptInt0 bc
-[RecvTable.DT_WeaponPlayerData]m_scriptInt1 be
-[RecvTable.DT_WeaponPlayerData]m_scriptTime0 b0
-[RecvTable.DT_WeaponPlayerData]m_scriptTime1 b4
-[RecvTable.DT_WeaponPlayerData]m_secondaryAttackRequested 42
-[RecvTable.DT_WeaponPlayerData]m_segmentedAnimStartedAkimbo 4f
-[RecvTable.DT_WeaponPlayerData]m_segmentedAnimStartedOneHanded 4e
-[RecvTable.DT_WeaponPlayerData]m_segmentedReloadCanRestartLoop 50
-[RecvTable.DT_WeaponPlayerData]m_segmentedReloadEndSeqRequired 4c
-[RecvTable.DT_WeaponPlayerData]m_segmentedReloadLoopFireLocked 51
-[RecvTable.DT_WeaponPlayerData]m_semiAutoNeedsRechamber 44
-[RecvTable.DT_WeaponPlayerData]m_semiAutoTriggerDown 40
-[RecvTable.DT_WeaponPlayerData]m_semiAutoTriggerHoldTime 38
-[RecvTable.DT_WeaponPlayerData]m_shouldCatch 4a
-[RecvTable.DT_WeaponPlayerData]m_spreadStartFracADS 14
-[RecvTable.DT_WeaponPlayerData]m_spreadStartFracHip 10
-[RecvTable.DT_WeaponPlayerData]m_spreadStartTime c
-[RecvTable.DT_WeaponPlayerData]m_targetZoomFOV c4
-[RecvTable.DT_WeaponPlayerData]m_zoomFOVLerpEndTime cc
-[RecvTable.DT_WeaponPlayerData]m_zoomFOVLerpTime c8
-[RecvTable.DT_WeaponX]m_ActiveState 162c
-[RecvTable.DT_WeaponX]m_allowedToUse 1648
-[RecvTable.DT_WeaponX]m_bClientSideAnimation f36
-[RecvTable.DT_WeaponX]m_chargeEndTime 1784
-[RecvTable.DT_WeaponX]m_chargeStartTime 1780
-[RecvTable.DT_WeaponX]m_chargeWithoutManualInputCancelled 178c
-[RecvTable.DT_WeaponX]m_curReactiveSkinKillCount 187f
-[RecvTable.DT_WeaponX]m_curReactiveSkinKnockdownCount 1880
-[RecvTable.DT_WeaponX]m_curSharedEnergyCost 1844
-[RecvTable.DT_WeaponX]m_customActivity 166e
-[RecvTable.DT_WeaponX]m_customActivityEndTime 1678
-[RecvTable.DT_WeaponX]m_customActivityFlags 167c
-[RecvTable.DT_WeaponX]m_customActivityOwner 1674
-[RecvTable.DT_WeaponX]m_customActivitySequence 1670
-[RecvTable.DT_WeaponX]m_discarded 1649
-[RecvTable.DT_WeaponX]m_droppedModelIndex 1620
-[RecvTable.DT_WeaponX]m_emissiveEventData 1888
-[RecvTable.DT_WeaponX]m_energizeState 1658
-[RecvTable.DT_WeaponX]m_energizedEndTime 1660
-[RecvTable.DT_WeaponX]m_forcedADS 164c
-[RecvTable.DT_WeaponX]m_fullyHeated 166c
-[RecvTable.DT_WeaponX]m_grappleWeaponNeedsDryfire 1848
-[RecvTable.DT_WeaponX]m_hasPendingMod 1840
-[RecvTable.DT_WeaponX]m_heatValue 1664
-[RecvTable.DT_WeaponX]m_heatValueOnLastFire 1668
-[RecvTable.DT_WeaponX]m_holsterModelIndex 161c
-[RecvTable.DT_WeaponX]m_iWorldModelIndex 1618
-[RecvTable.DT_WeaponX]m_idealActivity 1626
-[RecvTable.DT_WeaponX]m_idealSequence 1624
-[RecvTable.DT_WeaponX]m_isLoadoutPickup 18a4
-[RecvTable.DT_WeaponX]m_lastChargeFrac 1788
-[RecvTable.DT_WeaponX]m_lastEnergizeFrac 1790
-[RecvTable.DT_WeaponX]m_lastEnergizeState 1659
-[RecvTable.DT_WeaponX]m_lastTossedGrenade 1770
-[RecvTable.DT_WeaponX]m_lockedSet 18a0
-[RecvTable.DT_WeaponX]m_modBitfieldCurrent 17e4
-[RecvTable.DT_WeaponX]m_modBitfieldDisabled 17f0
-[RecvTable.DT_WeaponX]m_modBitfieldFromPlayer 17cc
-[RecvTable.DT_WeaponX]m_modBitfieldInternal 17d8
-[RecvTable.DT_WeaponX]m_needsEmptyCycleCheck 1776
-[RecvTable.DT_WeaponX]m_needsReloadCheck 1775
-[RecvTable.DT_WeaponX]m_oaActiveOverride 18bc
-[RecvTable.DT_WeaponX]m_offhandSwitchSlot 1654
-[RecvTable.DT_WeaponX]m_parentTurret 18c0
-[RecvTable.DT_WeaponX]m_pendingModIndex 183c
-[RecvTable.DT_WeaponX]m_playerData 1680
-[RecvTable.DT_WeaponX]m_scriptActivated 187e
-[RecvTable.DT_WeaponX]m_scriptControlledModValues 17fc
-[RecvTable.DT_WeaponX]m_scriptControlledModValuesMap 181c
-[RecvTable.DT_WeaponX]m_scriptFloat0 184c
-[RecvTable.DT_WeaponX]m_scriptVector 1870
-[RecvTable.DT_WeaponX]m_scriptVectorTransitionDuration 1850
-[RecvTable.DT_WeaponX]m_scriptVectorTransitionEnd 1864
-[RecvTable.DT_WeaponX]m_scriptVectorTransitionStart 1858
-[RecvTable.DT_WeaponX]m_scriptVectorTransitionStartTime 1854
-[RecvTable.DT_WeaponX]m_sharedWeaponXp 18c4
-[RecvTable.DT_WeaponX]m_shouldPlayIdleAnims 187c
-[RecvTable.DT_WeaponX]m_shouldPlaySprintAnims 187d
-[RecvTable.DT_WeaponX]m_skinOverride 1778
-[RecvTable.DT_WeaponX]m_skinOverrideIsValid 177c
-[RecvTable.DT_WeaponX]m_startEnergizingTime 165c
-[RecvTable.DT_WeaponX]m_sustainedDischargeEndTime 17c0
-[RecvTable.DT_WeaponX]m_sustainedDischargeIsInPrimaryAttack 17c8
-[RecvTable.DT_WeaponX]m_sustainedLaserCurrentSpread 17c4
-[RecvTable.DT_WeaponX]m_sustainedLaserNextRandomSeed 17c9
-[RecvTable.DT_WeaponX]m_targetingLaserEnabledScript 1774
-[RecvTable.DT_WeaponX]m_tossRelease 1650
-[RecvTable.DT_WeaponX]m_utilityEnt 18a8
-[RecvTable.DT_WeaponX]m_weapState 1644
-[RecvTable.DT_WeaponX]m_weaponActivity 1628
-[RecvTable.DT_WeaponX]m_weaponNameIndex 18b0
-[RecvTable.DT_WeaponX]m_weaponOwner 1600
-[RecvTable.DT_WeaponX]m_worldModelIndexOverride 1614
-[RecvTable.DT_WeaponX_LocalWeaponData]m_ammoInClip 1630
-[RecvTable.DT_WeaponX_LocalWeaponData]m_ammoInStockpile 1634
-[RecvTable.DT_WeaponX_LocalWeaponData]m_attackTimeThisFrame 1610
-[RecvTable.DT_WeaponX_LocalWeaponData]m_bInReload 164a
-[RecvTable.DT_WeaponX_LocalWeaponData]m_flTimeWeaponIdle 1640
-[RecvTable.DT_WeaponX_LocalWeaponData]m_infiniteAmmoState 1638
-[RecvTable.DT_WeaponX_LocalWeaponData]m_lastPrimaryAttackTime 1604
-[RecvTable.DT_WeaponX_LocalWeaponData]m_lifetimeShots 163c
-[RecvTable.DT_WeaponX_LocalWeaponData]m_nNextThinkTick 46c
-[RecvTable.DT_WeaponX_LocalWeaponData]m_nextPrimaryAttackTime 160c
-[RecvTable.DT_WeaponX_LocalWeaponData]m_nextReadyTime 1608
-[RecvTable.DT_WeaponX_LocalWeaponData]m_weaponIsActivelyFiring 3084
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_animModelIndexPredictingClientOnly 18b4
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_animSequencePredictingClientOnly 18b8
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_burstFireCount 17b0
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_burstFireIndex 17b4
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_chargeEnergyDepleteStepCounter 17a8
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_cooldownEndTime 1798
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_lastChargeLevel 17a0
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_lastFullyCharged 17a4
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_lastRegenTime 1794
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_shotCount 17bc
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_shotIndexForSpread 17b8
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_stockPileWasDraining 179c
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_weaponChargeLevelIncreasedAnimPlaying 179e
-[RecvTable.DT_WeaponX_PredictingClientOnly]m_weaponIsCharging 179d
-[RecvTable.DT_World]m_WorldMaxs 97c
-[RecvTable.DT_World]m_WorldMins 970
-[RecvTable.DT_World]m_bStartDark 988
-[RecvTable.DT_World]m_civilTeamsMaskA 1100
-[RecvTable.DT_World]m_civilTeamsMaskB 1110
-[RecvTable.DT_World]m_crossPlayGen5PcRealmsBitMask 1140
-[RecvTable.DT_World]m_crossPlayWithPcRealmsBitMask 1148
-[RecvTable.DT_World]m_deathFieldIsActive 9b8
-[RecvTable.DT_World]m_deathFieldOrigin 9f8
-[RecvTable.DT_World]m_deathFieldRadiusEnd df8
-[RecvTable.DT_World]m_deathFieldRadiusStart cf8
-[RecvTable.DT_World]m_deathFieldTimeEnd ff8
-[RecvTable.DT_World]m_deathFieldTimeStart ef8
-[RecvTable.DT_World]m_rabidTeamsMask 1128
-[RecvTable.DT_World]m_spTitanLoadoutUnlocks 9b4
-[RecvTable.DT_World]m_statusEffectsGenerationNV 9a4
-[RecvTable.DT_World]m_teamRelationRulesForPVE 10f8
-[RecvTable.DT_World]m_timeshiftArmDeviceSkin 9b0
-[RecvTable.DT_World]m_worldFlags 9ac
-[RecvTable.DT_ZiplineEnd]m_autoDetachDistance 970
-[RecvTable.DT_ZiplineEnd]m_prevZipline 978
-[RecvTable.DT_ZiplineEnd]m_verticalPushOffInDirectionX 974
-[RecvTable.DT_ZiplinePhysicsExlusive]m_nodes 28
-[RecvTable.DT_ZiplinePhysicsExlusive]m_numNodes 228
-[RecvTable.DT_ZiplinePhysicsExlusive]m_remainingUnsimulatedTime 234
-[RecvTable.DT_ZiplinePhysicsNode]position 8
-[RecvTable.DT_ZiplinePhysicsNode]prevPosition 14
-[RecvTable.DT_ZiplinePhysics]m_attachedEntities 240
-[RecvTable.DT_ZiplinePhysics]m_isInit 8
-[RecvTable.DT_ZiplinePhysics]m_numAttachedEntities 340
-[RecvTable.DT_ZiplinePhysics]m_outerZiplineEntity 238
-[RecvTable.DT_ZiplinePhysics]m_springDistance 22c
-[RecvTable.DT_ZiplinePhysics]m_springDistanceScale 230
-[RecvTable.DT_ZiplinePhysics]m_ziplineEnd 1c
-[RecvTable.DT_ZiplinePhysics]m_ziplineOwner 344
-[RecvTable.DT_ZiplinePhysics]m_ziplineStart 10
-[RecvTable.DT_ZiplinePhysics]m_ziplineType c
-[RecvTable.DT_Zipline]m_detachEndOnUse 970
-[RecvTable.DT_Zipline]m_dropToBottom 971
-[RecvTable.DT_Zipline]m_nextZipline b78
-[RecvTable.DT_Zipline]m_numZiplinePoints 8
-[RecvTable.DT_Zipline]m_numZiplineRestPositions f8c
-[RecvTable.DT_Zipline]m_prevZipline b74
-[RecvTable.DT_Zipline]m_ropeColorModulation 990
-[RecvTable.DT_Zipline]m_ziplineAutoDetachDistance 974
-[RecvTable.DT_Zipline]m_ziplineEnabled 984
-[RecvTable.DT_Zipline]m_ziplineFadeDist 988
-[RecvTable.DT_Zipline]m_ziplineMaterialIndex ec8
-[RecvTable.DT_Zipline]m_ziplineMountReverseDistance 978
-[RecvTable.DT_Zipline]m_ziplinePhysics b80
-[RecvTable.DT_Zipline]m_ziplinePositions c
-[RecvTable.DT_Zipline]m_ziplinePreventManualDetach 985
-[RecvTable.DT_Zipline]m_ziplineRestPositions ecc
-[RecvTable.DT_Zipline]m_ziplineSpeedScale 98c
-[RecvTable.DT_Zipline]m_ziplineVerticalPreserveVelocity 97d
-[RecvTable.DT_Zipline]m_ziplineVerticalPushOffInDirectionX 97c
-[RecvTable.DT_Zipline]m_ziplineWidth 980
-[RecvTable.DT_Ziprail]m_numSmoothPointsForPathNodes fa4
-[RecvTable.DT_Ziprail]m_numZiprailPathNodes fa0
-[RecvTable.DT_Ziprail]m_pathExtentsMaxs 12b4
-[RecvTable.DT_Ziprail]m_pathExtentsMins 12a8
-[RecvTable.DT_Ziprail]m_positionsForPathNodes 10a4
-[RecvTable.DT_Ziprail]m_smoothDistanceToNode 1224
-[RecvTable.DT_Ziprail]m_tangentTypesForPathNodes 1024
-[RecvTable.DT_Ziprail]m_ziprailPathLen 12a4
-[RecvTable.DT_Ziprail]m_ziprailUseAutoDetachSpeed 12c0
-[WeaponSettingsMeta]weps_count 50f
-[WeaponSettingsMeta]weps_list 56f1ac0
-[WeaponSettingsMeta]weps_types 25bb18a
-[WeaponSettings] 0
-[WeaponSettings]active_crosshair_count 2a8
-[WeaponSettings]active_optic_appearance 448
-[WeaponSettings]activitymodifier1p 148
-[WeaponSettings]activitymodifier3p 150
-[WeaponSettings]additional_holster_anim_duration 12a4
-[WeaponSettings]ads_anim_blend_enabled cd4
-[WeaponSettings]ads_button_presses_melee 3eb
-[WeaponSettings]ads_force_firstperson a74
-[WeaponSettings]ads_fov_zoomfrac_end a78
-[WeaponSettings]ads_fov_zoomfrac_start a7c
-[WeaponSettings]ads_move_speed_scale cd8
-[WeaponSettings]aimassist_adspull_weaponclass 138
-[WeaponSettings]aimassist_adspull_zoomEnd 140
-[WeaponSettings]aimassist_adspull_zoomStart 13c
-[WeaponSettings]aimassist_disable_ads 131
-[WeaponSettings]aimassist_disable_ads_humansonly 135
-[WeaponSettings]aimassist_disable_ads_titansonly 133
-[WeaponSettings]aimassist_disable_hipfire 130
-[WeaponSettings]aimassist_disable_hipfire_humansonly 134
-[WeaponSettings]aimassist_disable_hipfire_titansonly 132
-[WeaponSettings]akimbo_deploy_holsters_althand 147
-[WeaponSettings]akimbo_weapon_flip_mouse_button_input 144
-[WeaponSettings]allow_empty_fire 12d8
-[WeaponSettings]allow_headshots 1d0
-[WeaponSettings]allow_zoom_on_raise 3fc
-[WeaponSettings]alt_fire_alternates_viewkick_yaw 3ed
-[WeaponSettings]alt_fire_anim_count 3f4
-[WeaponSettings]alt_hand_3p_attach_name 400
-[WeaponSettings]althand_allow_mainhand_on_zipline 410
-[WeaponSettings]ammo_clip_random_loss_on_npc_drop 4c4
-[WeaponSettings]ammo_clip_random_loss_on_npc_drop_chunksize 4bc
-[WeaponSettings]ammo_clip_reload_max 928
-[WeaponSettings]ammo_clip_size 934
-[WeaponSettings]ammo_default_total 92c
-[WeaponSettings]ammo_display 388
-[WeaponSettings]ammo_display_as_clips 3b5
-[WeaponSettings]ammo_drains_to_empty_on_fire 3b4
-[WeaponSettings]ammo_min_to_fire 4cc
-[WeaponSettings]ammo_min_to_fire_autoreloads 4b8
-[WeaponSettings]ammo_no_remove_from_clip 3b7
-[WeaponSettings]ammo_no_remove_from_stockpile 3b6
-[WeaponSettings]ammo_per_shot 924
-[WeaponSettings]ammo_pool_type 374
-[WeaponSettings]ammo_regen_takes_from_stockpile 36c
-[WeaponSettings]ammo_size_segmented_reload 3b8
-[WeaponSettings]ammo_stockpile_max 930
-[WeaponSettings]ammo_suck_behavior a70
-[WeaponSettings]anim_alt_idleAttack 454
-[WeaponSettings]anim_reuse_fists 15a
-[WeaponSettings]anim_stop_start_gesture_on_attack 15b
-[WeaponSettings]ap_aim_accuracy_easy 188
-[WeaponSettings]ap_aim_accuracy_hard 18c
-[WeaponSettings]ap_leghead_ratio_easy 180
-[WeaponSettings]ap_leghead_ratio_hard 184
-[WeaponSettings]ap_max_burst 19c
-[WeaponSettings]ap_max_close_range_burst 1a4
-[WeaponSettings]ap_max_engage_range 1b4
-[WeaponSettings]ap_max_range_for_close_burst 1a8
-[WeaponSettings]ap_min_burst 198
-[WeaponSettings]ap_min_close_range_burst 1a0
-[WeaponSettings]ap_min_engage_range 1b8
-[WeaponSettings]ap_optimal_range 1bc
-[WeaponSettings]ap_rest_time_between_bursts_max 1b0
-[WeaponSettings]ap_rest_time_between_bursts_min 1ac
-[WeaponSettings]ap_zoom_accuracy_easy 190
-[WeaponSettings]ap_zoom_accuracy_hard 194
-[WeaponSettings]ap_zoom_allowed 1c0
-[WeaponSettings]attack_button_presses_ads 3ec
-[WeaponSettings]attack_button_presses_melee 3ea
-[WeaponSettings]auto_reload_no_ammo 1330
-[WeaponSettings]ballistic_type 860
-[WeaponSettings]battle_chatter_event 460
-[WeaponSettings]blast_pattern 1d8
-[WeaponSettings]blast_pattern_default_scale 1dc
-[WeaponSettings]blast_pattern_npc_scale 1e0
-[WeaponSettings]blast_pattern_zero_distance 1e4
-[WeaponSettings]body_skin 450
-[WeaponSettings]bodygroup10_set 20c
-[WeaponSettings]bodygroup11_set 210
-[WeaponSettings]bodygroup12_set 214
-[WeaponSettings]bodygroup13_set 218
-[WeaponSettings]bodygroup14_set 21c
-[WeaponSettings]bodygroup15_set 220
-[WeaponSettings]bodygroup16_set 224
-[WeaponSettings]bodygroup17_set 228
-[WeaponSettings]bodygroup18_set 22c
-[WeaponSettings]bodygroup19_set 230
-[WeaponSettings]bodygroup1_set 1e8
-[WeaponSettings]bodygroup20_set 234
-[WeaponSettings]bodygroup21_set 238
-[WeaponSettings]bodygroup22_set 23c
-[WeaponSettings]bodygroup23_set 240
-[WeaponSettings]bodygroup24_set 244
-[WeaponSettings]bodygroup25_set 248
-[WeaponSettings]bodygroup26_set 24c
-[WeaponSettings]bodygroup27_set 250
-[WeaponSettings]bodygroup28_set 254
-[WeaponSettings]bodygroup29_set 258
-[WeaponSettings]bodygroup2_set 1ec
-[WeaponSettings]bodygroup30_set 25c
-[WeaponSettings]bodygroup31_set 260
-[WeaponSettings]bodygroup32_set 264
-[WeaponSettings]bodygroup3_set 1f0
-[WeaponSettings]bodygroup4_set 1f4
-[WeaponSettings]bodygroup5_set 1f8
-[WeaponSettings]bodygroup6_set 1fc
-[WeaponSettings]bodygroup7_set 200
-[WeaponSettings]bodygroup8_set 204
-[WeaponSettings]bodygroup9_set 208
-[WeaponSettings]bodygroup_ads_scope_set 268
-[WeaponSettings]bodygroup_ammo_index_count 26c
-[WeaponSettings]bolt_bounce_frac 298
-[WeaponSettings]bolt_gravity_enabled 29c
-[WeaponSettings]bolt_hitsize 27c
-[WeaponSettings]bolt_hitsize_grow1_size 284
-[WeaponSettings]bolt_hitsize_grow1_time 280
-[WeaponSettings]bolt_hitsize_grow2_size 28c
-[WeaponSettings]bolt_hitsize_grow2_time 288
-[WeaponSettings]bolt_hitsize_growfinal_lerptime 290
-[WeaponSettings]bolt_hitsize_growfinal_size 294
-[WeaponSettings]bolt_zero_distance 2a0
-[WeaponSettings]bounce_effect_table 14c8
-[WeaponSettings]breaks_cloak 45c
-[WeaponSettings]burst_fire_count 12c8
-[WeaponSettings]burst_fire_delay 12cc
-[WeaponSettings]burst_fire_delay_ramp_bursts 12d4
-[WeaponSettings]burst_fire_delay_ramp_max 12d0
-[WeaponSettings]burst_or_looping_fire_sound_end 5f8
-[WeaponSettings]burst_or_looping_fire_sound_end_1p 638
-[WeaponSettings]burst_or_looping_fire_sound_end_3p 658
-[WeaponSettings]burst_or_looping_fire_sound_end_npc 618
-[WeaponSettings]burst_or_looping_fire_sound_middle 5f0
-[WeaponSettings]burst_or_looping_fire_sound_middle_1p 630
-[WeaponSettings]burst_or_looping_fire_sound_middle_3p 650
-[WeaponSettings]burst_or_looping_fire_sound_middle_npc 610
-[WeaponSettings]burst_or_looping_fire_sound_resume_1p 628
-[WeaponSettings]burst_or_looping_fire_sound_resume_3p 648
-[WeaponSettings]burst_or_looping_fire_sound_resume_npc 608
-[WeaponSettings]burst_or_looping_fire_sound_start 5e8
-[WeaponSettings]burst_or_looping_fire_sound_start_1p 620
-[WeaponSettings]burst_or_looping_fire_sound_start_3p 640
-[WeaponSettings]burst_or_looping_fire_sound_start_npc 600
-[WeaponSettings]bypass_semiauto_hold_protection 3e7
-[WeaponSettings]can_attack_when_dead 12e8
-[WeaponSettings]can_energize_when_energized 2f8
-[WeaponSettings]challeng_req 468
-[WeaponSettings]challenge_tier 470
-[WeaponSettings]chance_for_bonus_last_shot_in_clip 378
-[WeaponSettings]charge_additional_damage_multiplier 1224
-[WeaponSettings]charge_allow_anim_updates 1193
-[WeaponSettings]charge_allow_hold_when_full 1191
-[WeaponSettings]charge_allow_melee 1184
-[WeaponSettings]charge_allow_midway_charge 1183
-[WeaponSettings]charge_ammo_drain_time 11a4
-[WeaponSettings]charge_attack_min_charge_required 1174
-[WeaponSettings]charge_calculate_from_equip_time 11a8
-[WeaponSettings]charge_cooldown_delay 1158
-[WeaponSettings]charge_cooldown_time 1154
-[WeaponSettings]charge_cooldown_time_post_fire 1170
-[WeaponSettings]charge_curve_coefficients 1228
-[WeaponSettings]charge_delay_when_triggered_by_ADS 1188
-[WeaponSettings]charge_drain_sound_1p 11d0
-[WeaponSettings]charge_drain_sound_3p 11d8
-[WeaponSettings]charge_drain_sound_seek_to_charge_fraction 11e3
-[WeaponSettings]charge_drain_sound_stop_when_empty 11e2
-[WeaponSettings]charge_drains_ammo 11a0
-[WeaponSettings]charge_duration_used_for_anim_sequence_duration 1195
-[WeaponSettings]charge_effect2_1p 1350
-[WeaponSettings]charge_effect2_3p 1348
-[WeaponSettings]charge_effect2_attachment 11f0
-[WeaponSettings]charge_effect2_attachment_scoped 1208
-[WeaponSettings]charge_effect_1p 1370
-[WeaponSettings]charge_effect_3p 1368
-[WeaponSettings]charge_effect_attachment 11e8
-[WeaponSettings]charge_effect_attachment_scoped 1200
-[WeaponSettings]charge_effect_burn_mod_1p 1360
-[WeaponSettings]charge_effect_burn_mod_3p 1358
-[WeaponSettings]charge_effect_charge_full_ready_1p 1340
-[WeaponSettings]charge_effect_charge_full_ready_attachment 11f8
-[WeaponSettings]charge_effect_charge_full_ready_attachment_scoped 1210
-[WeaponSettings]charge_effect_show_during_drain 1218
-[WeaponSettings]charge_end_forces_fire 118c
-[WeaponSettings]charge_finish_primary_attack_on_cancel 1197
-[WeaponSettings]charge_frac_maintained_on_time_changed 1196
-[WeaponSettings]charge_fraction_scales_anim_rate 1194
-[WeaponSettings]charge_full_sound_1p 11c0
-[WeaponSettings]charge_full_sound_3p 11c8
-[WeaponSettings]charge_is_triggered_by_ADS 1185
-[WeaponSettings]charge_level_base 117c
-[WeaponSettings]charge_levels 1178
-[WeaponSettings]charge_maintained_until_fired 118e
-[WeaponSettings]charge_offhand_hybrid_switch_on_fully_charged 118d
-[WeaponSettings]charge_overheat_cooldown_delay 116c
-[WeaponSettings]charge_overheat_cooldown_time 115c
-[WeaponSettings]charge_overheat_cooldown_time_late1 1160
-[WeaponSettings]charge_overheat_cooldown_time_late2 1164
-[WeaponSettings]charge_overheat_cooldown_time_late3 1168
-[WeaponSettings]charge_overheats_when_full 1190
-[WeaponSettings]charge_remain_full_when_fired 118f
-[WeaponSettings]charge_require_input 1181
-[WeaponSettings]charge_require_input_once_manually_fired 1182
-[WeaponSettings]charge_rumble_max 1220
-[WeaponSettings]charge_rumble_min 121c
-[WeaponSettings]charge_sound_1p 11b0
-[WeaponSettings]charge_sound_3p 11b8
-[WeaponSettings]charge_sound_seek_to_charge_fraction 11e1
-[WeaponSettings]charge_sound_stop_when_full 11e0
-[WeaponSettings]charge_stop_on_mod_change 1198
-[WeaponSettings]charge_time 1150
-[WeaponSettings]charge_uses_debounce 1199
-[WeaponSettings]charge_weapon_fires_while_charging 1192
-[WeaponSettings]chroma_color 494
-[WeaponSettings]clear_fx_on_new_view_model 350
-[WeaponSettings]client_preview_fx_show_during_toss 393
-[WeaponSettings]client_preview_fx_show_from_hip 390
-[WeaponSettings]client_preview_fx_show_in_sprint 392
-[WeaponSettings]client_preview_fx_show_on_raise 391
-[WeaponSettings]client_preview_fx_show_only_if_ready 394
-[WeaponSettings]clip_bodygroup_show_for_milestone_0 278
-[WeaponSettings]clip_bodygroup_show_for_milestone_1 279
-[WeaponSettings]clip_bodygroup_show_for_milestone_2 27a
-[WeaponSettings]clip_bodygroup_show_for_milestone_3 27b
-[WeaponSettings]clone_anim_blending 3e2
-[WeaponSettings]clone_sync_to_player 3e1
-[WeaponSettings]cooldown_time 1298
-[WeaponSettings]cooldown_type 858
-[WeaponSettings]cooldown_viewkick_adsScale 960
-[WeaponSettings]cooldown_viewkick_hardScale 95c
-[WeaponSettings]cooldown_viewkick_pitch_base 940
-[WeaponSettings]cooldown_viewkick_pitch_random 944
-[WeaponSettings]cooldown_viewkick_pitch_random_innerexclude 948
-[WeaponSettings]cooldown_viewkick_softScale 958
-[WeaponSettings]cooldown_viewkick_yaw_base 94c
-[WeaponSettings]cooldown_viewkick_yaw_random 950
-[WeaponSettings]cooldown_viewkick_yaw_random_innerexclude 954
-[WeaponSettings]core_build_time 41c
-[WeaponSettings]core_duration 418
-[WeaponSettings]critical_hit 10fc
-[WeaponSettings]critical_hit_damage_scale 1100
-[WeaponSettings]crosshair_force_sprint_fade_disabled 2b0
-[WeaponSettings]custom_bool_0 c08
-[WeaponSettings]custom_bool_1 c09
-[WeaponSettings]custom_bool_2 c0a
-[WeaponSettings]custom_bool_3 c0b
-[WeaponSettings]custom_bool_4 c0c
-[WeaponSettings]custom_bool_5 c0d
-[WeaponSettings]custom_bool_6 c0e
-[WeaponSettings]custom_bool_7 c0f
-[WeaponSettings]custom_float_0 c30
-[WeaponSettings]custom_float_1 c34
-[WeaponSettings]custom_float_2 c38
-[WeaponSettings]custom_float_3 c3c
-[WeaponSettings]custom_float_4 c40
-[WeaponSettings]custom_float_5 c44
-[WeaponSettings]custom_float_6 c48
-[WeaponSettings]custom_float_7 c4c
-[WeaponSettings]custom_haptics_control 52c
-[WeaponSettings]custom_int_0 c10
-[WeaponSettings]custom_int_1 c14
-[WeaponSettings]custom_int_2 c18
-[WeaponSettings]custom_int_3 c1c
-[WeaponSettings]custom_int_4 c20
-[WeaponSettings]custom_int_5 c24
-[WeaponSettings]custom_int_6 c28
-[WeaponSettings]custom_int_7 c2c
-[WeaponSettings]custom_laser_sight_color_enabled c97
-[WeaponSettings]cycle_to_next_when_out_of_ammo 12ed
-[WeaponSettings]damage_additional_bullets 10d8
-[WeaponSettings]damage_additional_bullets_titanarmor 1148
-[WeaponSettings]damage_falloff_type 10c4
-[WeaponSettings]damage_far_distance 110c
-[WeaponSettings]damage_far_value 10cc
-[WeaponSettings]damage_far_value_titanarmor 1140
-[WeaponSettings]damage_flags 10c0
-[WeaponSettings]damage_headshot_scale 10dc
-[WeaponSettings]damage_inverse_distance 1114
-[WeaponSettings]damage_leg_scale 10e4
-[WeaponSettings]damage_near_distance 1108
-[WeaponSettings]damage_near_value 10c8
-[WeaponSettings]damage_near_value_titanarmor 113c
-[WeaponSettings]damage_rodeo 10d4
-[WeaponSettings]damage_shield_scale 10ec
-[WeaponSettings]damage_unshielded_scale 10e8
-[WeaponSettings]damage_very_far_distance 1110
-[WeaponSettings]damage_very_far_value 10d0
-[WeaponSettings]damage_very_far_value_titanarmor 1144
-[WeaponSettings]damage_viewpunch_scale 1104
-[WeaponSettings]deflect_missile_impacts 408
-[WeaponSettings]deflect_missile_impacts_dot 40c
-[WeaponSettings]deploy_allow_ads 1268
-[WeaponSettings]deploy_time 125c
-[WeaponSettings]deploycatch_time 1264
-[WeaponSettings]deployfirst_time 1260
-[WeaponSettings]description 3d0
-[WeaponSettings]destroy_on_all_ammo_take 384
-[WeaponSettings]destroy_on_drop 491
-[WeaponSettings]disable_zoomed_rechamber 540
-[WeaponSettings]disallow_sprint_when_held 4c0
-[WeaponSettings]dof_nearDepthEnd 2bc
-[WeaponSettings]dof_nearDepthStart 2b8
-[WeaponSettings]dof_zoom_focusArea_Bottom 2d0
-[WeaponSettings]dof_zoom_focusArea_Horizontal 2c8
-[WeaponSettings]dof_zoom_focusArea_Top 2cc
-[WeaponSettings]dof_zoom_nearDepthEnd 2c4
-[WeaponSettings]dof_zoom_nearDepthStart 2c0
-[WeaponSettings]enable_highlight_networking_on_creation 541
-[WeaponSettings]energize_activity_time 2e0
-[WeaponSettings]energize_effect0_1p 1578
-[WeaponSettings]energize_effect0_3p 1570
-[WeaponSettings]energize_effect0_attachment 2e8
-[WeaponSettings]energize_effect0_attachment_scope 2f0
-[WeaponSettings]energize_on_reload_input 123e
-[WeaponSettings]energized_duration 2d8
-[WeaponSettings]energized_primary_attack_effect_1p 1568
-[WeaponSettings]energized_primary_attack_effect_3p 1560
-[WeaponSettings]energized_time_consumed_per_shot 2dc
-[WeaponSettings]explosion_damage 111c
-[WeaponSettings]explosion_damage_flags 1118
-[WeaponSettings]explosion_damage_heavy_armor 1120
-[WeaponSettings]explosion_damages_owner 1138
-[WeaponSettings]explosion_inner_radius 1130
-[WeaponSettings]explosion_shake_amplitude e10
-[WeaponSettings]explosion_shake_duration e18
-[WeaponSettings]explosion_shake_frequency e14
-[WeaponSettings]explosion_shake_radius e0c
-[WeaponSettings]explosionradius 1134
-[WeaponSettings]fast_swap_from 123c
-[WeaponSettings]fast_swap_scale 1238
-[WeaponSettings]fast_swap_to 123d
-[WeaponSettings]fire_duration 12c0
-[WeaponSettings]fire_in_real_world_while_phased 411
-[WeaponSettings]fire_mode 12a8
-[WeaponSettings]fire_rate 12ac
-[WeaponSettings]fire_rate_max 12b0
-[WeaponSettings]fire_rate_max_time_cooldown 12b8
-[WeaponSettings]fire_rate_max_time_speedup 12b4
-[WeaponSettings]fire_rate_max_use_ads 12bc
-[WeaponSettings]fire_rumble 12e0
-[WeaponSettings]fire_sound_1 558
-[WeaponSettings]fire_sound_1_npc 578
-[WeaponSettings]fire_sound_1_player_1p 598
-[WeaponSettings]fire_sound_1_player_3p 5b8
-[WeaponSettings]fire_sound_2 560
-[WeaponSettings]fire_sound_2_npc 580
-[WeaponSettings]fire_sound_2_player_1p 5a0
-[WeaponSettings]fire_sound_2_player_3p 5c0
-[WeaponSettings]fire_sound_3 568
-[WeaponSettings]fire_sound_3_npc 588
-[WeaponSettings]fire_sound_3_player_1p 5a8
-[WeaponSettings]fire_sound_3_player_3p 5c8
-[WeaponSettings]fire_sound_first_shot 570
-[WeaponSettings]fire_sound_first_shot_npc 590
-[WeaponSettings]fire_sound_first_shot_player_1p 5b0
-[WeaponSettings]fire_sound_first_shot_player_3p 5d0
-[WeaponSettings]fire_sound_partial_burst_player_1p 5d8
-[WeaponSettings]fire_sound_partial_burst_player_3p 5e0
-[WeaponSettings]fire_to_redirect_projectile_mid_flight 412
-[WeaponSettings]force_has_weapon_clone 3e0
-[WeaponSettings]force_zoom_in_on_activate d38
-[WeaponSettings]fully_heated_effect_1p 14e8
-[WeaponSettings]fully_heated_effect_3p 14e0
-[WeaponSettings]fully_heated_sound_1p 768
-[WeaponSettings]fully_heated_sound_3p 770
-[WeaponSettings]fx_muzzle_flash2_attach 318
-[WeaponSettings]fx_muzzle_flash2_attach_scoped 338
-[WeaponSettings]fx_muzzle_flash2_view 1548
-[WeaponSettings]fx_muzzle_flash2_world 1540
-[WeaponSettings]fx_muzzle_flash_attach 310
-[WeaponSettings]fx_muzzle_flash_attach_scoped 330
-[WeaponSettings]fx_muzzle_flash_view 1558
-[WeaponSettings]fx_muzzle_flash_world 1550
-[WeaponSettings]fx_shell_eject2_attach 328
-[WeaponSettings]fx_shell_eject2_attach_scoped 348
-[WeaponSettings]fx_shell_eject2_view 1528
-[WeaponSettings]fx_shell_eject2_world 1520
-[WeaponSettings]fx_shell_eject_attach 320
-[WeaponSettings]fx_shell_eject_attach_scoped 340
-[WeaponSettings]fx_shell_eject_view 1538
-[WeaponSettings]fx_shell_eject_world 1530
-[WeaponSettings]gamepad_use_yaw_speed_for_pitch_ads 3e8
-[WeaponSettings]give_command_forced_inventory_slot 3f0
-[WeaponSettings]grapple_maxLength 3a4
-[WeaponSettings]grapple_maxLengthVert 3a8
-[WeaponSettings]grapple_power_required 39c
-[WeaponSettings]grapple_power_use_rate 3a0
-[WeaponSettings]grapple_retractVel 3b0
-[WeaponSettings]grapple_scaled_ammo_drain 398
-[WeaponSettings]grapple_shootVel 3ac
-[WeaponSettings]grapple_weapon 397
-[WeaponSettings]grenade_angle_dependant_throw_max_speed_angle 1070
-[WeaponSettings]grenade_angle_dependant_throw_min_speed 106c
-[WeaponSettings]grenade_angle_dependant_throw_min_speed_angle 1074
-[WeaponSettings]grenade_arc_impact_indicator_blocked_effect 1378
-[WeaponSettings]grenade_arc_impact_indicator_effect 1380
-[WeaponSettings]grenade_arc_indicator_bounce_count 1084
-[WeaponSettings]grenade_arc_indicator_effect 1390
-[WeaponSettings]grenade_arc_indicator_effect_first 1388
-[WeaponSettings]grenade_arc_indicator_extra_bounce_for_hit_normal 1088
-[WeaponSettings]grenade_arc_indicator_ignore_base_velocity 1089
-[WeaponSettings]grenade_arc_indicator_max_duration 1080
-[WeaponSettings]grenade_arc_indicator_show_during_toss 107c
-[WeaponSettings]grenade_arc_indicator_show_floor_impact 1091
-[WeaponSettings]grenade_arc_indicator_show_from_hip 1079
-[WeaponSettings]grenade_arc_indicator_show_in_sprint_if_ready 107b
-[WeaponSettings]grenade_arc_indicator_show_landing_position 108a
-[WeaponSettings]grenade_arc_indicator_show_on_raise_if_ready 107a
-[WeaponSettings]grenade_arc_indicator_show_wall_impact 1090
-[WeaponSettings]grenade_arc_indicator_show_while_airborne 107d
-[WeaponSettings]grenade_arc_indicator_smooth 108b
-[WeaponSettings]grenade_arc_indicator_smooth_radius 108c
-[WeaponSettings]grenade_bounce_extra_vertical_randomness 1010
-[WeaponSettings]grenade_bounce_randomness 100c
-[WeaponSettings]grenade_bounce_vel_frac_along_normal 1008
-[WeaponSettings]grenade_bounce_vel_frac_shallow 1000
-[WeaponSettings]grenade_bounce_vel_frac_sharp 1004
-[WeaponSettings]grenade_can_roll 1014
-[WeaponSettings]grenade_death_drop_velocity_extraUp 1058
-[WeaponSettings]grenade_death_drop_velocity_scale 1054
-[WeaponSettings]grenade_drop_to_ground_bounce_vel_frac 1064
-[WeaponSettings]grenade_drop_to_ground_on_bounce 1061
-[WeaponSettings]grenade_drop_velocity 1068
-[WeaponSettings]grenade_fuse_time 1048
-[WeaponSettings]grenade_hull_maxs 1030
-[WeaponSettings]grenade_hull_mins 1024
-[WeaponSettings]grenade_ignition_time 104c
-[WeaponSettings]grenade_ignore_friendly_players 105f
-[WeaponSettings]grenade_ignore_planted_grenades 1060
-[WeaponSettings]grenade_mover_destroy_when_planted 105d
-[WeaponSettings]grenade_orient_to_velocity 1050
-[WeaponSettings]grenade_radius_horizontal 1020
-[WeaponSettings]grenade_radius_vertical 101c
-[WeaponSettings]grenade_roll_vel_frac_per_second 1018
-[WeaponSettings]grenade_touch_triggers_on_impact 105e
-[WeaponSettings]grenade_use_mask_ability 105c
-[WeaponSettings]grenade_view_launch_offset 103c
-[WeaponSettings]has_energized 2d4
-[WeaponSettings]has_heat_decay 4a8
-[WeaponSettings]has_linked_anims 159
-[WeaponSettings]has_mp_artifact_activation_emote_activity 15e
-[WeaponSettings]has_mp_weapon_inspect_activity 15d
-[WeaponSettings]headshot_distance 10e0
-[WeaponSettings]heartbeat_sensor_size 4b4
-[WeaponSettings]heat_decay_sound_1p 778
-[WeaponSettings]heat_decay_sound_3p 780
-[WeaponSettings]heat_decay_sound_play_only_on_fully_heated_decay 788
-[WeaponSettings]heat_per_bullet 4a4
-[WeaponSettings]heat_per_melee_attack 4ac
-[WeaponSettings]heat_tracks_charge 4a0
-[WeaponSettings]hideForSkydive 4d0
-[WeaponSettings]hide_holstered_sidearm_when_active 2a
-[WeaponSettings]hide_when_holstered 4d1
-[WeaponSettings]holster_angles_offset 124c
-[WeaponSettings]holster_offset 1240
-[WeaponSettings]holster_time 1258
-[WeaponSettings]holster_type 85c
-[WeaponSettings]holstermodel 1490
-[WeaponSettings]hud_icon 1440
-[WeaponSettings]hud_icon_akimbo 1438
-[WeaponSettings]hud_icon_akimbo_active 1430
-[WeaponSettings]hud_icon_akimbo_mastered 1428
-[WeaponSettings]idle_sound_player_1p 660
-[WeaponSettings]ignition_distance d78
-[WeaponSettings]ignition_effect da8
-[WeaponSettings]ignition_sound da0
-[WeaponSettings]ignore_attack_input 12eb
-[WeaponSettings]impact_effect_table 14d8
-[WeaponSettings]impact_effect_table_aliases 14d0
-[WeaponSettings]impulse_force 10f8
-[WeaponSettings]impulse_force_explosions 112c
-[WeaponSettings]instant_swap_from 1236
-[WeaponSettings]instant_swap_to 1237
-[WeaponSettings]interrupt_looping_sound_on_mod_update 758
-[WeaponSettings]inverse_attack_input 12ea
-[WeaponSettings]is_akimbo_weapon 145
-[WeaponSettings]is_artifact 856
-[WeaponSettings]is_burn_mod 853
-[WeaponSettings]is_clacker 852
-[WeaponSettings]is_consumable 850
-[WeaponSettings]is_event_only_melee 855
-[WeaponSettings]is_heirloom 854
-[WeaponSettings]is_melee_weapon f92
-[WeaponSettings]is_psuedo_artifact 857
-[WeaponSettings]is_semi_auto 3e4
-[WeaponSettings]is_twohanded_consumable 851
-[WeaponSettings]l_trig_custom_mode 53c
-[WeaponSettings]l_trig_custom_str 538
-[WeaponSettings]lifesteal_heal_percent 4b0
-[WeaponSettings]lifetime_shots_default 37c
-[WeaponSettings]loadout_child_ref 10b8
-[WeaponSettings]loadout_parent_ref 10b0
-[WeaponSettings]loadout_selectable 10a4
-[WeaponSettings]loadout_type 10a8
-[WeaponSettings]locks_weapon_change 3e9
-[WeaponSettings]longdesc 3d8
-[WeaponSettings]looping_sounds 430
-[WeaponSettings]low_ammo_fraction 380
-[WeaponSettings]low_ammo_sound_name_1 668
-[WeaponSettings]low_ammo_sound_name_10 6b0
-[WeaponSettings]low_ammo_sound_name_11 6b8
-[WeaponSettings]low_ammo_sound_name_12 6c0
-[WeaponSettings]low_ammo_sound_name_13 6c8
-[WeaponSettings]low_ammo_sound_name_14 6d0
-[WeaponSettings]low_ammo_sound_name_15 6d8
-[WeaponSettings]low_ammo_sound_name_2 670
-[WeaponSettings]low_ammo_sound_name_3 678
-[WeaponSettings]low_ammo_sound_name_4 680
-[WeaponSettings]low_ammo_sound_name_5 688
-[WeaponSettings]low_ammo_sound_name_6 690
-[WeaponSettings]low_ammo_sound_name_7 698
-[WeaponSettings]low_ammo_sound_name_8 6a0
-[WeaponSettings]low_ammo_sound_name_9 6a8
-[WeaponSettings]low_ammo_sound_range_name_1 6e0
-[WeaponSettings]low_ammo_sound_range_name_2 6e8
-[WeaponSettings]low_ammo_sound_range_name_3 6f0
-[WeaponSettings]low_ammo_sound_range_start_1 75c
-[WeaponSettings]low_ammo_sound_range_start_2 760
-[WeaponSettings]low_ammo_sound_range_start_3 764
-[WeaponSettings]lower_time 126c
-[WeaponSettings]max_cook_time 1284
-[WeaponSettings]max_fidget_time 12a0
-[WeaponSettings]melee_allow_held f91
-[WeaponSettings]melee_angle fb4
-[WeaponSettings]melee_anim_1p f80
-[WeaponSettings]melee_anim_3p f88
-[WeaponSettings]melee_attack_animtime f74
-[WeaponSettings]melee_can_hit_humansized fa8
-[WeaponSettings]melee_can_hit_titans fa9
-[WeaponSettings]melee_damage ff8
-[WeaponSettings]melee_damage_heavyarmor ffc
-[WeaponSettings]melee_damagesource_override ff0
-[WeaponSettings]melee_freezelook_on_hit fc8
-[WeaponSettings]melee_has_charge fe1
-[WeaponSettings]melee_has_gesture f90
-[WeaponSettings]melee_has_primary_attack f93
-[WeaponSettings]melee_has_secondary_attack f94
-[WeaponSettings]melee_knockback_duration fe8
-[WeaponSettings]melee_knockback_velocity_magnitude fac
-[WeaponSettings]melee_knockback_velocity_reduction_magnitude fe4
-[WeaponSettings]melee_lunge_no_target_range fa0
-[WeaponSettings]melee_lunge_target_angle fa4
-[WeaponSettings]melee_lunge_target_range f9c
-[WeaponSettings]melee_lunge_time f98
-[WeaponSettings]melee_raise_recovery_animtime_normal f78
-[WeaponSettings]melee_raise_recovery_animtime_quick f7c
-[WeaponSettings]melee_range fb0
-[WeaponSettings]melee_respect_next_attack_time fe0
-[WeaponSettings]melee_rumble_on_hit fb8
-[WeaponSettings]melee_rumble_on_hit_partial fc0
-[WeaponSettings]melee_sound_attack_1p fd0
-[WeaponSettings]melee_sound_attack_3p fd8
-[WeaponSettings]menu_alt_icon ab0
-[WeaponSettings]menu_icon aa8
-[WeaponSettings]menu_image aa0
-[WeaponSettings]min_fidget_time 129c
-[WeaponSettings]minimap_reveal_distance 458
-[WeaponSettings]missile_hit_only_friendlies 1078
-[WeaponSettings]mod_description 488
-[WeaponSettings]mod_print_name 478
-[WeaponSettings]mod_short_print_name 480
-[WeaponSettings]move_speed_modifier cd0
-[WeaponSettings]move_speed_modifier_ads_passive c98
-[WeaponSettings]move_speed_modifier_cap ca4
-[WeaponSettings]net_bullet_fix 12c4
-[WeaponSettings]never_drop 490
-[WeaponSettings]npc_accuracy_multiplier_heavy_armor eb8
-[WeaponSettings]npc_accuracy_multiplier_npc ec0
-[WeaponSettings]npc_accuracy_multiplier_pilot ebc
-[WeaponSettings]npc_aim_at_feet e47
-[WeaponSettings]npc_aim_at_feet_vs_heavy_armor e48
-[WeaponSettings]npc_attack_cone_angle e20
-[WeaponSettings]npc_burst_radius_distribution_bias_max_precision edc
-[WeaponSettings]npc_burst_radius_distribution_bias_min_precision ed8
-[WeaponSettings]npc_burst_radius_max_precision ed4
-[WeaponSettings]npc_burst_radius_min_precision ed0
-[WeaponSettings]npc_burst_secondary e40
-[WeaponSettings]npc_charge_time_max e78
-[WeaponSettings]npc_charge_time_min e74
-[WeaponSettings]npc_check_last_attack_time_for_looping_fire ee0
-[WeaponSettings]npc_clear_charge_if_not_fired e4f
-[WeaponSettings]npc_compensate_gravity e51
-[WeaponSettings]npc_damage_far_distance f00
-[WeaponSettings]npc_damage_far_value eec
-[WeaponSettings]npc_damage_far_value_titanarmor ef0
-[WeaponSettings]npc_damage_near_distance efc
-[WeaponSettings]npc_damage_near_value ee4
-[WeaponSettings]npc_damage_near_value_titanarmor ee8
-[WeaponSettings]npc_damage_very_far_distance f04
-[WeaponSettings]npc_damage_very_far_value ef4
-[WeaponSettings]npc_damage_very_far_value_titanarmor ef8
-[WeaponSettings]npc_dangerous_to_heavy_armor e4c
-[WeaponSettings]npc_dangerous_to_normal_armor e4b
-[WeaponSettings]npc_directed_fire_ang_limit eb0
-[WeaponSettings]npc_explosion_damage 1124
-[WeaponSettings]npc_explosion_damage_heavy_armor 1128
-[WeaponSettings]npc_fire_at_enemy_defense_time e9c
-[WeaponSettings]npc_full_auto_vs_heavy_armor e45
-[WeaponSettings]npc_lead_projectiles e50
-[WeaponSettings]npc_lead_projectiles_fraction_max_precision e58
-[WeaponSettings]npc_lead_projectiles_fraction_min_precision e54
-[WeaponSettings]npc_lob_shot_pitch ecc
-[WeaponSettings]npc_max_burst e28
-[WeaponSettings]npc_max_burst_max_precision e38
-[WeaponSettings]npc_max_burst_min_precision e30
-[WeaponSettings]npc_max_engage_range e90
-[WeaponSettings]npc_max_engage_range_heavy_armor e98
-[WeaponSettings]npc_max_range e80
-[WeaponSettings]npc_max_range_secondary e88
-[WeaponSettings]npc_max_rest_time_between_bursts_max_precision e70
-[WeaponSettings]npc_max_rest_time_between_bursts_min_precision e68
-[WeaponSettings]npc_min_burst e24
-[WeaponSettings]npc_min_burst_max_precision e34
-[WeaponSettings]npc_min_burst_min_precision e2c
-[WeaponSettings]npc_min_engage_range e8c
-[WeaponSettings]npc_min_engage_range_heavy_armor e94
-[WeaponSettings]npc_min_range e7c
-[WeaponSettings]npc_min_range_secondary e84
-[WeaponSettings]npc_min_rest_time_between_bursts_max_precision e6c
-[WeaponSettings]npc_min_rest_time_between_bursts_min_precision e64
-[WeaponSettings]npc_miss_fast_player e44
-[WeaponSettings]npc_pre_fire_delay ea8
-[WeaponSettings]npc_pre_fire_delay_interval eac
-[WeaponSettings]npc_refresh_burst_location_per_shot e3c
-[WeaponSettings]npc_reload_enabled eb4
-[WeaponSettings]npc_rest_time_between_bursts_expedite ea0
-[WeaponSettings]npc_rest_time_between_bursts_max e60
-[WeaponSettings]npc_rest_time_between_bursts_min e5c
-[WeaponSettings]npc_rest_time_secondary ea4
-[WeaponSettings]npc_self_explosion_safety e4a
-[WeaponSettings]npc_spread_cone_distribution_bias_max_precision f5c
-[WeaponSettings]npc_spread_cone_distribution_bias_min_precision f58
-[WeaponSettings]npc_spread_cone_focus_time f60
-[WeaponSettings]npc_spread_cone_max_precision f54
-[WeaponSettings]npc_spread_cone_min_precision f50
-[WeaponSettings]npc_spread_defocused_cone_multiplier f64
-[WeaponSettings]npc_spread_pattern_focus_time f68
-[WeaponSettings]npc_spread_pattern_not_in_fov_factor f70
-[WeaponSettings]npc_spread_pattern_not_in_fov_time f6c
-[WeaponSettings]npc_suppress_abs_position e4e
-[WeaponSettings]npc_suppress_lsp_allowed e4d
-[WeaponSettings]npc_use_ads_move_speed_scale e1c
-[WeaponSettings]npc_use_long_duration ec8
-[WeaponSettings]npc_use_max_damage f0c
-[WeaponSettings]npc_use_min_damage f08
-[WeaponSettings]npc_use_min_projectile_damage f10
-[WeaponSettings]npc_use_short_duration ec4
-[WeaponSettings]npc_use_strict_muzzle_dir e46
-[WeaponSettings]npc_vortex_block e49
-[WeaponSettings]object_placement_clearance_behind 4e8
-[WeaponSettings]object_placement_distance_max 4dc
-[WeaponSettings]object_placement_distance_to_ground_max 4f8
-[WeaponSettings]object_placement_drop_to_ground_offset_max 4f4
-[WeaponSettings]object_placement_force_upright 4e4
-[WeaponSettings]object_placement_ground_penetration_max 500
-[WeaponSettings]object_placement_hill_angle_max 4e0
-[WeaponSettings]object_placement_ignore_players 511
-[WeaponSettings]object_placement_last_good_angle_max 4f0
-[WeaponSettings]object_placement_last_good_distance_max 4ec
-[WeaponSettings]object_placement_model 1488
-[WeaponSettings]object_placement_percent_off_ledge_max 4fc
-[WeaponSettings]object_placement_run_mode 4d4
-[WeaponSettings]object_placement_special 524
-[WeaponSettings]object_placement_top_distance_pierce_max 50c
-[WeaponSettings]object_placement_top_side_percent_pierce_max 508
-[WeaponSettings]object_placement_trace_through_turrets 510
-[WeaponSettings]object_placement_use_top_trace 504
-[WeaponSettings]object_placement_vehicle_attachment_index 514
-[WeaponSettings]object_placement_vehicle_offset 518
-[WeaponSettings]object_placer 4d8
-[WeaponSettings]offhand_activates_on_zoom 27
-[WeaponSettings]offhand_active_slot 18
-[WeaponSettings]offhand_allow_swap_to_on_zipline 40
-[WeaponSettings]offhand_allows_inpect 38
-[WeaponSettings]offhand_blocks_sprint 1c
-[WeaponSettings]offhand_can_interrupt_itself 45
-[WeaponSettings]offhand_can_reactivate 4c
-[WeaponSettings]offhand_cancelled_by_melee 46
-[WeaponSettings]offhand_chargeEnd_holster_on_noattack 3e
-[WeaponSettings]offhand_clear_zoom_on_activate 3f
-[WeaponSettings]offhand_deactivate_on_dodge_toggle_or_release 3c
-[WeaponSettings]offhand_default_inventory_slot 20
-[WeaponSettings]offhand_deploy_requires_input 29
-[WeaponSettings]offhand_disable_other_offhands 3a
-[WeaponSettings]offhand_dont_lower_on_toss 4a
-[WeaponSettings]offhand_hidden_for_fullscreen_ads 36
-[WeaponSettings]offhand_hide_shared_anim_prop_3p 4b
-[WeaponSettings]offhand_hold_enabled 28
-[WeaponSettings]offhand_holds_on_tactical 3b
-[WeaponSettings]offhand_hybrid_alt_hand_uses_attack_button 33
-[WeaponSettings]offhand_hybrid_block_switch_if_empty 32
-[WeaponSettings]offhand_hybrid_reset_shot_count_on_attack 35
-[WeaponSettings]offhand_hybrid_switch_on_attack 30
-[WeaponSettings]offhand_hybrid_switch_on_lower 31
-[WeaponSettings]offhand_hybrid_tracks_projectiles 34
-[WeaponSettings]offhand_include_primary_activity_mods 43
-[WeaponSettings]offhand_instant_swap_to_offhand 3d
-[WeaponSettings]offhand_interrupt_climbing 42
-[WeaponSettings]offhand_interupts_weapon_anims 24
-[WeaponSettings]offhand_match_player_skin 44
-[WeaponSettings]offhand_move_speed_modifier_scale_with_ammo_max c9c
-[WeaponSettings]offhand_move_speed_modifier_scale_with_ammo_min ca0
-[WeaponSettings]offhand_only_swap_to_on_ground 41
-[WeaponSettings]offhand_raise_is_interrupt_resumable 26
-[WeaponSettings]offhand_restore_after_melee 48
-[WeaponSettings]offhand_script_activate_ignores_ready_check 25
-[WeaponSettings]offhand_skips_sequence_reset_on_model_changed 4d
-[WeaponSettings]offhand_switch_force_draw 49
-[WeaponSettings]offhand_switch_on_attack 2f
-[WeaponSettings]offhand_switch_slot 47
-[WeaponSettings]offhand_toss_activates_on_attack 2d
-[WeaponSettings]offhand_toss_hold_is_resumable 2c
-[WeaponSettings]offhand_transition_has_attach_detach_anim_events 2b
-[WeaponSettings]offhand_uses_hud_ammo_status 37
-[WeaponSettings]offhand_wants_first_deploy 39
-[WeaponSettings]ordnance_crosshair_always_on_start_index 2ac
-[WeaponSettings]ors_tags_add 8
-[WeaponSettings]ors_tags_remove 10
-[WeaponSettings]pass_through_damage_preserved_scale 10f4
-[WeaponSettings]pass_through_depth 10f0
-[WeaponSettings]play_one_handed_alt_hand_anim_on_mainhand 158
-[WeaponSettings]player_hands_attachment 428
-[WeaponSettings]player_hands_effect 1508
-[WeaponSettings]player_overheat_per_bullet 0
-[WeaponSettings]playermodel 1498
-[WeaponSettings]pre_ignition_damage d80
-[WeaponSettings]pre_ignition_damage_titanarmor d84
-[WeaponSettings]pre_ignition_flight_sound d90
-[WeaponSettings]pre_ignition_impact_effect_table 14b8
-[WeaponSettings]pre_ignition_npc_damage d88
-[WeaponSettings]pre_ignition_npc_damage_titanarmor d8c
-[WeaponSettings]pre_ignition_speed d7c
-[WeaponSettings]pre_ignition_trail_effect d98
-[WeaponSettings]primary_attack_ignores_spread 814
-[WeaponSettings]primary_fire_does_not_block_sprint 3e6
-[WeaponSettings]primary_melee_ammo_cost 920
-[WeaponSettings]primary_melee_fallback_ammo_cost 91c
-[WeaponSettings]printname 3c0
-[WeaponSettings]proficiency_average_additional_rest f40
-[WeaponSettings]proficiency_average_bias f2c
-[WeaponSettings]proficiency_average_spreadscale f18
-[WeaponSettings]proficiency_good_additional_rest f44
-[WeaponSettings]proficiency_good_bias f30
-[WeaponSettings]proficiency_good_spreadscale f1c
-[WeaponSettings]proficiency_perfect_additional_rest f4c
-[WeaponSettings]proficiency_perfect_bias f38
-[WeaponSettings]proficiency_perfect_spreadscale f24
-[WeaponSettings]proficiency_poor_additional_rest f3c
-[WeaponSettings]proficiency_poor_bias f28
-[WeaponSettings]proficiency_poor_spreadscale f14
-[WeaponSettings]proficiency_very_good_additional_rest f48
-[WeaponSettings]proficiency_very_good_bias f34
-[WeaponSettings]proficiency_very_good_spreadscale f20
-[WeaponSettings]projectile_air_friction dcc
-[WeaponSettings]projectile_air_friction_2 de0
-[WeaponSettings]projectile_air_friction_final dec
-[WeaponSettings]projectile_airburst_on_death cfe
-[WeaponSettings]projectile_always_randomize_bounce d08
-[WeaponSettings]projectile_bounce_damage_reduction_scale ce8
-[WeaponSettings]projectile_chasecamDistanceMax d0c
-[WeaponSettings]projectile_chasecamMaxOrbitDepth d10
-[WeaponSettings]projectile_chasecamMaxPitchUp d14
-[WeaponSettings]projectile_chasecamOffsetForward d20
-[WeaponSettings]projectile_chasecamOffsetRight d1c
-[WeaponSettings]projectile_chasecamOffsetUp d18
-[WeaponSettings]projectile_collide_with_owner_grace_time cf0
-[WeaponSettings]projectile_damages_owner cfc
-[WeaponSettings]projectile_death_sound d28
-[WeaponSettings]projectile_deflection_max_count cf8
-[WeaponSettings]projectile_do_predict_impact_effects ce2
-[WeaponSettings]projectile_drag_coefficient dd0
-[WeaponSettings]projectile_drift_intensity df4
-[WeaponSettings]projectile_drift_windiness df0
-[WeaponSettings]projectile_first_person_offset_fraction dbc
-[WeaponSettings]projectile_flamethrower_status_effect_duration d04
-[WeaponSettings]projectile_flamethrower_status_effect_range d00
-[WeaponSettings]projectile_flight_sound d30
-[WeaponSettings]projectile_gravity_scale dc8
-[WeaponSettings]projectile_gravity_scale_2 ddc
-[WeaponSettings]projectile_gravity_scale_final de8
-[WeaponSettings]projectile_gravity_scale_time_2 dd8
-[WeaponSettings]projectile_gravity_scale_time_final de4
-[WeaponSettings]projectile_inherit_base_velocity_scale db8
-[WeaponSettings]projectile_inherit_owner_velocity_scale db4
-[WeaponSettings]projectile_killreplay_enabled d09
-[WeaponSettings]projectile_launch_pitch_offset dc4
-[WeaponSettings]projectile_launch_speed dc0
-[WeaponSettings]projectile_lifetime ce4
-[WeaponSettings]projectile_max_deployed dd4
-[WeaponSettings]projectile_muzzle_offset_decay_max_time cdc
-[WeaponSettings]projectile_passthrough_friendlies cfd
-[WeaponSettings]projectile_predict_move_to_impact ce0
-[WeaponSettings]projectile_ricochet_max_count cf4
-[WeaponSettings]projectile_speed_decay e08
-[WeaponSettings]projectile_speed_reduction_factor cec
-[WeaponSettings]projectile_straight_radius_max e04
-[WeaponSettings]projectile_straight_radius_min e00
-[WeaponSettings]projectile_straight_time_max dfc
-[WeaponSettings]projectile_straight_time_min df8
-[WeaponSettings]projectile_trail_effect_0_1p 13e8
-[WeaponSettings]projectile_trail_effect_0_3p 13e0
-[WeaponSettings]projectile_trail_effect_1_1p 13d8
-[WeaponSettings]projectile_trail_effect_1_3p 13d0
-[WeaponSettings]projectile_trail_effect_2_1p 13c8
-[WeaponSettings]projectile_trail_effect_2_3p 13c0
-[WeaponSettings]projectile_trail_effect_3_1p 13b8
-[WeaponSettings]projectile_trail_effect_3_3p 13b0
-[WeaponSettings]projectile_trail_effect_4_1p 13a8
-[WeaponSettings]projectile_trail_effect_4_3p 13a0
-[WeaponSettings]projectile_trail_start_from_origin db0
-[WeaponSettings]projectile_visible_to_smart_ammo ce1
-[WeaponSettings]projectilemodel 1398
-[WeaponSettings]projectiles_per_shot 1d4
-[WeaponSettings]r_trig_custom_mode 534
-[WeaponSettings]r_trig_custom_str 530
-[WeaponSettings]raise_from_sprint_time 1274
-[WeaponSettings]raise_time 1270
-[WeaponSettings]rapid_fire_overrides_min_ammo 4c8
-[WeaponSettings]readyhint 440
-[WeaponSettings]readymessage 438
-[WeaponSettings]rechamber_time 544
-[WeaponSettings]rechamber_time_late1 548
-[WeaponSettings]rechamber_time_late2 54c
-[WeaponSettings]rechamber_time_late3 550
-[WeaponSettings]red_crosshair_range 2b4
-[WeaponSettings]regen_ammo_directly_to_stockpile 361
-[WeaponSettings]regen_ammo_forced_delay 304
-[WeaponSettings]regen_ammo_refill_rate 368
-[WeaponSettings]regen_ammo_refill_rate_per_clip 364
-[WeaponSettings]regen_ammo_refill_rate_sprinting 35c
-[WeaponSettings]regen_ammo_refill_start_delay 358
-[WeaponSettings]regen_ammo_sound_range_name_1 120
-[WeaponSettings]regen_ammo_sound_range_name_2 118
-[WeaponSettings]regen_ammo_sound_range_name_3 1338
-[WeaponSettings]regen_ammo_sound_range_start_1 2fc
-[WeaponSettings]regen_ammo_sound_range_start_2 12c
-[WeaponSettings]regen_ammo_sound_range_start_3 128
-[WeaponSettings]regen_ammo_stockpile_drain_rate_when_charging 308
-[WeaponSettings]regen_ammo_stockpile_max_fraction 354
-[WeaponSettings]regen_ammo_stockpile_only_when_idle 360
-[WeaponSettings]regen_ammo_while_firing 300
-[WeaponSettings]reload_allow_ads 132d
-[WeaponSettings]reload_alt_anim 132f
-[WeaponSettings]reload_enabled 12ec
-[WeaponSettings]reload_is_segmented 132c
-[WeaponSettings]reload_no_auto_if_ads_pressed 132e
-[WeaponSettings]reload_time 12f0
-[WeaponSettings]reload_time_late1 12f4
-[WeaponSettings]reload_time_late2 12f8
-[WeaponSettings]reload_time_late3 12fc
-[WeaponSettings]reload_time_late4 1300
-[WeaponSettings]reload_time_late5 1304
-[WeaponSettings]reloadempty_time 1308
-[WeaponSettings]reloadempty_time_late1 130c
-[WeaponSettings]reloadempty_time_late2 1310
-[WeaponSettings]reloadempty_time_late3 1314
-[WeaponSettings]reloadempty_time_late4 1318
-[WeaponSettings]reloadempty_time_late5 131c
-[WeaponSettings]reloadsegment_time_end 1324
-[WeaponSettings]reloadsegment_time_loop 1320
-[WeaponSettings]reloadsegmentempty_time_end 1328
-[WeaponSettings]rui_crosshair_index 2a4
-[WeaponSettings]script_manages_charge_level 1180
-[WeaponSettings]secondary_fire_is_semi_auto_only 3e5
-[WeaponSettings]secondary_fire_on_zoom 12e9
-[WeaponSettings]secondary_melee_ammo_cost 918
-[WeaponSettings]secondary_melee_fallback_ammo_cost 528
-[WeaponSettings]sfx_aliases 14b0
-[WeaponSettings]shared_anim_prop_3p_attachment_name 168
-[WeaponSettings]shared_anim_prop_3p_model_name 160
-[WeaponSettings]shared_anim_prop_3p_persistent_particle_attachment_name 178
-[WeaponSettings]shared_anim_prop_3p_persistent_particle_effect_name 170
-[WeaponSettings]shared_energy_charge_cost 119c
-[WeaponSettings]shared_energy_cost 414
-[WeaponSettings]shortprintname 3c8
-[WeaponSettings]show_client_preview_fx 395
-[WeaponSettings]show_grenade_indicator 1092
-[WeaponSettings]show_grenade_indicator_to_owner 1093
-[WeaponSettings]show_pre_modded_tracer 493
-[WeaponSettings]silenced 3e3
-[WeaponSettings]smart_ammo_active_shot_damage_multiplier f0
-[WeaponSettings]smart_ammo_active_shot_on_first_lock_only ec
-[WeaponSettings]smart_ammo_active_shot_time e8
-[WeaponSettings]smart_ammo_alert_npc_fraction 78
-[WeaponSettings]smart_ammo_allow_ads_lock 85
-[WeaponSettings]smart_ammo_allow_hip_fire_lock 86
-[WeaponSettings]smart_ammo_allow_search_while_firing 87
-[WeaponSettings]smart_ammo_allow_search_while_inactive 88
-[WeaponSettings]smart_ammo_alt_lock_style 84
-[WeaponSettings]smart_ammo_always_do_burst 8a
-[WeaponSettings]smart_ammo_apply_new_target_delay_to_first_target 68
-[WeaponSettings]smart_ammo_draw_acquisition_lines ac
-[WeaponSettings]smart_ammo_hold_and_reset_after_all_locks e4
-[WeaponSettings]smart_ammo_hud_type 50
-[WeaponSettings]smart_ammo_lock_effect2_1p 1588
-[WeaponSettings]smart_ammo_lock_effect2_3p 1580
-[WeaponSettings]smart_ammo_lock_effect2_attachment 108
-[WeaponSettings]smart_ammo_lock_effect_3p 1590
-[WeaponSettings]smart_ammo_lock_effect_attachment 100
-[WeaponSettings]smart_ammo_lock_type 58
-[WeaponSettings]smart_ammo_looping_sound_acquiring d0
-[WeaponSettings]smart_ammo_looping_sound_locked d8
-[WeaponSettings]smart_ammo_max_targeted_burst 80
-[WeaponSettings]smart_ammo_max_targets 7c
-[WeaponSettings]smart_ammo_new_target_delay 64
-[WeaponSettings]smart_ammo_npc_targets_must_be_tracked f5
-[WeaponSettings]smart_ammo_only_search_on_charge 89
-[WeaponSettings]smart_ammo_other_targets_must_be_tracked f6
-[WeaponSettings]smart_ammo_player_targets_must_be_tracked f4
-[WeaponSettings]smart_ammo_search_angle 5c
-[WeaponSettings]smart_ammo_search_distance 60
-[WeaponSettings]smart_ammo_search_enemy_team 111
-[WeaponSettings]smart_ammo_search_friendly_team 110
-[WeaponSettings]smart_ammo_search_neutral_team 112
-[WeaponSettings]smart_ammo_search_npcs e0
-[WeaponSettings]smart_ammo_search_phase_shift 113
-[WeaponSettings]smart_ammo_search_players e1
-[WeaponSettings]smart_ammo_stick_to_fully_locked_targets e2
-[WeaponSettings]smart_ammo_target_confirmed_sound b0
-[WeaponSettings]smart_ammo_target_confirming_sound b8
-[WeaponSettings]smart_ammo_target_found_sound c0
-[WeaponSettings]smart_ammo_target_lost_sound c8
-[WeaponSettings]smart_ammo_target_max_locks_heavy 70
-[WeaponSettings]smart_ammo_target_max_locks_normal 6c
-[WeaponSettings]smart_ammo_target_npc_lock_factor 74
-[WeaponSettings]smart_ammo_targeting_time_max 90
-[WeaponSettings]smart_ammo_targeting_time_max_npc 98
-[WeaponSettings]smart_ammo_targeting_time_min 8c
-[WeaponSettings]smart_ammo_targeting_time_min_npc 94
-[WeaponSettings]smart_ammo_targeting_time_modifier_cloaked 9c
-[WeaponSettings]smart_ammo_targeting_time_modifier_projectile a0
-[WeaponSettings]smart_ammo_targeting_time_modifier_projectile_owner a4
-[WeaponSettings]smart_ammo_track_cloaked_targets 8b
-[WeaponSettings]smart_ammo_tracked_targets_check_visibility f7
-[WeaponSettings]smart_ammo_tracker_status_effects f9
-[WeaponSettings]smart_ammo_unlock_debounce_time a8
-[WeaponSettings]smart_ammo_use_tracker_frac f8
-[WeaponSettings]smart_ammo_weapon_type 54
-[WeaponSettings]sound_cook_warning 718
-[WeaponSettings]sound_deploy_1p 730
-[WeaponSettings]sound_deploy_3p 738
-[WeaponSettings]sound_disabledfire 6f8
-[WeaponSettings]sound_dryfire 700
-[WeaponSettings]sound_grenade_projectile 740
-[WeaponSettings]sound_pickup 708
-[WeaponSettings]sound_throw_1p 720
-[WeaponSettings]sound_throw_3p 728
-[WeaponSettings]sound_trigger_pull 748
-[WeaponSettings]sound_trigger_release 750
-[WeaponSettings]sound_weapon_ready 710
-[WeaponSettings]sound_zoom_in d58
-[WeaponSettings]sound_zoom_in_althand d48
-[WeaponSettings]sound_zoom_out d50
-[WeaponSettings]sound_zoom_out_althand d40
-[WeaponSettings]spread_air_ads 7ac
-[WeaponSettings]spread_air_ads_moving 7b0
-[WeaponSettings]spread_air_hip 7a4
-[WeaponSettings]spread_air_hip_moving 7a8
-[WeaponSettings]spread_crouch_ads 7a0
-[WeaponSettings]spread_crouch_hip 79c
-[WeaponSettings]spread_decay_delay 80c
-[WeaponSettings]spread_decay_rate 808
-[WeaponSettings]spread_hover_ads 7bc
-[WeaponSettings]spread_hover_ads_moving 7c0
-[WeaponSettings]spread_hover_hip 7b4
-[WeaponSettings]spread_hover_hip_moving 7b8
-[WeaponSettings]spread_kick_on_fire_air_ads 7e8
-[WeaponSettings]spread_kick_on_fire_air_hip 7e4
-[WeaponSettings]spread_kick_on_fire_crouch_ads 7e0
-[WeaponSettings]spread_kick_on_fire_crouch_hip 7dc
-[WeaponSettings]spread_kick_on_fire_stand_ads 7d8
-[WeaponSettings]spread_kick_on_fire_stand_hip 7d4
-[WeaponSettings]spread_max_kick_air_ads 804
-[WeaponSettings]spread_max_kick_air_hip 800
-[WeaponSettings]spread_max_kick_crouch_ads 7fc
-[WeaponSettings]spread_max_kick_crouch_hip 7f8
-[WeaponSettings]spread_max_kick_stand_ads 7f4
-[WeaponSettings]spread_max_kick_stand_hip 7f0
-[WeaponSettings]spread_min_kick 7ec
-[WeaponSettings]spread_moving_decay_rate 7cc
-[WeaponSettings]spread_moving_increase_rate 7d0
-[WeaponSettings]spread_stand_ads 798
-[WeaponSettings]spread_stand_hip 78c
-[WeaponSettings]spread_stand_hip_run 790
-[WeaponSettings]spread_stand_hip_sprint 794
-[WeaponSettings]spread_time_to_max 810
-[WeaponSettings]spread_update_hipfire_in_ads 815
-[WeaponSettings]spread_wallhanging 7c8
-[WeaponSettings]spread_wallrunning 7c4
-[WeaponSettings]sprint_fractional_anims 127c
-[WeaponSettings]sprintcycle_time 1278
-[WeaponSettings]stat_accuracy a84
-[WeaponSettings]stat_damage a80
-[WeaponSettings]stat_handling a94
-[WeaponSettings]stat_hipfire a90
-[WeaponSettings]stat_range a88
-[WeaponSettings]stat_rof a8c
-[WeaponSettings]stat_stability a98
-[WeaponSettings]stop_all_persistent_particle_effects_when_deactivated 396
-[WeaponSettings]sustained_discharge_allow_melee c55
-[WeaponSettings]sustained_discharge_duration c50
-[WeaponSettings]sustained_discharge_ends_in_primary_attack c5e
-[WeaponSettings]sustained_discharge_pulse_frequency c58
-[WeaponSettings]sustained_discharge_require_input c54
-[WeaponSettings]sustained_discharge_updates_charge c5d
-[WeaponSettings]sustained_discharge_want_pulse_callbacks c5c
-[WeaponSettings]sustained_laser_attachment c70
-[WeaponSettings]sustained_laser_attachment_scoped c78
-[WeaponSettings]sustained_laser_damage_effect 1408
-[WeaponSettings]sustained_laser_damage_scale c8c
-[WeaponSettings]sustained_laser_effect_1p 1420
-[WeaponSettings]sustained_laser_effect_3p 1418
-[WeaponSettings]sustained_laser_effect_loops c80
-[WeaponSettings]sustained_laser_enabled c5f
-[WeaponSettings]sustained_laser_impact_distance c84
-[WeaponSettings]sustained_laser_impact_effect 1410
-[WeaponSettings]sustained_laser_impact_effect_loops c81
-[WeaponSettings]sustained_laser_impact_effect_table 14c0
-[WeaponSettings]sustained_laser_radial_iterations c64
-[WeaponSettings]sustained_laser_radial_step c68
-[WeaponSettings]sustained_laser_radius c60
-[WeaponSettings]sustained_laser_range c6c
-[WeaponSettings]sustained_laser_spread_pattern c90
-[WeaponSettings]sustained_laser_use_deferred_traces c88
-[WeaponSettings]sustained_laser_use_single_laser_effect c89
-[WeaponSettings]sway_rotate_scale_unzoomed 420
-[WeaponSettings]sway_rotate_scale_zoomed 424
-[WeaponSettings]tactical_bonus_charges 370
-[WeaponSettings]targeting_laser_always_use_aimpoint c95
-[WeaponSettings]targeting_laser_attachment_1p cb0
-[WeaponSettings]targeting_laser_attachment_3p cb8
-[WeaponSettings]targeting_laser_beam_length_1p cc4
-[WeaponSettings]targeting_laser_beam_length_3p_enemy ccc
-[WeaponSettings]targeting_laser_beam_length_3p_friendly cc8
-[WeaponSettings]targeting_laser_effect_1p 1400
-[WeaponSettings]targeting_laser_effect_3p_enemy 13f0
-[WeaponSettings]targeting_laser_effect_3p_friendly 13f8
-[WeaponSettings]targeting_laser_enabled ca8
-[WeaponSettings]targeting_laser_range cc0
-[WeaponSettings]targeting_laser_trace_ignores_collision c96
-[WeaponSettings]tergeting_laser_use_forward_direction c94
-[WeaponSettings]thirdperson_fire_from_mount_point 492
-[WeaponSettings]threat_scope_bounds_height 844
-[WeaponSettings]threat_scope_bounds_tagname1 830
-[WeaponSettings]threat_scope_bounds_tagname2 838
-[WeaponSettings]threat_scope_bounds_width 840
-[WeaponSettings]threat_scope_enabled 820
-[WeaponSettings]threat_scope_fadeWithDistance 848
-[WeaponSettings]threat_scope_fadedist_end 81c
-[WeaponSettings]threat_scope_fadedist_start 818
-[WeaponSettings]threat_scope_zoomToggle_only 821
-[WeaponSettings]threat_scope_zoomfrac_end 828
-[WeaponSettings]threat_scope_zoomfrac_start 824
-[WeaponSettings]titanarmor_critical_hit_required 114c
-[WeaponSettings]toss_disables_ads 4c1
-[WeaponSettings]toss_has_post_loop 2e
-[WeaponSettings]toss_hides_world_model 1294
-[WeaponSettings]toss_overhead_time 128c
-[WeaponSettings]toss_pullout_time 1290
-[WeaponSettings]toss_time 1288
-[WeaponSettings]tossholdsprintcycle_time 1280
-[WeaponSettings]tracer_effect 1518
-[WeaponSettings]tracer_effect_first_person 1510
-[WeaponSettings]trophy_system_ignores 1c8
-[WeaponSettings]ui10_draw_cloaked ae1
-[WeaponSettings]ui10_enable ac1
-[WeaponSettings]ui10_mesh_override b40
-[WeaponSettings]ui11_draw_cloaked ae2
-[WeaponSettings]ui11_enable ac2
-[WeaponSettings]ui11_mesh_override b48
-[WeaponSettings]ui12_draw_cloaked ae3
-[WeaponSettings]ui12_enable ac3
-[WeaponSettings]ui12_mesh_override b50
-[WeaponSettings]ui13_draw_cloaked ae4
-[WeaponSettings]ui13_enable ac4
-[WeaponSettings]ui13_mesh_override b58
-[WeaponSettings]ui14_draw_cloaked ae5
-[WeaponSettings]ui14_enable ac5
-[WeaponSettings]ui14_mesh_override b60
-[WeaponSettings]ui15_draw_cloaked ae6
-[WeaponSettings]ui15_enable ac6
-[WeaponSettings]ui15_mesh_override b68
-[WeaponSettings]ui16_draw_cloaked ae7
-[WeaponSettings]ui16_enable ac7
-[WeaponSettings]ui16_mesh_override b70
-[WeaponSettings]ui17_draw_cloaked ae8
-[WeaponSettings]ui17_enable ac8
-[WeaponSettings]ui17_mesh_override b78
-[WeaponSettings]ui18_draw_cloaked ae9
-[WeaponSettings]ui18_enable ac9
-[WeaponSettings]ui18_mesh_override b80
-[WeaponSettings]ui19_draw_cloaked aea
-[WeaponSettings]ui19_enable aca
-[WeaponSettings]ui19_mesh_override b88
-[WeaponSettings]ui1_draw_cloaked ad8
-[WeaponSettings]ui1_enable ab8
-[WeaponSettings]ui1_mesh_override af8
-[WeaponSettings]ui20_draw_cloaked aeb
-[WeaponSettings]ui20_enable acb
-[WeaponSettings]ui20_mesh_override b90
-[WeaponSettings]ui21_draw_cloaked aec
-[WeaponSettings]ui21_enable acc
-[WeaponSettings]ui21_mesh_override b98
-[WeaponSettings]ui22_draw_cloaked aed
-[WeaponSettings]ui22_enable acd
-[WeaponSettings]ui22_mesh_override ba0
-[WeaponSettings]ui23_draw_cloaked aee
-[WeaponSettings]ui23_enable ace
-[WeaponSettings]ui23_mesh_override ba8
-[WeaponSettings]ui24_draw_cloaked aef
-[WeaponSettings]ui24_enable acf
-[WeaponSettings]ui24_mesh_override bb0
-[WeaponSettings]ui25_draw_cloaked af0
-[WeaponSettings]ui25_enable ad0
-[WeaponSettings]ui25_mesh_override bb8
-[WeaponSettings]ui26_draw_cloaked af1
-[WeaponSettings]ui26_enable ad1
-[WeaponSettings]ui26_mesh_override bc0
-[WeaponSettings]ui27_draw_cloaked af2
-[WeaponSettings]ui27_enable ad2
-[WeaponSettings]ui27_mesh_override bc8
-[WeaponSettings]ui28_draw_cloaked af3
-[WeaponSettings]ui28_enable ad3
-[WeaponSettings]ui28_mesh_override bd0
-[WeaponSettings]ui29_draw_cloaked af4
-[WeaponSettings]ui29_enable ad4
-[WeaponSettings]ui29_mesh_override bd8
-[WeaponSettings]ui2_draw_cloaked ad9
-[WeaponSettings]ui2_enable ab9
-[WeaponSettings]ui2_mesh_override b00
-[WeaponSettings]ui30_draw_cloaked af5
-[WeaponSettings]ui30_enable ad5
-[WeaponSettings]ui30_mesh_override be0
-[WeaponSettings]ui31_draw_cloaked af6
-[WeaponSettings]ui31_enable ad6
-[WeaponSettings]ui31_mesh_override be8
-[WeaponSettings]ui32_draw_cloaked af7
-[WeaponSettings]ui32_enable ad7
-[WeaponSettings]ui32_mesh_override bf0
-[WeaponSettings]ui3_draw_cloaked ada
-[WeaponSettings]ui3_enable aba
-[WeaponSettings]ui3_mesh_override b08
-[WeaponSettings]ui4_draw_cloaked adb
-[WeaponSettings]ui4_enable abb
-[WeaponSettings]ui4_mesh_override b10
-[WeaponSettings]ui5_draw_cloaked adc
-[WeaponSettings]ui5_enable abc
-[WeaponSettings]ui5_mesh_override b18
-[WeaponSettings]ui6_draw_cloaked add
-[WeaponSettings]ui6_enable abd
-[WeaponSettings]ui6_mesh_override b20
-[WeaponSettings]ui7_draw_cloaked ade
-[WeaponSettings]ui7_enable abe
-[WeaponSettings]ui7_mesh_override b28
-[WeaponSettings]ui8_draw_cloaked adf
-[WeaponSettings]ui8_enable abf
-[WeaponSettings]ui8_mesh_override b30
-[WeaponSettings]ui9_draw_cloaked ae0
-[WeaponSettings]ui9_enable ac0
-[WeaponSettings]ui9_mesh_override b38
-[WeaponSettings]update_player_last_fire_time 3fd
-[WeaponSettings]use_akimbo_damage_source 146
-[WeaponSettings]use_discard_anim 15c
-[WeaponSettings]uses_ammo_pool 385
-[WeaponSettings]variable_sights_offset_range_1 bf8
-[WeaponSettings]variable_sights_offset_range_2 bfc
-[WeaponSettings]variable_sights_offset_range_3 c00
-[WeaponSettings]variable_sights_offset_range_4 c04
-[WeaponSettings]vfx_aliases 14a8
-[WeaponSettings]viewdrift_ads_air_scale_pitch a34
-[WeaponSettings]viewdrift_ads_air_scale_yaw a44
-[WeaponSettings]viewdrift_ads_crouch_scale_pitch a30
-[WeaponSettings]viewdrift_ads_crouch_scale_yaw a40
-[WeaponSettings]viewdrift_ads_delay a4c
-[WeaponSettings]viewdrift_ads_speed_pitch a38
-[WeaponSettings]viewdrift_ads_speed_yaw a48
-[WeaponSettings]viewdrift_ads_stand_scale_pitch a2c
-[WeaponSettings]viewdrift_ads_stand_scale_yaw a3c
-[WeaponSettings]viewdrift_hipfire_air_scale_pitch a58
-[WeaponSettings]viewdrift_hipfire_air_scale_yaw a68
-[WeaponSettings]viewdrift_hipfire_crouch_scale_pitch a54
-[WeaponSettings]viewdrift_hipfire_crouch_scale_yaw a64
-[WeaponSettings]viewdrift_hipfire_speed_pitch a5c
-[WeaponSettings]viewdrift_hipfire_speed_yaw a6c
-[WeaponSettings]viewdrift_hipfire_stand_scale_pitch a50
-[WeaponSettings]viewdrift_hipfire_stand_scale_yaw a60
-[WeaponSettings]viewkick_ads_weaponFraction 96c
-[WeaponSettings]viewkick_ads_weaponFraction_vmScale 970
-[WeaponSettings]viewkick_air_scale_ads 980
-[WeaponSettings]viewkick_duck_scale 974
-[WeaponSettings]viewkick_hipfire_weaponFraction 964
-[WeaponSettings]viewkick_hipfire_weaponFraction_vmScale 968
-[WeaponSettings]viewkick_hover_scale 978
-[WeaponSettings]viewkick_move_scale 97c
-[WeaponSettings]viewkick_pattern 938
-[WeaponSettings]viewkick_pattern_valuePerShot 93c
-[WeaponSettings]viewkick_pc_pitch_scale 9f0
-[WeaponSettings]viewkick_pc_yaw_scale 9ec
-[WeaponSettings]viewkick_perm_pitch_base 998
-[WeaponSettings]viewkick_perm_pitch_random 99c
-[WeaponSettings]viewkick_perm_pitch_random_innerexclude 9a0
-[WeaponSettings]viewkick_perm_yaw_base a20
-[WeaponSettings]viewkick_perm_yaw_random a24
-[WeaponSettings]viewkick_perm_yaw_random_innerexclude a28
-[WeaponSettings]viewkick_pitch_base 984
-[WeaponSettings]viewkick_pitch_hardScale 994
-[WeaponSettings]viewkick_pitch_random 988
-[WeaponSettings]viewkick_pitch_random_innerexclude 98c
-[WeaponSettings]viewkick_pitch_softScale 990
-[WeaponSettings]viewkick_roll_base 9b4
-[WeaponSettings]viewkick_roll_hardScale 9b0
-[WeaponSettings]viewkick_roll_randomMax 9a8
-[WeaponSettings]viewkick_roll_randomMin 9a4
-[WeaponSettings]viewkick_roll_softScale 9ac
-[WeaponSettings]viewkick_scale_firstshot_ads 9bc
-[WeaponSettings]viewkick_scale_firstshot_hipfire 9b8
-[WeaponSettings]viewkick_scale_max_ads 9cc
-[WeaponSettings]viewkick_scale_max_hipfire 9c4
-[WeaponSettings]viewkick_scale_min_ads 9c8
-[WeaponSettings]viewkick_scale_min_hipfire 9c0
-[WeaponSettings]viewkick_scale_pitch_valueLerpEnd 9dc
-[WeaponSettings]viewkick_scale_pitch_valueLerpStart 9d4
-[WeaponSettings]viewkick_scale_valueDecayDelay 9e4
-[WeaponSettings]viewkick_scale_valueDecayRate 9e8
-[WeaponSettings]viewkick_scale_valuePerShot 9d0
-[WeaponSettings]viewkick_scale_yaw_valueLerpEnd 9e0
-[WeaponSettings]viewkick_scale_yaw_valueLerpStart 9d8
-[WeaponSettings]viewkick_spring 9f4
-[WeaponSettings]viewkick_spring_cooldown_fadetime a04
-[WeaponSettings]viewkick_spring_cooldown_holdtime a00
-[WeaponSettings]viewkick_spring_heatpershot 9fc
-[WeaponSettings]viewkick_spring_hot 9f8
-[WeaponSettings]viewkick_spring_velocityScalePerShot a08
-[WeaponSettings]viewkick_yaw_base a0c
-[WeaponSettings]viewkick_yaw_hardScale a1c
-[WeaponSettings]viewkick_yaw_random a10
-[WeaponSettings]viewkick_yaw_random_innerexclude a14
-[WeaponSettings]viewkick_yaw_softScale a18
-[WeaponSettings]viewmodel 14a0
-[WeaponSettings]viewmodel_ads_centerpoint_attachment 888
-[WeaponSettings]viewmodel_ads_rui_bottomleft_attachment 890
-[WeaponSettings]viewmodel_color_by_soundmeter 89c
-[WeaponSettings]viewmodel_jolt_backwardPerShot 8a8
-[WeaponSettings]viewmodel_jolt_roll 8b8
-[WeaponSettings]viewmodel_jolt_scale 8a4
-[WeaponSettings]viewmodel_jolt_side 8ac
-[WeaponSettings]viewmodel_offset_ads 870
-[WeaponSettings]viewmodel_offset_ads_by_centerpoint 898
-[WeaponSettings]viewmodel_offset_hip 864
-[WeaponSettings]viewmodel_offset_offhand_scale 884
-[WeaponSettings]viewmodel_offset_zoom_frac_end 880
-[WeaponSettings]viewmodel_offset_zoom_frac_start 87c
-[WeaponSettings]viewmodel_skips_cloak 45d
-[WeaponSettings]viewmodel_spring_jolt 8a0
-[WeaponSettings]viewmodel_use_ads_certerpoint_offset_for_transition 899
-[WeaponSettings]vortex_absorb_effect 1500
-[WeaponSettings]vortex_absorb_effect_third_person 14f8
-[WeaponSettings]vortex_drain 554
-[WeaponSettings]vortex_impact_effect 14f0
-[WeaponSettings]weapon_cycle_is_blocked 1235
-[WeaponSettings]weapon_type_flags 84c
-[WeaponSettings]zipline_distance_max 914
-[WeaponSettings]zipline_distance_min 910
-[WeaponSettings]zipline_grenade 900
-[WeaponSettings]zipline_grenade_auto_detach_distance 904
-[WeaponSettings]zipline_grenade_snap_angle 90c
-[WeaponSettings]zipline_grenade_snap_distance 908
-[WeaponSettings]zipline_indicator_arc_blocked_effect 1480
-[WeaponSettings]zipline_indicator_impact_blocked_effect 1460
-[WeaponSettings]zipline_indicator_impact_ground_effect 1470
-[WeaponSettings]zipline_indicator_impact_wall_effect 1468
-[WeaponSettings]zipline_indicator_line_effect 1478
-[WeaponSettings]zipline_station_animation_begin 8e0
-[WeaponSettings]zipline_station_animation_ground 8e8
-[WeaponSettings]zipline_station_animation_ledge 8f8
-[WeaponSettings]zipline_station_animation_wall 8f0
-[WeaponSettings]zipline_station_attachment_ground 8c8
-[WeaponSettings]zipline_station_attachment_ledge 8d8
-[WeaponSettings]zipline_station_attachment_wall 8d0
-[WeaponSettings]zipline_station_model_ground 1458
-[WeaponSettings]zipline_station_model_ledge 1448
-[WeaponSettings]zipline_station_model_wall 1450
-[WeaponSettings]zoom_angle_shift_pitch d64
-[WeaponSettings]zoom_angle_shift_yaw d60
-[WeaponSettings]zoom_effects 1234
-[WeaponSettings]zoom_fov 1094
-[WeaponSettings]zoom_fov_viewmodel d70
-[WeaponSettings]zoom_scope_frac_end d68
-[WeaponSettings]zoom_scope_frac_start d6c
-[WeaponSettings]zoom_time_in 10a0
-[WeaponSettings]zoom_time_out 109c
-[WeaponSettings]zoom_toggle_fov d74
-[WeaponSettings]zoom_toggle_lerp_time 1098
-[WeaponSettings]zoomed_convar_sensitivity_index 270
-[WeaponSettings]zoomed_convar_toggle_sensitivity_index 274
-[WeaponSettings]zoomfrac_autoattack 3f8
-[ConVars]Allow_auto_Party 1ec9ca0
-[ConVars]AutoRejectInviteToPlay 1eced30
-[ConVars]AutoRejectNewRules 1ecedc0
-[ConVars]Backtrace_RuiDump_GroupCountThreshold 2549450
-[ConVars]Backtrace_RuiDump_TopLimitForEachGroup 2540a40
-[ConVars]BlendBonesMode 1b56100
-[ConVars]ClientPakFile_scriptFakeDelay 25101c0
-[ConVars]CrossPlay_user_optin 1e8ee50
-[ConVars]DigiCertGlobalRoot_usable 1ecea20
-[ConVars]DoorSoundPrefixDouble 266b400
-[ConVars]DoorSoundPrefixSingle 26a2a00
-[ConVars]EADP_AcceptInvite_Check_isAcceptingInvite 25103a0
-[ConVars]EADP_RTM_DELAY_QUERRY_SCRIPT_SECONDS 25156a0
-[ConVars]EADP_RTM_DELAY_QUERRY_SECONDS 1ececa0
-[ConVars]EADP_RTM_Enabled 1ece900
-[ConVars]EADP_RTM_Productid 1ece990
-[ConVars]EADP_SEARCH_Enabled 1eb9720
-[ConVars]EADP_code_redemption_enabled 1eb9210
-[ConVars]EADP_code_redemption_hostname 1eb9180
-[ConVars]EADP_friends_invite_has_platform 1eb9450
-[ConVars]EADP_http_inbound_friend_invite_can_use_commentforname 1eb94e0
-[ConVars]EADP_optin_datachange_throttle 1eb9900
-[ConVars]EADP_search_accountname_count 1eb97b0
-[ConVars]EADP_search_use_starts_with 1eb9840
-[ConVars]EADP_server_environment 1ec8dc0
-[ConVars]EADP_um_debug 1eb9bd0
-[ConVars]EADP_um_enabled 1eb9f30
-[ConVars]EADP_um_forceError 1eb9990
-[ConVars]EADP_um_inbox_message_enabled 1eb9ab0
-[ConVars]EADP_um_inbox_message_trigger_id_int 1eb9a20
-[ConVars]EADP_um_inbox_message_trigger_id_prod 1eb9b40
-[ConVars]EADP_um_path 1eba050
-[ConVars]EADP_um_promo_id 1eb9c60
-[ConVars]EADP_um_trigger_message_api_auth_token 1eb9cf0
-[ConVars]EADP_um_trigger_message_api_env_int 1eb9fc0
-[ConVars]EADP_um_trigger_message_api_env_prod 1eb9d80
-[ConVars]EADP_um_trigger_message_api_hostname 1eb9ea0
-[ConVars]EADP_um_trigger_message_enabled 1eb9e10
-[ConVars]ListPanel_DestroyElementWhenInvisible 24d8dc0
-[ConVars]OriginAllowRebootClientAuthTokens 1eca0f0
-[ConVars]OriginRebootClientAuthTokens_Retryinterval 1ec98e0
-[ConVars]Origin_VXS_Enabled 1eca220
-[ConVars]PATCH_allow 24ce330
-[ConVars]PATCH_file_endpoint 24ce210
-[ConVars]PATCH_forceRunDirectory 24ce3c0
-[ConVars]PATCH_ingameui 24ce2a0
-[ConVars]PATCH_ingameui_interval 24ce570
-[ConVars]PATCH_installed_ui_rpak_version 24ce4e0
-[ConVars]PATCH_installed_version 24ce6b0
-[ConVars]PATCH_rules_endpoint 24ce450
-[ConVars]PATCH_staged_version 24ce180
-[ConVars]PATCH_using_version 24ce620
-[ConVars]PATCH_want_version 24ce740
-[ConVars]PTCH_allow_stage_logic 24ced60
-[ConVars]PTCH_allways_stage 24cec40
-[ConVars]PTCH_blocking_maxduration 24ce980
-[ConVars]PTCH_maxRetriesFiles 24ce8f0
-[ConVars]PTCH_maxRetriesRules 24ce7d0
-[ConVars]PTCH_max_active_staged_filegets 24cecd0
-[ConVars]PTCH_seconds_stage_polls 24ceb20
-[ConVars]PTCH_stage_maxRetries 24cedf0
-[ConVars]PTCH_stage_timeout_file 24cebb0
-[ConVars]PTCH_stage_timeout_rules 24cea30
-[ConVars]PTCH_use_alt_endpoint 24ce860
-[ConVars]PresenceForFirstPartyFriends 1ecf1c0
-[ConVars]ScriptDisallowedToUsePersistenceOnSP 26c03b0
-[ConVars]ScriptSaveAllowed 26c2c40
-[ConVars]StreamMicDisabled 1b7a5e0
-[ConVars]Stryder3PToken_debug 1ecac40
-[ConVars]StryderEaIdFetchEnabled 1e887f0
-[ConVars]StryderUseClientJwt 1b750b0
-[ConVars]TLS_trust_cert 1eceab0
-[ConVars]TextDataFromCommunityOnlyInLobby 252fcd0
-[ConVars]VoiceChatMode 1b7aaf0
-[ConVars]VoiceDataFromCommunityOnlyInLobby 1b7a550
-[ConVars]VoiceNeedsReset 1b7aa60
-[ConVars]XLOG_DigiCertGlobalRoot_usable 24d6730
-[ConVars]XLOG_TLS_hostname 24d6940
-[ConVars]XLOG_TLS_secure_conn 24d6d50
-[ConVars]XLOG_TLS_trust_cert 24d69d0
-[ConVars]XLOG_telemetry_buffer_sends_per_second 24d6ba0
-[ConVars]XLOG_telemetry_shortcircuit 24d6c30
-[ConVars]XLOG_telemetry_socket_recv_freq 24d6cc0
-[ConVars]XLOG_telemetry_socket_send_freq 24d67c0
-[ConVars]XLOG_telemetry_streams 24d68b0
-[ConVars]account_progression_version 26c0690
-[ConVars]adjustableCharacterBoostIndirectDiffuse 1ee7ee0
-[ConVars]ai_titan_grapple_max_len 24e76b0
-[ConVars]aimassist_filter_aim_coefficient 25169a0
-[ConVars]aimassist_filter_aim_enabled 2511140
-[ConVars]aimassist_filter_enabled 2511a80
-[ConVars]aimassist_filter_final_coefficient 2518600
-[ConVars]aimassist_filter_final_enabled 2519c80
-[ConVars]aimassist_filter_movement_coefficient 250bb60
-[ConVars]aimassist_filter_movement_enabled 2519d10
-[ConVars]aimassist_filter_threshold_aim_coefficient 251e190
-[ConVars]aimassist_filter_threshold_aim_enabled 2511020
-[ConVars]aimassist_filter_threshold_movement_coefficient 2515460
-[ConVars]aimassist_filter_threshold_movement_enabled 251f500
-[ConVars]aimassist_magnet_inputThresholdLook 2517f10
-[ConVars]aimassist_magnet_inputThresholdMove 2528670
-[ConVars]airslowmo_enabled 26a58d0
-[ConVars]airslowmo_enter_time 269b770
-[ConVars]airslowmo_ground_immediate_end 26a0bf0
-[ConVars]airslowmo_leave_time 266e550
-[ConVars]airslowmo_scripted_speed 26a1af0
-[ConVars]airslowmo_when_hovering 26a5750
-[ConVars]allowOffhandToSkipSequenceResetOnModelChanged 24eb0e0
-[ConVars]allow_comms_filter 1e90670
-[ConVars]allow_extended_range_use_ents 26bb5e0
-[ConVars]allow_gamemode_dvs_adjustment_on_pc 1b74f00
-[ConVars]allow_gamemode_dvs_adjustment_without_aa 1b77a70
-[ConVars]always_touch_triggers_cl 24f8a60
-[ConVars]animEvent_debug 26703a0
-[ConVars]animEvent_debugEnt 269e3c0
-[ConVars]animEvent_debug_cl 24f69e0
-[ConVars]animEvent_imgui 26718c0
-[ConVars]animStateGestureSlotTestPlayerSeq 24d7e90
-[ConVars]anim_playerMovementAngleMargin 24d84c0
-[ConVars]anim_player_ragdoll_fix 24d7c50
-[ConVars]anim_print_transition_overflow 26b4fa0
-[ConVars]anim_set_prev_seq_reporting 26a1b80
-[ConVars]anim_showstate 24d7a10
-[ConVars]anim_showstatelog 24d7d70
-[ConVars]anim_transitionsequences 26b9ed0
-[ConVars]anim_view_entity_third_person_camera_use_move_parent 26bdc60
-[ConVars]anim_window_debug 269d400
-[ConVars]anim_window_imgui 269dfc0
-[ConVars]announcement 1ec8b80
-[ConVars]area_cloak_material_set 26a52d0
-[ConVars]armored_leap_disable_player_move_input 266f430
-[ConVars]arsenal_debug 26b3b70
-[ConVars]assert_on_activate_weapon_in_lobby 24ee360
-[ConVars]assetdownloads_NeedsTempFileLogic 1e903d0
-[ConVars]assetdownloads_allow_outside_lobby 1e8ffe0
-[ConVars]assetdownloads_desiredState 1e90190
-[ConVars]assetdownloads_enabled 1e90220
-[ConVars]assetdownloads_forceError 1e902b0
-[ConVars]assetdownloads_hostname 1e90100
-[ConVars]assetdownloads_log_level 1e90460
-[ConVars]assetdownloads_trace_script_ui 1e904f0
-[ConVars]assetdownloads_verify_after_file_received 1e90070
-[ConVars]assetdownloads_verify_after_file_write 1e90340
-[ConVars]async_read_helper_uncompressed_job_fix 274da80
-[ConVars]async_serialize 1ec37f0
-[ConVars]attachment_orthogonal_warnings 24f63c0
-[ConVars]autoConnect 1e86700
-[ConVars]autohitch 1ec6e30
-[ConVars]automantle_backoff_anim_maxfrac 26a0060
-[ConVars]automantle_cooldown 266b790
-[ConVars]automantle_dangle_required_space 269ddd0
-[ConVars]automantle_debug 266e600
-[ConVars]automantle_disable_hang 26a6c20
-[ConVars]automantle_enable 269f4d0
-[ConVars]automantle_forwarddist 26a1c30
-[ConVars]automantle_gun_enable_height 26a1500
-[ConVars]automantle_height_above 268ab00
-[ConVars]automantle_height_below 26a2b20
-[ConVars]automantle_height_level 2671950
-[ConVars]automantle_jumpoff_anim_maxfrac 2671ed0
-[ConVars]automantle_jumpoff_duration 269f440
-[ConVars]automantle_maxangle_push 269e190
-[ConVars]automantle_maxangle_view 26a1740
-[ConVars]automantle_mindist 2672240
-[ConVars]automantle_rest_frac 26a1450
-[ConVars]automantle_rest_frac_below 2672190
-[ConVars]automantle_searchdist 26a6b90
-[ConVars]automantle_trace_debug 266aea0
-[ConVars]automantle_view_high_yaw_max 24fddf0
-[ConVars]automantle_view_pitch_max 24ff0f0
-[ConVars]automantle_view_pitch_min 2502430
-[ConVars]automantle_view_yaw_max 24fd0f0
-[ConVars]automantle_wallrun_maxangle_view 26a0ee0
-[ConVars]backtrace_disable 1e88fc0
-[ConVars]backtrace_reporting_disconnect 1e88f00
-[ConVars]backtrace_reporting_error 1e89090
-[ConVars]banktilt_accel 24f06d0
-[ConVars]banktilt_maxvel 24f2d30
-[ConVars]baseanimatingoverlay_playbackRateThreshold 266a820
-[ConVars]baselines_print 1e8fac0
-[ConVars]battlepass_unlock_all_weeklies 26c3ad0
-[ConVars]bind_exec_sanitize 1b758f0
-[ConVars]bink_materials_enabled 1d59500
-[ConVars]bleedout_sliding_disables_jump 26a6b00
-[ConVars]boost_jetwash_prediction_factor 2502550
-[ConVars]bot_lagOut 1e8c390
-[ConVars]bot_num_exclusive_teams 1e8f490
-[ConVars]botprofile_hostname 1b75980
-[ConVars]breach_trace_use_object_placement_special 26c3c10
-[ConVars]brushmodel_colors 1b58630
-[ConVars]budget_animatingEntities 1b5a7a0
-[ConVars]budget_animationOverlayEntities 1b581c0
-[ConVars]budget_combatCharEntities 1b597f0
-[ConVars]budget_weaponEntities 1b57e20
-[ConVars]budget_ziplineGrowCount 1b58310
-[ConVars]budget_ziplineInitialEntities 1b58750
-[ConVars]budget_ziplineMaxEntitiesEver 1b593b0
-[ConVars]bug_reproNum 26c0320
-[ConVars]build_nonmerged 2517cb0
-[ConVars]buildcubemaps_async 1b5b6a0
-[ConVars]buildcubemaps_default_cubemap 1b5af80
-[ConVars]buildcubemaps_first_pass_behavior 1b5a8c0
-[ConVars]buildcubemaps_index 1b5aef0
-[ConVars]buildcubemaps_preconvolve 1b5ab50
-[ConVars]buildcubemaps_pvs_start_early 1b588a0
-[ConVars]buildcubemaps_single_step 1b5b1c0
-[ConVars]building_cubemaps 1b59cf0
-[ConVars]bulletPredictionDebug 24ee480
-[ConVars]bullet_trace_test_debug 26b3930
-[ConVars]bullet_trace_test_enable 26b7c00
-[ConVars]c_dropship_ground_fx_dist_interval 24f7650
-[ConVars]c_dropship_ground_fx_time_interval 24f6180
-[ConVars]c_dropship_rope_debug 2510310
-[ConVars]c_dropship_rope_events 251a1a0
-[ConVars]c_dropship_rope_magnitude 251d540
-[ConVars]c_dropship_rope_range 250e0b0
-[ConVars]c_hover_vehicle_ground_fx_dist_interval 24f46f0
-[ConVars]c_hover_vehicle_ground_fx_time_interval 24f6d40
-[ConVars]c_maxdistance 252e960
-[ConVars]c_maxpitch 252b640
-[ConVars]c_maxyaw 253c970
-[ConVars]c_mindistance 2531290
-[ConVars]c_minpitch 2533560
-[ConVars]c_minyaw 2535ac0
-[ConVars]c_thirdpersonshoulderaimdistADS_110 253e340
-[ConVars]c_thirdpersonshoulderaimdistADS_70 253e3d0
-[ConVars]c_thirdpersonshoulderaimdistADS_90 253e460
-[ConVars]c_thirdpersonshoulderaimdist_110 253e580
-[ConVars]c_thirdpersonshoulderaimdist_70 253e610
-[ConVars]c_thirdpersonshoulderaimdist_90 253e4f0
-[ConVars]c_thirdpersonshoulderdist 253baf0
-[ConVars]c_thirdpersonshouldergetsviewpunch 253e2b0
-[ConVars]c_thirdpersonshoulderheight 253e730
-[ConVars]c_thirdpersonshoulderoffset 253e6a0
-[ConVars]c_threadedAnimPostData 24f5f40
-[ConVars]cam_collision 25306c0
-[ConVars]cam_debug_collision 2538140
-[ConVars]cam_idealdelta 2536cf0
-[ConVars]cam_idealdist 252d500
-[ConVars]cam_ideallag 2539260
-[ConVars]cam_idealpitch 253cc90
-[ConVars]cam_idealyaw 2538e40
-[ConVars]cam_pitchLock_feetRelative 252b210
-[ConVars]cam_pitchfreeze_on 253d8c0
-[ConVars]cam_pitchlock_on 2531a50
-[ConVars]cam_pitchlock_period 253ad60
-[ConVars]cam_pitchlock_phase 252d6a0
-[ConVars]cam_pitchlock_pitchBase 253b520
-[ConVars]cam_pitchlock_pitchRange 252e1a0
-[ConVars]cam_pitchlock_pitchWiggleRoom 252a8b0
-[ConVars]cam_player_viewheight_scale 253e190
-[ConVars]cam_showangles 252e840
-[ConVars]cam_yawfreeze_on 2534290
-[ConVars]cam_zoomfreeze_on 2535b50
-[ConVars]can_stand_on_obb 269dc20
-[ConVars]cant_continue_on_switch 1eceb40
-[ConVars]cc_captiontrace 253ae30
-[ConVars]cc_global_norepeat 2534530
-[ConVars]cc_linger_time 253d830
-[ConVars]cc_max_duration 2532980
-[ConVars]cc_minvisibleitems 2532e90
-[ConVars]cc_predisplay_time 2536a50
-[ConVars]cc_text_size 2531cf0
-[ConVars]cc_timeshift_norepeat 252f5e0
-[ConVars]cdndownloads_hostname 1ed5970
-[ConVars]challenges_on_demand_stats_update_frequency_seconds 26c0d80
-[ConVars]chasecam_distanceMax_override 24fab30
-[ConVars]chat_rules_MuteIsMute 1e90820
-[ConVars]chat_rules_log_details 1e90940
-[ConVars]chatroom_debug 1eca680
-[ConVars]chatroom_nameLength 24d9000
-[ConVars]chatroom_namePaddingX 24d9960
-[ConVars]chatroom_nameWidth 24d98d0
-[ConVars]chatroom_useSlopSpace 24d9690
-[ConVars]cheap_captions_fadetime 2547000
-[ConVars]cheap_captions_test 25468f0
-[ConVars]cheap_track_dev_telemetry_period_seconds 24d2480
-[ConVars]cheap_track_disabled 24d2640
-[ConVars]cheap_track_report_non_fatal_errors 24d2520
-[ConVars]cheaptrack_button_combo 1b73fc0
-[ConVars]checkBreaksCloakOnChargeBegin 24eaf60
-[ConVars]checkBreaksCloakOnWeaponToss 24ee2b0
-[ConVars]chroma_enable 1d595f0
-[ConVars]clPlayCustomActGesture 24f0450
-[ConVars]cl_NotifyAllLevelAssetsLoaded_endframe 24fcf00
-[ConVars]cl_RunClientConnectScripts_Before_ProcessOnDataChangedEvents 251fa00
-[ConVars]cl_SetupAllBones 24f5fd0
-[ConVars]cl_ShowBoneSetupEnts 250fbc0
-[ConVars]cl_adjustTimeEntsPerJob 1e868b0
-[ConVars]cl_aggregate_particles 2548720
-[ConVars]cl_allowABSCalculationDuringSnapshotScriptCalls 2512880
-[ConVars]cl_allowABSDuringSnapshotScriptCalls 250a5b0
-[ConVars]cl_allowRemotePrintAsChat 1ec50a0
-[ConVars]cl_allow_async_anim_particle_commands 251f050
-[ConVars]cl_allow_small_display_size_detection_windows 24cdcb0
-[ConVars]cl_always_draw_3p_player 26665c0
-[ConVars]cl_always_ragdoll_radius 24f6830
-[ConVars]cl_anglespeedkey 253b490
-[ConVars]cl_anim_always_play_nonlobby_sfx 24f6450
-[ConVars]cl_anim_attachment_sound_enabled 24f6060
-[ConVars]cl_anim_blend_transition_dist 24f74a0
-[ConVars]cl_anim_deferredstop_onbecomepredictable 24f65f0
-[ConVars]cl_anim_detail_dist 24f55e0
-[ConVars]cl_anim_eventreset_mode 24f75c0
-[ConVars]cl_anim_face_dist 24f54c0
-[ConVars]cl_anim_layerfxcleanup 251f410
-[ConVars]cl_anim_newfxclear 24f62a0
-[ConVars]cl_anim_resetEvents_firstPredictionOnly 26a6fb0
-[ConVars]cl_anim_resetevents_on_seq_change 26a4940
-[ConVars]cl_anim_sequence_transition_full_weight_optimization 24f5d00
-[ConVars]cl_anim_sounds_seek 24f76e0
-[ConVars]cl_approx_footstep_origin 24f4780
-[ConVars]cl_approx_tracer_origin 253cf60
-[ConVars]cl_async_bone_setup 2529b70
-[ConVars]cl_base_entity_effect_lock 24f8850
-[ConVars]cl_base_entity_link_with_locks 24fa280
-[ConVars]cl_bones_incremental_transform 24f4d80
-[ConVars]cl_bones_oldhack 24f6a70
-[ConVars]cl_bounds_show_errors 26a6390
-[ConVars]cl_burninggibs 26b06f0
-[ConVars]cl_checkForFrametimeHitch 1e1a340
-[ConVars]cl_checkForFrametimeHitch_thresh 1e1a550
-[ConVars]cl_clock_correction_ahead_correct_interval 1b59880
-[ConVars]cl_clock_correction_behind_correct_interval 1b585a0
-[ConVars]cl_cmdFrametimes_print 1e1b750
-[ConVars]cl_cmdbackup 1e1abb0
-[ConVars]cl_comms_filter 1e90580
-[ConVars]cl_cull_weapon_fx 24e26c0
-[ConVars]cl_deathhints_enabled 26c3a00
-[ConVars]cl_debugClientEntities 24f7e30
-[ConVars]cl_debug_deferred_trace 26b38a0
-[ConVars]cl_debug_deferred_trace_overlay 26b7950
-[ConVars]cl_debug_model_fx_sounds 253b340
-[ConVars]cl_decal_alwayswhite 266ef70
-[ConVars]cl_decal_backoff 26a6700
-[ConVars]cl_deferred_effects 2666650
-[ConVars]cl_deferred_trace_normal_priority 26b2d40
-[ConVars]cl_deferredstop_customactchange 24ebb10
-[ConVars]cl_deferredstop_fromsv_whenpredicted 24f6b90
-[ConVars]cl_demoviewoverride 25193a0
-[ConVars]cl_disableTagForPrivateMatch 24faa10
-[ConVars]cl_disable_ragdolls 24f7410
-[ConVars]cl_disconnectOnTooManySnapshotFrames 1d59710
-[ConVars]cl_doNetworkAsserts 24f0570
-[ConVars]cl_doRecreateEnts 1d59680
-[ConVars]cl_draw_player_model 24fc990
-[ConVars]cl_drawhud 251fe10
-[ConVars]cl_drawmonitors 254a790
-[ConVars]cl_enable_remote_splitscreen 2541510
-[ConVars]cl_entCreateDeleteDebug 1d59a70
-[ConVars]cl_events_ignore_invalidate 2510a70
-[ConVars]cl_ezlaunch_button 1e1a940
-[ConVars]cl_failremoteconnections 1ec3c80
-[ConVars]cl_fasttempentcollision 253ca00
-[ConVars]cl_flip_vis_bits 24f7f50
-[ConVars]cl_flushentitypacket 1d59830
-[ConVars]cl_footstep_event_max_dist 24f6cb0
-[ConVars]cl_footstep_event_max_dist_titan 24f6210
-[ConVars]cl_forceAdjustTime 1e856e0
-[ConVars]cl_fovScale 1ed0440
-[ConVars]cl_gib_allow 1ed03b0
-[ConVars]cl_gib_attack_dir_scale 251ec40
-[ConVars]cl_gib_lifetime 25032f0
-[ConVars]cl_idealpitchscale 2543800
-[ConVars]cl_ignorepackets 1e1b010
-[ConVars]cl_interp_all 24f8af0
-[ConVars]cl_interpolate 1e855c0
-[ConVars]cl_interpolation_before_prediction 2528cf0
-[ConVars]cl_ipgeo_country 1e86a60
-[ConVars]cl_isUnderAge 1ec63f0
-[ConVars]cl_is_softened_locale 1e1b190
-[ConVars]cl_jiggle_bone_debug 24d57c0
-[ConVars]cl_jiggle_bone_debug_pitch_constraints 24d56a0
-[ConVars]cl_jiggle_bone_debug_yaw_constraints 24d58f0
-[ConVars]cl_jiggle_bone_invert 24d5730
-[ConVars]cl_jiggle_bone_sanity 24d5860
-[ConVars]cl_jip_timeout 1ec8800
-[ConVars]cl_keepPersistentDataOnDisconnect 1e85410
-[ConVars]cl_lagcompensation 25450b0
-[ConVars]cl_language 1e1bb10
-[ConVars]cl_leafsystemvis 25291e0
-[ConVars]cl_lerpIfChildrenLerp 24f9cc0
-[ConVars]cl_liveapi_allow_requests 1e88400
-[ConVars]cl_liveapi_allow_stdout 1e87c90
-[ConVars]cl_liveapi_config_file 1e880a0
-[ConVars]cl_liveapi_dir 1e87d20
-[ConVars]cl_liveapi_enabled 1e87e40
-[ConVars]cl_liveapi_pretty_print_log 1e88490
-[ConVars]cl_liveapi_requests_psk 1e87f80
-[ConVars]cl_liveapi_requests_psk_tries 1e886d0
-[ConVars]cl_liveapi_session_name 1e88010
-[ConVars]cl_liveapi_skipservermessage 253ece0
-[ConVars]cl_liveapi_spectator_only 253ebc0
-[ConVars]cl_liveapi_stdout_prefix_filter 1e88760
-[ConVars]cl_liveapi_use_protobuf 1e88250
-[ConVars]cl_liveapi_use_websocket 1e88520
-[ConVars]cl_liveapi_write_event_file 253eb30
-[ConVars]cl_liveapi_ws_event_delay 1e88130
-[ConVars]cl_liveapi_ws_keepalive 1e881c0
-[ConVars]cl_liveapi_ws_lax_ssl 1e88370
-[ConVars]cl_liveapi_ws_retry_count 1e88640
-[ConVars]cl_liveapi_ws_retry_time 1e885b0
-[ConVars]cl_liveapi_ws_servers 1e882e0
-[ConVars]cl_liveapi_ws_timeout 1e87ed0
-[ConVars]cl_loadBspFromServerInfo 1ec4ce0
-[ConVars]cl_loadStaticPropsInJob 1b79d50
-[ConVars]cl_matchmaking_timeout 1e865e0
-[ConVars]cl_model_fx_gib_cull_front_dist 2538be0
-[ConVars]cl_model_fx_gib_cull_radius 25386f0
-[ConVars]cl_mouseenable 253b820
-[ConVars]cl_mute_override_default 1e90700
-[ConVars]cl_mute_toggle_to_default 1b57f40
-[ConVars]cl_nameObserverOverride 2518940
-[ConVars]cl_noTimeoutLocalHost 1e19fe0
-[ConVars]cl_observerVFXOverrides_enabled 2503fc0
-[ConVars]cl_observer_preset_playerHash 2671c50
-[ConVars]cl_observer_preset_playerSlot 26a44b0
-[ConVars]cl_observer_preset_team 269b800
-[ConVars]cl_odsl_enabled 2541f90
-[ConVars]cl_overrideEventTimes 1e1bcc0
-[ConVars]cl_parallelParticlePreDrawWork 2665a60
-[ConVars]cl_parallel_clientside_animations 24f4ec0
-[ConVars]cl_particle_batch_mode 26698e0
-[ConVars]cl_particle_control_snap_dist 2669850
-[ConVars]cl_particle_control_snap_mode 26697c0
-[ConVars]cl_particle_fallback_base 1ed0170
-[ConVars]cl_particle_fallback_multiplier 1ed04d0
-[ConVars]cl_particle_limiter_display_killed 2547800
-[ConVars]cl_particle_limiter_hide_killable 274d510
-[ConVars]cl_particle_limiter_max_particle_count 2542260
-[ConVars]cl_particle_limiter_max_system_count 25423c0
-[ConVars]cl_particle_limiter_min_kill_distance 25438f0
-[ConVars]cl_particle_limiter_overlay 2547310
-[ConVars]cl_particle_max_count 2543110
-[ConVars]cl_particle_render_fallback_threshold_ms 25441f0
-[ConVars]cl_particle_sim_fallback_base_multiplier 2548690
-[ConVars]cl_particle_sim_fallback_threshold_ms 2540ef0
-[ConVars]cl_particle_snoozetime 25461a0
-[ConVars]cl_particles_show_bbox 2543cf0
-[ConVars]cl_particles_show_bbox_name 2547bb0
-[ConVars]cl_particles_show_controlpoints 25447c0
-[ConVars]cl_pclass 2549050
-[ConVars]cl_pdump 2546740
-[ConVars]cl_phys_maxticks 2541010
-[ConVars]cl_phys_show_active 2544f00
-[ConVars]cl_phys_timescale 2545460
-[ConVars]cl_physics_invalidate_ents 2547e20
-[ConVars]cl_physicsshadowupdate_render 26ba4c0
-[ConVars]cl_pitchspeed 253bb80
-[ConVars]cl_playback_screenshots 1e1b660
-[ConVars]cl_postSnapshotTransitionBlockCount 1d598c0
-[ConVars]cl_preSnapshotTransitionBlockCount 24f92b0
-[ConVars]cl_precache_player_models 24ff780
-[ConVars]cl_precache_root_lgnd_skins 1eca4c0
-[ConVars]cl_precache_use_pso_threads 1eca550
-[ConVars]cl_pred_error_verbose 2669a00
-[ConVars]cl_pred_optimize 2544160
-[ConVars]cl_predict 1e1b3d0
-[ConVars]cl_predict_basetoggles 2502970
-[ConVars]cl_predict_cmdlimit 2541360
-[ConVars]cl_predict_cmdlimit_fullsnap 2541810
-[ConVars]cl_predict_error_icon_duration 2548570
-[ConVars]cl_predict_error_icon_show 2543230
-[ConVars]cl_predict_error_icon_threshold_angle 2546b30
-[ConVars]cl_predict_error_icon_threshold_dist 2541b80
-[ConVars]cl_predict_viewangles 2549620
-[ConVars]cl_prediction_error_timestamps 2541af0
-[ConVars]cl_predictionlist 2546670
-[ConVars]cl_predictweapons 2544280
-[ConVars]cl_prevent_weapon_text_hints 24deec0
-[ConVars]cl_ragdoll_force_fade_time 24f7340
-[ConVars]cl_ragdoll_force_fade_time_local_view_player 24f6c20
-[ConVars]cl_ragdoll_force_fade_time_on_moving_geo 2669580
-[ConVars]cl_ragdoll_force_fade_time_titan 24f6560
-[ConVars]cl_ragdoll_maxcount 1ed0290
-[ConVars]cl_ragdoll_self_collision 1ed0560
-[ConVars]cl_ranked_reconnect_timeout 1e85800
-[ConVars]cl_release_children_on_release 24f9180
-[ConVars]cl_replayDelayTolerance 1e862e0
-[ConVars]cl_requireAnimForAnimEventsHdr 24f7770
-[ConVars]cl_resend 1e86040
-[ConVars]cl_resend_timeout 1e86460
-[ConVars]cl_restoreSimulationTimeBase 2501da0
-[ConVars]cl_retire_low_priority_lights 1e1a760
-[ConVars]cl_runWeaponCloneThinkWhenHidden 2515800
-[ConVars]cl_safearea 26c3dc0
-[ConVars]cl_screenshotname 1e1aca0
-[ConVars]cl_scriptCompileAsync 2549e00
-[ConVars]cl_script_perf_dump_on_shutdown 2544d80
-[ConVars]cl_showClanTags 25182b0
-[ConVars]cl_show_splashes 25388b0
-[ConVars]cl_showfiredbullets 24e8030
-[ConVars]cl_showfps 2546980
-[ConVars]cl_showfps_altframetime 25436e0
-[ConVars]cl_showpausedimage 2545a20
-[ConVars]cl_showpos 2540d70
-[ConVars]cl_showtime 25440d0
-[ConVars]cl_simulateAllModelsRegardless 24f5d90
-[ConVars]cl_skipAnimEventsOnProps 24f4e30
-[ConVars]cl_skipfastpath 2547520
-[ConVars]cl_small_display_detection_size 24cdd40
-[ConVars]cl_smooth 2500fc0
-[ConVars]cl_smooth_debug 2500e20
-[ConVars]cl_smoothtime 2501ec0
-[ConVars]cl_snapshot_draw 1ed5e80
-[ConVars]cl_strict_transport_checks 1ec4aa0
-[ConVars]cl_threaded_bone_setup 24f4cf0
-[ConVars]cl_update_visibility_for_non_predicted_local_player_always 24f93a0
-[ConVars]cl_updatedirty_async 268b620
-[ConVars]cl_updatedirty_early 2510b90
-[ConVars]cl_updaterate_mp 1e1bba0
-[ConVars]cl_updaterate_mp_override 1ec83e0
-[ConVars]cl_upspeed 253ba60
-[ConVars]cl_useFutureSnapForEvents 1e1bc30
-[ConVars]cl_use_raw_input_buffer 274de50
-[ConVars]cl_use_target_visibility_collision_group 250b080
-[ConVars]cl_use_virtual_keyboard_on_desktop_when_controller 2751150
-[ConVars]cl_view_cone 25017d0
-[ConVars]cl_view_cone_debug 2500060
-[ConVars]cl_viewmodel_audio_seek_correction 251fd80
-[ConVars]cl_viewmodel_pre_animate 2529600
-[ConVars]cl_viewmodel_simulate_invisible 251ed60
-[ConVars]cl_viewmodel_simulate_on_weapon_think 24f03c0
-[ConVars]cl_voice_lvl_blocks 1d50980
-[ConVars]cl_voice_lvl_samples_per_block 1d50080
-[ConVars]cl_voicein_normalize 1d501a0
-[ConVars]cl_voicein_normalize_attack 1d4fff0
-[ConVars]cl_voicein_normalize_attenuate_on_clip 1d4fed0
-[ConVars]cl_voicein_normalize_db_decrease_per_sec 1d4ff60
-[ConVars]cl_voicein_normalize_db_increase_per_sec 1d50860
-[ConVars]cl_voicein_normalize_max_boost 1d50500
-[ConVars]cl_voicein_normalize_min_boost 1d50aa0
-[ConVars]cl_voicein_normalize_min_gain 1d50590
-[ConVars]cl_voicein_normalize_release 1d508f0
-[ConVars]cl_voicein_normalize_rms_tweak 1d50740
-[ConVars]cl_voicein_normalize_target 1d507d0
-[ConVars]cl_voiceout_normalize 1d503e0
-[ConVars]cl_voiceout_normalize_attack 1d50350
-[ConVars]cl_voiceout_normalize_attenuate_on_clip 1d50230
-[ConVars]cl_voiceout_normalize_db_decrease_per_sec 1d506b0
-[ConVars]cl_voiceout_normalize_db_increase_per_sec 1d502c0
-[ConVars]cl_voiceout_normalize_max_boost 1d50110
-[ConVars]cl_voiceout_normalize_min_boost 1d50b30
-[ConVars]cl_voiceout_normalize_min_gain 1d4fe40
-[ConVars]cl_voiceout_normalize_release 1d50a10
-[ConVars]cl_voiceout_normalize_rms_tweak 1d50620
-[ConVars]cl_voiceout_normalize_target 1d50470
-[ConVars]cl_warnAboutSoundsOnInvalidEntities 2539e60
-[ConVars]cl_windows_virtual_keyboard_closedelay 2751270
-[ConVars]cl_windows_virtual_keyboard_dualshock 2751300
-[ConVars]cl_windows_virtual_keyboard_enabled 27511e0
-[ConVars]cl_windows_virtual_keyboard_kind 27510c0
-[ConVars]cl_yawspeed 252aa70
-[ConVars]clearEffectsOnAnimChange 24f5550
-[ConVars]clear_scriptname_on_remove 266fd50
-[ConVars]clientQoSport 1b7a360
-[ConVars]client_boostCount 1ecad60
-[ConVars]client_deferredSnapshotScriptCalls 25496b0
-[ConVars]client_script_compile_debug_dump_rprof 1e85f20
-[ConVars]client_side_mimic_debug 26b0180
-[ConVars]clientport 1b752f0
-[ConVars]clip_mouse_to_letterbox 1ed31c0
-[ConVars]cloak_enabled 1edf5b0
-[ConVars]cloak_pilotAberrationScale 1ee6b30
-[ConVars]cloak_pilotBrightenAdd 1ee7940
-[ConVars]cloak_pilotNoiseFactor 1ee7310
-[ConVars]cloak_pilotTint1 1ee7430
-[ConVars]cloak_pilotTint2 1ee6fb0
-[ConVars]cloak_pilotTint3 1ee6f20
-[ConVars]clock_bias_mp 1b5a4e0
-[ConVars]clock_bias_sp 1b5b550
-[ConVars]clock_showcorrections 1b5ad00
-[ConVars]clock_showdebuginfo 1b5b4c0
-[ConVars]closecaption 1ec73a0
-[ConVars]clusteredlighting_2dbounds 1f3f040
-[ConVars]clusteredlighting_cluster_depth 1f3ef20
-[ConVars]clusteredlighting_cluster_depth_lobby 1f3f5e0
-[ConVars]clusteredlighting_enable_fulllights 1f3f3a0
-[ConVars]clusteredlighting_enable_quad_dist 1f3f4c0
-[ConVars]clusteredlighting_enable_shlights 1f3eaa0
-[ConVars]clusteredlighting_light_importance_threshold 1f3ee90
-[ConVars]clusteredlighting_no_realtime_check 1f3eb30
-[ConVars]clusteredlighting_pixels_per_cluster 1f3ed70
-[ConVars]clusteredlighting_rasterize 1f3f160
-[ConVars]clusteredlighting_skip_behind_depth 1f3f1f0
-[ConVars]clusteredlighting_veryfar_enabled 1f3ea10
-[ConVars]clusteredlighting_veryfar_minsize 1f3ec50
-[ConVars]clusteredlighting_z_first_far 1f3ece0
-[ConVars]clusteredlighting_z_first_far_lobby 1f3f0d0
-[ConVars]clusteredlighting_z_last 1f3e8f0
-[ConVars]clusteredlighting_z_last_lobby 1f3e860
-[ConVars]cockpitDrift_scalePitch 26ba930
-[ConVars]cockpitDrift_scaleYaw 26bb0b0
-[ConVars]cockpitDrift_speedPitch 26bc2f0
-[ConVars]cockpitDrift_speedYaw 26ba670
-[ConVars]cockpitShake_sourceRollRange 24dc180
-[ConVars]cockpitShake_translateRange 24de220
-[ConVars]cockpit_damage_chroma_scale 24dab10
-[ConVars]cockpit_hit_chroma_max_time 24db130
-[ConVars]cockpit_hit_chroma_scale 24dd770
-[ConVars]cockpit_pitch_down_frac 24dc520
-[ConVars]cockpit_pitch_up_frac 24df350
-[ConVars]cockpit_screen_boot_chroma_scale 24dd060
-[ConVars]cockpit_screen_boot_delay_bottom 24dbaa0
-[ConVars]cockpit_screen_boot_delay_left 24df4e0
-[ConVars]cockpit_screen_boot_delay_mid 24da890
-[ConVars]cockpit_screen_boot_delay_right 24dc400
-[ConVars]cockpit_screen_boot_delay_top 24dfab0
-[ConVars]coll_spatial_entry_limit_client 1e89a90
-[ConVars]coll_spatial_optimize_prefetch 1e89b20
-[ConVars]coll_use_bolt_size 1b56190
-[ConVars]colorblind_mode 2544430
-[ConVars]comms_connect_delay 1e871b0
-[ConVars]comms_deditext 1e86d30
-[ConVars]comms_dedivoice 1e86c10
-[ConVars]comms_keepalive 1e87240
-[ConVars]comms_lobbytext 1e86ca0
-[ConVars]comms_reconnect 1e86f70
-[ConVars]comms_restrict_forcevalue 1e908b0
-[ConVars]comms_restrict_usenucloc 1e90790
-[ConVars]comms_udp_keepalive 1e87090
-[ConVars]comms_udp_minactivity 1e86ee0
-[ConVars]comms_udpestablish 1e87120
-[ConVars]comms_udpestablish_early 1e87000
-[ConVars]comms_use_cl_name 1e872d0
-[ConVars]communicationBlock_block_num 1e90fd0
-[ConVars]communicationBlock_block_threshold 1e90eb0
-[ConVars]communicationBlock_enabled 1e90f40
-[ConVars]communicationBlock_report_self 1e90b00
-[ConVars]communicationBlock_report_threshold 1e90c70
-[ConVars]communicationBlock_server_authoritative 1e91060
-[ConVars]communicationBlock_time_to_unblock 1e90d00
-[ConVars]communicationBlock_warning_fade 1e90a70
-[ConVars]communicationBlock_warning_num 1e90d90
-[ConVars]communicationBlock_warning_sustain 1e90be0
-[ConVars]communicationBlock_warning_threshold 1e90e20
-[ConVars]communities_hostname 1eb8eb0
-[ConVars]community 1e91210
-[ConVars]community_frame_run 1e91600
-[ConVars]community_spam 1eb89a0
-[ConVars]community_staleUserInfoTime 1e91330
-[ConVars]con_logfile 1ece2d0
-[ConVars]con_timestamp 1b5a390
-[ConVars]concommands_exec_sanitize 1b57fd0
-[ConVars]controller_constant_aim_sense_debounce 26a7aa0
-[ConVars]controller_debug_show_detection 1ed1590
-[ConVars]controller_fast_duration_time_generic 1ed17d0
-[ConVars]controller_fast_press_time_generic 1ed12f0
-[ConVars]controller_max_fast_presses_generic 1ed1620
-[ConVars]controller_out_of_bounds_threshold_generic 1ed1380
-[ConVars]controller_pattern_rec_error_generic 1ed14a0
-[ConVars]controller_report_freq_generic 1ed16b0
-[ConVars]controller_trigger_max_velocity_generic 1ed1410
-[ConVars]controller_use_cheat_detection_generic 1ed1260
-[ConVars]cpu_level 1ee22b0
-[ConVars]createentitydecals 24f9910
-[ConVars]crossPlay_Enabled 1e8eb80
-[ConVars]csm0_on_worker 251d5d0
-[ConVars]csm_cascade_res 1ee23d0
-[ConVars]csm_coverage 1edf6d0
-[ConVars]csm_culling_use_base_planes 251fab0
-[ConVars]csm_culling_use_exclusion_planes 2515ea0
-[ConVars]csm_culling_use_inclusion_planes 25028e0
-[ConVars]csm_culling_use_planes 25294e0
-[ConVars]csm_debug_2d 250e870
-[ConVars]csm_debug_culling 2511d50
-[ConVars]csm_debug_vis_hi_range 251d980
-[ConVars]csm_debug_vis_lo_range 2511790
-[ConVars]csm_depth_bias 25119d0
-[ConVars]csm_dropsequence_adjusted_coverage 251f240
-[ConVars]csm_dropsequence_adjustment 2502c50
-[ConVars]csm_enabled 1ee2190
-[ConVars]csm_fadeModels 250bed0
-[ConVars]csm_force_no_csm_in_reflections 250e780
-[ConVars]csm_frustum_draw 24d5600
-[ConVars]csm_frustum_draw_lock 24d5570
-[ConVars]csm_heightmap_shadows 251d390
-[ConVars]csm_ignore_cascade12 251d4b0
-[ConVars]csm_ignore_edge_planes 250af60
-[ConVars]csm_ignore_face_planes 25138d0
-[ConVars]csm_max_z_offset 251efc0
-[ConVars]csm_min_z_offset 2510f90
-[ConVars]csm_renderable_shadows 2502ce0
-[ConVars]csm_rope_shadows 251f0e0
-[ConVars]csm_shadow_split_lerp_factor_range 251f970
-[ConVars]csm_texel_size_cascade_0 250edf0
-[ConVars]csm_texel_size_cascade_1 2512760
-[ConVars]csm_texel_size_cascade_2 250b400
-[ConVars]csm_texel_size_cascade_onecascade 2519e10
-[ConVars]csm_use_env_light_direction 250ac10
-[ConVars]csm_world_shadow_meshes 2515e10
-[ConVars]csm_world_shadows 2519fc0
-[ConVars]csm_z_cover_world 2519b40
-[ConVars]cull_entity_circle_replicated 1ec3bf0
-[ConVars]cull_target_info_offscreen_for_players 24df6c0
-[ConVars]cull_target_info_offscreen_for_spectators 24db1c0
-[ConVars]cupsPub_hostname 1b70510
-[ConVars]cups_check_activation_from_reveal 1d51870
-[ConVars]cups_debug 1d516f0
-[ConVars]cups_enabled 1d519f0
-[ConVars]cups_has_match_history 1d510a0
-[ConVars]cups_has_post_match 1d50dd0
-[ConVars]cups_leaderboardRequestCacheLimit 1d515b0
-[ConVars]cups_leaderboardRequestCacheTimeout 1d51a80
-[ConVars]curl_spamAllQueryStates 1ec9760
-[ConVars]cursorWide 2777710
-[ConVars]curved_zipline_skip_cooldown_increase 24f1500
-[ConVars]customMatchChannel_hostname 1d524a0
-[ConVars]customMatchPub_hostname 1b79570
-[ConVars]customMatch_allowBanningLegends 1d52a20
-[ConVars]customMatch_bannedLegends 1d52250
-[ConVars]customMatch_channel 1d51c90
-[ConVars]customMatch_enabled 1d521a0
-[ConVars]customMatch_fastStart 1d51bc0
-[ConVars]customMatch_fillBotsMode 1d52930
-[ConVars]customMatch_forceHiddenPlaylistAccess 1d52040
-[ConVars]customMatch_forceSpecialAccess 1d52620
-[ConVars]customMatch_hasMultiplePlayers 1d51e10
-[ConVars]customMatch_liveapi 1d520d0
-[ConVars]customMatch_playerToken 1d523f0
-[ConVars]customMatch_public_enabled 1d52880
-[ConVars]customMatch_startMatchmakingDelay 1d52360
-[ConVars]dac 1e88910
-[ConVars]damageIndicatorReplayTimeOffset 24dece0
-[ConVars]damage_indicator_style_pilot 26c3f20
-[ConVars]damageinfo_defendInvalidValues 266a770
-[ConVars]debugFootstepEffects 24f68c0
-[ConVars]debug_controller_menu_test_generic 1ed1740
-[ConVars]debug_debug_overlay 1b58060
-[ConVars]debug_force_textRestriction 1e91570
-[ConVars]debug_force_ugcRestriction 1e912a0
-[ConVars]debug_force_voiceRestriction 1e91450
-[ConVars]debug_map_crc 1b5a830
-[ConVars]defer_weapon_effects 24e3470
-[ConVars]delayPostSnapshotNotificationsToAfterInterpolation 2503020
-[ConVars]deltaBuf_dump_includeFields 1e850e0
-[ConVars]deltaBuf_forceOverflow 1e85200
-[ConVars]deltaBuf_fullUpdateOnOverflow 1e85170
-[ConVars]deltaBuf_restrictSizePercent 1e85290
-[ConVars]demo_autoRecord 1e861f0
-[ConVars]demo_autoRecordName 1e85e90
-[ConVars]demo_connect_string 24d8c10
-[ConVars]demo_ui_enable 24d8a60
-[ConVars]depth_prepass_dist_cutouts 1ec3640
-[ConVars]depth_prepass_dist_opaques 1ec4fb0
-[ConVars]depth_prepass_include_opaques 1ec3da0
-[ConVars]devStats 26c0fc0
-[ConVars]dev_telemetry_enabled 1ec8770
-[ConVars]dev_telemetry_logging 1e89610
-[ConVars]dev_telemetry_send_timeout_seconds 1e89580
-[ConVars]developer 1ec8650
-[ConVars]dialogue_cat_generic 2669e78
-[ConVars]dialogue_cat_host_flavor 266a170
-[ConVars]dialogue_cat_host_important 266a208
-[ConVars]dialogue_cat_legend_flavor 266a040
-[ConVars]dialogue_cat_legend_important 266a0d8
-[ConVars]dialogue_cat_ping_flavor 2669f10
-[ConVars]dialogue_cat_ping_important 2669fa8
-[ConVars]dialogue_cat_weapon_flavor 266a2a0
-[ConVars]dialogue_debug 266a330
-[ConVars]directlighting_debug 1f3ebc0
-[ConVars]directlighting_debug_clusters 1f3f550
-[ConVars]directlighting_debug_freeze 1f3e980
-[ConVars]directlighting_debug_lightidx 1f3e6b0
-[ConVars]directlighting_debug_lightvolume 1f3e740
-[ConVars]directlighting_debugout 1f3e7d0
-[ConVars]directlighting_debugpick 1f3efb0
-[ConVars]directlighting_debugpick_drawmode 1f3f430
-[ConVars]directlighting_debugpick_freeze 1f3ee00
-[ConVars]directlighting_debugpick_highlight 1f3f280
-[ConVars]directlighting_debugpick_ztest 1f3f310
-[ConVars]directlighting_emissive_mul 24cc430
-[ConVars]directlighting_falloff 1f4b9d0
-[ConVars]directlighting_falloff_cap 1f4b810
-[ConVars]directlighting_global_mul 1f4bdc0
-[ConVars]directlighting_mode 1f3e620
-[ConVars]disable_bone_lods 24d5450
-[ConVars]disable_object_placement_in_oob_trigger 24e37c0
-[ConVars]disable_use_unspoofedid_social 1ecaf60
-[ConVars]disallow_object_placement_special_in_oob_trigger 24e7f10
-[ConVars]disallow_object_placement_special_in_slip_trigger 24e1da0
-[ConVars]disallow_object_placement_special_in_slip_trigger_floor 24e24f0
-[ConVars]discord_largeImage 1e873f0
-[ConVars]discord_smallImage 1e87360
-[ConVars]discord_updatePresence 1e87480
-[ConVars]dlight_default_falloff 1b58810
-[ConVars]dlight_early_clear 1b5aa30
-[ConVars]dlight_enable 1e1b2e0
-[ConVars]dlight_lumen_conversion 1f4b930
-[ConVars]dlight_overlay 1e1a1c0
-[ConVars]do_blurfade_at_eighth_res_ingame 2544cf0
-[ConVars]dodgeInputAllowed 252dd60
-[ConVars]dodge_cockpitHack 26ab530
-[ConVars]dodge_cockpitOffsetMax 26ab710
-[ConVars]dodge_cockpitTiltMax 26ab650
-[ConVars]dodge_vertical_enable 266be20
-[ConVars]dodge_vertical_horzspeedscale 26700b0
-[ConVars]dodge_vertical_in_air 26a48b0
-[ConVars]dodge_vertical_threshold 26a5440
-[ConVars]dodge_viewTiltDecreaseSpeed 266ba20
-[ConVars]dodge_viewTiltFalloffTime 269fbb0
-[ConVars]dodge_viewTiltIncreaseSpeed 266b170
-[ConVars]dodge_viewTiltMax 269fac0
-[ConVars]dof_enable 2545f00
-[ConVars]dof_farDepthEnd 1ee6740
-[ConVars]dof_farDepthStart 1ee67d0
-[ConVars]dof_monitorFarDepthEnd 1ee68f0
-[ConVars]dof_monitorFarDepthStart 1ee6620
-[ConVars]dof_monitorNearDepthEnd 1ee64f0
-[ConVars]dof_monitorNearDepthStart 1ee66b0
-[ConVars]dof_nearDepthEnd 1ee6860
-[ConVars]dof_nearDepthStart 1ee6580
-[ConVars]dof_overrideParams 1ee6980
-[ConVars]dof_variable_blur 2543080
-[ConVars]dormant_debug 24f7bf0
-[ConVars]dsp_enabled 26a1a60
-[ConVars]dsp_health_multiplier 266b4e0
-[ConVars]dsp_notify_damage 266f060
-[ConVars]dtwatchclass 1b58490
-[ConVars]dtwatchdecode 1b5b9c0
-[ConVars]dtwatchencode 1b57ca0
-[ConVars]dtwatchent 1b5b840
-[ConVars]dtwatchvar 1b58250
-[ConVars]dump_varsights_calculations 26c4770
-[ConVars]durango_voice_chat_team_only 24fd880
-[ConVars]dvs_enable 1ee5130
-[ConVars]dvs_enable_in_lobby 251a110
-[ConVars]dvs_gpuframetime_max 1ee50a0
-[ConVars]dvs_gpuframetime_min 1ee5250
-[ConVars]dvs_gputimedelay_frames 251d8f0
-[ConVars]dvs_scale_min 1ee51c0
-[ConVars]ea_qvt_ident 1eb8fd0
-[ConVars]eadpAuth_hostname 1b75b60
-[ConVars]eadpCodeRedemption_hostname 1b78600
-[ConVars]eadpFriends_hostname 1b76bc0
-[ConVars]eadpGroups_hostname 1b5d540
-[ConVars]eadpRtm_hostname 1b77950
-[ConVars]eadpSearch_hostname 1b76430
-[ConVars]eadpUM_hostname 1b5bf80
-[ConVars]eadp_ctId 1eb9330
-[ConVars]eadp_do_pidinfo_fetch 1eb95a0
-[ConVars]eadp_force_nxNameDiscoverable 1eb9630
-[ConVars]eadp_friend_filter_invalid 1eb93c0
-[ConVars]eadp_friend_use_ctid 1eb92a0
-[ConVars]eadp_presence_encode_gamesessiondata 1ecf0d0
-[ConVars]eadp_presence_encode_presence_state 1ecef60
-[ConVars]eadp_rtm_spam_log 1ece850
-[ConVars]effect_update_array_spam 2549570
-[ConVars]enable_KVFileOverrides 1ec52f0
-[ConVars]enable_PlayerSettingOverrides 1ec3ec0
-[ConVars]enable_debug_free_energize 24e1f20
-[ConVars]enable_debug_overlays 1b59110
-[ConVars]enable_height_based_land_anims 26a31d0
-[ConVars]enable_height_based_land_anims_titans 26a13c0
-[ConVars]enable_height_based_land_pov_anims_titans 269fd70
-[ConVars]enable_io_error_reporting_to_backtrace 274db10
-[ConVars]enable_non_fatal_error_reports 24cdb90
-[ConVars]enable_object_placement_special_post_validation 24e1e80
-[ConVars]enable_rotationStartTimeContiguous 1ec5380
-[ConVars]enable_script_string_cache 26b3520
-[ConVars]enable_skeleton_draw 24f5c70
-[ConVars]enable_skeleton_draw_single_ent 24f7530
-[ConVars]enable_uninitialized_netvar_crashes 26b35f0
-[ConVars]enforce_entitlements_fingerprint_match 1ec77c0
-[ConVars]engine_pump_messages_before_sleep 1ece230
-[ConVars]ent_lightweightEnts 24f8b80
-[ConVars]ent_repack_almostFull 24f7890
-[ConVars]ent_repack_threshhold 24f7c80
-[ConVars]entity_error_on_hitbox_count_mismatch 26a18b0
-[ConVars]entity_skipRedundantAddEffects 268aa40
-[ConVars]entity_useNetworkFieldBuffer 1e85320
-[ConVars]entityreport_minAllocations 24f8970
-[ConVars]eosIgnoreAuthFailures 1e88ac0
-[ConVars]eosIsActive 1e88a30
-[ConVars]eosJWT 1e88b50
-[ConVars]eosLoginRetryMaxTime 1e88880
-[ConVars]eosScriptDoTest 1e889a0
-[ConVars]eos_clientId 1e88d00
-[ConVars]eos_clientSecret 1e88be0
-[ConVars]eos_deploymentId 1e88c70
-[ConVars]eos_sandboxId 1e88d90
-[ConVars]equip_all_emotes 26c0440
-[ConVars]error_if_non_standard_ent_create 24f7ec0
-[ConVars]error_save_message_for_crash_dump 1ec5ab0
-[ConVars]eula_version 2668a10
-[ConVars]eula_version_accepted 2668390
-[ConVars]eventseq_debug 25111d0
-[ConVars]everything_unlocked 26bff50
-[ConVars]fast_intro 26c38a0
-[ConVars]fast_path_updates_player_proxy_vis 26bdcf0
-[ConVars]fatal_error_signal_abort 24d20f0
-[ConVars]fatal_script_error_prompt 277b2c0
-[ConVars]fatal_script_errors 277b0f0
-[ConVars]fatal_script_errors_client 277b190
-[ConVars]fatal_script_errors_dump_n_struct_members 277b220
-[ConVars]fatal_script_errors_server 277b350
-[ConVars]feature_suppression_flags 26674a0
-[ConVars]filesystem_buffer_size 1ed0de0
-[ConVars]filesystem_max_stdio_read 1ed1110
-[ConVars]filesystem_native 1ed11a0
-[ConVars]filesystem_report_buffered_io 1ed0ff0
-[ConVars]filesystem_unbuffered_io 1ed0ed0
-[ConVars]filesystem_use_overlapped_io 1ed1080
-[ConVars]find_mismatched_player_collision_bug 26ab3b0
-[ConVars]fire_animevents_overlay_not_active 26a80c0
-[ConVars]first_person_bullet_delay 24eb9d0
-[ConVars]first_person_proxy_blend_distance 25025f0
-[ConVars]first_person_proxy_debug 24e7040
-[ConVars]first_time_player_state 2667390
-[ConVars]fog_enable 2666530
-[ConVars]fog_enableskybox 2665c10
-[ConVars]footstep_voice_override 24f4f50
-[ConVars]footstep_voice_override_onlygears 24f5670
-[ConVars]force3PLaserAttachment 24eed00
-[ConVars]force_EAAccess 1e914e0
-[ConVars]force_stance_v2 26bd390
-[ConVars]fov_disableAbilityScaling 24fff40
-[ConVars]fps_absolute_max 1ec5990
-[ConVars]fps_max 1ec58f0
-[ConVars]fps_max_use_refresh 1ec4440
-[ConVars]fps_max_vsync 1ec4b30
-[ConVars]fps_swings_tracking 1ec7190
-[ConVars]freecam_swallowButtonInput 24fd020
-[ConVars]freefall_sound_autoplay_time 266aad0
-[ConVars]freefall_sound_height 269d8a0
-[ConVars]friends_invitePreferFirstParty 1ecaba0
-[ConVars]friends_joinUsePresence 1ecb330
-[ConVars]friends_onlineUpdateInterval 1ecd9e0
-[ConVars]fs_fwrite_report_partial_writes 1ed0f60
-[ConVars]fs_intralevel_reads 1ed0740
-[ConVars]fs_report_intra_level_readopens 1ed0860
-[ConVars]fs_report_long_reads 1ed0bb0
-[ConVars]fs_report_sync_opens 1ed07d0
-[ConVars]fs_report_sync_opens_callstack 1ed09e0
-[ConVars]fs_report_sync_opens_fatal 1ed0ad0
-[ConVars]fs_showAllReads 1ed0950
-[ConVars]fs_warning_mode 1ed0d00
-[ConVars]ftue_enable_experimentation 26c4260
-[ConVars]ftue_exp_killswitch 26c4080
-[ConVars]ftue_flow_enabled 26c4140
-[ConVars]ftue_npp_assignment_enabled 26c0950
-[ConVars]full_crash_dumps_all_crashes 1e896a0
-[ConVars]full_crash_dumps_backtrace_fingerprint 1e898e0
-[ConVars]full_crash_dumps_enabled 1e89a00
-[ConVars]full_crash_dumps_max_attachments 1e89730
-[ConVars]full_crash_dumps_max_count 1e89970
-[ConVars]full_crash_dumps_size 1e89850
-[ConVars]full_crash_dumps_wait_for_debugger 1e897c0
-[ConVars]fullscreen_enabled 1f4b4a0
-[ConVars]func_break_max_pieces 2536ae0
-[ConVars]fx_allow_force_mvecs_to_zero 274c940
-[ConVars]fx_debug 2529c60
-[ConVars]fx_deferWorldTraceConstraint 274b680
-[ConVars]fx_impact_ally 2548450
-[ConVars]fx_impact_enemy 2540c40
-[ConVars]fx_impact_neutral 25444c0
-[ConVars]fx_screenspacepass 274d3f0
-[ConVars]fx_sound_ambient 2503d40
-[ConVars]fx_sound_oneshot 2511de0
-[ConVars]fx_sound_oneshot_max_radius 274bc80
-[ConVars]fx_sound_thinkinterval_max 250b330
-[ConVars]fx_think_debug 2515f30
-[ConVars]g_debug_ragdoll_removal 2669c40
-[ConVars]g_ragdoll_fadespeed 24f72b0
-[ConVars]g_ragdoll_important_maxcount 2669610
-[ConVars]g_ragdoll_lvfadespeed 24f6330
-[ConVars]gameCursor_ModeActive 2533650
-[ConVars]gameCursor_Velocity 2534410
-[ConVars]gamemode_select_show_decorated_playlist 1ec51c0
-[ConVars]gamemode_select_show_undecorated_playlist 1ec3100
-[ConVars]gamemovement_duck_debounce_threshold 26a6270
-[ConVars]gamemovement_player_respawn_sounds_cooldown 26a1ce0
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_0 250f740
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_1 250f7d0
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_2 250f860
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_3 250f8f0
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_4 250f980
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_5 250fa10
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_6 250faa0
-[ConVars]gamepad_ads_advanced_sensitivity_scalar_7 250fb30
-[ConVars]gamepad_aim_assist_ads_high_power_scopes 25191f0
-[ConVars]gamepad_aim_assist_ads_low_power_scopes 2515770
-[ConVars]gamepad_aim_assist_hip_high_power_scopes 2504110
-[ConVars]gamepad_aim_assist_hip_low_power_scopes 25139c0
-[ConVars]gamepad_aim_assist_melee 251d300
-[ConVars]gamepad_aim_speed 2518070
-[ConVars]gamepad_aim_speed_ads_0 2514260
-[ConVars]gamepad_aim_speed_ads_1 25142f0
-[ConVars]gamepad_aim_speed_ads_2 2514380
-[ConVars]gamepad_aim_speed_ads_3 2514410
-[ConVars]gamepad_aim_speed_ads_4 25144a0
-[ConVars]gamepad_aim_speed_ads_5 2514530
-[ConVars]gamepad_aim_speed_ads_6 25145c0
-[ConVars]gamepad_aim_speed_ads_7 2514650
-[ConVars]gamepad_button_layout 26694f0
-[ConVars]gamepad_buttons_are_southpaw 26682e0
-[ConVars]gamepad_custom_ads_pitch 2519430
-[ConVars]gamepad_custom_ads_turn_delay 25112f0
-[ConVars]gamepad_custom_ads_turn_pitch 2503980
-[ConVars]gamepad_custom_ads_turn_time 251fc60
-[ConVars]gamepad_custom_ads_turn_yaw 250b490
-[ConVars]gamepad_custom_ads_yaw 251eaf0
-[ConVars]gamepad_custom_assist_on 250a660
-[ConVars]gamepad_custom_assist_style 2511820
-[ConVars]gamepad_custom_curve 2517b90
-[ConVars]gamepad_custom_deadzone_in 2517e80
-[ConVars]gamepad_custom_deadzone_out 25034c0
-[ConVars]gamepad_custom_enabled 25149b0
-[ConVars]gamepad_custom_hip_pitch 250e020
-[ConVars]gamepad_custom_hip_turn_delay 251d660
-[ConVars]gamepad_custom_hip_turn_pitch 251f5f0
-[ConVars]gamepad_custom_hip_turn_time 251eea0
-[ConVars]gamepad_custom_hip_turn_yaw 25183d0
-[ConVars]gamepad_custom_hip_yaw 25150c0
-[ConVars]gamepad_custom_pilot 2667530
-[ConVars]gamepad_custom_titan 26671d0
-[ConVars]gamepad_deadzone_index_look 2514920
-[ConVars]gamepad_deadzone_index_move 250f380
-[ConVars]gamepad_enabled 253e070
-[ConVars]gamepad_look_curve 2519280
-[ConVars]gamepad_stick_layout 2669460
-[ConVars]gamepad_toggle_ads 252a6a0
-[ConVars]gamepad_toggle_survivalSlot_to_weaponInspect 252a9e0
-[ConVars]gamepad_togglecrouch_hold 2535810
-[ConVars]gamepad_trigger_threshold 1ed5800
-[ConVars]gamepad_use_per_scope_ads_settings 2519140
-[ConVars]gamepad_use_per_scope_sensitivity_scalars 25153d0
-[ConVars]gamepad_use_type 26693d0
-[ConVars]gamma_adjusted 2668920
-[ConVars]gamma_scale 1f4b050
-[ConVars]gatherprops_no_wait 250ca40
-[ConVars]gfx_amdUseLowLatency 1f3cd80
-[ConVars]gfx_desaturate_force 1ee7e50
-[ConVars]gfx_dump_shaders 1f4b780
-[ConVars]gfx_forceAllowedLowLatencyMode 1f3cc60
-[ConVars]gfx_growablebuffer_debug 1f3cb40
-[ConVars]gfx_growablebuffer_debug_force_decommit 1f3cbd0
-[ConVars]gfx_nvnUseLowLatency 1f3ce10
-[ConVars]gfx_nvnUseLowLatencyBoost 1f3ccf0
-[ConVars]gfx_paranoid_flushing 1f4bd30
-[ConVars]gfx_vrs_enabled 1f3cec0
-[ConVars]gfx_vrs_override_baserate 1f3cf50
-[ConVars]gl_clear_color_buffer 26664a0
-[ConVars]gl_clear_fogcolor 2665310
-[ConVars]gl_clear_mrt4 2666060
-[ConVars]gl_clear_randomcolor 2665550
-[ConVars]gl_clear_randomcolor_period_sec 26650d0
-[ConVars]gladCards_debug 2543f90
-[ConVars]gladcard_cache_debugging_enabled 1f3df30
-[ConVars]gladcard_cache_enabled 1f3dea0
-[ConVars]gladcard_precache_concurrency 1f3de10
-[ConVars]gladcards_delayed_gcard_release_max 25460b0
-[ConVars]gladcards_update_delay_range 25482d0
-[ConVars]gladcards_wait_for_free_pip 2546550
-[ConVars]glass_break_required_speed 25118b0
-[ConVars]glass_shatter_direction_force_scale 253cd20
-[ConVars]glass_shatter_force_scale 2532020
-[ConVars]glass_shatter_size_scale 2536bd0
-[ConVars]glass_shatter_use_real_direction 2530f20
-[ConVars]glitch_aberrationScale 1ee7d30
-[ConVars]global_lighting_partial_buffer 24cc0d0
-[ConVars]gpu_level 1ee52e0
-[ConVars]gpu_mem_level 1ed5df0
-[ConVars]gpu_vram_size_mb 1ee4f80
-[ConVars]grapple_accel_human 26ab010
-[ConVars]grapple_accel_titan 26aa350
-[ConVars]grapple_around_obstacle_accel 26a4c90
-[ConVars]grapple_autoMantle 26a3820
-[ConVars]grapple_autoMeleeConvergeTime 26ab1e0
-[ConVars]grapple_autoMeleeOnDetach 26ab320
-[ConVars]grapple_autoMeleePredict 26aae60
-[ConVars]grapple_autoMeleePredictTime 26a9d90
-[ConVars]grapple_autoMeleeViewRotateSpeedFar 26a8c20
-[ConVars]grapple_autoMeleeViewRotateSpeedNear 26a8b90
-[ConVars]grapple_debug 26a9ef0
-[ConVars]grapple_decelMeleeStrength 26a9a40
-[ConVars]grapple_decel_human 26aaaa0
-[ConVars]grapple_decel_titan 26aa0e0
-[ConVars]grapple_detachExtraAllowedLength 26aa200
-[ConVars]grapple_disableMeleeWhenActive 2670680
-[ConVars]grapple_fallSpeed 26a9960
-[ConVars]grapple_forcedRetractVel 26aaef0
-[ConVars]grapple_gracePeriod 26aa030
-[ConVars]grapple_gravityPushUnderContribution 2670820
-[ConVars]grapple_initialImpulseOffGround_human 26a9d00
-[ConVars]grapple_initialImpulseOffGround_human_npc 26ab130
-[ConVars]grapple_initialImpulseOffGround_titan 26aa630
-[ConVars]grapple_initialImpulse_human 26aa170
-[ConVars]grapple_initialImpulse_titan 26a9c70
-[ConVars]grapple_initialSlowFracVert_human 26aa4c0
-[ConVars]grapple_initialSlowFracVert_titan 26aa6c0
-[ConVars]grapple_initialSlowFrac_human 26aabf0
-[ConVars]grapple_initialSlowFrac_titan 26aab30
-[ConVars]grapple_initialSpeedMin_human 26aa9f0
-[ConVars]grapple_initialSpeedMin_titan 26a9e40
-[ConVars]grapple_jumpFrac 269d4e0
-[ConVars]grapple_letGravityHelpCosAngle 269d6d0
-[ConVars]grapple_lift 26aa960
-[ConVars]grapple_pullDelay_human 26ab0a0
-[ConVars]grapple_pullDelay_titan 26aaca0
-[ConVars]grapple_rodeoVerticalImpulse 26a61e0
-[ConVars]grapple_speedRampMax_human 26aa840
-[ConVars]grapple_speedRampMax_titan 26ab290
-[ConVars]grapple_speedRampMin_human 26aa2c0
-[ConVars]grapple_speedRampMin_titan 26aa580
-[ConVars]grapple_speedRampTime_human 26aadb0
-[ConVars]grapple_speedRampTime_titan 26a9f80
-[ConVars]grapple_swingAngle 26aa7b0
-[ConVars]grapple_swingPullAngle 2670bd0
-[ConVars]grapple_swingPullSpeedLength 26aa400
-[ConVars]grapple_swingPullSpeedScale 26a9be0
-[ConVars]grapple_titanEmbarkDist 26a4c00
-[ConVars]grapple_windowCheckDist 26aa8d0
-[ConVars]gravity_grenade_decel 26bfda0
-[ConVars]gravity_grenade_projectile_min_speed 26bf250
-[ConVars]grenades_collide_against_hitboxes 266eee0
-[ConVars]ground_debug 266bbc0
-[ConVars]ground_reject_bvh_vertex 269cfb0
-[ConVars]ground_trace_hull_radius 26a9440
-[ConVars]grx_hasUnknownItems 1d55270
-[ConVars]grx_vertical_dialogue_confirmation 2669000
-[ConVars]gtao_angle_bias 1f41260
-[ConVars]gtao_intensity 1f40840
-[ConVars]gtao_intensity_in_lobby 1f414a0
-[ConVars]gtao_thickness_heuristic 1f41650
-[ConVars]hasAnyAssetsWithDiscardedStreamableData 1e85c50
-[ConVars]hasMic 1e86550
-[ConVars]hasPartialInstall 1e85b30
-[ConVars]has_seasonal_video 1e85980
-[ConVars]hbao_angle_bias 1f412f0
-[ConVars]hbao_intensity 1f40b10
-[ConVars]hbao_stepsize_random 1f40d50
-[ConVars]hbaobasic_tangent_bias 1f409f0
-[ConVars]hdr_screenshot_default_filename 2666b60
-[ConVars]hdr_screenshot_directory 2666ad0
-[ConVars]hdr_ui_brightness 1e8af20
-[ConVars]healthbar_particles_enabled 26c0000
-[ConVars]hidehud 253bd30
-[ConVars]highlight_deferred_update 25115e0
-[ConVars]highlight_draw 1f3e410
-[ConVars]highlight_enable_discard 1f3e380
-[ConVars]highlight_lazy_clear_buffers 1f3e590
-[ConVars]highlight_object_max_count 1f3e500
-[ConVars]highlight_verbose 26a8d40
-[ConVars]highlight_visibility_use_spin_lock 24f8670
-[ConVars]hitch_alert_active 2544f90
-[ConVars]hitch_alert_color 25446d0
-[ConVars]hitch_alert_show_large_snapshots 25422f0
-[ConVars]host_ShowIPCCallCount 1ec7be0
-[ConVars]host_forceTakeHomeBuild 1ec7580
-[ConVars]host_framerate 1ec8890
-[ConVars]host_hasIrreversibleShutdown 1b784e0
-[ConVars]host_limitlocal 1ec86e0
-[ConVars]host_map 1b5c970
-[ConVars]host_print_frame_times 1ec8470
-[ConVars]host_profile 1ec70a0
-[ConVars]host_runframe_input_parcelremainder 1ec7ac0
-[ConVars]host_sleep 1ec6870
-[ConVars]host_speeds 1ec6cb0
-[ConVars]host_syncfps 1e1ae30
-[ConVars]host_thread_join_fast 1ec6ec0
-[ConVars]host_thread_mode 1ec82c0
-[ConVars]host_timescale 1ec8a40
-[ConVars]hostname 1b74b40
-[ConVars]hoverVehicleViewRollMultiplier 26bab00
-[ConVars]hover_vehicle_air_brake_style 26b7680
-[ConVars]hover_vehicle_air_jump 26b57e0
-[ConVars]hover_vehicle_banking_effects 26b8f10
-[ConVars]hover_vehicle_boost_collision_delay 26b46d0
-[ConVars]hover_vehicle_boost_collision_tolerance 26b6a10
-[ConVars]hover_vehicle_boost_direction_style 26b51e0
-[ConVars]hover_vehicle_boost_direction_style_freelook 26b4c40
-[ConVars]hover_vehicle_boost_max_vert_speed 26b77a0
-[ConVars]hover_vehicle_boost_on_hold 26b7c90
-[ConVars]hover_vehicle_boost_speed_decay_with_pitch 26b8120
-[ConVars]hover_vehicle_boost_style 26b7100
-[ConVars]hover_vehicle_boost_vert_jump_pad_delay 26b4cd0
-[ConVars]hover_vehicle_camera_offset_height_base 25313b0
-[ConVars]hover_vehicle_camera_offset_height_speedDelta 253aec0
-[ConVars]hover_vehicle_camera_smooth_rate 2538810
-[ConVars]hover_vehicle_collision_damage_debounce 26ac770
-[ConVars]hover_vehicle_collision_force 26abfb0
-[ConVars]hover_vehicle_collision_min_speed_threshold_vert 26ac800
-[ConVars]hover_vehicle_collision_player_damage 26b78c0
-[ConVars]hover_vehicle_collision_player_damage_boost_only 26ac2e0
-[ConVars]hover_vehicle_disembark_eye_angles_are_world_angles 26bb430
-[ConVars]hover_vehicle_eject_enabled 26b0af0
-[ConVars]hover_vehicle_full_recharge_on_zero_boost 26b18e0
-[ConVars]hover_vehicle_glide_air_accel 26b33b0
-[ConVars]hover_vehicle_glide_check_max_air_time 26b10a0
-[ConVars]hover_vehicle_glide_debounce 26b8090
-[ConVars]hover_vehicle_glide_debug 26b25b0
-[ConVars]hover_vehicle_glide_descent_speed 26b4d60
-[ConVars]hover_vehicle_glide_height_check_dist 26b3a50
-[ConVars]hover_vehicle_glide_max_duration 26b4e80
-[ConVars]hover_vehicle_glide_max_thrust 26b7ee0
-[ConVars]hover_vehicle_glide_max_total_air_time 26b6980
-[ConVars]hover_vehicle_glide_min_height 26b7380
-[ConVars]hover_vehicle_glide_min_thrust 26b6050
-[ConVars]hover_vehicle_glide_post_jump_delay 26b5150
-[ConVars]hover_vehicle_glide_single_press 26b1f70
-[ConVars]hover_vehicle_glide_thrust_speed 26ac250
-[ConVars]hover_vehicle_glide_tightness_down 26b7220
-[ConVars]hover_vehicle_glide_tightness_up 26b0050
-[ConVars]hover_vehicle_glide_to_min_thrust_duration 26b3780
-[ConVars]hover_vehicle_glide_type 26b5d90
-[ConVars]hover_vehicle_glide_when_ascending 26b7f70
-[ConVars]hover_vehicle_gravity_lift_eject 26b60e0
-[ConVars]hover_vehicle_ground_effects 26b9e40
-[ConVars]hover_vehicle_health_start_on 26abf20
-[ConVars]hover_vehicle_hover_height 26b7da0
-[ConVars]hover_vehicle_hover_height_parked 26b1850
-[ConVars]hover_vehicle_invisible_when_camera_is_too_close 253e850
-[ConVars]hover_vehicle_jump_effect_min_time 26ac660
-[ConVars]hover_vehicle_jump_on_hold 26b0780
-[ConVars]hover_vehicle_passenger_left_attachment_name 24d8430
-[ConVars]hover_vehicle_player_pushaway_damage_max 26b4160
-[ConVars]hover_vehicle_player_pushaway_damage_min 26b3810
-[ConVars]hover_vehicle_player_pushaway_speed_based_damage 26b5750
-[ConVars]hover_vehicle_player_pushaway_speed_max 26b5030
-[ConVars]hover_vehicle_player_pushaway_speed_min 26b00e0
-[ConVars]hover_vehicle_reset_camera_while_embarking 26b5fc0
-[ConVars]hover_vehicle_yaw_nospring_smoothtime 26b7010
-[ConVars]hover_vehicle_yaw_nospring_smoothtime_boosting 26b5ef0
-[ConVars]hover_vehicle_yaw_spring_enabled 26b8470
-[ConVars]http_StryderKey 1ec9520
-[ConVars]http_debug 1ec8c10
-[ConVars]http_debug_forceFailRate 1ec9370
-[ConVars]http_debug_forceFailStatus 1ec9120
-[ConVars]http_debug_forceFailUrlMatch 1ec9400
-[ConVars]http_expoBackoff_Enabled 1ec92e0
-[ConVars]http_expoBackoff_Factor 1ec8ca0
-[ConVars]http_expoBackoff_FirstDelay 1ec91c0
-[ConVars]http_expoBackoff_LongScale 1ec8ee0
-[ConVars]http_expoBackoff_MaxFailureWait 1ec9490
-[ConVars]http_expoBackoff_ScaleFactor 1ec9000
-[ConVars]http_failuresAsErrors 1ec8d30
-[ConVars]http_maxAllocateAttempts 1ec9250
-[ConVars]http_sandbox 1ec95b0
-[ConVars]http_showQueries 1ec9090
-[ConVars]http_showRequestInfo 1ec8f70
-[ConVars]hud_autoreloadscript 26c4be0
-[ConVars]hud_setting_accessibleChat 2546bc0
-[ConVars]hud_setting_accolades_hudState 2542080
-[ConVars]hud_setting_accolades_tier_filter 25412d0
-[ConVars]hud_setting_adsDof 2541f00
-[ConVars]hud_setting_aind 24dc700
-[ConVars]hud_setting_anonymousMode 1e8be20
-[ConVars]hud_setting_chainHeal 2544b40
-[ConVars]hud_setting_compactOverHeadNames 24dad20
-[ConVars]hud_setting_damageIndicatorStyle 25479e0
-[ConVars]hud_setting_damageTextStyle 25443a0
-[ConVars]hud_setting_energyAmmoDisplay 25426e0
-[ConVars]hud_setting_minimapRotate 2543e10
-[ConVars]hud_setting_observerFullmapAutoZoom 2541720
-[ConVars]hud_setting_pingAlpha 25478f0
-[ConVars]hud_setting_pingDoubleTapEnemy 2544a20
-[ConVars]hud_setting_showButtonHints 2540f80
-[ConVars]hud_setting_showCallsigns 2547280
-[ConVars]hud_setting_showEnemyHealthBar 2542dd0
-[ConVars]hud_setting_showEnemyHighlight 2545580
-[ConVars]hud_setting_showHopUpPopUp 2541dd0
-[ConVars]hud_setting_showLevelUp 2546490
-[ConVars]hud_setting_showMedals 2545610
-[ConVars]hud_setting_showMeter 2548600
-[ConVars]hud_setting_showObituary 25457c0
-[ConVars]hud_setting_showOffscreenPortrait 2543450
-[ConVars]hud_setting_showTeamNamesOnMap 25419d0
-[ConVars]hud_setting_showTips 2542450
-[ConVars]hud_setting_showWeaponFlyouts 25481b0
-[ConVars]hud_setting_streamerMode 2548240
-[ConVars]hud_simplifiedStackingDamageEnabled 2543a10
-[ConVars]hudchat_clear_on_hide 252a480
-[ConVars]hudchat_enable_old_history_handling 2539fe0
-[ConVars]hudchat_new_message_fade_duration 2530510
-[ConVars]hudchat_new_message_shown_duration 2536d80
-[ConVars]hudchat_play_text_to_speech 2531040
-[ConVars]hudchat_retain_input_state 252acc0
-[ConVars]hudchat_text_check_teams 252ade0
-[ConVars]hudchat_text_to_speech_max_age 252a030
-[ConVars]hudchat_transition_message_mode_fade_duration 252fde0
-[ConVars]hudchat_visibility 252e8d0
-[ConVars]hudwarp_chopsize 277a270
-[ConVars]hudwarp_override 2779fa0
-[ConVars]hudwarp_viewDist 2779e80
-[ConVars]hudwarp_xScale 277a1e0
-[ConVars]hudwarp_xWarp 2778ff0
-[ConVars]hudwarp_yScale 2779080
-[ConVars]hudwarp_yWarp 2779f10
-[ConVars]huntMode_fovLerpTimeRatio 26b7450
-[ConVars]huntMode_useFovEaseOutOverDuration 26b2520
-[ConVars]idcolor_ally 2541e60
-[ConVars]idcolor_ally_cb1 2548840
-[ConVars]idcolor_ally_cb2 25465e0
-[ConVars]idcolor_ally_cb3 2546a10
-[ConVars]idcolor_enemy 25493c0
-[ConVars]idcolor_enemy_cb1 2545d20
-[ConVars]idcolor_enemy_cb2 2545900
-[ConVars]idcolor_enemy_cb3 2540ce0
-[ConVars]idcolor_neutral 25421d0
-[ConVars]ignore_fatal_errors 1ec5bf0
-[ConVars]ignore_material_flags_for_decals 1f3dfc0
-[ConVars]ignore_script_errors 26c0c10
-[ConVars]ik_debug 26a9390
-[ConVars]ik_debug_chain 266a560
-[ConVars]ik_debug_ent 26a3930
-[ConVars]ik_debug_text 26a73b0
-[ConVars]ik_enable 266f1f0
-[ConVars]ik_enable_client 269d2c0
-[ConVars]ik_height_adjust 26a4eb0
-[ConVars]ik_height_adjust_debug 266f8e0
-[ConVars]ik_height_adjust_move_speed 266de40
-[ConVars]ik_height_adjust_sine 266b650
-[ConVars]ik_height_adjust_speed 26a6470
-[ConVars]ik_latch 26a1310
-[ConVars]ik_normal_lerp_rate 268b480
-[ConVars]ik_unlatch_max_rate 269fe30
-[ConVars]ime_enabled 1ed3050
-[ConVars]imgui_buildmode 27774b0
-[ConVars]impact_allow 253a070
-[ConVars]impact_debug_info 2545850
-[ConVars]impact_victim_offset_always 25391d0
-[ConVars]impact_victim_offset_dist 253bca0
-[ConVars]impulse_low_decel_duration_scalar 26ba370
-[ConVars]inPartyChat 1e86670
-[ConVars]in_syncRT 1ec4f20
-[ConVars]in_usekeyboardsampletime 252a0c0
-[ConVars]inflight_stream_texture_max 1ee8c00
-[ConVars]infoblock_requestInterval 1e913c0
-[ConVars]input_detection_antirecoil_match_max 2538a40
-[ConVars]input_detection_antirecoil_threshold 252e020
-[ConVars]input_detection_enabled 252ef10
-[ConVars]input_did_turn_threshold 253c7c0
-[ConVars]input_only_allow_client 1b75da0
-[ConVars]inputstack_debugger 1ed3130
-[ConVars]intro_viewed 2667cd0
-[ConVars]ip 1b77760
-[ConVars]it_periodic_wakeup_ns 274dee0
-[ConVars]it_use_high_resolution_wakeups 274df70
-[ConVars]it_use_periodic_timer 274ddc0
-[ConVars]jitter_aim_prevention_oscillation_threshold 26a7a10
-[ConVars]joy_advaxisr 253ac10
-[ConVars]joy_advaxisu 252b300
-[ConVars]joy_advaxisv 253ced0
-[ConVars]joy_advaxisx 2535c50
-[ConVars]joy_advaxisy 25382f0
-[ConVars]joy_advaxisz 25358a0
-[ConVars]joy_inverty 253c730
-[ConVars]joy_legacy 253e100
-[ConVars]joy_movement_stick 2531320
-[ConVars]joy_requireFocus 1eba0f0
-[ConVars]joy_rumble 253eaa0
-[ConVars]joy_xcontroller_cfg_loaded 253a810
-[ConVars]jpeg_quality 1e1a3d0
-[ConVars]jt_batch_cnt 24d1aa0
-[ConVars]jt_cpu_counter_perf 24d1950
-[ConVars]jt_help_with_anything_ignore_preference 24d0870
-[ConVars]jt_use_hyper_threads 24d1b40
-[ConVars]jt_yield_spin 24d1a10
-[ConVars]jump_grace_controller_disable_duration 26a7660
-[ConVars]jump_grace_cutoff_speed 2670c60
-[ConVars]jump_grace_decay_start_tap_count 269e300
-[ConVars]jump_grace_jump 269f170
-[ConVars]jump_grace_limit_to_90 266aa20
-[ConVars]jump_grace_max 26a7500
-[ConVars]jump_grace_max_tap_count 26a2d30
-[ConVars]jump_grace_min_tap_period 269eb30
-[ConVars]jump_grace_multi_tap_decay 269d640
-[ConVars]jump_grace_multi_tap_decay_velocity_based_easing_type 2671570
-[ConVars]jump_grace_multi_tap_decay_velocity_based_max_decay 266dd50
-[ConVars]jump_grace_multi_tap_decay_velocity_based_max_speed 269fec0
-[ConVars]jump_grace_require_tap 266dbd0
-[ConVars]jump_grace_strength 26a0690
-[ConVars]jump_graceperiod 26a5390
-[ConVars]jump_graceperiodmax 26a6500
-[ConVars]jump_graceperiodmin 26a49d0
-[ConVars]jump_pad_geo_trace_debug 266ad20
-[ConVars]kepler_hostname 1d52b80
-[ConVars]kepler_isEnabled 1d52ab0
-[ConVars]laserSightColor 26bb550
-[ConVars]laserSightColorCustomized 26ba550
-[ConVars]leaf_threadedRecompute 25186f0
-[ConVars]leaf_threadedRecompute_batchSize 2514800
-[ConVars]leech_npc_angle_cos 24e2c40
-[ConVars]lerp_debugEnt 266b8a0
-[ConVars]lerp_opt 24f9a80
-[ConVars]lerp_threaded 24f79b0
-[ConVars]lerp_threaded_numEntsPerTask 24f90f0
-[ConVars]light_maxcone 1b5d660
-[ConVars]lighting_debug_overlay 2667070
-[ConVars]lightmap_realtimelight 1edf880
-[ConVars]lightmap_realtimeshadows 1ee4c20
-[ConVars]liveapi_session 1ec7b50
-[ConVars]load_base_lods_synchronously 24cf270
-[ConVars]loaderrorsCount 24d9720
-[ConVars]loaderrorsNeedShown 24d92d0
-[ConVars]lobatac_fix 24ee120
-[ConVars]lobby_battlepass_milestone_enabled 26c32d0
-[ConVars]lobby_cullNetEntities 26b0a60
-[ConVars]lobby_flicker_fix_disable 24f7a40
-[ConVars]lobby_max_fps 1eba3a0
-[ConVars]localClientPlayerCachedLevel 24d9450
-[ConVars]locationInfo 1e1ba20
-[ConVars]locationInfo_nucleus 1e1b990
-[ConVars]locator_background_border_color 252e9f0
-[ConVars]locator_background_border_thickness 2529f30
-[ConVars]locator_background_color 2531ba0
-[ConVars]locator_background_shift_x 2531d80
-[ConVars]locator_background_shift_y 2532710
-[ConVars]locator_background_style 2535a30
-[ConVars]locator_background_thickness_x 2532570
-[ConVars]locator_background_thickness_y 252ae70
-[ConVars]locator_fade_time 2530860
-[ConVars]locator_icon_max_size_non_ss 253c520
-[ConVars]locator_icon_min_size_non_ss 2536220
-[ConVars]locator_lerp_rest 2530950
-[ConVars]locator_lerp_speed 2532a80
-[ConVars]locator_lerp_time 2534380
-[ConVars]locator_pulse_time 2538ad0
-[ConVars]locator_split_len 252a790
-[ConVars]locator_split_maxwide_percent 2532c80
-[ConVars]locator_start_at_crosshair 2538390
-[ConVars]locator_target_offset_x 2536940
-[ConVars]locator_target_offset_y 252e110
-[ConVars]locator_topdown_style 253b070
-[ConVars]lookspring 2536ea0
-[ConVars]lookstrafe 253b660
-[ConVars]m_acceleration 25321a0
-[ConVars]m_clamp_to_window 253d530
-[ConVars]m_forward 253b5b0
-[ConVars]m_invert_pitch 2530fb0
-[ConVars]mainmenu_background_movie 24d94e0
-[ConVars]mantle_boost_disables_tap_strafes 26a36d0
-[ConVars]mantle_boost_input_setting 26720a0
-[ConVars]mantle_boost_ui_setting 26c2fa0
-[ConVars]map_settings_override 253ab50
-[ConVars]mat_autoexposure_compensation 2541480
-[ConVars]mat_autoexposure_debug 2546c50
-[ConVars]mat_autoexposure_disable_controllers 250e1d0
-[ConVars]mat_autoexposure_force_value 24cc1f0
-[ConVars]mat_autoexposure_max 2546ce0
-[ConVars]mat_autoexposure_max_luminance 1eea270
-[ConVars]mat_autoexposure_max_multiplier 2544ab0
-[ConVars]mat_autoexposure_min 25483c0
-[ConVars]mat_autoexposure_min_multiplier 2545340
-[ConVars]mat_autoexposure_speed 2543360
-[ConVars]mat_autoexposure_target_lum_max 2541d30
-[ConVars]mat_autoexposure_target_lum_min 25418a0
-[ConVars]mat_autoexposure_uncap 2548fc0
-[ConVars]mat_bloom_amount_override 2549270
-[ConVars]mat_bloom_clamp 25484e0
-[ConVars]mat_bloom_cutoff_default 25432d0
-[ConVars]mat_bloom_cutoff_exposure_adapt 2543ea0
-[ConVars]mat_bloom_cutoff_override 25453d0
-[ConVars]mat_bloom_global_baseline 25454f0
-[ConVars]mat_bloom_streak_amount 1ee6d70
-[ConVars]mat_bloom_streak_clamp 2544310
-[ConVars]mat_bloom_streak_cutoff 2545f90
-[ConVars]mat_bloom_streak_cutoff_exposure_adapt 25456a0
-[ConVars]mat_bloom_streak_exponent_post 1ee7b80
-[ConVars]mat_bloom_streak_exponent_pre 2544e70
-[ConVars]mat_bloom_wide_allow_monitor 2543980
-[ConVars]mat_bloom_wide_clamp 2547770
-[ConVars]mat_bloom_wide_exponent_pre 2545e70
-[ConVars]mat_cloudmask 1edfa90
-[ConVars]mat_colcorrection_disableentities 1b5abe0
-[ConVars]mat_colcorrection_editor 1b59080
-[ConVars]mat_colcorrection_forceentitiesclientside 25110b0
-[ConVars]mat_colorcorrection 1b59700
-[ConVars]mat_cubemap_dir_norm_bias 1eea030
-[ConVars]mat_cubemap_dir_norm_enable 1ee9df0
-[ConVars]mat_cubemap_dir_norm_max_sh_directionality 1ee9cd0
-[ConVars]mat_cubemap_dir_norm_sky_auto_intensity 1eea0c0
-[ConVars]mat_cubemap_dir_norm_sky_intensity_prior_weight 1ee9e80
-[ConVars]mat_cubemap_streaming_enabled 1ee9d60
-[ConVars]mat_cubemap_streaming_fade_duration 1ee9fa0
-[ConVars]mat_cubemap_streaming_max_requests 1ee9c20
-[ConVars]mat_cubemap_streaming_max_samples 1ee9f10
-[ConVars]mat_debug_alpha_mask_threshold 1f4bc10
-[ConVars]mat_debug_grayscale 1ee7820
-[ConVars]mat_debug_luminance 1ee71f0
-[ConVars]mat_debug_luminance_max 1ee7550
-[ConVars]mat_debug_luminance_min 1ee7160
-[ConVars]mat_debug_postprocess_allowed 1ee7c10
-[ConVars]mat_debug_postprocessing_effects 2546290
-[ConVars]mat_debug_tonemapping 1ee7af0
-[ConVars]mat_debug_tonemapping_always_use_lut 1ee6bc0
-[ConVars]mat_debug_tonemapping_disable 1ee7670
-[ConVars]mat_debug_tonemapping_fb_blend 1ee6ce0
-[ConVars]mat_debug_tonemapping_linear_segment_end 1ee7ca0
-[ConVars]mat_debug_tonemapping_lut_d 1ee6e00
-[ConVars]mat_debug_tonemapping_lut_h 1ee6a10
-[ConVars]mat_debug_tonemapping_lut_w 1ee75e0
-[ConVars]mat_debug_tonemapping_mid1 1ee73a0
-[ConVars]mat_debug_tonemapping_mid2 1ee7040
-[ConVars]mat_debug_tonemapping_shoulder 1ee7280
-[ConVars]mat_debug_tonemapping_toe 1ee70d0
-[ConVars]mat_debugalphasort 2666a40
-[ConVars]mat_debugalttab 1ee5010
-[ConVars]mat_depthbias_decal 1f43970
-[ConVars]mat_depthbias_normal 1f43b20
-[ConVars]mat_depthbias_shadowmap 1f43850
-[ConVars]mat_depthbias_tightshadowmap 1f43a00
-[ConVars]mat_depthbias_ui 1f43580
-[ConVars]mat_depthbias_zfill 1f43a90
-[ConVars]mat_depthbiasclamp_decal 1f434f0
-[ConVars]mat_depthbiasclamp_normal 1f43d60
-[ConVars]mat_depthbiasclamp_shadowmap 1f43610
-[ConVars]mat_depthbiasclamp_ui 1f437c0
-[ConVars]mat_depthbiasclamp_zfill 1f43730
-[ConVars]mat_diffuse 1ed5c40
-[ConVars]mat_disable_lightmap_ambient 24cc040
-[ConVars]mat_disable_lightmaps 1ee1fe0
-[ConVars]mat_disable_model_ambient 1edd300
-[ConVars]mat_drawMenuGrid 1ec3400
-[ConVars]mat_drawTitleSafe 1ec5a20
-[ConVars]mat_dynamic_cubemap_blending 24cc550
-[ConVars]mat_enable_emissive_fade 1f4bca0
-[ConVars]mat_enable_ssr 1ee7f70
-[ConVars]mat_envmap_capture_res 1b59a80
-[ConVars]mat_envmap_output_res 1b59f60
-[ConVars]mat_envmap_scale 24cc3a0
-[ConVars]mat_exposure_counteraction_override 24cc310
-[ConVars]mat_fastnobump 1ee2580
-[ConVars]mat_fastspecular 1b77b60
-[ConVars]mat_filter_null_mesh_data 24cf1e0
-[ConVars]mat_filterlightmaps 1ee4950
-[ConVars]mat_filtertextures 1edd180
-[ConVars]mat_force_irradiance_volume 1f4b6f0
-[ConVars]mat_force_r5ao_model 1f4b8a0
-[ConVars]mat_forceaniso 1ee24f0
-[ConVars]mat_frame_color_bias 2542e60
-[ConVars]mat_frame_color_enabled 2544640
-[ConVars]mat_frame_color_scale 2549150
-[ConVars]mat_frame_color_spot_metering_screen_ratio 2543540
-[ConVars]mat_fullbright 1b76730
-[ConVars]mat_global_lighting 1ed5bb0
-[ConVars]mat_gpu_buffer_min_commit_mb 1f3cab0
-[ConVars]mat_gpu_buffer_usage_decrease_factor 1f3c900
-[ConVars]mat_gpu_buffer_usage_increase_factor 1f3ca20
-[ConVars]mat_gpu_buffer_wait_for_fence 1f3c990
-[ConVars]mat_hdr_debug_heatmap 1ee7dc0
-[ConVars]mat_hdr_debug_heatmap_max_nits 1ee6aa0
-[ConVars]mat_hdr_debug_heatmap_min_nits 1ee74c0
-[ConVars]mat_hdr_paper_white_nits 1ee1da0
-[ConVars]mat_hdrcolorcorrection 1ed5a00
-[ConVars]mat_hide_sun_in_last_cascade 1f4baf0
-[ConVars]mat_instancing 1f4b660
-[ConVars]mat_letterbox_aspect_goal 1f4aed0
-[ConVars]mat_letterbox_aspect_max 1f4ae40
-[ConVars]mat_letterbox_aspect_min 1f4af60
-[ConVars]mat_lightcull_subviews 2665040
-[ConVars]mat_materialmip_character_0 1ee61c0
-[ConVars]mat_materialmip_character_1 1ee56d0
-[ConVars]mat_materialmip_character_2 1ee5a30
-[ConVars]mat_materialmip_character_3 1ee5d00
-[ConVars]mat_materialmip_character_4 1ee5c70
-[ConVars]mat_materialmip_cockpit_0 1ee5f80
-[ConVars]mat_materialmip_cockpit_1 1ee5880
-[ConVars]mat_materialmip_cockpit_2 1ee5520
-[ConVars]mat_materialmip_cockpit_3 1ee5640
-[ConVars]mat_materialmip_cockpit_4 1ee60a0
-[ConVars]mat_materialmip_model_0 1ee55b0
-[ConVars]mat_materialmip_model_1 1ee5ac0
-[ConVars]mat_materialmip_model_2 1ee6130
-[ConVars]mat_materialmip_model_3 1ee63d0
-[ConVars]mat_materialmip_model_4 1ee5be0
-[ConVars]mat_materialmip_other_0 1ee6010
-[ConVars]mat_materialmip_other_1 1ee59a0
-[ConVars]mat_materialmip_other_2 1ee6460
-[ConVars]mat_materialmip_other_3 1ee5760
-[ConVars]mat_materialmip_other_4 1ee62e0
-[ConVars]mat_materialmip_world_0 1ee5b50
-[ConVars]mat_materialmip_world_1 1ee5490
-[ConVars]mat_materialmip_world_2 1ee57f0
-[ConVars]mat_materialmip_world_3 1ee6250
-[ConVars]mat_materialmip_world_4 1ee5910
-[ConVars]mat_minimize_on_alt_tab 1f4b170
-[ConVars]mat_mip_linear 1edf970
-[ConVars]mat_mipmaptextures 1edfb20
-[ConVars]mat_new_sky_ambient_adjustment 1b75bf0
-[ConVars]mat_new_sky_ambient_weight 24cc5e0
-[ConVars]mat_no_stretching 1f4b0e0
-[ConVars]mat_norendering 1b5c330
-[ConVars]mat_pbr_falloff_bias 24cc160
-[ConVars]mat_picmip 1edd390
-[ConVars]mat_postprocess_enable 1ee78b0
-[ConVars]mat_repeat_state_changes_after_submit 1ee5370
-[ConVars]mat_reset_contexts_after_deferred_submit 1ee5400
-[ConVars]mat_reset_tex_stream_when_unloading 1ee8000
-[ConVars]mat_screen_blur_enabled 2542c20
-[ConVars]mat_set_dress_level 1ed05f0
-[ConVars]mat_sharpen_amount 1ee6c50
-[ConVars]mat_sharpen_threshold 1ee7790
-[ConVars]mat_sharpen_width 1ee7a60
-[ConVars]mat_showlowresimage 1ed5b20
-[ConVars]mat_showmiplevels 1ee2220
-[ConVars]mat_skipid 1b75410
-[ConVars]mat_slopescaledepthbias_decal 1f43cd0
-[ConVars]mat_slopescaledepthbias_normal 1f436a0
-[ConVars]mat_slopescaledepthbias_shadowmap 1f43c40
-[ConVars]mat_slopescaledepthbias_ui 1f438e0
-[ConVars]mat_slopescaledepthbias_zfill 1f43bb0
-[ConVars]mat_submit_multiple_contexts_at_once 1f4b200
-[ConVars]mat_surfacefilter 1b75860
-[ConVars]mat_surfaceid 1b748a0
-[ConVars]mat_surfacemat 1b77bf0
-[ConVars]mat_sync_rt 1ee2340
-[ConVars]mat_sync_rt_flushes_gpu 1ee82c0
-[ConVars]mat_use_alloc_for_tex_streaming 1f3c680
-[ConVars]mat_vsyncMode 1f4b2f0
-[ConVars]mat_wide_bloom_amount_override 2547fd0
-[ConVars]mat_wide_bloom_global_baseline 2547a70
-[ConVars]mat_wide_pillarbox 1f4b410
-[ConVars]matchRequeue_check_chat_rule 1b77d10
-[ConVars]matchRequeue_leaveGraceTime 1b5c8e0
-[ConVars]matchSquadRequeue_enabled 1b5d4b0
-[ConVars]matchSquadRequeue_timeLimit 1b5c3c0
-[ConVars]match_allowMapRotationPreloading 1b75260
-[ConVars]match_backingOutMaxTimeToWait 1b5d900
-[ConVars]match_backoutslow 1b77640
-[ConVars]match_checkSearchPlaylistChanged 1b76e60
-[ConVars]match_connect 1b5cc40
-[ConVars]match_datacenter 1b79ab0
-[ConVars]match_defaultMap_party 1b6e170
-[ConVars]match_dir 1b77f20
-[ConVars]match_displayDatacenter 1b6de10
-[ConVars]match_dumpSearchResults 1b70170
-[ConVars]match_emptyUpdateRate 1b5c580
-[ConVars]match_enabled 1b788d0
-[ConVars]match_ezlaunch 1b79840
-[ConVars]match_fakePort 1b6e050
-[ConVars]match_fakeS2SPort 1b5c6a0
-[ConVars]match_forcePostMatchSurvey 1b74bd0
-[ConVars]match_forceVerboseSearches 1b79a20
-[ConVars]match_goodReputation 1b75e30
-[ConVars]match_jip 1b75ad0
-[ConVars]match_maxPingsSent 1b764c0
-[ConVars]match_myBestDatacenter 1b77da0
-[ConVars]match_myDatacenter 1b77c80
-[ConVars]match_myRankedDatacenter 1b78010
-[ConVars]match_myTeam 1b5d300
-[ConVars]match_partyChangeNum 1b77400
-[ConVars]match_partySize 1b5d0f0
-[ConVars]match_partySub 1b5c850
-[ConVars]match_pingWaveInterval 1b5c090
-[ConVars]match_playlist 1b78840
-[ConVars]match_precachemap 1b6d5b0
-[ConVars]match_precachemapOnMismatch 1b754a0
-[ConVars]match_privateMatchListWithStryder 1b6e970
-[ConVars]match_publicIp 1b5c7c0
-[ConVars]match_rankedMaxPing 1b746f0
-[ConVars]match_resetPlaylistBetweenMatches 1b78370
-[ConVars]match_roleToken 1b776d0
-[ConVars]match_searchInterval 1b749c0
-[ConVars]match_searching 1b78c00
-[ConVars]match_skipRedundantServerResets 1b751d0
-[ConVars]match_teamNoFill 1b767c0
-[ConVars]match_trackMMR 1b70480
-[ConVars]match_updateNotableRate 1b77370
-[ConVars]match_updateRate 1b774f0
-[ConVars]match_verbosePrintsInterval 1b782e0
-[ConVars]match_visiblePlaylists 1b6ec40
-[ConVars]matchmake_from_match_enabled 1b79210
-[ConVars]matchmaking_hostname 1b75740
-[ConVars]max_bounces_to_allow_extra_bounce 24eb940
-[ConVars]max_explosive_damage_mass 26b0870
-[ConVars]max_explosive_damage_velocity 26b75f0
-[ConVars]max_tweak_shadow_updates 2503ae0
-[ConVars]melee_aim_assist_can_lock_pitch 24e23b0
-[ConVars]melee_aim_assist_use_target_velocity 24e9090
-[ConVars]melee_attack_trace_can_use_lunge_distance 24e0310
-[ConVars]melee_cone_trace_box_check 24e2050
-[ConVars]melee_lunge_abort_distance 26a0ca0
-[ConVars]melee_lunge_abort_if_blocked 266f770
-[ConVars]melee_lunge_adjust_trace_distance 24e7200
-[ConVars]melee_lunge_align_eye_position 24e7590
-[ConVars]melee_lunge_debugDraw 24e7420
-[ConVars]melee_lunge_dot_check 24e2300
-[ConVars]melee_lunge_force_enable_flying 26a5630
-[ConVars]melee_lunge_lag_compensate_target 26a78f0
-[ConVars]melee_lunge_no_melee_custom_range_fallback 26bac20
-[ConVars]melee_lunge_no_melee_custom_range_fallback_value 26bb3a0
-[ConVars]melee_lunge_scale_by_speed 24ebf10
-[ConVars]melee_lunge_slide 2671db0
-[ConVars]melee_lunge_use_closest_distance_between_cylinders 266b970
-[ConVars]melee_lunge_use_command_time 24e8f10
-[ConVars]melee_queue_attack_anim_event 26bde10
-[ConVars]melee_script_trace_player_movement_col_group 24e8770
-[ConVars]mem_dumpstats 1ec85c0
-[ConVars]mem_incremental_compact_rate 1ec6bc0
-[ConVars]mem_level 1edf640
-[ConVars]mem_rolling_incremental_compaction 24d1760
-[ConVars]mem_runheapchecks 24d2d10
-[ConVars]mem_saving_release_mb 24d2180
-[ConVars]mem_saving_request_mb 24d26d0
-[ConVars]mem_saving_trigger_mb 24d22b0
-[ConVars]mem_saving_use_factor 24d25b0
-[ConVars]mem_saving_vram_release_mb 24d23f0
-[ConVars]mem_saving_vram_request_mb 24d2340
-[ConVars]mem_saving_vram_trigger_mb 24d2220
-[ConVars]mem_test_each_frame 1ec7310
-[ConVars]mem_test_every_n_seconds 1ec76a0
-[ConVars]mem_test_quiet 1ec6aa0
-[ConVars]menu_was_multiplayer_played_last 2667e70
-[ConVars]metric_recent_period 24cf840
-[ConVars]metric_update_interval 24cf7b0
-[ConVars]metrichttp_enabled 24cf6d0
-[ConVars]metrichttp_max_pending_http_requests 24cf5b0
-[ConVars]metrichttp_reset_on_level_shutdown 24cf640
-[ConVars]metricmanagernet_enabled 24cf9c0
-[ConVars]metricmanagernet_reset_on_level_shutdown 24cf8d0
-[ConVars]metricmanagernet_update_interval 24cfa50
-[ConVars]micro_event_enabled 1d50e60
-[ConVars]migrate_attempt_interval 1eca9f0
-[ConVars]migrate_attempt_max_retries 1eca7a0
-[ConVars]miles_actor_update_min_facing 24df630
-[ConVars]miles_adjust 24df110
-[ConVars]miles_adsScaleSprint 24f5e20
-[ConVars]miles_advox_subtitles_angle 24dac90
-[ConVars]miles_advox_subtitles_maxdist 24db870
-[ConVars]miles_bankpaging 24dfe70
-[ConVars]miles_cache_size 24dff00
-[ConVars]miles_channels 24dde70
-[ConVars]miles_channels_menuoption 24dbbc0
-[ConVars]miles_channels_menuoption_headphones 24de710
-[ConVars]miles_channels_menuoption_mono 24dda40
-[ConVars]miles_client_enable_radius_culling 26bdf30
-[ConVars]miles_devnet_screenshot_attach_dump 24dce20
-[ConVars]miles_devnet_screenshot_attach_samples 24dc0f0
-[ConVars]miles_driver 24dbf30
-[ConVars]miles_driver_mix_mode 24deff0
-[ConVars]miles_dumpuploadtime 24db6c0
-[ConVars]miles_error_counter_data_error_threshold 24dea70
-[ConVars]miles_error_counter_display 24debc0
-[ConVars]miles_error_counter_limits_error_threshold 24dcbb0
-[ConVars]miles_error_counter_starvation_error_threshold 24dd860
-[ConVars]miles_evtnamesindumps 24dc790
-[ConVars]miles_flagset 24dc2b0
-[ConVars]miles_flip_active_window_logic 25113a0
-[ConVars]miles_force_emitter_environment 24da7e0
-[ConVars]miles_force_listener_environment 24dc490
-[ConVars]miles_force_min_rpm 24dd650
-[ConVars]miles_freeze 24df930
-[ConVars]miles_ignore_timescale_ignores_stop 24deb30
-[ConVars]miles_importancevol 24de130
-[ConVars]miles_importancevol_factor 24dc340
-[ConVars]miles_importancevol_pow 24dcb20
-[ConVars]miles_init_null_fallback 24db7e0
-[ConVars]miles_initial_occlusion_delay 24de410
-[ConVars]miles_language 24dff90
-[ConVars]miles_language_statsd 24ddf80
-[ConVars]miles_lfe_lowpass_hz 24dc960
-[ConVars]miles_lfe_lowpass_iterations 24dd180
-[ConVars]miles_link_dist_start 25393b0
-[ConVars]miles_link_dist_stop 252b0e0
-[ConVars]miles_link_emitter_dot_start 252eb80
-[ConVars]miles_link_emitter_dot_stop 252b050
-[ConVars]miles_link_emitter_strict 253c640
-[ConVars]miles_link_generation 252b730
-[ConVars]miles_link_occlusion_emitter_factor 2532680
-[ConVars]miles_link_occlusion_emitter_pow 2538250
-[ConVars]miles_link_occlusion_listener_factor 252ec10
-[ConVars]miles_link_occlusion_listener_pow 253a100
-[ConVars]miles_link_onlysamefloor 252a2b0
-[ConVars]miles_link_open_factor 252fc40
-[ConVars]miles_link_open_pow 253d6b0
-[ConVars]miles_link_transitionPoint_1pTailSwitch 24da6d0
-[ConVars]miles_link_transitionPoint_3pTailSwitch 24ddc10
-[ConVars]miles_link_transitionPoint_convolutionPreset 24dd920
-[ConVars]miles_link_transitionPoint_suffix 24dd3c0
-[ConVars]miles_listener_freeze 24da9c0
-[ConVars]miles_listener_soundscape_roof_iter_count 253bc10
-[ConVars]miles_listener_soundscape_roof_min_z_separation 24dc060
-[ConVars]miles_listener_soundscape_roof_offset 2532da0
-[ConVars]miles_listener_soundscape_roof_overhang_enable 253c5b0
-[ConVars]miles_listener_update_always 24daed0
-[ConVars]miles_listener_update_min_angle 24de010
-[ConVars]miles_load_lang_sources 24dd5c0
-[ConVars]miles_mbcompress 24db900
-[ConVars]miles_metrics_ftsp 24dcd30
-[ConVars]miles_metrics_ftsp_daywindow 24ddd40
-[ConVars]miles_metrics_ftsp_perfcharts 24df2c0
-[ConVars]miles_metrics_ftsp_radius 24df810
-[ConVars]miles_mix 24db2b0
-[ConVars]miles_mix_menuoption 24dd480
-[ConVars]miles_mixahead 24dd210
-[ConVars]miles_mixahead_highpri 24daa80
-[ConVars]miles_mixahead_wasapi 24db010
-[ConVars]miles_nopandist 24dceb0
-[ConVars]miles_occlusion 24de5d0
-[ConVars]miles_occlusion_blocked_by_contents_playerclip 24ddcb0
-[ConVars]miles_occlusion_endpoints_slim 24dfc50
-[ConVars]miles_occlusion_floor_additive 24dac00
-[ConVars]miles_occlusion_force 24dd510
-[ConVars]miles_occlusion_minendpenetration 24df5a0
-[ConVars]miles_occlusion_minpenetration 24de9e0
-[ConVars]miles_occlusion_partial 24db0a0
-[ConVars]miles_output_device 24dcfd0
-[ConVars]miles_parallel_csom_cache 24dddd0
-[ConVars]miles_radius_cull_fudge_factor_speed 26bb790
-[ConVars]miles_recreate_on_default_changed 24dca00
-[ConVars]miles_render_dir 24dadb0
-[ConVars]miles_replay_transition_enable_early_cleanup 26a8cb0
-[ConVars]miles_samplerate 24df8a0
-[ConVars]miles_samples_dither 24de4b0
-[ConVars]miles_samples_folddown 24de660
-[ConVars]miles_samples_noise_shape 24dca90
-[ConVars]miles_scale_floor_occlusion 24dd330
-[ConVars]miles_scale_soundscape_occlusion 24de2f0
-[ConVars]miles_scale_unadjusted_occlusion 24de540
-[ConVars]miles_send_csom_telemetry 24df080
-[ConVars]miles_server_sounds_print 1b7a4b0
-[ConVars]miles_sitrep 24dcc80
-[ConVars]miles_sitrep_cadence 24ddad0
-[ConVars]miles_sitrep_forceupload 24de8c0
-[ConVars]miles_sitrep_forceupload_uniquenames 24dd6e0
-[ConVars]miles_sitrep_pin 24dc220
-[ConVars]miles_sitrep_thres_count 24db750
-[ConVars]miles_sitrep_window_begin 24de830
-[ConVars]miles_sitrep_window_end 24dfde0
-[ConVars]miles_solo_ents 24da920
-[ConVars]miles_soundscape_floor_updates 24dc820
-[ConVars]miles_soundscape_imgui 252d590
-[ConVars]miles_soundscape_skipfloors 252efa0
-[ConVars]miles_soundscape_skipfloors_distance 252b550
-[ConVars]miles_soundscape_skipfloors_offset 2530750
-[ConVars]miles_spatialize_channelPan_factor 24df230
-[ConVars]miles_spatialize_fovscalefactor 24dd2a0
-[ConVars]miles_spatialize_front_degrees 24db990
-[ConVars]miles_spatialize_front_use_view_fov 24df450
-[ConVars]miles_spatialize_height_degrees 24dc5b0
-[ConVars]miles_spatialize_height_front_degrees 24de7a0
-[ConVars]miles_spatialize_offplane_strength 24ded70
-[ConVars]miles_spatialize_on 24dbb30
-[ConVars]miles_spatialize_rear_degrees 24dd0f0
-[ConVars]miles_spatialize_spread_factor 24dfb40
-[ConVars]miles_suffixes 24df1a0
-[ConVars]miles_test_sitrep 24dbd70
-[ConVars]miles_threatviz 24dc8d0
-[ConVars]miles_timescale_rate_factor 24daf80
-[ConVars]miles_ui_sounds_survive_replay_transitions 24dec50
-[ConVars]miles_voice_buffer_ms 24dbce0
-[ConVars]miles_voice_max_age_ms 24dbe00
-[ConVars]miles_voice_part_ms 24db350
-[ConVars]miles_voice_warning 24dcf40
-[ConVars]miles_voice_warning_hipri 24dfce0
-[ConVars]miles_voice_warning_icon_display_time 24de0a0
-[ConVars]miles_voicelimit_factor 24dbc50
-[ConVars]miles_wallRunIsSprint 24f6b00
-[ConVars]min_explosive_damage_mass 26b2790
-[ConVars]mirror_main_scene 26bdfc0
-[ConVars]misprediction_stuck_report_time 2542fc0
-[ConVars]missile_default_speed 24e9130
-[ConVars]missile_homing_speed 24e86e0
-[ConVars]mod_irradiance_volume_quality 1b74d50
-[ConVars]model_animFadeEndScale 1ec6070
-[ConVars]model_animFadeMinDistSqBias 1ec4170
-[ConVars]model_animFadeStartScale 1eba5b0
-[ConVars]model_defaultFadeDistMin 1ec6100
-[ConVars]model_defaultFadeDistScale 1ec3190
-[ConVars]model_fadeRangeFraction 2529d80
-[ConVars]model_fadeRangeFractionNear 2529e10
-[ConVars]modelswap_allow_anim_continuation 26bbb80
-[ConVars]monitor_cc 254a310
-[ConVars]monitor_mat_sharpen_amount 1ee6e90
-[ConVars]monitor_postfx 254a880
-[ConVars]monitor_rui_world_enabled 2665670
-[ConVars]monitor_snapshot_frame_delay 25037b0
-[ConVars]monitor_zfar_default 250b5a0
-[ConVars]monitor_zfar_override 26654c0
-[ConVars]monitor_zfar_override_enabled 2549fb0
-[ConVars]mouse_sensitivity 253b160
-[ConVars]mouse_use_per_scope_sensitivity_scalars 2530a10
-[ConVars]mouse_zoomed_sensitivity_scalar_0 2530aa0
-[ConVars]mouse_zoomed_sensitivity_scalar_1 2530b30
-[ConVars]mouse_zoomed_sensitivity_scalar_2 2530bc0
-[ConVars]mouse_zoomed_sensitivity_scalar_3 2530c50
-[ConVars]mouse_zoomed_sensitivity_scalar_4 2530ce0
-[ConVars]mouse_zoomed_sensitivity_scalar_5 2530d70
-[ConVars]mouse_zoomed_sensitivity_scalar_6 2530e00
-[ConVars]mouse_zoomed_sensitivity_scalar_7 2530e90
-[ConVars]move_one_cmd_per_client_frame 1ec8af0
-[ConVars]movement_anim_downed_playback_maxrate 24d8550
-[ConVars]movement_anim_playback_maxrate 24d7bc0
-[ConVars]movement_anim_playback_minrate 24d7b30
-[ConVars]movement_anim_sprint_playback_maxrate 24d7fb0
-[ConVars]mp_accountLink_requestInterval 1b78ae0
-[ConVars]mp_allowed 1b5cfa0
-[ConVars]mp_bodyyawrate 24d81f0
-[ConVars]mp_countRRNobodyAsLobby 1e86160
-[ConVars]mp_disconnect_multipleLoginLobby 1b6edc0
-[ConVars]mp_enablematchending 26a2c70
-[ConVars]mp_enabletimelimit 266f3a0
-[ConVars]mp_gamemode 26abe90
-[ConVars]mp_linkingAccountTime 1ecdb90
-[ConVars]mp_linkingAccountWindow 1ecdb00
-[ConVars]mp_maxbodyyaw 24d7ce0
-[ConVars]mp_permission_requestInterval 1b79600
-[ConVars]mp_permission_rerequestInterval 1b78250
-[ConVars]mp_player_level 2671b90
-[ConVars]mp_scaleAnimationSpeeds 24d7f20
-[ConVars]mp_showgestureslots 24d8160
-[ConVars]mtx_BPLevelDefaultPrice 1d53090
-[ConVars]mtx_allowPersistenceBadgeConversion 1d535a0
-[ConVars]mtx_allow_pending_grants_for_item_ownership 1d54f80
-[ConVars]mtx_battlepassGiftingEnabled 1d54b90
-[ConVars]mtx_bonus_meter_enabled 1d53a20
-[ConVars]mtx_clawBackBattlePass 1d54d40
-[ConVars]mtx_containerExpireAfterDays 1d537e0
-[ConVars]mtx_deathbox_aura_enabled 1d543b0
-[ConVars]mtx_digital_garments_enabled 1d544d0
-[ConVars]mtx_dynamic_store_config_filename 1d550a0
-[ConVars]mtx_dynamic_store_info_enabled 1d55130
-[ConVars]mtx_first_time_ac_bonus_enabled 1d53870
-[ConVars]mtx_forceSendEntireInventoryDataBitfield 1d54a70
-[ConVars]mtx_generatePartyDediConnectRprof 1d53ea0
-[ConVars]mtx_getGlobalDiscountsEnabled 1d53b40
-[ConVars]mtx_getGlobalDiscountsMaxRetries 1d52c10
-[ConVars]mtx_get_pack_preview_enabled 1d53c60
-[ConVars]mtx_get_smart_merchandising_data_enabled 1d54b00
-[ConVars]mtx_get_user_segment_for_untrusted_players_enabled 1d54050
-[ConVars]mtx_get_user_segment_for_untrusted_players_max_retries 1d53000
-[ConVars]mtx_giftingEnabled 1d54c20
-[ConVars]mtx_giftingForce2FA 1d54320
-[ConVars]mtx_giftingLimit 1d53bd0
-[ConVars]mtx_giftingMinAccountLevel 1d54680
-[ConVars]mtx_giftingMinFriendshipInDays 1d53f30
-[ConVars]mtx_gifting_notifications_enabled 1d53480
-[ConVars]mtx_inventoryReadyCheckTimeSeconds 1d547a0
-[ConVars]mtx_log_level 1d52ca0
-[ConVars]mtx_mass_pack_opening_enabled 1d540e0
-[ConVars]mtx_mass_pack_opening_max_packs_to_open 1d52e50
-[ConVars]mtx_mass_pack_opening_max_wishlist_packs_to_open 1d53510
-[ConVars]mtx_numInventoryItemsSendItemIndicesCutoff 1d549e0
-[ConVars]mtx_nx_end_of_service_warning 1d54cb0
-[ConVars]mtx_old_twitch_drops_flow_enabled 1d55010
-[ConVars]mtx_pack_upgrade_enabled 1d52ee0
-[ConVars]mtx_progression_modifier_dev_boosts_enabled 1d536c0
-[ConVars]mtx_purchaseBPLevelsWithLegendTokensEnabled 1d54200
-[ConVars]mtx_purchaseBPLevelsWithLegendTokensEndDaysOffset 1d54950
-[ConVars]mtx_purchaseBPLevelsWithLegendTokensLimit 1d53360
-[ConVars]mtx_purchaseBPLevelsWithLegendTokensMinLevel 1d53d80
-[ConVars]mtx_purchaseBPLevelsWithLegendTokensStartDaysOffset 1d54830
-[ConVars]mtx_recommendations_cache_max_age_seconds 1d55540
-[ConVars]mtx_recommendations_enabled 1d555d0
-[ConVars]mtx_recommendations_retries 1d55420
-[ConVars]mtx_recommendations_shop_ordering_cache_enabled 1d55390
-[ConVars]mtx_rewardSummarySequenceDumpRProf 1d545f0
-[ConVars]mtx_rewardSummarySequenceEnabled 1d54290
-[ConVars]mtx_scriptProcessNewOfferInIncrementalUpdate 1d55300
-[ConVars]mtx_segment_matching_int_endpoint 1d54e60
-[ConVars]mtx_segment_matching_prod_endpoint 1d53900
-[ConVars]mtx_sendInventoryOptimizationPinEventThreshold 1d53240
-[ConVars]mtx_shopPersonalizationEnabled 1d53750
-[ConVars]mtx_showDebugTime 1d52f70
-[ConVars]mtx_showEarnedRewards 1d53fc0
-[ConVars]mtx_svEdition 1d54560
-[ConVars]mtx_targeted_ads_integration_segment_id 1d53e10
-[ConVars]mtx_targeted_ads_production_segment_id 1d53990
-[ConVars]mtx_telem_OnDemandContainer 1d54440
-[ConVars]mtx_trackAutoOperationFailures 1d531b0
-[ConVars]mtx_trackQueryGoalFailures 1d53120
-[ConVars]mtx_trigger_message_enabled 1d55690
-[ConVars]mtx_untrusted_players_integration_segment_id 1d52dc0
-[ConVars]mtx_untrusted_players_production_segment_id 1d54dd0
-[ConVars]mtx_useClientContainersForEntitlementNotification 1d53ab0
-[ConVars]mtx_useMarketplaceLocalization 1d54170
-[ConVars]mtx_use_entity 26ba080
-[ConVars]mtx_userInfo_assertOnMatchAccess 1d53cf0
-[ConVars]mtx_userInfo_canQueue 1d53630
-[ConVars]mtx_userInfo_matchDedisHaveUserInfo 1d548c0
-[ConVars]mtx_userInfo_maxDelay 1d54ef0
-[ConVars]mtx_userInfo_sendInMatch 1d533f0
-[ConVars]mtx_wishlist_enabled 1d52d30
-[ConVars]mtx_wishlist_seeding_debug_enabled 1d532d0
-[ConVars]mtx_writeContainersInUserInfo 1d54710
-[ConVars]multiplay_ip 1b75fe0
-[ConVars]multiplay_serverid 1b6ea00
-[ConVars]multiplayer_animstate_duck_fraction_threshold 24d8040
-[ConVars]muteWeaponSounds 24ebd60
-[ConVars]name 1e86af0
-[ConVars]nemesis_use_looping_sound 24eb270
-[ConVars]net_RunInvalidatePhysics 25127f0
-[ConVars]net_async_sendto 1b76d40
-[ConVars]net_autoUnthrottle 1b757d0
-[ConVars]net_bindToSpecificAddress 1b792a0
-[ConVars]net_blockmsg 1b5ca60
-[ConVars]net_chokeloop 1b79de0
-[ConVars]net_clearReliableDataOnReset 1b756b0
-[ConVars]net_client_side_weapon_animations 24eb300
-[ConVars]net_compressAlgorithm 1b761f0
-[ConVars]net_compressAlgorithmOptim 1b6ecd0
-[ConVars]net_compressDataBlock 1b7a1e0
-[ConVars]net_createUndoDeltas 1b5a710
-[ConVars]net_dataRate 1e8ca60
-[ConVars]net_dataRateCL 1e858f0
-[ConVars]net_dataRateDev 1e8f760
-[ConVars]net_dataRateDev_enabled 1e8bd00
-[ConVars]net_data_block_enabled 1e8fe20
-[ConVars]net_datablock_debugReceiver 1b5ce80
-[ConVars]net_datablock_debugSender 1b7a020
-[ConVars]net_datablock_dumpBlocks 1b79cc0
-[ConVars]net_datablock_dumpMsg 1e8c430
-[ConVars]net_datablock_dumpOnlyRealClients 1e8e6a0
-[ConVars]net_datablock_fastRate 1b5d390
-[ConVars]net_datablock_longSendTime 1b74e70
-[ConVars]net_datablock_minResendInterval 1b78f40
-[ConVars]net_datablock_networkLossForSlowSpeed 1b76610
-[ConVars]net_datablock_printSummaries 1b79480
-[ConVars]net_datablock_qos_budgetRollover 1b6d400
-[ConVars]net_datablock_qos_enabled 1b7a110
-[ConVars]net_datablock_qos_rateMax 1b77160
-[ConVars]net_datablock_qos_rateMin 1b75380
-[ConVars]net_datablock_resendRateForSlowSpeed 1b6dc00
-[ConVars]net_datablock_slowRate 1b78960
-[ConVars]net_deltaFieldEntityBlockSize 1e86790
-[ConVars]net_dumpChangesPrecise 1b5ac70
-[ConVars]net_encrypt_copyCtx 1b6d890
-[ConVars]net_encrypt_debug 1b5bb10
-[ConVars]net_encrypt_dtls 1b5bbe0
-[ConVars]net_encrypt_dtls_hkdf 1b5c450
-[ConVars]net_encrypt_dtls_time 1b75d10
-[ConVars]net_encrypt_multiKey 1b74780
-[ConVars]net_forceUnnecessaryUndoDeltas 1b594f0
-[ConVars]net_forcetimeout 1b78570
-[ConVars]net_highPacketLatencyThreshold 1e1af20
-[ConVars]net_highPacketLossThreshold 1e19f50
-[ConVars]net_ignoreAllSnapshots 1e19d70
-[ConVars]net_largeSnapshotThreshold 1e85aa0
-[ConVars]net_lerpFields 1d59950
-[ConVars]net_maxAccumulatedClearTimeBalance 1b5c4f0
-[ConVars]net_maxRecvCall 1b777f0
-[ConVars]net_maxRecvPacket 1b5d6f0
-[ConVars]net_maxcleartime 1b5d420
-[ConVars]net_minConnectionTimeForSpam 1b5ccd0
-[ConVars]net_minResetIdleTimerInterval 2668480
-[ConVars]net_minimumPacketLossDC 1b5d5d0
-[ConVars]net_netGraph2 1e1a9d0
-[ConVars]net_noPostDataForDeletedEnts 1e86940
-[ConVars]net_optimize_persistent_data 1e8d390
-[ConVars]net_optimize_playlists 1e8f9a0
-[ConVars]net_optimize_weapons 24eeb30
-[ConVars]net_portTryMax 1b5c240
-[ConVars]net_predictParentEntities 24f7fe0
-[ConVars]net_predictedEntsUseFirstAvailableSnapshot 1e85fb0
-[ConVars]net_predictionDebug 1e85770
-[ConVars]net_pretendSnapshotArrayFull 1d59b00
-[ConVars]net_printCompression 1b6e300
-[ConVars]net_printOutOfSnapshots 1e860d0
-[ConVars]net_printUnnecessaryDeltas 1b591a0
-[ConVars]net_processSocketStats_trigger 1b5d810
-[ConVars]net_protocol_base 1ecf340
-[ConVars]net_protocol_increment 1ecf610
-[ConVars]net_protocol_use_script_md5 1ecf520
-[ConVars]net_protocol_use_script_rpak 1ecf3d0
-[ConVars]net_queuedPackets_PrintOversleeps 1b5bcd0
-[ConVars]net_queuedPackets_SkipSmallSleeps 1b755c0
-[ConVars]net_queuedPackets_debug 1b78e10
-[ConVars]net_queuedPackets_emptyQueueSleep 1b5d270
-[ConVars]net_queuedPackets_force 1b6dad0
-[ConVars]net_queuedPackets_printThreshold 1b74f90
-[ConVars]net_recentNetworkGapWindow 1b744e0
-[ConVars]net_recentNetworkGapsNeeded 1b76160
-[ConVars]net_recentWindowTime 1b76850
-[ConVars]net_recreateScriptInstanceOnReplayTransition 1e85530
-[ConVars]net_recvBufferSizeOverride 1b5d990
-[ConVars]net_recv_dumpChanges 1d59c20
-[ConVars]net_recv_dumpNetworkedChangesOnEntCreate 1b59c60
-[ConVars]net_recv_dumpNetworkedChangesOnNoDelta 1d599e0
-[ConVars]net_recv_watchEnt 1b5a080
-[ConVars]net_recv_watchField1 1b59580
-[ConVars]net_recv_watchField2 1b5b130
-[ConVars]net_sendFloatDeltas 1b58f20
-[ConVars]net_sendtoInJob 1b76ef0
-[ConVars]net_showFailedAuth 1b79b40
-[ConVars]net_showLargeSnapshot 1e85e00
-[ConVars]net_showServerStruggle 1d597a0
-[ConVars]net_showUndoDeltas 1b58400
-[ConVars]net_showUserWarnings 1e1a250
-[ConVars]net_showdrop 1b74930
-[ConVars]net_showfragments 1b5c610
-[ConVars]net_showmsg 1b76280
-[ConVars]net_showpacketflagerrors 1b79720
-[ConVars]net_showsendrecv 1b74110
-[ConVars]net_showsplits 1b6dc90
-[ConVars]net_showudp 1b74810
-[ConVars]net_showudp_oob 1b5c120
-[ConVars]net_showudp_remoteonly 1b7a2d0
-[ConVars]net_showusercmd 26b7190
-[ConVars]net_skipUnnecessaryDeltas 1b57a80
-[ConVars]net_splitrate 1b779e0
-[ConVars]net_splitrateDefaultMP 1b76cb0
-[ConVars]net_splitrateDefaultSP 1b6ebb0
-[ConVars]net_tamperPackets 1b5bef0
-[ConVars]net_threadedEntityDeltas 1e85650
-[ConVars]net_threadedProcessPacket 1e869d0
-[ConVars]net_timeoutUsesLastReadTime 1b5d180
-[ConVars]net_traceroute 1ecf730
-[ConVars]net_traceroute_max_hops 1ecf6a0
-[ConVars]net_trackEnt_bandwidthFrame 1b6dd20
-[ConVars]net_trackerWarningInterval 1b77280
-[ConVars]net_transmission_events_enabled 1e86370
-[ConVars]net_use_valve_relay 1ecf7e0
-[ConVars]net_usesocketsforloopback 1b79060
-[ConVars]net_verifyEncryption 1b780a0
-[ConVars]net_warnAboutSocketReadGaps 1b5cf10
-[ConVars]net_warnGapTime 1b78690
-[ConVars]net_wifi 1b79330
-[ConVars]net_worldHitchSlopTime 1e854a0
-[ConVars]netchan_stats_window_time 1b6d520
-[ConVars]newPlayerMatchMaking_disablePlaylistOverride 1b78720
-[ConVars]new_player_match_making_enabled 26c3030
-[ConVars]next 1ec78b0
-[ConVars]nextEnergizeCooldownTime 24e2580
-[ConVars]noReloadAfterUse 26bad80
-[ConVars]no_classname_asserts 24f7ad0
-[ConVars]no_classname_rtti_check 24f8550
-[ConVars]nointerp_att_debug 24f6710
-[ConVars]nointerp_subframe_debug 1b55f00
-[ConVars]noise_filter_scale 1ee79d0
-[ConVars]non_fatal_error_report_period_seconds 24cdc20
-[ConVars]not_focus_sleep 1ec3020
-[ConVars]notification_displayTime 1e91690
-[ConVars]nucleus_id 1e85a10
-[ConVars]nucleus_persona_id 1e85d70
-[ConVars]number_shortenToMillionsAfter 25415a0
-[ConVars]nx_static_lobby_capture_debug 2665fd0
-[ConVars]nx_static_lobby_capture_delay_frames 2664ec0
-[ConVars]nx_static_lobby_mode 2664f50
-[ConVars]nx_viewportscale_max_handheld 2518f10
-[ConVars]nx_viewportscale_max_handheld_lobby 250e2f0
-[ConVars]nx_viewportscale_min_handheld 2514140
-[ConVars]nx_viewportscale_min_handheld_lobby 250f460
-[ConVars]object_placement_debug 24e70d0
-[ConVars]object_placement_special_allow_on_movers 24e7620
-[ConVars]object_placement_special_allow_on_moving_movers 24e7330
-[ConVars]object_placement_special_allow_over_tracing_client 24e74e0
-[ConVars]object_placement_special_energy_shield_end_offset 24e1fc0
-[ConVars]object_placement_special_energy_shield_trace_debug 24e7fa0
-[ConVars]object_placement_special_energy_shield_trace_extents 24e3520
-[ConVars]object_placement_special_energy_shield_trace_offset 24e2620
-[ConVars]object_placement_special_find_exit_max_loops 24e8650
-[ConVars]object_placement_special_find_exit_max_tomb_checks 24e8950
-[ConVars]object_placement_special_max_spl_traces 24e0400
-[ConVars]object_placement_special_mover_blocker_validation 24e2450
-[ConVars]object_placement_special_verbose_logging 24e7290
-[ConVars]odl_artificial_load_time_ms 27509c0
-[ConVars]odl_send_pin_events 2750a90
-[ConVars]offhandTossOverheadPitchThreshold 24ef650
-[ConVars]offhand_cancelled_by_melee_v2 26ba1a0
-[ConVars]offhand_weapon_self_interrupt_weapon_activation 2671f60
-[ConVars]one_handed_change_rate 26a76f0
-[ConVars]openinvite_duration_default 1ecadf0
-[ConVars]opus_bitrate 1d50c50
-[ConVars]opus_complexity 1d50bc0
-[ConVars]opus_vbr 1d50ce0
-[ConVars]ordnanceSwapSelectCooldown 252ad50
-[ConVars]orientation_matches_disabled 26c2e60
-[ConVars]origin_Errorlevel_OldBehaviour 1eca060
-[ConVars]origin_Errorlevel_Telemetry 1ec9c10
-[ConVars]origin_authCodeFailureMaxBackoffSeconds 1eca3d0
-[ConVars]origin_autoRefreshTokenClient 1ec9b80
-[ConVars]origin_autoRefreshTokenServer 1eca190
-[ConVars]origin_debug 1ec9ee0
-[ConVars]origin_ignoreInvitesOnLoadScreen 1ec9af0
-[ConVars]origin_igo_mutes_sound_enabled 1ec9850
-[ConVars]origin_igo_muting_sound 2510b00
-[ConVars]origin_keepOldPresence 1ec99d0
-[ConVars]origin_presense_updateRate 1ec9f70
-[ConVars]origin_tokenFailureMaxBackoffSeconds 1eca340
-[ConVars]origin_useGamePresence 1ec9a60
-[ConVars]origin_use_jwt 1eca2b0
-[ConVars]overheat_uses_multiple_weapon_slots 24eb890
-[ConVars]pak_hash_check_blake_hasher 2750df0
-[ConVars]pak_hash_use_virtual_span 2750e80
-[ConVars]pak_hash_virtual_span_mark_readonly 2750fa0
-[ConVars]pak_load_use_job_continuations 2750cd0
-[ConVars]pak_suggest_user_repair 2750f10
-[ConVars]paks_allow_async_inserts_on_allowed_states 2750bb0
-[ConVars]paks_precache_lower_priority 2750d60
-[ConVars]paks_use_old_precache_insert_algo 2750c40
-[ConVars]panel_showVisChanges 2778940
-[ConVars]panel_test_title_safe 2778610
-[ConVars]parenting_debug 24f7920
-[ConVars]particleEffect_checkShouldStillPlay 2669a90
-[ConVars]particleEffect_skipViewmodelControlPointFormatting 26696a0
-[ConVars]particle_allow_per_pixel_lights 274d240
-[ConVars]particle_alpha_trim 274ce30
-[ConVars]particle_alwayswakeonstop 274d630
-[ConVars]particle_cpu_level 1ed0200
-[ConVars]particle_dlights_enable 251fbd0
-[ConVars]particle_dlights_spew 2529150
-[ConVars]particle_enable_batching 274cfd0
-[ConVars]particle_enable_bindless 274ccb0
-[ConVars]particle_gpu_level 2549310
-[ConVars]particle_lighting_allow_normal_maps 1f3f700
-[ConVars]particle_lighting_clear_enable 1f3f820
-[ConVars]particle_lighting_single_pass 1f3f790
-[ConVars]particle_lighting_size 1f3f670
-[ConVars]particle_lighting_viewmodel_enable 274d1b0
-[ConVars]particle_los_blockscan_enabled 2547400
-[ConVars]particle_position_lock_query_previous_vals 274c370
-[ConVars]particle_position_lock_query_reset_origin 274c1c0
-[ConVars]particle_remap_vol2cp_debug 274c820
-[ConVars]particle_render_error_material_sprites 274d5a0
-[ConVars]particle_script_dump 274b4a0
-[ConVars]particle_script_list 274b530
-[ConVars]particle_script_log 274b5c0
-[ConVars]particle_scrub_debug 2543770
-[ConVars]particle_scrub_debug_effect 274d2d0
-[ConVars]particle_scrub_is_using_time_scrub 274d900
-[ConVars]particle_scrub_quality 274d7e0
-[ConVars]particle_scrub_time 274d6c0
-[ConVars]particlemanager_hack_cleanup 25445b0
-[ConVars]particlemanager_print_logs 2544c60
-[ConVars]particles_cull_dlights 274d870
-[ConVars]particles_max_passes 274d750
-[ConVars]particles_spawncull 274d360
-[ConVars]particles_spawncull_report 274d480
-[ConVars]parties_alwaysReadSubs 1ecae80
-[ConVars]party_anyone_can_join 1eb8910
-[ConVars]party_autoCreatePartyAlways 1eca710
-[ConVars]party_autoCreatePartyDelay 1ecb3c0
-[ConVars]party_bringParty_leadersOnly 1eca960
-[ConVars]party_color_enabled 26c4ad0
-[ConVars]party_createPartyImmediately 1ecb450
-[ConVars]party_forceMapLoadedCorrection 1eb8b50
-[ConVars]party_hostname 1eb8d90
-[ConVars]party_httpHandleTimeout 1eca8d0
-[ConVars]party_join_requires_ack 1ecb4e0
-[ConVars]party_join_retry_interval 1eca5f0
-[ConVars]party_join_timeout 1ecb200
-[ConVars]party_keepAliveTime 1eb8ac0
-[ConVars]party_leaderReadyOnly 1ecab10
-[ConVars]party_leaveMatchOnJoin 1eb8be0
-[ConVars]party_migrateFromMatch 1eca840
-[ConVars]party_migrateWhenSearchStatusIsConnecting 1ecb170
-[ConVars]party_minSize 1ecaa80
-[ConVars]party_noSlotsUsedTimeout 1ecb290
-[ConVars]party_nobody_can_join 1eb8a30
-[ConVars]party_nofill_selected 1ecb050
-[ConVars]party_privacy 1ecb0e0
-[ConVars]party_readyToSearch 1ecb570
-[ConVars]party_relyOnPartyForMemberUserInfo 1e91180
-[ConVars]party_requireConsensusForSearch 1ecb600
-[ConVars]party_userinfo_allowstale 1e910f0
-[ConVars]pause_ui 1b78fd0
-[ConVars]paused 1b74c60
-[ConVars]perTriangleCollisionForced 1ec6190
-[ConVars]perfcharts_SendDataBlock 24cfd60
-[ConVars]perfcharts_cmetric_pin_verbosity 24cff10
-[ConVars]perfcharts_heartbeat_debug 24d0030
-[ConVars]perfcharts_heartbeat_enabled 24d01f0
-[ConVars]perfcharts_heartbeat_force 24d00d0
-[ConVars]perfcharts_heartbeat_interval 24d0160
-[ConVars]perfcharts_io_metrics_verbosity 24cfbb0
-[ConVars]perfcharts_json_builder 24cfb20
-[ConVars]perfcharts_killswitch 24cfdf0
-[ConVars]perfcharts_pin_enabled 24cfe80
-[ConVars]perfcharts_pin_print 24cffa0
-[ConVars]perfcharts_send_unlockedFPS 24cfcd0
-[ConVars]persistenceDef_hostname 1b79ed0
-[ConVars]persistenceDef_queryMaxHttpRetries 1ecf990
-[ConVars]persistenceDef_readMaxHttpRetries 1ecf900
-[ConVars]persistenceDef_retryReadAfterErrorTime 1ecfa20
-[ConVars]persistenceDef_writeMaxHttpRetries 1ecfab0
-[ConVars]persistence_avoidWritingAfterError 1ecfcf0
-[ConVars]persistence_clForceNew 1ecfbd0
-[ConVars]persistence_disableForBuildProcess 1ecfd80
-[ConVars]persistence_domain 1ed00e0
-[ConVars]persistence_enforce_manifest 1ecfe10
-[ConVars]persistence_hostname 1b79180
-[ConVars]persistence_new_player_if_upgrade_fails 1ed0050
-[ConVars]persistence_run_pdef_autogen_on_connect 26c3d30
-[ConVars]persistence_stat_migration_enabled 1ecfc60
-[ConVars]persistence_upload_def 1ecfb40
-[ConVars]persistence_upload_failure_is_error 1ecffc0
-[ConVars]persistence_use_rson_schema 1ecfea0
-[ConVars]pertrianglecollision 1eba730
-[ConVars]phys_bounce 26fa700
-[ConVars]phys_cfm 26fa790
-[ConVars]phys_cfm_anglejointstop 26fa550
-[ConVars]phys_drawContacts 26fa5e0
-[ConVars]phys_drawContactsDuration 26fa670
-[ConVars]phys_drawGeoms 26fa280
-[ConVars]phys_drawTunnelChecks 26fa3a0
-[ConVars]phys_enableObjectPairCollidePrototype 26f5a70
-[ConVars]phys_erp 26f5950
-[ConVars]phys_erp_anglejointstop 26fa1f0
-[ConVars]phys_frictionDefault 26fa4c0
-[ConVars]phys_showObjectCount 25475b0
-[ConVars]phys_threadGoWide 26f5b00
-[ConVars]physics_async_cl 26faac0
-[ConVars]physics_autoSleepAngularThreshold 26fa9a0
-[ConVars]physics_autoSleepDebug 26fa430
-[ConVars]physics_autoSleepGroundHysteresis 26fa310
-[ConVars]physics_autoSleepSpeedThreshold 26faa30
-[ConVars]physics_collideWithMovingGeo 26f59e0
-[ConVars]physics_collision_speed_threshold 2544bd0
-[ConVars]physics_tunnelChecks 26fa160
-[ConVars]physics_tunnelChecksForceAlways 26fa910
-[ConVars]pil_hostname 1b5c730
-[ConVars]pin_EntitlementSource 1ec46e0
-[ConVars]pin_automation_type 1ec5130
-[ConVars]pin_detail_statsd 1ecb960
-[ConVars]pin_hack_size_report 1ecb690
-[ConVars]pin_opt_in 1ec5740
-[ConVars]pin_plat_id 1e85bc0
-[ConVars]pin_send_client_entity_budgets 2503bd0
-[ConVars]pin_sid 1ec6340
-[ConVars]pin_spam_seconds 1ec48f0
-[ConVars]pin_telemetry_actually_send 1eba520
-[ConVars]pin_telemetry_anti_teaming_on 1ec3e30
-[ConVars]pin_telemetry_debug_code 1ec5d10
-[ConVars]pin_telemetry_debug_http_requests 1ecb720
-[ConVars]pin_telemetry_debug_name 1ec5f80
-[ConVars]pin_telemetry_debug_payload 1ecb8d0
-[ConVars]pin_telemetry_debug_script 26c4400
-[ConVars]pin_telemetry_dont_send_events 1eba6a0
-[ConVars]pin_telemetry_hostname 1ec3ac0
-[ConVars]pin_telemetry_inactivity_send_time 1ec3760
-[ConVars]pin_telemetry_max_payload_size 1ec39a0
-[ConVars]pin_telemetry_mqueue_allow 1ecb840
-[ConVars]pin_telemetry_mqueue_max 1ecb7b0
-[ConVars]pin_telemetry_report_date 1ec3b60
-[ConVars]pin_telemetry_report_interval 1ec5e60
-[ConVars]pin_telemetry_send_debug 1ec4bc0
-[ConVars]ping_drmMaxPing 1b6dfc0
-[ConVars]ping_minSentForChoice 1b74660
-[ConVars]ping_qos_units 1b763a0
-[ConVars]ping_sendToStryderInterval 1b5cdf0
-[ConVars]ping_usePacketLoss 1b79690
-[ConVars]pip_wait_frames_before_scriptcb 26659d0
-[ConVars]pixvis_draw 251db00
-[ConVars]pixvis_draw_opacity 250e260
-[ConVars]pixvis_enable 2503410
-[ConVars]pixvis_maxquads 24cc810
-[ConVars]pixvis_spew 2503140
-[ConVars]plat_environment 1ec9640
-[ConVars]platform_user_id 1e86b80
-[ConVars]play_melee_gesture_on_anim_end 24d7aa0
-[ConVars]playerListPartyColorB 24d8e50
-[ConVars]playerListPartyColorG 24d9840
-[ConVars]playerListPartyColorR 24d8b80
-[ConVars]playerListUseFriendColor 24d99f0
-[ConVars]player_ADS_buffer_time_seconds 26ba9e0
-[ConVars]player_allow_scaled_scripted_anims_3p 24d8310
-[ConVars]player_debugPredictedPosition 2501d10
-[ConVars]player_deltaAnimsMakeMeUnpredicted 24fa890
-[ConVars]player_doJetwashEffects 25008b0
-[ConVars]player_extraairaccelleration 269ebe0
-[ConVars]player_highFrequencyThinkDistance 2501bf0
-[ConVars]player_input_detection_capture_controller_info 26b7710
-[ConVars]player_input_detection_enabled 26b3ae0
-[ConVars]player_launch_debug 269f850
-[ConVars]player_movementBounds_predictionShare 26a7980
-[ConVars]player_movingDeathThreshold 24d8280
-[ConVars]player_overheat_cooldown_delay 2672010
-[ConVars]player_overheat_cooldown_time 266a3c0
-[ConVars]player_overheat_rechamber_time_multiplier 26a4b20
-[ConVars]player_overheat_time_to_overheat 2670d20
-[ConVars]player_overheat_weapon_switch_block_update 266b280
-[ConVars]player_proxy_visibility_fade_speed 26bdd80
-[ConVars]player_proxy_visibility_radius 26bdb40
-[ConVars]player_proxy_visibility_update_max_distance 26bdbd0
-[ConVars]player_respawnInputDebounceDuration 2501050
-[ConVars]player_setting_arsenals_maphudidentifiers 2547c40
-[ConVars]player_setting_autosprint 25370a0
-[ConVars]player_setting_damage_closes_deathbox_menu 2668aa0
-[ConVars]player_setting_gamestateawareness_callouts 2541ca0
-[ConVars]player_setting_holdtosprint 26ba7a0
-[ConVars]player_setting_lowammo_setting 2547190
-[ConVars]player_setting_stickysprintforward 26bb670
-[ConVars]player_setting_tutorialization 25411a0
-[ConVars]player_showEyePosition 24ff180
-[ConVars]player_silence_after_1p_blend 24ffd80
-[ConVars]player_silence_listener_on_pov_change 24ff6f0
-[ConVars]player_silence_on_pov_change 24ffcf0
-[ConVars]player_tag 1e86820
-[ConVars]player_useMovementBounds 266b010
-[ConVars]player_use_prompt_enabled 24dfa20
-[ConVars]player_usercmd_skipping_enabled 269db60
-[ConVars]player_viewchange_debug_pitch 2501140
-[ConVars]player_viewchange_debug_roll 2501e30
-[ConVars]player_viewchange_debug_yaw 2500700
-[ConVars]playlist_allowGameDediToPatch 1ec5410
-[ConVars]playlist_changeGamemodeAutomatically 1ec54a0
-[ConVars]playlist_debug 1ec43b0
-[ConVars]playlist_debug_localization 1ec3a30
-[ConVars]playlist_debug_varByName 1ec5ef0
-[ConVars]playlist_dump 1ec4770
-[ConVars]playlist_mapRotationIgnoreFakeTime 1ec5860
-[ConVars]playlist_schedule_treatment_config 1ec5260
-[ConVars]playlist_use_decorated_names 1ec36d0
-[ConVars]playlist_use_schedule_treatments 1ec4200
-[ConVars]playlist_variableErrorsChecks 269d210
-[ConVars]portal_edge_correction_use_adjusted_pos 24e8810
-[ConVars]portal_pointpush_debug 24da550
-[ConVars]portal_pointpush_think_rate 24da5e0
-[ConVars]portal_use_player_avoidance 26bb2f0
-[ConVars]post_process_resolution_mode 2547490
-[ConVars]post_process_resolution_scale 2544850
-[ConVars]postdataupdate_threaded 24f88e0
-[ConVars]postdataupdate_threaded_chunksize 24f7b60
-[ConVars]presence_teamscores_percentage_step 1ecbd10
-[ConVars]print_timeprefix 24d2060
-[ConVars]print_timeprefix_ticks 24d1be0
-[ConVars]print_timeprefix_utc 24d1f40
-[ConVars]process_pending_vm_effects 24e7170
-[ConVars]profile_overlay 2751030
-[ConVars]progressbar_allow_wrap 24d8ca0
-[ConVars]progressbar_high_precision 24d9090
-[ConVars]progressbar_single_bar 24d8ee0
-[ConVars]progression_tray_enabled 26c3ff0
-[ConVars]projectile_arcIndicatorAccountsForParentMoverVelocity 24f0150
-[ConVars]projectile_debug_arc_client_offset 24ea8b0
-[ConVars]projectile_fake_prediction_in_kill_replay 24e3630
-[ConVars]projectile_faketrails 24ea430
-[ConVars]projectile_filltrails 24ea9d0
-[ConVars]projectile_killreplay_force_disable 24faaa0
-[ConVars]projectile_lagCompensationDebug 24e91d0
-[ConVars]projectile_lagCompensationDebugDrawNoReg 24ea790
-[ConVars]projectile_lagCompensationDebugDrawTime 24e95f0
-[ConVars]projectile_lagCompensationDebugExtra 24ea670
-[ConVars]projectile_lagCompensationDebugForceNoReg 24ea820
-[ConVars]projectile_lagCompensationDebugServerOffset 24e9560
-[ConVars]projectile_lagCompensationMissileTimeStepScalar 24e1d00
-[ConVars]projectile_muzzleOffsetFirstPersonDecayDist 24ea550
-[ConVars]projectile_muzzleOffsetFirstPersonDecayMaxTime 24e9d60
-[ConVars]projectile_muzzleOffsetThirdPersonDecayDist 24e9bc0
-[ConVars]projectile_muzzleOffsetThirdPersonDecayMaxTime 24ea700
-[ConVars]projectile_prediction 24ea4c0
-[ConVars]projectile_predictionErrorCorrectTime 24ea310
-[ConVars]projectile_prediction_move_to_impact 24e9cd0
-[ConVars]projectile_whizby_newLengthCalc 2532110
-[ConVars]prop_front_to_back_opt 24cf150
-[ConVars]prop_lightweightPropsSkipAnimData 251d800
-[ConVars]prop_survivalSkipsAnimData 2502f90
-[ConVars]props_break_burst_rotation 26b1ee0
-[ConVars]props_break_max_pieces 26b1e50
-[ConVars]props_break_max_pieces_perframe 26b8240
-[ConVars]ps5_activities_env 1ec8e50
-[ConVars]ps5_enable_custom_haptics 24f0600
-[ConVars]ps5_force_enable_adth 253ea10
-[ConVars]ps5_fullmap_visible 1e876d0
-[ConVars]ps5_haptics_controller_imgui 1e87520
-[ConVars]ps5_haptics_imgui 1e875b0
-[ConVars]ps5_l_trig_mode 1e877f0
-[ConVars]ps5_l_trig_strength 1e87760
-[ConVars]ps5_l_trig_v_freq 1e87960
-[ConVars]ps5_r_trig_mode 1e87a80
-[ConVars]ps5_r_trig_strength 1e87b10
-[ConVars]ps5_r_trig_v_freq 1e87ba0
-[ConVars]ps5_trig_break 1e87640
-[ConVars]ps5_trig_enable 253e980
-[ConVars]ps5_trig_incompatible 1e878d0
-[ConVars]ps5_trig_start 1e879f0
-[ConVars]pso_max_cache_size_MB 24cc8b0
-[ConVars]pso_send_store_error_to_backtrace 24cc9c0
-[ConVars]pso_use_threads_for_debug 24cca50
-[ConVars]publication_hostname 1eb8e20
-[ConVars]push_cl 24fa7f0
-[ConVars]push_cl_always_update_prev_matrix 24f85e0
-[ConVars]push_debug 26b81b0
-[ConVars]push_debug_dont_kill 26b83a0
-[ConVars]push_debug_ent 26b4f10
-[ConVars]push_debug_visualize_collision 26b11c0
-[ConVars]push_exit_traversal_if_goal_position_blocked 26b17c0
-[ConVars]push_ignore_animation_entity_blockers 26b82d0
-[ConVars]push_ragdolls 26b09d0
-[ConVars]push_search_along_traversal_during_crush_resolution 26b50c0
-[ConVars]putEntityInSafeSpot_maskExcludesMonster 26c3670
-[ConVars]pve_debug 26c0cf0
-[ConVars]pvs_addWorkItemsAccum 26be050
-[ConVars]pvs_addWorkItemsThreshold_edges 26be200
-[ConVars]pvs_addWorkItemsThreshold_leaves 26be290
-[ConVars]pvs_cullBoxes 26be320
-[ConVars]pvs_debug 26be0e0
-[ConVars]pvs_debug_overlay 2666da0
-[ConVars]pvs_frustumCullOnly 26be170
-[ConVars]pvs_start_early 2529270
-[ConVars]r_AirboatViewDampenDamp 26a3510
-[ConVars]r_AirboatViewDampenFreq 26a6a50
-[ConVars]r_AirboatViewZHeight 26a4540
-[ConVars]r_JeepViewDampenDamp 26a70d0
-[ConVars]r_JeepViewDampenFreq 26a4790
-[ConVars]r_VehicleViewDampen 266feb0
-[ConVars]r_WaterDrawRefraction 1ee1ec0
-[ConVars]r_allow_unattached_skinned_decals 24cefa0
-[ConVars]r_always_track_idle_time 274dc10
-[ConVars]r_aspectratio 1b5d780
-[ConVars]r_blurmenubg 254a550
-[ConVars]r_brush_queue_mode 1ec44d0
-[ConVars]r_brushmodel_create_all_render_batches 1b5a1c0
-[ConVars]r_check_models_for_decal_correctness_on_load 26fab50
-[ConVars]r_cockpit_allow_extra_refract_update 254a160
-[ConVars]r_createmodeldecals 1ec4e90
-[ConVars]r_cull_decal_distance_factor 1b6d9b0
-[ConVars]r_cull_world_meshes_by_distance 1b5cb50
-[ConVars]r_cullshadowworldmeshes 1b75530
-[ConVars]r_debug_draw_box_depth_test 266bc50
-[ConVars]r_decal_cover_count 1ec55c0
-[ConVars]r_decal_cull_stretch_limit 1b5b0a0
-[ConVars]r_decal_draw_basis 1ec3370
-[ConVars]r_decal_drawclipped 1b59ff0
-[ConVars]r_decal_overlap_area 1ec5b50
-[ConVars]r_decal_overlap_count 1ec4e00
-[ConVars]r_decal_test_scale 1ec35b0
-[ConVars]r_decals 1b76310
-[ConVars]r_deferred_decals 24cf0c0
-[ConVars]r_deffer_sticker_creation 2512ac0
-[ConVars]r_delay_texture_destroy 1ee8e40
-[ConVars]r_ditherFade 1ee2100
-[ConVars]r_ditherFadeShadows 2511700
-[ConVars]r_do_not_allow_more_odl_loads 2750b20
-[ConVars]r_draw_cubemap_target_lines 25188b0
-[ConVars]r_draw_cubemap_volume_depthtest 251fea0
-[ConVars]r_draw_cubemap_volume_priority 2513270
-[ConVars]r_draw_cubemap_volumes 2514770
-[ConVars]r_draw_cubemaps 2529570
-[ConVars]r_draw_skybox_before_ss_effects 2665ca0
-[ConVars]r_drawallrenderables 2528f20
-[ConVars]r_drawalphasort 254a700
-[ConVars]r_drawbrushmodels 1b79c30
-[ConVars]r_drawdecals 1ec4c50
-[ConVars]r_drawdepth_of_blend2transparent 2665f40
-[ConVars]r_drawdlights 1b58d10
-[ConVars]r_drawentities 1b6d920
-[ConVars]r_drawlight_simple 1b5a300
-[ConVars]r_drawlight_ztest 1b58b30
-[ConVars]r_drawlightdist 1b5b010
-[ConVars]r_drawlightinfo 1b5a450
-[ConVars]r_drawmodelsinzfill 24f5eb0
-[ConVars]r_drawopaquerenderables 2666410
-[ConVars]r_drawopaquestaticprops 1ec3d10
-[ConVars]r_drawparticles 25491e0
-[ConVars]r_drawrenderboxes 24f7d10
-[ConVars]r_drawscreenspaceparticles 254a3a0
-[ConVars]r_drawsky 2665430
-[ConVars]r_drawsky_depth_prepass 254a430
-[ConVars]r_drawstaticlight 1b5ae30
-[ConVars]r_drawstaticprops 2665eb0
-[ConVars]r_drawtracers 25337a0
-[ConVars]r_drawtransrenderables 2666210
-[ConVars]r_drawvgui 1ec3910
-[ConVars]r_drawviewmodel 26653a0
-[ConVars]r_drawworld 1b78400
-[ConVars]r_drawworld_color_bindless 1b797b0
-[ConVars]r_drawworld_depth_bindless 1b771f0
-[ConVars]r_dynamic 1b5c1b0
-[ConVars]r_earlyRenderables 2665b80
-[ConVars]r_enable_rendering_jobs 1ed5cd0
-[ConVars]r_fadeincode 254a0d0
-[ConVars]r_farz 2529360
-[ConVars]r_fix_decal_mirroring 24cee80
-[ConVars]r_gpu_calibration_frequency 274dca0
-[ConVars]r_heightmapRendererLodPixelErrorThres 1f3e2f0
-[ConVars]r_heightmapRendererShadowDynamicBias 1f3e1d0
-[ConVars]r_heightmapRendererShadowStaticBias 1f3e140
-[ConVars]r_heightmapRendererShadowStaticLodErrorThres 1f3e260
-[ConVars]r_include_idle_in_gpu_times 274dd30
-[ConVars]r_jiggle_bones 24f6680
-[ConVars]r_jobified_build_particle_list 2540bb0
-[ConVars]r_jobify_update_dummies 26f58c0
-[ConVars]r_lightmap 1b78b70
-[ConVars]r_lightprobe_force_trans_dist 1b787b0
-[ConVars]r_lightstyle 1b78d80
-[ConVars]r_lod 1b76dd0
-[ConVars]r_lod_shift 2549e90
-[ConVars]r_lod_switch_scale 24de380
-[ConVars]r_main_view_spline_pixel_scale 254a910
-[ConVars]r_mapextents 2513300
-[ConVars]r_modeldecal_maxtotal 24cef10
-[ConVars]r_modeldecal_transform_non_rigid 24cf030
-[ConVars]r_nearz 2503260
-[ConVars]r_norefresh 1b6d640
-[ConVars]r_particle_batching_size_razor 274cf10
-[ConVars]r_particle_lighting_debug 2665160
-[ConVars]r_particle_lighting_enable 2549f20
-[ConVars]r_particle_lighting_force 274bd40
-[ConVars]r_particle_low_res_debug 254a1f0
-[ConVars]r_particle_low_res_indirect 1f3e050
-[ConVars]r_particle_low_res_predraw 1f3f940
-[ConVars]r_particle_low_res_tiled_clear 1f3f8b0
-[ConVars]r_particle_sim_spike_increment_ms 2543c60
-[ConVars]r_particle_sim_spike_threshold_ms 2547b00
-[ConVars]r_particle_timescale 253f620
-[ConVars]r_particles_early_distance_cull 250da50
-[ConVars]r_rimlight 1ee2460
-[ConVars]r_rootlod 1b790f0
-[ConVars]r_ropetranslucent 2531110
-[ConVars]r_runtimeVirtualTextureAllowStreamRequests 1f3faf0
-[ConVars]r_runtimeVirtualTextureCompositeMipBiasMotionMax 1f3fc10
-[ConVars]r_runtimeVirtualTextureCompositeMipBiasMotionWeight 1f3fb80
-[ConVars]r_runtimeVirtualTextureCompositeRequestMipDistMax 1f3fe50
-[ConVars]r_runtimeVirtualTextureCompositeStochasticTextureBlendExponent 1f3fd30
-[ConVars]r_runtimeVirtualTextureDecalBlockCullAlphaCutoff 1f3f9d0
-[ConVars]r_runtimeVirtualTextureDecalMinPixelWidth 1f3fa60
-[ConVars]r_runtimeVirtualTextureDistanceStreamingMipBiasLerp 1f400f0
-[ConVars]r_runtimeVirtualTextureDistanceStreamingScale 1f3ff70
-[ConVars]r_runtimeVirtualTextureMipBiasBase 1f3fdc0
-[ConVars]r_runtimeVirtualTextureMipBiasLerp 1f3fca0
-[ConVars]r_runtimeVirtualTextureMipBiasPerMissedAllocation 1f40000
-[ConVars]r_runtimeVirtualTextureWriteIdsAndWeightsOptimized 1f3fee0
-[ConVars]r_s29_lighting_mode 1edfbb0
-[ConVars]r_setupBoneWorkSize 2545c00
-[ConVars]r_setupBoneWorkerThreadhold 2549740
-[ConVars]r_setupBoneWortSort 2542cb0
-[ConVars]r_skin_skip_invalid_materials 24cf490
-[ConVars]r_skip_baked_lights_if_strict_realtime 1b6e8e0
-[ConVars]r_sky_ignoreAngles 254a670
-[ConVars]r_sort_trans_debug 251fcf0
-[ConVars]r_sort_trans_debug_dist 2511eb0
-[ConVars]r_terrainCollisionSkirts 1e89120
-[ConVars]r_terrainDrawPatchCountMax 25413f0
-[ConVars]r_terrainDynamicLightMaxCount 2548f20
-[ConVars]r_terrainHeightCacheHeightInTiles 2549860
-[ConVars]r_terrainHeightCacheWidthInTilesLog2 2545730
-[ConVars]r_terrainLod0RadiusInTiles 2549b30
-[ConVars]r_terrainLodPatchCountMax 25480c0
-[ConVars]r_terrainShaderLODDist 2549a10
-[ConVars]r_terrainUseLargestCubemap 25431a0
-[ConVars]r_terrainVirtualTextureBackgroundMipMin 2549ce0
-[ConVars]r_terrainVirtualTextureCacheHeightInTiles 2549c50
-[ConVars]r_terrainVirtualTextureCacheWidthInTilesLog2 2545c90
-[ConVars]r_terrainVirtualTextureCompactCache 25498f0
-[ConVars]r_terrainVirtualTextureCompositeRequestMaxCount 2541c10
-[ConVars]r_terrainVirtualTextureCompositeTilesPerFrameMax 2549bc0
-[ConVars]r_terrainVirtualTextureMipMin 2549980
-[ConVars]r_terrainVirtualTextureUseCompressedSplatmap 25497d0
-[ConVars]r_terrainVirtualTextureUseDistanceStreaming 2549aa0
-[ConVars]r_threaded_particles 2542ef0
-[ConVars]r_updaterefracttexture 2541930
-[ConVars]r_updaterefracttexture_allowmultiple 25487b0
-[ConVars]r_visambient 1b586c0
-[ConVars]r_visambient_orig 1b5a570
-[ConVars]r_visambient_point 1b5ada0
-[ConVars]r_vismodellighting_lightpos 1ec56b0
-[ConVars]r_vismodellighting_maxdist 2541230
-[ConVars]r_vismodellighting_mindist 2545990
-[ConVars]r_vismodellighting_offset_x 1ec4650
-[ConVars]r_vismodellighting_offset_y 1ec3280
-[ConVars]r_vismodellighting_offset_z 1ec4320
-[ConVars]r_vissky_cone 1b5a600
-[ConVars]r_vissun_transitions 1b5b8d0
-[ConVars]r_visualizeproplightcaching 251c950
-[ConVars]r_visualizetraces 26b9ff0
-[ConVars]r_visualizetraces_duration 26b9f60
-[ConVars]r_visualizetraceshulls 26b7830
-[ConVars]r_volumetric_lighting_blur_count 1f42b20
-[ConVars]r_volumetric_lighting_blur_type 1f42a90
-[ConVars]r_volumetric_lighting_defer_init 1f42a00
-[ConVars]r_volumetric_lighting_enabled 1f42970
-[ConVars]r_volumetric_lighting_min_relative_contribution 1f42cd0
-[ConVars]r_volumetric_lighting_numSteps 1f42c40
-[ConVars]r_volumetric_lighting_rotate_dither 1f42bb0
-[ConVars]r_water_draw_env_volumes 1f42e80
-[ConVars]r_water_draw_mode 1f42d60
-[ConVars]r_water_force_envmap 1f42df0
-[ConVars]r_water_render_only_body 1f42f10
-[ConVars]r_water_rendering_enabled 1f430c0
-[ConVars]r_water_use_irradiance_volume 1f43150
-[ConVars]r_water_wave_debug 1f42fa0
-[ConVars]r_water_wireframe 1f43030
-[ConVars]r_watersim_debug 1f43290
-[ConVars]r_watersim_enabled_override 1f431e0
-[ConVars]r_wave_fx_debug_emitters 252a570
-[ConVars]r_wave_fx_enabled 252fed0
-[ConVars]r_wave_fx_progress_tolerance 2539140
-[ConVars]r_wave_fx_start_progress 2536c60
-[ConVars]r_wave_fx_view_radius 252ddf0
-[ConVars]r_wideAspect_adjustNearZEnabled 251ef30
-[ConVars]r_wideAspect_minLimit 251fb40
-[ConVars]r_wideAspect_startRange 251db90
-[ConVars]r_zfill 26666e0
-[ConVars]r_zfill_all 254a4c0
-[ConVars]r_zfill_all_lobby 26660f0
-[ConVars]r_zfill_heightmap 2666180
-[ConVars]r_zfill_opaque_renderables 26655e0
-[ConVars]r_zfill_static_props 2666770
-[ConVars]r_zfill_static_props_deferred 2665d30
-[ConVars]r_zfill_world_meshes 26651f0
-[ConVars]r_zfill_world_occluder 2666380
-[ConVars]ragdoll_debug 24f5be0
-[ConVars]ragdoll_sleepaftertime 2547eb0
-[ConVars]ranked_champion_trails_enabled 26c3ca0
-[ConVars]ranked_current_period_guidstring 26c3700
-[ConVars]ranked_current_period_start_score 26c4530
-[ConVars]ranked_disable_full_bonus_system 26c0ea0
-[ConVars]ranked_disable_placement_matches 26c05a0
-[ConVars]ranked_disable_point_gain 26c2f10
-[ConVars]ranked_disable_promo_trials 26c2d80
-[ConVars]ranked_enable_2pt0_cross_split_reward 26c3550
-[ConVars]ranked_enable_non_ranked_score_position 26c1140
-[ConVars]ranked_enable_old_kill_bonus 26c3430
-[ConVars]ranked_enable_road_to_ranked 26c35e0
-[ConVars]ranked_event_enabled 1d51490
-[ConVars]ranked_event_entry_cost_disabled 1d51520
-[ConVars]ranked_event_leaderboard_hard_pick_duration 1d51640
-[ConVars]ranked_event_loss_forgiveness_disabled 1d51b10
-[ConVars]ranked_event_trail_reward_enabled 1d51940
-[ConVars]ranked_league_debug 1d55720
-[ConVars]ranked_league_enabled 1d557b0
-[ConVars]ranked_reward_has_min_match_requirement 26c01c0
-[ConVars]rankedplay_display_enabled 2667db0
-[ConVars]rankedplay_voice_enabled 2667300
-[ConVars]raw_input_client_send_enable 24cdfc0
-[ConVars]raw_input_collection_disable 24cdf30
-[ConVars]raw_input_deadzone 24cde10
-[ConVars]raw_input_fileoutput_cl 24cdea0
-[ConVars]reactive_wakeOnStop 2669b20
-[ConVars]real_time_update_dt 252fb50
-[ConVars]realms_add_child_to_parent_by_default 26714b0
-[ConVars]realms_script_error_on_parenting_mismatch 26a7470
-[ConVars]reassignPendingVMFXHandlesOnUpdate 24ef820
-[ConVars]recalculateOrigin_threaded_chunksize 1d59b90
-[ConVars]recommendations_hostname 1d554b0
-[ConVars]reconnect_available_timespan 1ecbf40
-[ConVars]reconnect_cache_delete 1ecbeb0
-[ConVars]reconnect_check_user_id 1ecc0a0
-[ConVars]reconnect_debug 1e8fd00
-[ConVars]reconnect_delay 1ecc010
-[ConVars]reconnect_enabled 1ecc130
-[ConVars]reconnect_party_enabled 1ecbe20
-[ConVars]reconnect_timeout 1b58bc0
-[ConVars]remote_function_clear_stats_on_game_state_change 269e970
-[ConVars]remote_function_pin_tracking 266f850
-[ConVars]rendering_debug_overlay 2666d10
-[ConVars]replay_enable 1ec6480
-[ConVars]replay_prediction_smooth 1ec4040
-[ConVars]replay_sendNetMessages 1ec6270
-[ConVars]report_cliententitysim 24f9c30
-[ConVars]report_clientthinklist 2511cc0
-[ConVars]report_legacy_attachment_errors 24e7e70
-[ConVars]resource_binder_validate_transition_state 1e89ca0
-[ConVars]reticle_color 2545b10
-[ConVars]rhi.dx12.DefaultHeapAllocatorRecordStep 1e8a450
-[ConVars]rhi.dx12.EnableGPUUploadHeaps 1e8a180
-[ConVars]rhi.dx12.EnableUploadHeaps 1e89eb0
-[ConVars]rhi.dx12.GpuUploadHeapAllocatorRecordStep 1e8a0f0
-[ConVars]rhi.dx12.MemoryPoolDefaultHeapSizeInMBs 1e89f40
-[ConVars]rhi.dx12.MemoryPoolGpuUploadHeapSizeInMBs 1e8a210
-[ConVars]rhi.dx12.MemoryPoolReadbackHeapSizeInMBs 1e89fd0
-[ConVars]rhi.dx12.MemoryPoolUploadHeapSizeInMBs 1e8a3c0
-[ConVars]rhi.dx12.ReadbackHeapAllocatorRecordStep 1e8a060
-[ConVars]rhi.dx12.SelectHigherPerfGpu 1e8a2a0
-[ConVars]rhi.dx12.ShutdownDevice 1e8a330
-[ConVars]rhi.dx12.UploadHeapAllocatorRecordStep 1e8a4e0
-[ConVars]rhi.dx12.constantBufferAllocatorBlockIncrement 1e8a600
-[ConVars]rhi.dx12.constantBufferAllocatorGrowthSizeInMBs 1e8a690
-[ConVars]rhi.dx12.constantBufferAllocatorInitialSizeInMBs 1e8a8d0
-[ConVars]rhi.dx12.roSubAllocatorBlockIncrement 1e8a960
-[ConVars]rhi.dx12.roSubAllocatorGrowthSizeInMBs 1e8a7b0
-[ConVars]rhi.dx12.roSubAllocatorInitialSizeInMBs 1e8a9f0
-[ConVars]rhi.dx12.rwSubAllocatorBlockIncrement 1e8a570
-[ConVars]rhi.dx12.rwSubAllocatorGrowthSizeInMBs 1e8a720
-[ConVars]rhi.dx12.rwSubAllocatorInitialSizeInMBs 1e8a840
-[ConVars]rhi.hazards.useJobForReclaim 1e89d30
-[ConVars]rhi.memorypool.LargeAllocationFrac 1e89c10
-[ConVars]rhi_data_upload_ms_to_wait_before_helping 1e89dc0
-[ConVars]rhi_dx12_present_do_not_wait 1e8aa80
-[ConVars]rhi_dx12_present_restart 1e8ab10
-[ConVars]ribbon_visibility_fx_enable 274d060
-[ConVars]roamingcam_altitudeLocked 2511670
-[ConVars]roamingcam_cameraspacemotion 250bd00
-[ConVars]roamingcam_downSpeedMult 250dd20
-[ConVars]roamingcam_fakeTeam 26a19d0
-[ConVars]roamingcam_forwardSpeed 2503f30
-[ConVars]roamingcam_forwardSpeed_fast 251f740
-[ConVars]roamingcam_forwardSpeed_slow 250dc90
-[ConVars]roamingcam_moveCollisionThreshold 2502f00
-[ConVars]roamingcam_movecollision 2516a30
-[ConVars]roamingcam_movesmoothing 2515510
-[ConVars]roamingcam_rollSpeed 2502ab0
-[ConVars]roamingcam_roll_smoothtime 251e3a0
-[ConVars]roamingcam_rollsmoothing 2502b40
-[ConVars]roamingcam_serverupdateinterval 2510450
-[ConVars]roamingcam_sideSpeedMult 25141d0
-[ConVars]roamingcam_smoothcam_downSpeedMultiplier 2515300
-[ConVars]roamingcam_smoothcam_enabled 2510130
-[ConVars]roamingcam_smoothcam_smoothtime 250aca0
-[ConVars]roamingcam_smoothtime 2504580
-[ConVars]roamingcam_speedChangeRate 2528ff0
-[ConVars]roamingcam_viewsmoothing 25129a0
-[ConVars]rodeo_camera_smooth_blend_out_time 25024c0
-[ConVars]rodeo_camera_smooth_enable 25005d0
-[ConVars]rodeoed_anims_enabled 24d7e00
-[ConVars]rope_collide 253cbe0
-[ConVars]rope_debug_shake 253b730
-[ConVars]rope_parallelMeshBuilder 252df90
-[ConVars]rope_regenMeshEachDraw 253c430
-[ConVars]rope_shake 2530480
-[ConVars]rope_texels_per_world_unit 24f44c0
-[ConVars]rope_visibility_fx_enable 274cd90
-[ConVars]rope_wiggle_harmonic_falloff 252af60
-[ConVars]rope_wiggle_magnitude_loose 253d620
-[ConVars]rope_wiggle_magnitude_tight 25311a0
-[ConVars]rope_wiggle_oscillate_speed 2538f90
-[ConVars]rope_wiggle_rotate_speed 252abd0
-[ConVars]rope_wiggle_zipline_min_points 2535990
-[ConVars]rope_wind_dist 252a610
-[ConVars]rotate_ents 24fffd0
-[ConVars]rppMatchMaking_disablePlaylistOverride 1b6da40
-[ConVars]rpp_assignment_enabled 26c04f0
-[ConVars]rpp_match_making_enabled 26c30e0
-[ConVars]rprof_dump_with_compression 1ec6660
-[ConVars]rprof_dump_with_deltacompression 1ec6b30
-[ConVars]rprof_no_devnet 1b74de0
-[ConVars]rprof_prune_path_from_draw_events 1f4b5c0
-[ConVars]rspn_motd 1b5cd60
-[ConVars]rt_forcewake 1ee8110
-[ConVars]rt_sleep 1ee81a0
-[ConVars]rt_worker 1ee8230
-[ConVars]rtk_alwaysreparse 2751910
-[ConVars]rtk_cache_max_memory 27519a0
-[ConVars]rtk_cache_policy 2751c70
-[ConVars]rtk_clearCacheAfterLeavingLobby 2518220
-[ConVars]rtk_dpadnavigation_debug 27750c0
-[ConVars]rtk_enableErrorPopup 2753970
-[ConVars]rtk_enableLaserScreen 2751500
-[ConVars]rtk_enableRTL 2751470
-[ConVars]rtk_enableStatsScreen 27513e0
-[ConVars]rtk_handle_clean_rate 27520d0
-[ConVars]rtk_parallelClone 2753b20
-[ConVars]rtk_parser_enable_extra_checks 2752040
-[ConVars]rtk_styleConstantsDefault 2774350
-[ConVars]rtk_useconstants 2751f30
-[ConVars]rtk_verboseLogging 27538e0
-[ConVars]rtk_vgui_use_defered_creation_order 2774440
-[ConVars]rtm_force_disconnect_on_switch 1ecebd0
-[ConVars]ruiPanel_resArgName 24d9600
-[ConVars]rui_asyncTracks 2546ec0
-[ConVars]rui_defaultDebugFontFace 2779db0
-[ConVars]rui_defaultFontFace 277a0c0
-[ConVars]rui_defaultFontHeight 2778f60
-[ConVars]rui_depth_write_enabled 1e8b280
-[ConVars]rui_depth_write_prepass 1e8ae90
-[ConVars]rui_overrideVguiTextRendering 27775c0
-[ConVars]rui_padDist 1e8b4c0
-[ConVars]rui_safeAreaFrac 1e8b1f0
-[ConVars]rui_script_call_optimization 1e8b160
-[ConVars]rui_staticPropLimit 2547d30
-[ConVars]rui_text_drawing_enabled 1e8b0d0
-[ConVars]rui_textcache_logstats_period 24cf520
-[ConVars]rui_useWidgetDraws 1e8b430
-[ConVars]save_enable 1e8f880
-[ConVars]scheme_manager_font_debug 27789e0
-[ConVars]scr_centertime 2544970
-[ConVars]screen_indicator_back_range 250be20
-[ConVars]screen_indicator_ellipse_height 2519ea0
-[ConVars]screen_indicator_ellipse_width 2503630
-[ConVars]screen_indicator_pitch_limit 250dec0
-[ConVars]screen_indicator_pitch_scale 250e400
-[ConVars]screenfade_debug 2546aa0
-[ConVars]scriptNetVar_categoryAsserts 26b72b0
-[ConVars]script_assert_on_dst_offset_error 26c3e90
-[ConVars]script_compile_all_levels 26c0090
-[ConVars]script_compile_debug_dump_rprof 277b880
-[ConVars]script_compile_debug_track_timing 277b920
-[ConVars]script_compile_debug_verbose_logging 277b9b0
-[ConVars]script_debugger_connect_client_on_mapspawn 25451c0
-[ConVars]script_debugger_connect_ui_auto 2669160
-[ConVars]script_debugger_host 277ae90
-[ConVars]script_debugger_port_client 277af20
-[ConVars]script_debugger_port_server 277ae00
-[ConVars]script_debugger_port_ui 277ace0
-[ConVars]script_disallow_newslot_on_globals 277bb90
-[ConVars]script_div_0_script_error 277c7e0
-[ConVars]script_dump_simple 277ad70
-[ConVars]script_eat_NOOPs 277baf0
-[ConVars]script_enable_ranked_game_state_pin 2544040
-[ConVars]script_enable_sort_challenge_flavs_by_progress_verify 2541690
-[ConVars]script_enable_sort_challenge_flavs_by_progress_with_cache 2547640
-[ConVars]script_infinite_loop_ms 277ac40
-[ConVars]script_localize_arg_overflow_raise_error 2545020
-[ConVars]script_mover_traversal_mover_support 26b8000
-[ConVars]script_obfuscated_id_magic 2547f40
-[ConVars]script_obfuscated_id_technique 25470a0
-[ConVars]script_parallel_trace_LOS_multiple 26c3190
-[ConVars]script_precache_errors 26a4e20
-[ConVars]script_printDeferredCalls 2540e60
-[ConVars]script_ranked_debug 26c3220
-[ConVars]script_retry_after_compile_errors 26c45c0
-[ConVars]script_showErrorDialogs 24d8d30
-[ConVars]script_slopTimeBeforeBudgetEnforcement 1ec67e0
-[ConVars]script_threads_wait_check_differential_against_zero 277ab20
-[ConVars]script_tracehull_square_check 26c3810
-[ConVars]script_weapon_mythic_multikill_kill_threshold 2543bd0
-[ConVars]script_weapon_mythic_multikill_roll_chance 25476e0
-[ConVars]script_weapon_mythic_multikill_variety_timeout_sec 2542570
-[ConVars]script_weapon_mythic_vo_delay_sec 25424e0
-[ConVars]scriptremotefunctions_assert_on_bad_params 26a0d30
-[ConVars]scriptremotefunctions_checkRestrictedType 266bb30
-[ConVars]scriptremotefunctions_debug 266df00
-[ConVars]scriptremotefunctions_dropNullEntity 269d590
-[ConVars]scriptremotefunctions_enforceTypedEntity 266b5c0
-[ConVars]scriptremotefunctions_printReconnectDiscards 269dcb0
-[ConVars]scriptremotefunctions_printWarningNullEntity 266dcc0
-[ConVars]scriptremotefunctions_reject_floats_outside_range 26a56c0
-[ConVars]scriptremotefunctions_saveFuncName 269ea50
-[ConVars]scriptremotefunctions_stringMaxStored 26a2fc0
-[ConVars]seasonquest_force_missionscleared_count 26c11d0
-[ConVars]seasonquest_force_treasurepacks_count 26c1090
-[ConVars]send_pin_on_error 1eba190
-[ConVars]sequence_transitioner_enable 26ac140
-[ConVars]serverFilter 1b79990
-[ConVars]serverReports_hostname 1eb8c70
-[ConVars]server_build_datenum 1ec8920
-[ConVars]server_concommands_allways_network 1b57d30
-[ConVars]server_is_playtest_build 1ec8220
-[ConVars]settings_field_lookup_doesnt_exist_is_fatal 1ecff30
-[ConVars]sh_odsl_enabled_test_name 26c3b60
-[ConVars]sh_odsl_test_time_sec 26c0e10
-[ConVars]shader_lod_world_mesh_scaled_dist 1b78130
-[ConVars]shader_lods_enable 1ec3490
-[ConVars]shader_lods_static_prop_scaled_dist 1ec3f50
-[ConVars]shadow_bleedfudge 24cc280
-[ConVars]shadow_capable 1b6d490
-[ConVars]shadow_clear_dist 2665790
-[ConVars]shadow_combine_copy_with_filter 251e280
-[ConVars]shadow_cull_in_lobby 25126d0
-[ConVars]shadow_cull_renderables_by_dist 2518fa0
-[ConVars]shadow_dbg_cone_depthtest 2503550
-[ConVars]shadow_dbg_cones 2502680
-[ConVars]shadow_dbg_draw 250f6b0
-[ConVars]shadow_default_filter_size 250f530
-[ConVars]shadow_depth_dimen_min 251ea60
-[ConVars]shadow_depth_upres_factor_max 2510c20
-[ConVars]shadow_drawfrustum 2517df0
-[ConVars]shadow_dynamic_spot_budgets 25031d0
-[ConVars]shadow_enable 1b781c0
-[ConVars]shadow_esm_enable 25125a0
-[ConVars]shadow_filter_maxstep 2509a10
-[ConVars]shadow_info 2528780
-[ConVars]shadow_lobby_depth_dimen_min 25027a0
-[ConVars]shadow_lobby_mode_allowed 251d770
-[ConVars]shadow_max_downsizing_spot_updates 251f2d0
-[ConVars]shadow_max_dynamic_lobby 251cca0
-[ConVars]shadow_max_old_dynamic 250db70
-[ConVars]shadow_max_spot_updates 2514890
-[ConVars]shadow_maxdynamic 1edd0f0
-[ConVars]shadow_min_count_smallest 2511260
-[ConVars]shadow_minvariance 24cc4c0
-[ConVars]shadow_noLOD 250bd90
-[ConVars]shadow_pcf_bias 1f4bb80
-[ConVars]shadow_pcf_kernel_width 1f4ba60
-[ConVars]shadow_pcf_mode 2502e10
-[ConVars]shadow_show_spot_update_infos 251e9d0
-[ConVars]shadow_tools_depth_dimen_min 2518340
-[ConVars]shadow_tools_depth_upres_factor_max 2511550
-[ConVars]shadow_tools_min_count_smallest 2517b00
-[ConVars]shadow_tools_mode 251da10
-[ConVars]shadow_update_culling 25199e0
-[ConVars]shadow_vsm_format_16_bit 25190b0
-[ConVars]shake_angleFactor_human 2501c80
-[ConVars]shake_angleFactor_titan 24fd7f0
-[ConVars]shake_basicPitchFactor 2542770
-[ConVars]shake_basicRandomRollFactor 25448e0
-[ConVars]shake_offsetFactor_human 2500820
-[ConVars]shake_offsetFactor_titan 24fcf90
-[ConVars]shake_viewmodelFactor_ads_human 251ecd0
-[ConVars]shake_viewmodelFactor_ads_titan 251e100
-[ConVars]shake_viewmodelFactor_human 250bc70
-[ConVars]shake_viewmodelFactor_titan 251edf0
-[ConVars]show_champion_screen 26c08c0
-[ConVars]showassets_enabled 1edf7f0
-[ConVars]showbot_enabled 1ed5a90
-[ConVars]showfps_enabled 1ee4710
-[ConVars]showfps_heightpercent 1edf760
-[ConVars]showfps_max_ms 1ed9fe0
-[ConVars]showfps_mouse_latency 1ed5480
-[ConVars]showfps_smoothtime 1ee2070
-[ConVars]showfps_spinner 1ee4e00
-[ConVars]showfs_async_file_handles 1edd270
-[ConVars]showinput_enabled 1edfc40
-[ConVars]showio_enabled 1ee4680
-[ConVars]showmap_enabled 1ee1e30
-[ConVars]showmem_cheaptrack_datatypes 1ee4830
-[ConVars]showmem_cheaptrack_features 1ee1f50
-[ConVars]showmem_cheaptrack_sources 1ee4b90
-[ConVars]showmem_enabled 1edfa00
-[ConVars]showmem_mode_bottom 1ee47a0
-[ConVars]showmem_mode_top 1ee4ce0
-[ConVars]showmem_sbh_stats 1ee4d70
-[ConVars]showmemnumstats 2546020
-[ConVars]showmemnumstatsrefresh 2545250
-[ConVars]shownet_enabled 1ee49e0
-[ConVars]sidearmSwapSelectCooldown 252ed00
-[ConVars]sidearmSwapSelectDoubleTapTime 2538cd0
-[ConVars]singlestep 1ec8010
-[ConVars]skill_hostname 1b6e0e0
-[ConVars]skipIntroVideos 1e85ce0
-[ConVars]skip_jump_height_fraction 2671780
-[ConVars]skip_jump_height_speed 26a51b0
-[ConVars]skip_lobby_tutorial 26c2a10
-[ConVars]skip_replenish_double_jump 26a65f0
-[ConVars]skip_sounds 266ee30
-[ConVars]skip_speed_reduce 26a5fe0
-[ConVars]skip_speed_retain 26a32b0
-[ConVars]skip_time 26a6ef0
-[ConVars]skip_training 26c0290
-[ConVars]skyward_launch_obstacle_avoidance 266ed10
-[ConVars]sleep_when_meeting_framerate 1ec2d00
-[ConVars]sleep_when_meeting_framerate_headroom_ms 1ec57d0
-[ConVars]slide_auto_stand 26a2410
-[ConVars]slide_max_angle_dot 266dae0
-[ConVars]slide_max_duck_frac_to_start 269fa10
-[ConVars]slide_step_velocity_reduction 2671a20
-[ConVars]slide_viewTiltDecreaseSpeed 26bbca0
-[ConVars]slide_viewTiltIncreaseSpeed 26bc120
-[ConVars]slide_viewTiltPlayerSpeed 26ba2c0
-[ConVars]slide_viewTiltSide 26bb260
-[ConVars]slide_while_on_unwalkable_ground 268af40
-[ConVars]slowconsolelog_old_logic 1b59e20
-[ConVars]smoothstairs_lunge 26bbe50
-[ConVars]snapshot_cache_force_use_clients_allow_list 1ecc990
-[ConVars]snapshot_cache_max_snapshots_multiply_factor 1ecce10
-[ConVars]snapshot_diffs_enabled 1ecc900
-[ConVars]snapshot_diffs_force_enable 1eccd80
-[ConVars]snapshot_diffs_fraction 1ecc870
-[ConVars]snapshot_diffs_max_creation_time 1ecc7e0
-[ConVars]snapshot_force_local_client_player_transmit 1eccc60
-[ConVars]snapshot_historical_cache_enabled 1ecc750
-[ConVars]snapshot_historical_cache_force_enable 1eccb40
-[ConVars]snapshot_local_client_player_delete_assert 1eccbd0
-[ConVars]snapshot_recipient_code_affects_tick_last_changed 1ecccf0
-[ConVars]snapshot_shutdown_mtrim_pad 1eccab0
-[ConVars]snapshot_tlc_sorted_props_enabled 1ecca20
-[ConVars]solid_obb_pass_standard_filter 26b4df0
-[ConVars]sound_ambientgeneric_allow_refresh 2518570
-[ConVars]sound_ambientgeneric_force_entity 2519f30
-[ConVars]sound_entity_seek_snap 253e7c0
-[ConVars]sound_musicReduced 26c0a90
-[ConVars]sound_num_speakers 25293f0
-[ConVars]sound_only_warn_on_missing_sound_events_in_client_script 24dae40
-[ConVars]sound_printloaderrors 1e1b840
-[ConVars]sound_spectator_dialogue 1ec7e90
-[ConVars]sound_volume 250adc0
-[ConVars]sound_volume_dialogue 2512b50
-[ConVars]sound_volume_dialogue_sp 2512a30
-[ConVars]sound_volume_music_game 2515270
-[ConVars]sound_volume_music_game_sp 25131e0
-[ConVars]sound_volume_music_lobby 2512440
-[ConVars]sound_volume_sfx 2502a20
-[ConVars]sound_volume_sfx_observer 250d490
-[ConVars]sound_volume_sfx_observer_affectdialogue 250e530
-[ConVars]sound_volume_sfx_observer_affectmusic 25146e0
-[ConVars]sound_volume_sfx_sp 251f7d0
-[ConVars]sound_volume_voice 2529ea0
-[ConVars]sound_without_focus 2519a70
-[ConVars]soundtrigger_repeat_interval 24f60f0
-[ConVars]sp_not_focus_pause 1eba230
-[ConVars]spam_skinning_matrices_used 1f40180
-[ConVars]spam_skinning_matrices_used_detailed 1f40210
-[ConVars]spatial_partition_deadlock_assert 266fca0
-[ConVars]spectator_analog_altitude_control 2503a50
-[ConVars]spectator_playerTagRange_large 24ff060
-[ConVars]spectator_playerTagRange_medium 2500790
-[ConVars]spectator_playerTagRange_small 24fc900
-[ConVars]speechtotext_audioenabled 1d4fd20
-[ConVars]speechtotext_disable_expire_logic 1ecd050
-[ConVars]speechtotext_disable_time 1ecd680
-[ConVars]speechtotext_enabled 1ecd290
-[ConVars]speechtotext_expire_duration 1ecd320
-[ConVars]speechtotext_forcedisabled 1eccfc0
-[ConVars]speechtotext_gettokentime_interval 1ecd560
-[ConVars]speechtotext_hostname 1ecd440
-[ConVars]speechtotext_msg_droptimeout 1ecd5f0
-[ConVars]speechtotext_new_userSetting 1eccea0
-[ConVars]speechtotext_path 1eccf30
-[ConVars]speechtotext_quiettime 1ecd710
-[ConVars]speechtotext_stats_errorspermin 1ecd0e0
-[ConVars]speechtotext_stats_interval 1ecd4d0
-[ConVars]speechtotext_stats_senderrors 1ecd200
-[ConVars]speechtotext_stats_sendrequests 1ecd170
-[ConVars]speechtotext_stats_sendsuccess 1ecd3b0
-[ConVars]speechtotexttoken_hostname 1b75020
-[ConVars]spinner_debug_info 26c4650
-[ConVars]sprint_powerdrain 26baa70
-[ConVars]sprint_view_shake_style 2529cf0
-[ConVars]sprinttilt_accel 266a900
-[ConVars]sprinttilt_maxvel 26a39c0
-[ConVars]sprinttilt_turnrange 266e750
-[ConVars]ss_force_primary_fullscreen 25410b0
-[ConVars]ss_mimic 2537190
-[ConVars]ss_splitmode 2543d80
-[ConVars]ss_verticalsplit 25467d0
-[ConVars]ss_viewmodelfov 2528d80
-[ConVars]ss_voice_hearpartner 1e8d8a0
-[ConVars]ssao_allow_partial 1f40570
-[ConVars]ssao_blur 1f40960
-[ConVars]ssao_blur_4x4 1f41800
-[ConVars]ssao_blur_edge_sharpness 1f41020
-[ConVars]ssao_blur_quality 1f40de0
-[ConVars]ssao_blur_slope_threshold 1f40e70
-[ConVars]ssao_depth_max 1f40ba0
-[ConVars]ssao_downsample_scale 1f411d0
-[ConVars]ssao_enabled 1f408d0
-[ConVars]ssao_exponent 1f40c30
-[ConVars]ssao_force_legacy 1f40690
-[ConVars]ssao_jitter_scale 1f403c0
-[ConVars]ssao_max_res 1f41140
-[ConVars]ssao_max_res_threshold 1f407b0
-[ConVars]ssao_num_directions 1f40330
-[ConVars]ssao_num_steps 1f416e0
-[ConVars]ssao_on_everything 1f41410
-[ConVars]ssao_quality 1ed0320
-[ConVars]ssao_radius 1f402a0
-[ConVars]ssao_radius_in_lobby 1f40a80
-[ConVars]ssao_show 1ee7700
-[ConVars]ssao_snap_uv 1f40450
-[ConVars]ssao_tech 1f410b0
-[ConVars]ssao_temporal_noise 1f40720
-[ConVars]ssao_upsample_ranged 1f41770
-[ConVars]ssao_upsample_ranged_midsize 1f415c0
-[ConVars]ssso_cone_angle 1f40f00
-[ConVars]ssso_enabled 1f41530
-[ConVars]ssso_exponent 1f404e0
-[ConVars]ssso_intensity 1f40cc0
-[ConVars]ssso_num_steps 1f40f90
-[ConVars]ssso_radius 1f40600
-[ConVars]standardHandshake 24ce050
-[ConVars]startButtonCommand 1ec40e0
-[ConVars]staticPropSkipEarlyDepthOnlyTranslucent 1ec3880
-[ConVars]staticPropUseDepthSortBulkGrab 1ec4a10
-[ConVars]staticProp_BucketSortMode 1eba490
-[ConVars]staticProp_budget 1ec2f00
-[ConVars]staticProp_buildlists_on_worker 250ad30
-[ConVars]staticProp_debug_draw 1ec4290
-[ConVars]staticProp_earlyDepthPrepass 1eba8e0
-[ConVars]staticProp_gather_size_weight 1ec5530
-[ConVars]staticProp_max_scaled_dist 1ec2f90
-[ConVars]staticProp_no_fade_scalar 1ec5c80
-[ConVars]staticProp_refineDrawOnWorker 26662a0
-[ConVars]static_prop_dist_debug_draw 1ec3520
-[ConVars]static_shadow 1ee4e90
-[ConVars]static_shadow_bounds_per_env 2512910
-[ConVars]static_shadow_debug_2d 2665280
-[ConVars]static_shadow_debug_dirty_rects 2510dc0
-[ConVars]static_shadow_depth_bias_scale 2528e90
-[ConVars]static_shadow_expand_z 250de30
-[ConVars]static_shadow_good_merge_ratio 2510d30
-[ConVars]static_shadow_good_merge_score 2518820
-[ConVars]static_shadow_max_partitions 250e140
-[ConVars]static_shadow_prop_min_size 251f860
-[ConVars]static_shadow_proplightweight_min_size 2510f00
-[ConVars]static_shadow_res 1ee48c0
-[ConVars]static_shadow_shrink_culler 250f620
-[ConVars]static_shadow_use_d16 1ee4a70
-[ConVars]static_shadow_uses_shadow_lod 250aff0
-[ConVars]staticfile_hostname 1b745d0
-[ConVars]staticprop_color_use_bindless 1ec4980
-[ConVars]staticprop_depth_use_bindless 1ec4d70
-[ConVars]stationary_fly_ground_detect 26b74e0
-[ConVars]stats_hostname 1b76070
-[ConVars]status_effect_warning_level 26b0900
-[ConVars]status_tracker_enabled 24d06b0
-[ConVars]status_tracker_log_events 24d0280
-[ConVars]status_tracker_send_dev_telemetry 24d0740
-[ConVars]status_tracker_sleep_time_ms 24d07d0
-[ConVars]steam_debug 1ecde30
-[ConVars]steam_environment 1ecdf20
-[ConVars]steam_id 1ecd800
-[ConVars]steam_name 1ecd950
-[ConVars]steam_presence_player_group_issession 1ecdcb0
-[ConVars]steam_presence_updateRate 1ecdda0
-[ConVars]steam_use_jwt 1eb9060
-[ConVars]steamlink_hostname 1ecda70
-[ConVars]stream_addnoise 1ee8720
-[ConVars]stream_async_resource_creation_on_pc 1ee8b70
-[ConVars]stream_cache_align_memory_estimates 274ad50
-[ConVars]stream_cache_capacity_animseq 274b410
-[ConVars]stream_cache_capacity_mdl 274b2f0
-[ConVars]stream_cache_capacity_while_loading 274b260
-[ConVars]stream_cache_high_priority_animations 274af00
-[ConVars]stream_cache_high_priority_static_models 274ae70
-[ConVars]stream_cache_mdl_freeze_threshlold 274ade0
-[ConVars]stream_cache_multithreaded 274af90
-[ConVars]stream_cache_preload_from_rpak 274acc0
-[ConVars]stream_cache_read_buffer_cap 274b020
-[ConVars]stream_cache_read_count_cap 274b1d0
-[ConVars]stream_cache_speculative_drop_animseq 274b140
-[ConVars]stream_cache_speculative_drop_mdl 274b0b0
-[ConVars]stream_depth_prepass_material 1ee9a10
-[ConVars]stream_drop_unused 1ee85a0
-[ConVars]stream_enable 1ee83f0
-[ConVars]stream_handle_allocation_max_stall_msec 274b380
-[ConVars]stream_highest_quality_pc 1ee9b90
-[ConVars]stream_load_after_drop 1ee8360
-[ConVars]stream_low_mips_to_batch 1ee9b00
-[ConVars]stream_memory 1ee8d20
-[ConVars]stream_memory_ignore 1ee88d0
-[ConVars]stream_memory_min 1ee8840
-[ConVars]stream_memory_while_loading 1ee87b0
-[ConVars]stream_mode 1ee8960
-[ConVars]stream_never_high_priority_frac 1ee89f0
-[ConVars]stream_overlay 1ee8c90
-[ConVars]stream_overlay_mode 1ee8a80
-[ConVars]stream_pause 1ee8510
-[ConVars]stream_picmip 1ee8480
-[ConVars]stream_texture_bandwidth 1ee8690
-[ConVars]stringtable_compress 1b766a0
-[ConVars]stryder_forceOriginUsersInvisible 1ec9d30
-[ConVars]stryder_security 1eb8f40
-[ConVars]stuck_debugging 2670ae0
-[ConVars]stuck_debugging_world_only 26a2890
-[ConVars]studiobonecache_unlimited 1b56070
-[ConVars]subscription_hostname 1eb8d00
-[ConVars]superjump_drain_power_onfail 26a6e10
-[ConVars]superjump_fail_sound_when_jump_limit 26a1040
-[ConVars]superjump_jumppad_enable_time 26a6070
-[ConVars]superjump_limit 26a3360
-[ConVars]superjump_limitreset_onwallrun 269f260
-[ConVars]superjump_min_height_fraction 2671650
-[ConVars]superjump_powerreset_onground 269d930
-[ConVars]sv_XLOG_telemetry_shortcircuit 24d1fd0
-[ConVars]sv_airaccelerate 26a1940
-[ConVars]sv_allTicksFinal 1ec7280
-[ConVars]sv_allowSendTableTransmitToClients 1e8c670
-[ConVars]sv_allowSpectatorClients 1e8e460
-[ConVars]sv_asyncSendSnapshot 1e8d5d0
-[ConVars]sv_backspeed 266fa20
-[ConVars]sv_bounce 268ae20
-[ConVars]sv_cheats 1e8ff50
-[ConVars]sv_checkSpectatorType 1e8d780
-[ConVars]sv_compressPlaylists 1e8d000
-[ConVars]sv_compressTimeValEpsilon 1b58e90
-[ConVars]sv_compressTimeVals 1b58fe0
-[ConVars]sv_connectEnforceServerFilter 1e8d4b0
-[ConVars]sv_connectingClientDelay 1e8c940
-[ConVars]sv_disconnectOnScriptError 1e8f130
-[ConVars]sv_dumpstringtables 1b6d7c0
-[ConVars]sv_earlyPersistenceRead 1e8f7f0
-[ConVars]sv_enableSignonStateTimeOuts 1e8dab0
-[ConVars]sv_everyThirdTick 1ec79d0
-[ConVars]sv_fakeClientBaseId 1e8ec10
-[ConVars]sv_firstConnectCheckForMatchPhase 1e8d930
-[ConVars]sv_fixedUpdateRate 1e8f400
-[ConVars]sv_footsteps 26a8450
-[ConVars]sv_friction 266fc10
-[ConVars]sv_fullsnap_stall_replay_delay 1e8d120
-[ConVars]sv_fullsnap_stall_timescale 1e8dc60
-[ConVars]sv_fullsnap_stall_updaterate 1e8f910
-[ConVars]sv_fullsnap_stall_wait 1e8e4f0
-[ConVars]sv_fullsnap_stalls_allowed 1e8e970
-[ConVars]sv_gracefulDisconnectOnScriptError 1e8bac0
-[ConVars]sv_gravity 26a9840
-[ConVars]sv_ignoreAllNewConnections 1e8eaf0
-[ConVars]sv_ignoreDuplicateConnectionRequests 1e8d2a0
-[ConVars]sv_includeProtInRejection 1e8eca0
-[ConVars]sv_infinite_ammo 26bc410
-[ConVars]sv_instancebaselines 1e8e850
-[ConVars]sv_liveapi_hitch_notify_frequency_sec 1e87db0
-[ConVars]sv_loadMapModelEarly 1b5bd60
-[ConVars]sv_maxSetClientEntitlements 1e8fd90
-[ConVars]sv_max_fullsnap_stalls 1e8c270
-[ConVars]sv_max_prop_data_dwords_lobby 1e8cdc0
-[ConVars]sv_max_prop_data_dwords_multiplayer 1e8d660
-[ConVars]sv_max_prop_data_dwords_singleplayer 1e8caf0
-[ConVars]sv_max_props_lobby 1e8cf70
-[ConVars]sv_max_props_multiplayer 1e8c9d0
-[ConVars]sv_max_props_singleplayer 1e8c820
-[ConVars]sv_max_snapshots_lobby 1e8e580
-[ConVars]sv_max_snapshots_multiplayer 1e8b8b0
-[ConVars]sv_max_snapshots_singleplayer 1e8fa30
-[ConVars]sv_maxspeed 26a4f90
-[ConVars]sv_maxupdaterate 1e8e340
-[ConVars]sv_maxvelocity 26aaf80
-[ConVars]sv_minupdaterate 1e8d420
-[ConVars]sv_net_disconnect_normalize 1e8fb50
-[ConVars]sv_net_disconnect_track 1e8fc70
-[ConVars]sv_netstrcmd_retail_enabled 1e8d6f0
-[ConVars]sv_netstrcmd_retail_track 1e8b9d0
-[ConVars]sv_optimizedmovement 26a15c0
-[ConVars]sv_parallel_sendsnapshot 1e8c550
-[ConVars]sv_partyFiringRangeJIPAllowed 1b77e90
-[ConVars]sv_pausable 1e8c030
-[ConVars]sv_players 26a69c0
-[ConVars]sv_playertag_checkInterval 1e8d090
-[ConVars]sv_playertag_request_reset 1e8d540
-[ConVars]sv_playertag_rspn_tag_allowed 1e8d210
-[ConVars]sv_printHighWaterMark 1e8ea00
-[ConVars]sv_private_assist_style_override 26a05d0
-[ConVars]sv_pushaway_accel 269dad0
-[ConVars]sv_pushaway_clientside 266a5f0
-[ConVars]sv_pushaway_clientside_size 26b1130
-[ConVars]sv_pushaway_debug 26a5580
-[ConVars]sv_pushaway_dist 266b310
-[ConVars]sv_pushaway_min_player_speed 26a10d0
-[ConVars]sv_pushaway_player_accel 26a1280
-[ConVars]sv_pushaway_player_dist 2670140
-[ConVars]sv_reconnectCheckFullConnectV2 1e8b700
-[ConVars]sv_rejectClientConnects 1e8dbd0
-[ConVars]sv_rejectConnections 1e8bc70
-[ConVars]sv_rejectIconPuaUtf8ClientName 1e8e8e0
-[ConVars]sv_rejectNonUtf8ClientName 1e8e2b0
-[ConVars]sv_rejectOnPeersFull 1e8e190
-[ConVars]sv_requireOriginToken 1e8cc10
-[ConVars]sv_resendSignonData 1e8dcf0
-[ConVars]sv_rollangle 26a5ef0
-[ConVars]sv_rollspeed 269ffa0
-[ConVars]sv_rprofDumpDuringLoad 1e8c1e0
-[ConVars]sv_runSnapshotDiffWorkInJobs 1e8ed30
-[ConVars]sv_runSpatialOptimizeInJob 1e8bbe0
-[ConVars]sv_scarySnapDeltaPrints 1e8e3d0
-[ConVars]sv_script_compile_during_map_load 1ec6900
-[ConVars]sv_sendEarlyServerInfo 1e8f370
-[ConVars]sv_sendReplayNetMessagesOnNoDeltaSnaps 1e8cee0
-[ConVars]sv_sendReportIncludeConVars 1e8c790
-[ConVars]sv_sendReportOnClientConnect 1e8e7c0
-[ConVars]sv_showClientTickCmds 1e8c300
-[ConVars]sv_showLargeSnapshotSize 1e8b940
-[ConVars]sv_showSnapshots 1e8b670
-[ConVars]sv_showUserCmds 1e8b820
-[ConVars]sv_single_core_dedi 1e8f010
-[ConVars]sv_skipSendingUnnecessaryPersistence 1e8bb50
-[ConVars]sv_snapshot_pps_mtrim_pad 1e8edc0
-[ConVars]sv_snapshot_tempent_warn_threshold 1e8bd90
-[ConVars]sv_snapshot_tempent_warn_throttle 1e8fbe0
-[ConVars]sv_snapshot_uniform_interval 1e8e220
-[ConVars]sv_specaccelerate 26a0a90
-[ConVars]sv_specnoclip 2671d20
-[ConVars]sv_specspeed 266f5a0
-[ConVars]sv_stats 1e8b550
-[ConVars]sv_stopspeed 266fb80
-[ConVars]sv_stressbots 1e8f250
-[ConVars]sv_strictReconnect 1e8cd30
-[ConVars]sv_struggleCheck 1e8f640
-[ConVars]sv_struggleSpam 1e8c5e0
-[ConVars]sv_struggleSpamInterval 1e8ef80
-[ConVars]sv_tempents_send_from_delta 1e8d810
-[ConVars]sv_tempents_send_from_last_sent 1e8b790
-[ConVars]sv_testLargeDatablock 1ecf870
-[ConVars]sv_teststepsimulation 24f7800
-[ConVars]sv_tournament_anonymous_mode 266a6c0
-[ConVars]sv_tournament_assist_style_override 269f730
-[ConVars]sv_transmitToAllPlayersMask_allBitsSet 1e8f1c0
-[ConVars]sv_transmitToAllPlayersMask_print 1e8f0a0
-[ConVars]sv_truncateNameToNotCrashKillFeedLocalization 1e8b5e0
-[ConVars]sv_unnecessaryConnectDelay 1e8db40
-[ConVars]sv_unreliableSnapMaxSize 1e8c700
-[ConVars]sv_updaterate_mp 1e8bfa0
-[ConVars]sv_updaterate_sp 1e8e610
-[ConVars]sv_useReputation 1e8c8b0
-[ConVars]sv_use_real_model_always 1b74a50
-[ConVars]sv_verifyNucleusIdByTokenResult 1e8c150
-[ConVars]sv_voiceEcho 1e8f520
-[ConVars]sv_voiceenable 1e8eef0
-[ConVars]sv_waitForClientInfo 1e8f2e0
-[ConVars]sv_warnAboutCmdNumJumps 1e8cca0
-[ConVars]sv_watchdogTimer 1b7a3f0
-[ConVars]sv_wateraccelerate 266a4b0
-[ConVars]sv_waterdist 26a72c0
-[ConVars]sv_writePersistenceOnShutdown 1b78c90
-[ConVars]svperf_query_hitch_frametime_msec 1e8f6d0
-[ConVars]svperf_query_near_frametime_msec 1e8ce50
-[ConVars]svperf_query_packetchoke_threshold 1e8c0c0
-[ConVars]svperf_query_packetloss_threshold 1e8c4c0
-[ConVars]svperf_query_player_subset_size 1e8cb80
-[ConVars]svperf_query_slow_frametime_msec 1e8bf10
-[ConVars]svperf_query_slow_frametime_threshold 1e8d9c0
-[ConVars]svperf_querynear_frametime_threshold 1e8e730
-[ConVars]sync_on_streaming_loads_before_hot_swap 1ec7610
-[ConVars]system_alt_f4_closes_window 1ec45c0
-[ConVars]tagfilter_enabled 1ece700
-[ConVars]tapstrafe_repeated_tapping_number_of_taps 2670480
-[ConVars]tapstrafe_repeated_tapping_time_between_taps 26a2bb0
-[ConVars]tapstrafe_telemetry_delay 26a1820
-[ConVars]tapstrafe_telemetry_max_events_per_jump 26a4a60
-[ConVars]teams_unassigned_are_friendly 26a27e0
-[ConVars]telemetry_client_enable 1ec6d40
-[ConVars]telemetry_client_sendInterval 1ec7940
-[ConVars]telemetryevent_client_enable 1ec66f0
-[ConVars]test_fakeTimeDays 1ec65d0
-[ConVars]test_fakeTimeStamp 1ec7f20
-[ConVars]test_fakeTimeStampShouldAddTimePassed 1ec7730
-[ConVars]test_faketimedays_limit 1ec89b0
-[ConVars]tether_default_damageScale 266ff90
-[ConVars]tether_default_healthDrain 2670530
-[ConVars]tether_default_healthDrainCutoffPct 26a3110
-[ConVars]tether_default_healthDrainDelay 266b6e0
-[ConVars]tether_default_radius 26a77e0
-[ConVars]tether_default_strength 26a16b0
-[ConVars]tether_dodge_damage 266af60
-[ConVars]tether_gravity_dmg_frac_per_sec 26a11f0
-[ConVars]tether_healthDrainNPC 266fe00
-[ConVars]tether_maxStretchDamage 268aeb0
-[ConVars]tether_max_stretch_scale 269d7e0
-[ConVars]tether_max_stretch_strength_mult 2671810
-[ConVars]tether_maxvel 26a6d60
-[ConVars]tether_strength_healthScale 269df10
-[ConVars]tether_zipline_scaling_min_vel 266f2b0
-[ConVars]tether_zipline_strength_scale 26a54f0
-[ConVars]texmgr_tsaa_format 1ee8db0
-[ConVars]thirdperson_mayamode 2532d10
-[ConVars]thirdperson_screenspace 253b1f0
-[ConVars]threatlevel_ch_miles_threatlevel 25324e0
-[ConVars]threatlevel_ch_miles_threatleveldialogue 252a820
-[ConVars]threatlevel_disablechannels 253a940
-[ConVars]threatlevel_enabled 25344a0
-[ConVars]timeout 1b5b310
-[ConVars]timeout_during_load 1b5b430
-[ConVars]timeout_waiting_for_fully_connected 1b59670
-[ConVars]titan_sprint_sound 26bd300
-[ConVars]toggle_on_jump_to_deactivate 24f04e0
-[ConVars]toggle_on_jump_to_deactivate_changed 24eefd0
-[ConVars]tracehull_height_error_check 1e909d0
-[ConVars]tracer_debug 2536310
-[ConVars]translucent_brushmodel_colors 1b57eb0
-[ConVars]traversal_anim 26a9af0
-[ConVars]traversal_cooldown 266d790
-[ConVars]traversal_enable 26a0800
-[ConVars]traversal_hand_debug 26705f0
-[ConVars]traversal_hand_required_width 26a0dc0
-[ConVars]traversal_mantle_cap_camera_height 24e3340
-[ConVars]traversal_move_crouch_mantles_enabled 26a22d0
-[ConVars]traversal_viewLerpInDuration 24e33d0
-[ConVars]traversal_viewLerpOut 24e6fb0
-[ConVars]traversal_viewLerpOutAngle 24e88b0
-[ConVars]traversal_viewLerpOutDebug 24e0240
-[ConVars]traversal_viewLerpOutPos 24e8fc0
-[ConVars]traversal_window_duration 266f110
-[ConVars]traversal_window_enable 266d840
-[ConVars]traversal_window_finish_angle 2670220
-[ConVars]traversal_window_forward_offset 269f560
-[ConVars]traversal_window_hand_vertical_offset 26a6850
-[ConVars]traversal_window_sideways_offset 26a3760
-[ConVars]traversal_window_view_pitch_max 24fefd0
-[ConVars]traversal_window_view_pitch_min 24fd760
-[ConVars]traversal_window_yaw_max 2501950
-[ConVars]trident_melee_offset_fix 26bb940
-[ConVars]trigger_ignore_nonsolids 26a4820
-[ConVars]tsaa_blendfactorincreaseatmaxvelocity 1f41a40
-[ConVars]tsaa_blendfactorincreasewhenunoccluded 1f41ad0
-[ConVars]tsaa_blendfactormaxesoutatvelocity 1f41bf0
-[ConVars]tsaa_blendfactormodulationonsparklesandunocclusion 1f41e30
-[ConVars]tsaa_blendfactoroverride 1f41c80
-[ConVars]tsaa_curframeblendamount 1f41b60
-[ConVars]tsaa_debugresponsiveflag 1f41d10
-[ConVars]tsaa_fixneighborhoodclamping 1f41da0
-[ConVars]tsaa_neighborhoodclamping 1f41920
-[ConVars]tsaa_neighborhoodclampingsoftened 1f419b0
-[ConVars]tsaa_numsamples 2546860
-[ConVars]tts_usejob 24d6690
-[ConVars]tweak_light_shadows_every_frame 253bec0
-[ConVars]twitch_check_interval 1e19e00
-[ConVars]twitch_debug 26ba430
-[ConVars]twitch_drops 1e1b0a0
-[ConVars]twitch_drops_initialized 1e1b460
-[ConVars]twitch_drops_simulate_failure 1e1aac0
-[ConVars]twitch_prime_fulfillmentToken 1e1a7f0
-[ConVars]twitch_prime_rewards 1e1ad90
-[ConVars]twitch_shouldQuery 1e1a130
-[ConVars]ui_DpadNavigationDeActive 24d8940
-[ConVars]ui_allow_free_loaded_parcel_without_delay 1e8aba0
-[ConVars]ui_brightness 1e8b310
-[ConVars]ui_cache_resource_data 2778710
-[ConVars]ui_culling_for_style_limit_stage_mask 1e8ae00
-[ConVars]ui_culling_for_style_limit_time_window 1e8afb0
-[ConVars]ui_fadexui_time 24d93c0
-[ConVars]ui_gameui_ctrlr_title 24d89d0
-[ConVars]ui_gameui_modal 24d8f70
-[ConVars]ui_image_enable_robust 1e8acd0
-[ConVars]ui_layout_mode 1e8b040
-[ConVars]ui_loadingscreen_fadein_time 24d9120
-[ConVars]ui_loadingscreen_fadeout_time 1b59990
-[ConVars]ui_lobby_noautostart 24d97b0
-[ConVars]ui_posedebug_fade_in_time 24d5bc0
-[ConVars]ui_posedebug_fade_out_time 24d5b30
-[ConVars]ui_text_drawing_new 1e8b3a0
-[ConVars]ui_virtualnav_render 24d8af0
-[ConVars]unique_entity_names 266bd30
-[ConVars]universal_weapon_disable 266eda0
-[ConVars]unload_server_temp_pak 1b75c80
-[ConVars]update_player_proxy_visibility 26bdab0
-[ConVars]use_eadp_shorthash 2542d40
-[ConVars]use_latest_predicted_time_for_calc_anim_position 24f9ba0
-[ConVars]use_monitors 2665700
-[ConVars]use_no_interp_frames 1b55fd0
-[ConVars]use_presence_to_refresh_userInfoCache 1ecf250
-[ConVars]use_refraction_cloak 26a92b0
-[ConVars]use_sony_pad_library 1ed5770
-[ConVars]use_vm_cloak_offset 26a3080
-[ConVars]use_ziprail_activity 24d80d0
-[ConVars]user_tracking_enabled 1ec96d0
-[ConVars]usercmd_byte_threshold 1e1a460
-[ConVars]usercmd_frametime_max 1b5b3a0
-[ConVars]usercmd_frametime_min 1b59d80
-[ConVars]usercmd_frametime_min_lobby 1b59bd0
-[ConVars]usercmd_frametime_min_observer 1b58e00
-[ConVars]users_hostname 1b6d730
-[ConVars]v_centermove 2502850
-[ConVars]v_centerspeed 250dc00
-[ConVars]valk_skyward_launch_stuck_fix 26c2cf0
-[ConVars]valve_relay_cert_refresh_threshold 24d2880
-[ConVars]valve_relay_config_refresh_time 24d2a00
-[ConVars]valve_relay_debug_log_level 24d2ab0
-[ConVars]valve_relay_encrypt_traffic 24d2760
-[ConVars]valve_relay_exclusive_transport 24d27f0
-[ConVars]valve_relay_log_identity_lifetime 24d2b40
-[ConVars]valve_relay_timeout_jitter 24d2970
-[ConVars]valve_relay_use_config_cache 24d2bd0
-[ConVars]variable_sights_gravity_scale_override 26c4890
-[ConVars]vehicle_predictViaPlayer 253a780
-[ConVars]vfc_clusteredlighting_2dbounds 1f42070
-[ConVars]vfc_clusteredlighting_pixels_per_cluster 1f41fe0
-[ConVars]vfc_clusteredlighting_rasterize 1f41f50
-[ConVars]vfc_clusteredlighting_skip_behind_depth 1f41ec0
-[ConVars]vfog_debug_freeze_cbuf 1f42850
-[ConVars]vfog_debug_freeze_volumebuf 1f42340
-[ConVars]vfog_debug_print_num_volumes_in_frame 1f42190
-[ConVars]vfog_debug_show_filled_clusters 1f422b0
-[ConVars]vfog_enable 1f424f0
-[ConVars]vfog_enable_apply_blur 1f42610
-[ConVars]vfog_enable_taa 1f42460
-[ConVars]vfog_fogbuffer_x 1f426a0
-[ConVars]vfog_fogbuffer_y 1f42220
-[ConVars]vfog_fogbuffer_z 1f42580
-[ConVars]vfog_out_of_frustrum_sample_count 1f42730
-[ConVars]vfog_perf_level 1f428e0
-[ConVars]vfog_show_volume_outline 253edf0
-[ConVars]vfog_thin_surface_factor 1f427c0
-[ConVars]vfog_zfar 1f42100
-[ConVars]vfog_znear 1f423d0
-[ConVars]vgui_EnableFixedAspectScaling 27787d0
-[ConVars]vgui_drawPolyShapes 24d9240
-[ConVars]vgui_drawfocus 1ec2d90
-[ConVars]vgui_drawkeyfocus 1ec4860
-[ConVars]vgui_interactive 24fa920
-[ConVars]vgui_noquads 277a150
-[ConVars]vgui_notext 277a030
-[ConVars]vgui_printFocus 1eba7c0
-[ConVars]vgui_resize_on_resolution_change 27777e0
-[ConVars]vgui_show_glyph_miss 2778e70
-[ConVars]vgui_simulate_during_bone_setup 1b789f0
-[ConVars]video_menu_uiscript_reset 24dbea0
-[ConVars]viewDrift 26baea0
-[ConVars]viewDrift_ads_delay_debounce_time 26bbaf0
-[ConVars]viewDrift_pitch_base1_amp 26bbdc0
-[ConVars]viewDrift_pitch_base1_freq 26bbd30
-[ConVars]viewDrift_pitch_base1_phase 26bab90
-[ConVars]viewDrift_pitch_base2_amp 26bb4c0
-[ConVars]viewDrift_pitch_base2_freq 26bd270
-[ConVars]viewDrift_pitch_base2_phase 26bae10
-[ConVars]viewDrift_pitch_scaler_amp 26ba850
-[ConVars]viewDrift_pitch_scaler_base 26bd4b0
-[ConVars]viewDrift_pitch_scaler_freq 26ba710
-[ConVars]viewDrift_pitch_scaler_phase 26ba5e0
-[ConVars]viewDrift_pitch_shifter_amp 26bba60
-[ConVars]viewDrift_pitch_shifter_freq 26bb9d0
-[ConVars]viewDrift_pitch_shifter_phase 26bc240
-[ConVars]viewDrift_yaw_base1_amp 26bd420
-[ConVars]viewDrift_yaw_base1_freq 26bc000
-[ConVars]viewDrift_yaw_base1_phase 26ba110
-[ConVars]viewDrift_yaw_base2_amp 26baf30
-[ConVars]viewDrift_yaw_base2_freq 26bb8b0
-[ConVars]viewDrift_yaw_base2_phase 26bb820
-[ConVars]viewDrift_yaw_scaler_amp 26bacf0
-[ConVars]viewDrift_yaw_scaler_base 26bc090
-[ConVars]viewDrift_yaw_scaler_freq 26bc380
-[ConVars]viewDrift_yaw_scaler_phase 26bc1b0
-[ConVars]viewDrift_yaw_shifter_amp 26ba230
-[ConVars]viewDrift_yaw_shifter_freq 26bb700
-[ConVars]viewDrift_yaw_shifter_phase 26bd540
-[ConVars]view_models_draw_early_depth 26658b0
-[ConVars]view_offset_entity_enable 26bdea0
-[ConVars]viewangle_debug 253e220
-[ConVars]viewangles_simpler 24f7da0
-[ConVars]viewmodelShake 25030b0
-[ConVars]viewmodelShake_sourceRollRange 2519310
-[ConVars]viewmodel_attachment_fov_fix 26a7180
-[ConVars]viewmodel_bounds_draw 2665af0
-[ConVars]viewmodel_bounds_draw_lock 254a5e0
-[ConVars]viewmodel_enforce_monotonic_anim 26a94f0
-[ConVars]viewmodel_selfshadow 1ee4b00
-[ConVars]viewmodel_selfshadow_debug_2d 2665820
-[ConVars]viewmodel_selfshadow_tightbounds 254a280
-[ConVars]viewportscale 250aed0
-[ConVars]viewpunch_base_springConstantX 269d370
-[ConVars]viewpunch_base_springConstantY 26a5810
-[ConVars]viewpunch_base_springConstantZ 26a4d20
-[ConVars]viewpunch_base_springDampingX 268b150
-[ConVars]viewpunch_base_springDampingY 26a5070
-[ConVars]viewpunch_base_springDampingZ 2670970
-[ConVars]violence_ablood 1ec6a00
-[ConVars]violence_agibs 1ec6f50
-[ConVars]violence_hblood 1ec8350
-[ConVars]violence_hgibs 1ec7430
-[ConVars]visible_ent_cone_debug_duration_client 26c41d0
-[ConVars]vm_effect_format_attachments 2669bb0
-[ConVars]voice_allow_mute_self 24dee00
-[ConVars]voice_always_monitored 1b7a940
-[ConVars]voice_clientdebug 2669730
-[ConVars]voice_debugfeedback 1ec2e20
-[ConVars]voice_enabled 1b7ad20
-[ConVars]voice_force_volume 24d5aa0
-[ConVars]voice_input_device 1b7a700
-[ConVars]voice_late_update 2502710
-[ConVars]voice_loopback 1d4fb10
-[ConVars]voice_modenable 2669970
-[ConVars]voice_noxplat 1e8f5b0
-[ConVars]voice_peak_amplitude 1b7a670
-[ConVars]voice_profile 1d4fc90
-[ConVars]voice_quiet_threshold 1b7aba0
-[ConVars]voice_quiet_window 1d4fc00
-[ConVars]voice_recordtofile 1b75140
-[ConVars]voice_scale 1b7a9d0
-[ConVars]voice_showchannels 1b7ac90
-[ConVars]voice_showincoming 1b7a820
-[ConVars]voice_threshold_delay 1b7a8b0
-[ConVars]voice_volume_saveinterval 24d5980
-[ConVars]voice_vox 1d4fdb0
-[ConVars]voice_wasapi 1b7a790
-[ConVars]voice_xsend_debug 1b6db70
-[ConVars]vortex_damageimpulsescale 24e20f0
-[ConVars]vram_ignore_driver_budget 1f4b380
-[ConVars]vscript_ui_do_delay_init 2668e00
-[ConVars]vsm_culling 2517fa0
-[ConVars]vsm_ignore_edge_planes 251f170
-[ConVars]vsm_ignore_face_planes 2503840
-[ConVars]vtx_hostname 1eb90f0
-[ConVars]wall_climb_pose_paramteter_hands_enabled 26bafc0
-[ConVars]wallclimb_vertical_gain_reduction 26a4680
-[ConVars]wallrun_angleChangeMinCos 26a75b0
-[ConVars]wallrun_avoid_wall_top_decel 26a6cb0
-[ConVars]wallrun_curveDebug 24e3730
-[ConVars]wallrun_curveEnable 24e2260
-[ConVars]wallrun_debug 26a2970
-[ConVars]wallrun_enable 2671b00
-[ConVars]wallrun_fallAwaySpeed 26a35c0
-[ConVars]wallrun_hangStopTime 26a2dc0
-[ConVars]wallrun_hangslipduration 266d9a0
-[ConVars]wallrun_hangslipstarttime 26a0920
-[ConVars]wallrun_maxViewTilt 269d0c0
-[ConVars]wallrun_minAngle_air 268ad90
-[ConVars]wallrun_noInputSlipFrac 26a3420
-[ConVars]wallrun_pushAwayFallOffTime 266faf0
-[ConVars]wallrun_repelEnable 269b6e0
-[ConVars]wallrun_repelSoftness 269f7c0
-[ConVars]wallrun_repelTimeMax 26a6300
-[ConVars]wallrun_repelTimeMin 26a0a00
-[ConVars]wallrun_retry_interval 269dd40
-[ConVars]wallrun_rotateMaxRate 269e220
-[ConVars]wallrun_sameWallDist 269d180
-[ConVars]wallrun_sameWallDot 269d9f0
-[ConVars]wallrun_sameWallSlope 266ae10
-[ConVars]wallrun_slipduration 26a6120
-[ConVars]wallrun_slipstarttime 26a25e0
-[ConVars]wallrun_strengthLossEnd 2670020
-[ConVars]wallrun_strengthLossStart 266f510
-[ConVars]wallrun_upwardAutoPush 26a0e50
-[ConVars]wallrun_viewTiltPredictTime 26a5100
-[ConVars]wallrun_viewTiltSpeed 2670a20
-[ConVars]was_loaded 269f910
-[ConVars]watchdog_active_during_assert_reporting 24d09a0
-[ConVars]watchdog_active_in_debugger 24d0d00
-[ConVars]watchdog_debug 24d0e20
-[ConVars]watchdog_dialog 24d0be0
-[ConVars]watchdog_ignore_time_seconds 24d0900
-[ConVars]watchdog_log_thread_callstacks 24d0ac0
-[ConVars]watchdog_low_fps_report_threshold 24d0d90
-[ConVars]watchdog_low_fps_report_time_seconds 24d0b50
-[ConVars]watchdog_noassert 24d0eb0
-[ConVars]watchdog_sleep_time_milliseconds 24d0a30
-[ConVars]watchdog_time_milliseconds 24d0c70
-[ConVars]waypoint_deferred_update 26b5e20
-[ConVars]weaponFastHolsterScale 24eb010
-[ConVars]weaponModDebug 26c4950
-[ConVars]weaponSwitch3p_checkNewWeapon 26a6910
-[ConVars]weaponSwitch3p_onHolster 24ef0a0
-[ConVars]weapon_activity_modifier_fully_charged_weapon_specific 24eae30
-[ConVars]weapon_auto_swap_ordnance_no_ammo 26bb140
-[ConVars]weapon_check_custom_client_cmd 26bb1d0
-[ConVars]weapon_debugScript 24eebc0
-[ConVars]weapon_deferredstop_on_natural_inspect_stop 24ee220
-[ConVars]weapon_doIdleForSurvivalMelee 24ee570
-[ConVars]weapon_friendly_fire_prevent_ui 2501b00
-[ConVars]weapon_fxAlias_3pskins 24ef770
-[ConVars]weapon_hide_heirlooms_during_valk_ult 24ee3f0
-[ConVars]weapon_mastery_trials_version 26c34c0
-[ConVars]weapon_meleeButtonPressProtection 26bbf70
-[ConVars]weapon_parentingFixLerp 24f9df0
-[ConVars]weapon_pickup_allow_dupes 26bc4a0
-[ConVars]weapon_poseParamMaxDistance 2503380
-[ConVars]weapon_render_with_fastpath 24eef40
-[ConVars]weapon_setting_autocycle_on_empty 253e8e0
-[ConVars]weapon_sprint_raise_delay 24eec50
-[ConVars]weapons_onehanded_traverse 26bbc10
-[ConVars]weaponx_predicting_client_only_optimization 24ef6e0
-[ConVars]weaponx_smartammo_data_optimization 24f01e0
-[ConVars]wind_dir 2666ec0
-[ConVars]wind_draw_dir 2666e30
-[ConVars]wind_draw_emitters 253f420
-[ConVars]wind_draw_overlap_only 2667100
-[ConVars]wind_draw_volumes 2666f50
-[ConVars]wind_enabled 1f43440
-[ConVars]wind_gust_scale 2666fe0
-[ConVars]wind_override_color 2666800
-[ConVars]wind_override_flags 2666bf0
-[ConVars]wind_override_time 26669b0
-[ConVars]wind_override_volumes 2666890
-[ConVars]wind_speed 2666c80
-[ConVars]wind_speed_multiplier 1f433b0
-[ConVars]wind_speed_multiplier_fx 1f43320
-[ConVars]wind_time 2666920
-[ConVars]window_hint_debug 24e0090
-[ConVars]window_hint_fov_down 268b3f0
-[ConVars]window_hint_fov_horz 26a45d0
-[ConVars]window_hint_fov_up 269de60
-[ConVars]window_hint_keyboard_fov_horz 26a2750
-[ConVars]window_hint_lookahead_time 266df90
-[ConVars]window_hint_max_horz_vel_change_dot 26a67c0
-[ConVars]window_hint_max_vel_change_down 269f320
-[ConVars]window_hint_max_vel_change_up 26a5e60
-[ConVars]window_hint_min_horz_vel 2671e40
-[ConVars]window_hint_permissive_max_horz_vel_change_dot 26a7040
-[ConVars]window_hint_permissive_max_vel_change_down 26a2670
-[ConVars]window_hint_permissive_max_vel_change_up 269cf20
-[ConVars]xlog_tls_allow_vip_upload 24dbfc0
-[ConVars]z_ragdoll_impact_strength 24f67a0
-[ConVars]zipline_check_usable_before_deploy 24ebc50
-[ConVars]zipline_cooldown_apply_cooldown_across_ziplines 24f2c10
-[ConVars]zipline_cooldown_debug 24f29e0
-[ConVars]zipline_cooldown_decay 24f3490
-[ConVars]zipline_cooldown_decay_rate 24f2450
-[ConVars]zipline_cooldown_time_0 24f3a00
-[ConVars]zipline_cooldown_time_1 24f3a90
-[ConVars]zipline_cooldown_time_2 24f3b20
-[ConVars]zipline_cooldown_time_3 24f3bb0
-[ConVars]zipline_cooldown_time_4 24f3c40
-[ConVars]zipline_detection_player_in_front 24f24e0
-[ConVars]zipline_disable_weapons_during_mount 24f2570
-[ConVars]zipline_disallow_in_oob_trigger 24ea940
-[ConVars]zipline_fade_dist 24f1da0
-[ConVars]zipline_path_drawAllExtents 24f1b20
-[ConVars]zipline_path_mount_debug 24f3400
-[ConVars]zipline_path_mount_debug_crosshair_dist 24f1470
-[ConVars]zipline_ping_enabled 24f1bb0
-[ConVars]zipline_roll_debug_draw 2501730
-[ConVars]zipline_roll_minSpeedFraction 2501a70
-[ConVars]zipline_slope_offset_correction 24f2a70
-[ConVars]zipline_slope_offset_correction_debug 24f2600
-[ConVars]zipline_subdiv_lod_dist_base 24f1ec0
-[ConVars]zipline_subdiv_slices 253cb50
-[ConVars]zipline_subdiv_slices_lod 24f42d0
-[ConVars]zipline_subdiv_stacks 2535710
-[ConVars]zipline_use_range 24f0780
-[ConVars]ziprail_3pBank 24f45d0
-[ConVars]ziprail_3pBank_Anim 24f3d60
-[ConVars]ziprail_adaptive_stackSubdiv 24f1c80
-[ConVars]ziprail_duck_detach 24f2690
-[ConVars]ziprail_grapple_disable 24f2e50
-[ConVars]ziprail_max_tolerance_distance 24f2ca0
-[ConVars]ziprail_max_tolerance_value 24f1a70
-[ConVars]ziprail_mid_mount 24f0e80
-[ConVars]ziprail_path_extends_fudge_factor 24f4430
-[ConVars]ziprail_path_max_subSectionLen 24f2dc0
-[ConVars]ziprail_path_section_tolerance 24f0910
-[ConVars]ziprail_roll_debug 2501860
-[ConVars]ziprail_roll_strength 24fee90
-[ConVars]ziprail_rope_render 24f4380
-[ConVars]ziprail_shape 24f27b0
-[ConVars]ziprail_shape_bigAngleStep 2536e10
-[ConVars]ziprail_speed_change 24f1d10
-[ConVars]ziprail_speed_debug 24f2b80
-[ConVars]ziprail_subdiv_lod_dist_base 24f1e30
-[ConVars]ziprail_subdiv_stacks 24f2720
-[ConVars]ziprail_subdiv_stacks_lod 24f2950
-[ConVars]ziprail_width 24f2840
+[Mics] 
+CHLClient = 0x2801a48
+ClientState = 0x1e1bd60
+InputSystem = 0x1ed3280
+LevelName = 0x1e1bf3c
+LocalPlayer = 0x2670e18
+ModelNames = 0x1e45098
+NameList = 0x834e7e0
+NetworkVarTablePtr = 0x85ccf00
+SignonState = 0x1e1be24
+ViewMatrix = 0x11a390
+ViewRender = 0x3fd0430
+WeaponNames = 0x3fd1ad8
+WeaponSettingsMeta_base = 0x1928
+camera_origin = 0x1fcc
+cinput = 0x253e970
+commandNumber = 0x1e44b74
+highlightSetting = 0x6041bb0
+lastVisibleTime = 0x1a94
+localplayerHandle = 0x24fe3c0
+m_scriptName = 0x590
+m_vecAbsOrigin = 0x16c
+m_viewangle = 0x2618
+m_weaponClassName = 0x18e0
+netChannel = 0x1e1bdc8
+observerList = 0x58d6af8
+observer_index = 0x974
+studioHdr = 0x1000
+
+[Buttons] 
++attack = 0x3fd1ba8
++backward = 0x3fd25a0
++break = 0x3fd2558
++camin = 0x84f7270
++camout = 0x834f9a0
++campitchdown = 0x834f980
++campitchup = 0x84f7290
++camyawleft = 0x8350260
++camyawright = 0x834f990
++commandermousemove = 0x3fd1b28
++dodge = 0x3fd24a0
++duck = 0x3fd2538
++forward = 0x3fd2578
++graph = 0x3fd2378
++jump = 0x3fd2448
++klook = 0x3fd1b48
++left = 0x3fd2400
++lookdown = 0x3fd2458
++lookup = 0x3fd2548
++melee = 0x3fd1b38
++movedown = 0x3fd23f0
++moveleft = 0x3fd2568
++moveright = 0x3fd2590
++moveup = 0x3fd1b58
++offhand0 = 0x3fd1b68
++offhand1 = 0x3fd2420
++offhand2 = 0x3fd2490
++offhand3 = 0x3fd24d0
++offhand4 = 0x3fd24e8
++pause_menu = 0x3fd2410
++ping = 0x3fd1b78
++reload = 0x3fd23a8
++right = 0x3fd2438
++scriptCommand3 = 0x3fd2388
++speed = 0x3fd1b10
++strafe = 0x3fd23b8
++toggle_duck = 0x3fd2368
++toggle_zoom = 0x3fd2398
++use = 0x3fd24b0
++useAndReload = 0x3fd2518
++use_alt = 0x3fd2358
++use_long = 0x3fd2528
++variableScopeToggle = 0x3fd23e0
++walk = 0x3fd2508
++weaponCycle = 0x3fd2468
++weapon_discard = 0x3fd24f8
++zoom = 0x3fd24c0
+
+[RecvTable] 
+[DT_AI_BaseNPC]
+ = 0x698
+DT_AI_BaseNPC = 0x0
+m_aiNetworkFlags = 0x1e7c
+m_aiSettingsIndex = 0x1ea4
+m_aiSprinting = 0x1e5a
+m_fireteamSlotIndex = 0x1ce0
+m_hGroundEntity = 0x320
+m_iHealth = 0x324
+m_iMaxHealth = 0x470
+m_inventory = 0x1988
+m_isHologram = 0x1e80
+m_localAngles = 0x384
+m_localOrigin = 0x18
+m_subclass = 0x1ea8
+m_title = 0x1e81
+statuseffectsdata_npc = 0x0
+
+[DT_AI_BaseNPC_StatusEffects]
+m_statusEffectsEndlessNPCNV = 0x1d30
+m_statusEffectsTimedNPCNV = 0x1ce8
+
+[DT_AmbientGeneric]
+DT_AmbientGeneric = 0x0
+m_hasPolylineSegments = 0x991
+m_isEnabled = 0x990
+m_networkTableSoundID = 0x994
+m_networkedSegmentEndpointWorldSpace = 0x99c
+m_radius = 0x978
+
+[DT_AnimRelativeData]
+m_animBlendBeginTime = 0x60
+m_animBlendEndTime = 0x64
+m_animEntityToRefOffset = 0x44
+m_animEntityToRefRotation = 0x50
+m_animIgnoreParentRot = 0x70
+m_animInitialCorrectPos = 0x28
+m_animInitialCorrectRot = 0x34
+m_animInitialPos = 0x0
+m_animInitialRot = 0x18
+m_animInitialVel = 0xc
+m_animMotionMode = 0x74
+m_animScriptModel = 0x6c
+m_animScriptSequence = 0x68
+
+[DT_BaseAnimating]
+DT_BaseAnimating = 0x0
+m_SequenceTransitioner = 0xb50
+m_animActive = 0x9a0
+m_animAutoPlayBeginTime = 0x99c
+m_animCollisionEnabled = 0x9a3
+m_animFrozen = 0x1e
+m_animModelIndex = 0x14
+m_animNetworkFlags = 0x998
+m_animPlantingEnabled = 0x9a5
+m_animPlaybackRate = 0x10
+m_animRelativeData = 0x9a8
+m_animRelativeToGroundEnabled = 0x9a4
+m_bClientSideRagdoll = 0x1f
+m_bSequenceFinished = 0xe34
+m_camoIndex = 0xd90
+m_flEstIkOffset = 0x8c
+m_flModelScale = 0xe40
+m_flPoseParameter = 0x2c
+m_flSkyScaleEndTime = 0xb34
+m_flSkyScaleEndValue = 0xb2c
+m_flSkyScaleStartTime = 0xb30
+m_flSkyScaleStartValue = 0xb28
+m_itemFlavorGUID = 0xd74
+m_lockedAnimDeltaYaw = 0xe38
+m_nBody = 0xd8c
+m_nForceBone = 0xdd0
+m_nRagdollImpactFXTableId = 0xb24
+m_nSkin = 0xd80
+m_passDamageToParent = 0x6c4
+m_predictedAnimEventData = 0xaa0
+m_skinMod = 0xd84
+m_syncingWithEntity = 0xa98
+m_vecForce = 0x20
+serveranimdata = 0x0
+
+[DT_BaseAnimatingOverlay]
+DT_BaseAnimatingOverlay = 0x0
+m_animOverlayAnimTime = 0x100
+m_animOverlayFadeInDuration = 0x124
+m_animOverlayFadeOutDuration = 0x148
+m_animOverlayIsActive = 0x8
+m_animOverlayModelIndex = 0x80
+m_animOverlayOrder = 0xdc
+m_animOverlayPlaybackRate = 0x5c
+m_animOverlaySequence = 0xa4
+m_animOverlayStartCycle = 0x38
+m_animOverlayStartTime = 0x14
+m_animOverlayWeight = 0xb8
+overlay_vars = 0x0
+
+[DT_BaseCombatCharacter]
+DT_BaseCombatCharacter = 0x0
+bcc_localdata = 0x0
+m_akimboShouldAltFire = 0x1a91
+m_akimboState = 0x1a90
+m_allowHudSelectionWhileWeaponsDisabled = 0x1a8a
+m_bIsPlayerOverheating = 0x1940
+m_cloakEndTime = 0x1bc
+m_cloakFadeInDuration = 0x1c8
+m_cloakFadeInEndTime = 0x1c0
+m_cloakFadeOutStartTime = 0x1c4
+m_cloakFlickerAmount = 0x1cc
+m_cloakFlickerEndTime = 0x1d0
+m_contextAction = 0x1aa4
+m_deathVelocity = 0x35c
+m_hudInfo_visibilityTestAlwaysPasses = 0x1a92
+m_lastCycleSlot = 0x1a0c
+m_lastFiredTime = 0x1960
+m_lastFiredWeapon = 0x1964
+m_lastSharedEnergyRegenTime = 0x1978
+m_lastSharedEnergyTakeTime = 0x1984
+m_latestNonOffhandWeapons = 0x1a04
+m_latestPrimaryWeapons = 0x19f4
+m_latestPrimaryWeaponsIndexZeroOrOne = 0x19fc
+m_minimapData = 0x848
+m_nameVisibilityFlags = 0x898
+m_phaseShiftTimeEnd = 0x1ad8
+m_phaseShiftTimeStart = 0x1ad4
+m_phaseShiftType = 0x1ad0
+m_playerOverheatValue = 0x1944
+m_raiseFromMeleeEndTime = 0x1968
+m_selectedWeapons = 0x19f0
+m_sharedEnergy = 0x196c
+m_sharedEnergyLockoutThreshold = 0x1974
+m_sharedEnergyMax = 0x1970
+m_sharedEnergyRegenDelay = 0x1980
+m_sharedEnergyRegenRate = 0x197c
+m_shieldHealth = 0x190
+m_shieldHealthMax = 0x194
+m_showActiveWeapon3p = 0x10
+m_squadID = 0x340
+m_targetInfoPingValue = 0x1c70
+m_teamMemberIndex = 0x33c
+m_timeLastGeneratedPlayerOverheat = 0x1950
+m_vecViewOffset.x = 0x48
+m_vecViewOffset.y = 0x4c
+m_vecViewOffset.z = 0x50
+m_weaponAmmoRegenDisabled = 0x1a8b
+m_weaponAmmoRegenDisabledRefCount = 0x1a8c
+m_weaponDelayEnableTime = 0x1a18
+m_weaponDisabledFlags = 0x1a79
+m_weaponDisabledInScript = 0x1a1c
+m_weaponGettingSwitchedOut = 0x8
+m_weaponInventorySlotLockedFlags = 0x1a7a
+m_weaponPermission = 0x1a14
+m_weaponTypeDisabledFlags = 0x1a7c
+m_weaponTypeDisabledRefCount = 0x1a80
+
+[DT_BaseEntity]
+HighlightSettings = 0x0
+m_Collision = 0x3b8
+m_CollisionGroup = 0x438
+m_attachmentLerpEndTime = 0x738
+m_attachmentLerpStartAngles = 0x748
+m_attachmentLerpStartOrigin = 0x73c
+m_attachmentLerpStartTime = 0x734
+m_bIsSoundCodeControllerValueSet = 0x370
+m_bRenderWithViewModels = 0x39c
+m_baseTakeDamage = 0x6bc
+m_bossPlayer = 0x144
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_clIntensity = 0x84
+m_clrRender = 0x80
+m_collideWithOwner = 0x440
+m_contents = 0x43c
+m_dissolveEffectEntityHandle = 0x814
+m_exclusiveUseEnt = 0x620
+m_fEffects = 0x54
+m_fadeDist = 0x764
+m_firstChildEntityLink = 0x928
+m_firstParentEntityLink = 0x92c
+m_flSoundCodeControllerValue = 0x374
+m_grade = 0x344
+m_hOwnerEntity = 0x398
+m_holdUsePrompt = 0x610
+m_iName = 0x481
+m_iSignifierName = 0x478
+m_iTeamNum = 0x334
+m_ignoreParentRotation = 0x2dc
+m_ignorePredictedTriggerFlags = 0x348
+m_instanceNameIndex = 0x58c
+m_invulnerableToDamageCount = 0x6c0
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_meleeResponseFlags = 0x2d8
+m_nModelIndex = 0x60
+m_nRenderFX = 0x39d
+m_nRenderMode = 0x3a9
+m_networkedFlags = 0x2d0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_passThroughDirection = 0x358
+m_passThroughFlags = 0x350
+m_passThroughThickness = 0x354
+m_phaseShiftFlags = 0x6b8
+m_pressUsePrompt = 0x618
+m_realmsBitMask = 0x930
+m_scriptNameIndex = 0x588
+m_usableDistanceOverride = 0x82c
+m_usableFOV = 0x830
+m_usablePriority = 0x828
+m_usableType = 0x5c
+m_usePromptSize = 0x834
+m_useRefractionCloak = 0x3ac
+m_visibilityFlags = 0x32c
+m_wantsScopeHighlight = 0x2cc
+movecollide = 0x0
+moveparent = 0x30
+movetype = 0x0
+predictable_id = 0x0
+
+[DT_BaseGrenade]
+DT_BaseGrenade = 0x0
+m_DmgRadius = 0x3024
+m_baseTakeDamage = 0x6bc
+m_doesExplode = 0x303c
+m_grenadeStatusFlags = 0x3038
+m_invulnerableToDamageCount = 0x6c0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_ziplineGrenadeExpectedEndPosition = 0x30a0
+moveparent = 0x30
+
+[DT_BaseToggle]
+DT_BaseToggle = 0x0
+m_flMoveTargetTime = 0x994
+m_movementType = 0x990
+m_vecFinalDest = 0x984
+
+[DT_BaseViewModel]
+m_animFrozen = 0x1e
+m_animModelIndex = 0x14
+m_animOverlayAnimTime = 0x100
+m_animOverlayFadeInDuration = 0x124
+m_animOverlayFadeOutDuration = 0x148
+m_animOverlayIsActive = 0x8
+m_animOverlayModelIndex = 0x80
+m_animOverlayOrder = 0xdc
+m_animOverlayPlaybackRate = 0x5c
+m_animOverlaySequence = 0xa4
+m_animOverlayStartCycle = 0x38
+m_animOverlayStartTime = 0x14
+m_animOverlayWeight = 0xb8
+m_animPlaybackRate = 0x10
+m_animSequence = 0x1c
+m_animStartCycle = 0xc
+m_animStartTime = 0x8
+m_attackEventStartTime = 0x1f6c
+m_bBlockEventLayer = 0x1f60
+m_bSequenceFinished = 0xe34
+m_clrRender = 0x80
+m_eventSoundFadeStart = 0x1f70
+m_fEffects = 0x54
+m_fireDeferredStopsStartTime = 0xda0
+m_flModelScale = 0xe40
+m_hWeapon = 0x1f64
+m_isAdsTransition = 0x1f61
+m_nBody = 0xd8c
+m_nModelIndex = 0x60
+m_nRenderMode = 0x3a9
+m_nResetEventsStartTime = 0xd98
+m_nextFidgetTime = 0x1f74
+m_overlayEventParity = 0x1711
+m_projectileIsVisible = 0x19c4
+m_tracerAttachments = 0x1f68
+m_tracerAttachmentsScoped = 0x1f6a
+m_viewModelOwner = 0x19c0
+overlay_vars = 0x0
+
+[DT_BreachableGlassManager]
+m_iHealths = 0x970
+m_managerIdx = 0xa38
+m_realmsBitMask = 0x930
+
+[DT_CPropDoor]
+HighlightSettings = 0x0
+m_angle = 0x16b4
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_closedAngle = 0x16b0
+m_fEffects = 0x54
+m_iTeamNum = 0x334
+m_interactingPlayer = 0x1718
+m_interactingPlayerWantsOpen = 0x171c
+m_isLocked = 0x16c4
+m_isReinforced = 0x16c5
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_meleeResponseFlags = 0x2d8
+m_nModelIndex = 0x60
+m_nSkin = 0xd80
+m_networkedFlags = 0x2d0
+m_oppositeDoor = 0x16c8
+m_skinMod = 0xd84
+m_startAngle = 0x16b8
+m_startAngleVel = 0x16bc
+m_startMoveTime = 0x16c0
+m_usableType = 0x5c
+
+[DT_CascadeLight]
+m_LightColor = 0x99f
+m_bEnableShadows = 0x99d
+m_bEnabled = 0x99c
+m_cloudMaskName = 0x9a3
+m_cloudOffset = 0xaa8
+m_cloudScale = 0xab4
+m_envLightShadowDirection = 0x988
+m_shadowDirection = 0x970
+
+[DT_CollisionProperty]
+m_collisionDetailLevel = 0x2e
+m_nSolidType = 0x2c
+m_nSurroundType = 0x3c
+m_triggerBloat = 0x2d
+m_usSolidFlags = 0x28
+m_vecMaxs = 0x1c
+m_vecMins = 0x10
+m_vecSpecifiedSurroundingMaxs = 0x54
+m_vecSpecifiedSurroundingMins = 0x48
+
+[DT_ColorCorrection]
+m_MaxFalloff = 0x980
+m_MinFalloff = 0x97c
+m_bClientSide = 0xa9a
+m_bEnabled = 0xa98
+m_bExclusive = 0xa9b
+m_bMaster = 0xa99
+m_flCurWeight = 0x990
+m_flFadeInDuration = 0x984
+m_flFadeOutDuration = 0x988
+m_flMaxWeight = 0x98c
+m_hOwnerEntity = 0x398
+m_localOrigin = 0x970
+m_netLookupFilename = 0x994
+
+[DT_DeathBoxProp]
+ = 0x698
+m_Collision = 0x3b8
+m_CollisionGroup = 0x438
+m_bAnimateInStaticShadow = 0x1602
+m_bUseHitboxesForRenderBox = 0x1601
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_customOwnerName = 0x1680
+m_exclusiveUseEnt = 0x620
+m_fEffects = 0x54
+m_fadeDist = 0x764
+m_firstChildEntityLink = 0x928
+m_firstParentEntityLink = 0x92c
+m_hOwnerEntity = 0x398
+m_holdUsePrompt = 0x610
+m_iSignifierName = 0x478
+m_iTeamNum = 0x334
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_meleeResponseFlags = 0x2d8
+m_nModelIndex = 0x60
+m_nSkin = 0xd80
+m_networkedFlags = 0x2d0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_phaseShiftFlags = 0x6b8
+m_pressUsePrompt = 0x618
+m_realmsBitMask = 0x930
+m_scriptNameIndex = 0x588
+m_scriptNetData = 0x69c
+m_usableDistanceOverride = 0x82c
+m_usableFOV = 0x830
+m_usablePriority = 0x828
+m_usableType = 0x5c
+m_usePromptSize = 0x834
+m_visibilityFlags = 0x32c
+moveparent = 0x30
+
+[DT_DynamicBreachableGlass]
+DT_DynamicBreachableGlass = 0x0
+m_deathTime = 0x1600
+m_iHealth = 0x324
+m_shape = 0x1610
+
+[DT_DynamicProp]
+ = 0x698
+DT_DynamicProp = 0x0
+m_bAnimateInStaticShadow = 0x1602
+m_bUseHitboxesForRenderBox = 0x1601
+
+[DT_DynamicPropLightweight]
+m_Collision = 0x3b8
+m_CollisionGroup = 0x438
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_fEffects = 0x54
+m_fadeDist = 0x764
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_meleeResponseFlags = 0x2d8
+m_nModelIndex = 0x60
+m_nSkin = 0xd80
+m_networkedFlags = 0x2d0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_phaseShiftFlags = 0x6b8
+m_skinMod = 0xd84
+m_visibilityFlags = 0x32c
+moveparent = 0x30
+
+[DT_EffectData]
+m_attachmentIdForViewmodel = 0x61
+m_effectEntHandle = 0x4c
+m_effectFlags = 0x30
+m_flMagnitude = 0x58
+m_flRadius = 0x5c
+m_flScale = 0x54
+m_iEffectName = 0x9c
+m_iImpactEffectTableIndex = 0x78
+m_instanceIdx = 0x94
+m_instanceIdxForViewmodel = 0x98
+m_nAttachmentId = 0x60
+m_nColor = 0x7c
+m_nDamageType = 0x64
+m_nOtherEntIndex = 0x68
+m_nSurfaceProp = 0x62
+m_otherEntHandle = 0x50
+m_persistentWeaponEffect = 0x90
+m_scriptCallback = 0x48
+m_sharedInt32_A = 0x70
+m_sharedInt32_B = 0x74
+m_vAngles = 0x24
+m_vNormal = 0x18
+m_vOrigin.x = 0x0
+m_vOrigin.y = 0x4
+m_vOrigin.z = 0x8
+m_vStart.x = 0xc
+m_vStart.y = 0x10
+m_vStart.z = 0x14
+
+[DT_EntityDissolve]
+DT_EntityDissolve = 0x0
+m_flFadeLength = 0x980
+m_flFadeStart = 0x97c
+m_flStartTime = 0x978
+m_isLethal = 0x988
+m_nDissolveType = 0x984
+
+[DT_EntityLinkPage]
+entity = 0xd74
+next = 0x974
+pageIndex = 0x970
+
+[DT_EnvWindShared]
+m_flGustDuration = 0x2c
+m_flInitialWindSpeed = 0x74
+m_flMaxGustDelay = 0x28
+m_flMinGustDelay = 0x24
+m_flStartTime = 0x8
+m_iGustDirChange = 0x30
+m_iInitialWindDir = 0x70
+m_iMaxGust = 0x20
+m_iMaxWind = 0x14
+m_iMinGust = 0x1c
+m_iMinWind = 0x10
+m_iWindSeed = 0xc
+
+[DT_FerroProp]
+ = 0x698
+m_Collision = 0x3b8
+m_CollisionGroup = 0x438
+m_bAnimateInStaticShadow = 0x1602
+m_bUseHitboxesForRenderBox = 0x1601
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_contents = 0x43c
+m_exclusiveUseEnt = 0x620
+m_fEffects = 0x54
+m_fadeDist = 0x764
+m_firstChildEntityLink = 0x928
+m_firstParentEntityLink = 0x92c
+m_flModelScale = 0xe40
+m_hOwnerEntity = 0x398
+m_highlightGenericContexts = 0x295
+m_holdUsePrompt = 0x610
+m_iName = 0x481
+m_iSignifierName = 0x478
+m_iTeamNum = 0x334
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_meleeResponseFlags = 0x2d8
+m_minimapData = 0x848
+m_nModelIndex = 0x60
+m_networkedFlags = 0x2d0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_passThroughDirection = 0x358
+m_passThroughFlags = 0x350
+m_passThroughThickness = 0x354
+m_phaseShiftFlags = 0x6b8
+m_pressUsePrompt = 0x618
+m_realmsBitMask = 0x930
+m_scriptNameIndex = 0x588
+m_usableDistanceOverride = 0x82c
+m_usableFOV = 0x830
+m_usablePriority = 0x828
+m_usableType = 0x5c
+m_usePromptSize = 0x834
+m_visibilityFlags = 0x32c
+moveparent = 0x30
+
+[DT_FuncBrushLightweight]
+m_Collision = 0x3b8
+m_CollisionGroup = 0x438
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_meleeResponseFlags = 0x2d8
+m_nModelIndex = 0x60
+m_networkedFlags = 0x2d0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_visibilityFlags = 0x32c
+moveparent = 0x30
+
+[DT_GlobalNonRewinding]
+m_gameTimescale = 0x974
+m_playerMiscData = 0xd78
+m_playerObserver = 0x978
+
+[DT_GrappleData]
+m_grappleActivateTime = 0x54
+m_grappleAttachTime = 0x5c
+m_grappleAttached = 0x48
+m_grappleAutoAimTarget = 0x64
+m_grappleForcedRetracting = 0x4c
+m_grappleGracePeriodFinished = 0x4d
+m_grappleHasGoodVelocity = 0x68
+m_grappleLastGoodVelocityTime = 0x6c
+m_grappleMeleeTarget = 0x60
+m_grapplePointCount = 0x44
+m_grapplePoints = 0x0
+m_grapplePoints[0] = 0x14
+m_grapplePullTime = 0x58
+m_grapplePulling = 0x49
+m_grappleRetracting = 0x4b
+m_grappleSwingDetachLowSpeed = 0x70
+m_grappleSwingHoldTimeOrRemainingEdgeGrappleReelTime = 0x74
+m_grappleSwinging = 0x4a
+m_grappleUsedPower = 0x50
+m_grappleVel = 0x8
+
+[DT_GrappleHook]
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_grappleZipline = 0x1600
+m_hOwnerEntity = 0x398
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_nModelIndex = 0x60
+m_parentAttachment = 0x34
+m_realmsBitMask = 0x930
+m_visibilityFlags = 0x32c
+moveparent = 0x30
+
+[DT_HighlightSettings]
+m_highlightFadeDuration = 0x2a0
+m_highlightFadeParity = 0x2a8
+m_highlightFocused = 0x29d
+m_highlightGenericContexts = 0x295
+m_highlightTeamBits = 0x1e8
+m_highlightTeamIndex = 0x1d8
+
+[DT_ImportantOnEntSound]
+m_beginTime = 0x978
+m_hAttachedToEntity = 0x974
+m_hSuppressedClient = 0x97c
+m_milesSignal = 0x980
+m_networkTableSoundID = 0x970
+m_selector = 0x988
+
+[DT_InfoPlacementHelper]
+m_localAngles = 0x384
+m_localOrigin = 0x18
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+moveparent = 0x30
+
+[DT_InfoTarget]
+m_bIsSoundCodeControllerValueSet = 0x370
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_firstChildEntityLink = 0x928
+m_firstParentEntityLink = 0x92c
+m_flSoundCodeControllerValue = 0x374
+m_hOwnerEntity = 0x398
+m_iName = 0x481
+m_iSignifierName = 0x478
+m_iTeamNum = 0x334
+m_instanceNameIndex = 0x58c
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_scriptNameIndex = 0x588
+moveparent = 0x30
+
+[DT_Local]
+attackedCount = 0x164
+lastAttacker = 0x160
+m_accelScale = 0x64
+m_airMoveBlockPlaneCount = 0x1a4
+m_airMoveBlockPlaneTime = 0x1a0
+m_airMoveBlockPlanes = 0x0
+m_airMoveBlockPlanes[0] = 0x188
+m_airSlowMoFrac = 0x4c
+m_animNearZ = 0x15c
+m_audio.entIndex = 0x140
+m_audio.localBits = 0x13c
+m_audio.localSound[0] = 0xd8
+m_audio.localSound[1] = 0xe4
+m_audio.localSound[2] = 0xf0
+m_audio.localSound[3] = 0xfc
+m_audio.localSound[4] = 0x108
+m_audio.localSound[5] = 0x114
+m_audio.localSound[6] = 0x120
+m_audio.localSound[7] = 0x12c
+m_audio.soundscapeIndex = 0x138
+m_bAllowAutoMovement = 0x60
+m_bDrawViewmodel = 0x5f
+m_bitsActiveDevices = 0x54
+m_cinematicEventFlags = 0x1ec
+m_continuousUseBlocked = 0x2e8
+m_disableMeleeUntilRelease = 0x1b8
+m_disembarkStartTime = 0x1d4
+m_dodgePowerDelayScale = 0x6c
+m_dodgedInAir = 0x1e
+m_duckToggleOn = 0x5d
+m_ejectStartTime = 0x1d0
+m_fastFalling = 0x1f
+m_flCockpitEntryTime = 0x1cc
+m_flFallVelocity = 0x44
+m_flStepSize = 0x48
+m_flSuitGrapplePower = 0x40
+m_flSuitJumpPower = 0x3c
+m_flSuitPower = 0x38
+m_forceSlide = 0x5c
+m_forceStance = 0x58
+m_forcedDialogueOnly = 0x1f0
+m_groundNormal = 0x2dc
+m_hSkyCamera = 0x84
+m_hotDropImpactTime = 0x1d8
+m_iHideHUD = 0x14
+m_jetpackActivateTime = 0x30
+m_jetpackDeactivateTime = 0x34
+m_jumpPressTime = 0x28
+m_jumpedOffRodeo = 0x1d
+m_lastMantleBoostTime = 0x24
+m_meleeInputIndex = 0x1c0
+m_meleePressTime = 0x1bc
+m_objectiveEndTime = 0x1e8
+m_objectiveEntity = 0x1e4
+m_objectiveIndex = 0x1e0
+m_oneHandedWeaponUsage = 0x1c8
+m_outOfBoundsDeadTime = 0x1dc
+m_playerAnimChargingJump = 0x209
+m_playerAnimDodging = 0x211
+m_playerAnimFirstJumpFrame = 0x210
+m_playerAnimInAirWalk = 0x21c
+m_playerAnimJumpActivity = 0x212
+m_playerAnimJumpStartTime = 0x20c
+m_playerAnimJumping = 0x208
+m_playerAnimLandStartTime = 0x218
+m_playerAnimLanding = 0x214
+m_playerAnimMeleeParity = 0x224
+m_playerAnimMeleeStartTime = 0x228
+m_playerAnimPrevFrameSequenceMotionYaw = 0x220
+m_playerAnimShouldLand = 0x215
+m_playerAnimStationaryGoalFeetYaw = 0x204
+m_playerFloatLookEndTime = 0x2d0
+m_playerFloatLookStartTime = 0x2cc
+m_playerLocalGravityBlendEndDirection = 0x27c
+m_playerLocalGravityBlendEndRotation = 0x26c
+m_playerLocalGravityBlendEndTime = 0x28c
+m_playerLocalGravityBlendStartRotation = 0x25c
+m_playerLocalGravityBlendStartTime = 0x288
+m_playerLocalGravityBlendStrength = 0x290
+m_playerLocalGravityEntity = 0x2c0
+m_playerLocalGravityLineEnd = 0x2b4
+m_playerLocalGravityLineEndEntity = 0x2c8
+m_playerLocalGravityLineStart = 0x2a8
+m_playerLocalGravityLineStartEntity = 0x2c4
+m_playerLocalGravityPoint = 0x29c
+m_playerLocalGravityStrength = 0x294
+m_playerLocalGravityType = 0x298
+m_powerRegenRateScale = 0x68
+m_prevJumpPressTime = 0x2c
+m_queuedGrappleMeleeTime = 0x1ac
+m_queuedMeleePressTime = 0x1a8
+m_resetDuckToggle = 0x5e
+m_skybox3d.fog.HDRColorScale = 0xb4
+m_skybox3d.fog.botAlt = 0x90
+m_skybox3d.fog.densityScale = 0xac
+m_skybox3d.fog.dirColor = 0xbc
+m_skybox3d.fog.dirColorStr = 0xa4
+m_skybox3d.fog.direction = 0xc0
+m_skybox3d.fog.distColor = 0xb8
+m_skybox3d.fog.distColorStr = 0xa0
+m_skybox3d.fog.distOffset = 0xa8
+m_skybox3d.fog.enable = 0xd2
+m_skybox3d.fog.halfAngleDeg = 0xb0
+m_skybox3d.fog.halfDistBot = 0x98
+m_skybox3d.fog.halfDistTop = 0x9c
+m_skybox3d.fog.topAlt = 0x94
+m_skybox3d.scale = 0x88
+m_skybox3d.useWorldFog = 0x8c
+m_superJumpsUsed = 0x18
+m_titanBubbleShieldTime = 0x1f8
+m_titanBuildTime = 0x1f4
+m_titanDisembarkEnabled = 0x1fd
+m_titanEmbarkEnabled = 0x1fc
+m_trackedChildProjectileCount = 0x1c4
+m_useEnt = 0x2ec
+m_usedWallHighJump = 0x20
+m_voicePackIndex = 0x200
+m_wallrunFromJetpack = 0x2d8
+m_wallrunLatestFloorHeight = 0x2d4
+m_wasClimbingIntoMantle = 0x1c
+predictableFlags = 0x50
+
+[DT_LootGrabber]
+DT_LootGrabber = 0x0
+m_impactEffectColorID = 0x1680
+m_lootBeingGrabbed = 0x1688
+m_lootGrabDist = 0x168c
+m_lootGrabberType = 0x1682
+m_minimapData = 0x848
+
+[DT_MTXUserInfoEntity]
+DT_MTXUserInfoEntity = 0x0
+data0 = 0x970
+data1 = 0x15ec
+
+[DT_MinimapBaseEntityData]
+customState = 0x48
+flags = 0x40
+objectScale = 0x4c
+visibilityDefaultFlag = 0x0
+visibilityShowFlag = 0x20
+zOrder = 0x44
+
+[DT_Missile]
+DT_Missile = 0x0
+m_hSpecificTarget = 0x3074
+m_targetPosition = 0x3084
+m_useTargetPosition = 0x3090
+
+[DT_ParticleSystem]
+m_bActive = 0x979
+m_bForceRenderAlways = 0x97b
+m_bInSkybox = 0x985
+m_bLOSBlockScan = 0x98e
+m_bPlaySounds = 0xa44
+m_controlPoint1AttachmentId = 0x9f8
+m_controlPointAttachTypes = 0x9e4
+m_enemyControlPoint = 0x98c
+m_enemyControlPointOverride = 0x98d
+m_fEffects = 0x54
+m_flStartTime = 0x97c
+m_hControlPointEnts = 0x9d0
+m_hOwnerEntity = 0x398
+m_iEffectIndex = 0x970
+m_iTeamNum = 0x334
+m_killForReplay = 0x986
+m_localAngles = 0x384
+m_localOrigin = 0x18
+m_nStopType = 0x974
+m_parentAttachType = 0xa04
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_realmsBitMask = 0x930
+m_soundSuffix = 0xa48
+m_vServerControlPointColorIds = 0x9fd
+m_vServerControlPoints = 0x994
+m_visibilityFlags = 0x32c
+moveparent = 0x30
+
+[DT_PhysicsProp]
+DT_PhysicsProp = 0x0
+m_bAwake = 0x1608
+m_collisionMaxs = 0x164c
+m_collisionMins = 0x1640
+m_fMass = 0x163c
+m_iPhysicsMode = 0x1638
+m_ignoresCollisionWithCombatCharacters = 0x1609
+m_isRolling = 0x160a
+m_networkTableRollSoundId = 0x160c
+
+[DT_Player]
+ = 0x0
+DT_Player = 0x0
+localdata = 0x0
+m_ammoPoolCapacity = 0x262c
+m_fFlags = 0xc8
+m_flMaxspeed = 0x328
+m_grapple = 0x2d90
+m_grappleActive = 0x2e18
+m_hGroundEntity = 0x320
+m_iHealth = 0x324
+m_iMaxHealth = 0x470
+m_inventory = 0x1988
+m_jumpPadDebounceExpireTime = 0x34c
+m_lastLaunchTriggerTouched = 0x3238
+m_lastTimeKilledOtherPlayer = 0x4c58
+m_launchCount = 0x3240
+m_launcherAirControlActive = 0x3244
+m_melee = 0x3370
+m_overlayEventParity = 0x1711
+m_skywardObstacleAvoidanceEndPos = 0x4a6c
+m_title = 0x4258
+m_vecAbsOrigin = 0x0
+pl = 0x25a8
+teamshareddata = 0x0
+
+[DT_PlayerMelee_PlayerData]
+attackActive = 0xc
+attackHitEntity = 0x14
+attackHitEntityTime = 0x18
+attackLastHitNonWorldEntity = 0x1c
+attackRecoveryShouldBeQuick = 0xd
+attackStartTime = 0x10
+isSprintAttack = 0xe
+lungeBoost = 0x28
+meleeAttackParity = 0x8
+pendingMeleePress = 0x24
+previousMainOffhand = 0x34
+scriptedState = 0x20
+
+[DT_PlayerState]
+currentClass = 0x10
+deadflag = 0x6c
+onDeathClass = 0x20
+requestedClass = 0x18
+
+[DT_PlayerWaypoint]
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_hOwnerEntity = 0x398
+m_iSignifierName = 0x478
+m_iTeamNum = 0x334
+m_localOrigin = 0xc
+m_networkedFlags = 0x2d0
+m_objectivePackedInt = 0xa58
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_realmsBitMask = 0x930
+m_teamMemberIndex = 0x33c
+m_visibilityFlags = 0x32c
+m_waypointAssetA = 0xb28
+m_waypointAssetB = 0xba8
+m_waypointBitfield = 0x974
+m_waypointCustomType = 0xa80
+m_waypointEnts = 0x978
+m_waypointFloats = 0xa38
+m_waypointGameTimes = 0x9f8
+m_waypointGroupFlags = 0xa7c
+m_waypointGroupName = 0xa5c
+m_waypointInts = 0xa18
+m_waypointStringA = 0xaa0
+m_waypointStringB = 0xae0
+m_waypointType = 0x970
+m_waypointVectors = 0x998
+moveparent = 0x30
+
+[DT_PointCamera]
+DT_PointCamera = 0x0
+m_FOV = 0x9d0
+m_bActive = 0xa11
+m_bFogEnable = 0xa10
+
+[DT_PortalPointPush]
+DT_PortalPointPush = 0x0
+m_bEnabled = 0x970
+m_flConeOfInfluence = 0x980
+m_flInnerRadius = 0x97c
+m_flMagnitude = 0x974
+m_flRadius = 0x978
+
+[DT_PostProcessController]
+DT_PostProcessController = 0x0
+m_bMaster = 0x988
+m_flPostProcessParameters = 0x970
+
+[DT_PredictedAnimEventData]
+m_predictedAnimEventCount = 0x58
+m_predictedAnimEventIndices = 0x30
+m_predictedAnimEventModel = 0x64
+m_predictedAnimEventSequence = 0x60
+m_predictedAnimEventTarget = 0x5c
+m_predictedAnimEventTimes = 0x8
+m_predictedAnimEventsReadyToFireTime = 0x68
+
+[DT_Projectile]
+m_CollisionGroup = 0x438
+m_PredictableID = 0x6cc
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_destructionDistance = 0x1608
+m_forceAdjustToGunBarrelDisabled = 0x1601
+m_hOwnerEntity = 0x398
+m_iTeamNum = 0x334
+m_impactEffectTable = 0x162c
+m_launchOrigin = 0x1654
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_modBitfield = 0x1610
+m_nModelIndex = 0x60
+m_networkedFlags = 0x2d0
+m_overrideMods = 0x161c
+m_passThroughDepthTotal = 0x160c
+m_passThroughModCount = 0x163c
+m_passThroughPoints = 0x1640
+m_preModdedTrailEffectIndices1p = 0x164c
+m_preModdedTrailEffectIndices3p = 0x1650
+m_projectileCreationTimeServer = 0x1634
+m_projectileTrailIndex = 0x1628
+m_realmsBitMask = 0x930
+m_reducedEffects = 0x1630
+m_vecVelocity = 0x378
+m_weaponClassIndex = 0x1604
+m_weaponDataIsSet = 0x1600
+m_weaponSource = 0x1638
+
+[DT_PropSurvival]
+m_Collision = 0x3b8
+m_CollisionGroup = 0x438
+m_ammoInClip = 0x1600
+m_camoIndex = 0xd90
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_customScriptInt = 0x1604
+m_fEffects = 0x54
+m_iSignifierName = 0x478
+m_itemFlavorGUID = 0xd74
+m_localAngles = 0x384
+m_localOrigin = 0xc
+m_meleeResponseFlags = 0x2d8
+m_modBitfield = 0x1614
+m_nBody = 0xd8c
+m_nModelIndex = 0x60
+m_nSkin = 0xd80
+m_networkedFlags = 0x2d0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_realmsBitMask = 0x930
+m_skinMod = 0xd84
+m_survivalPropFadeDist = 0x1624
+m_survivalProperty = 0x1608
+m_usableDistanceOverride = 0x82c
+m_usableFOV = 0x830
+m_usablePriority = 0x828
+m_usableType = 0x5c
+m_usePromptSize = 0x834
+m_visibilityFlags = 0x32c
+m_weaponNameIndex = 0x1610
+moveparent = 0x30
+
+[DT_RopeKeyframe]
+m_RopeFlags = 0xad8
+m_Slack = 0xdb4
+m_TextureScale = 0xdb8
+m_Width = 0xdcc
+m_bConstrainBetweenEndpoints = 0xe60
+m_clrRender = 0x80
+m_constraintIterations = 0xdac
+m_endOffset = 0xa80
+m_fLockedPoints = 0xdbc
+m_fadeDist = 0x764
+m_flScrollSpeed = 0xad4
+m_hEndPoint = 0xd68
+m_hOwnerEntity = 0x398
+m_hPrevPoint = 0xd6c
+m_hStartPoint = 0xd64
+m_iEndAttachment = 0xd71
+m_iRopeMaterialModelIndex = 0xadc
+m_iStartAttachment = 0xd70
+m_localOrigin = 0x18
+m_lockDirectionCutoffLength = 0xdc0
+m_lockDirectionStrength = 0xdc4
+m_nChangeCount = 0xdc8
+m_nRenderMode = 0x3a9
+m_nSegments = 0xd60
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_ropeDampening = 0xdb0
+m_ropeLength = 0xda4
+m_ropeZiplineAutoDetachDistance = 0x970
+m_startOffset = 0xa74
+m_subdivSliceCount = 0xda0
+m_subdivStackCount = 0xd9c
+m_visibilityFlags = 0x32c
+m_wiggleEndTime = 0xa90
+m_wiggleFadeStartTime = 0xa8c
+m_wiggleMagnitude = 0xa98
+m_wiggleMaxLen = 0xa94
+m_wiggleSpeed = 0xa9c
+m_ziplineMoveSpeedScale = 0xa70
+m_ziplineSagEnable = 0x974
+m_ziplineSagHeight = 0x978
+moveparent = 0x30
+
+[DT_ScriptMover]
+DT_ScriptMover = 0x0
+m_initialAngles = 0x1854
+m_initialOrigin = 0x1848
+m_localAngles = 0x384
+m_parentAttachment = 0x34
+m_vecAngVelocity = 0x148
+m_vecVelocity = 0x378
+
+[DT_ScriptMoverLightweight]
+m_RotateToAnglesEnd = 0x181c
+m_RotateToAnglesStart = 0x1810
+m_fEffects = 0x54
+m_fadeDist = 0x764
+m_initialAngles = 0x1854
+m_initialOrigin = 0x1848
+m_meleeResponseFlags = 0x2d8
+m_moveGravity = 0x1798
+m_moveModeIsLocal = 0x1871
+m_moveModeNonPhysics = 0x1868
+m_moveToEndPos = 0x1770
+m_moveToStartPos = 0x1764
+m_moveToTimeEaseIn = 0x1784
+m_moveToTimeEaseOut = 0x1788
+m_moveToTimeEnd = 0x1780
+m_moveToTimeStart = 0x177c
+m_moveVelocity = 0x178c
+m_moverNetworkAngularVelocity = 0x148
+m_moverNetworkCellX = 0x0
+m_moverNetworkCellY = 0x4
+m_moverNetworkCellZ = 0x8
+m_moverNetworkLinearVelocity = 0x378
+m_moverNetworkLocalAngles = 0x384
+m_moverNetworkLocalOrigin = 0xc
+m_nModelIndex = 0x60
+m_networkedFlags = 0x2d0
+m_parentAttachment = 0x34
+m_parentAttachmentModel = 0x758
+m_rotateAxis = 0x1838
+m_rotateModeIsLocal = 0x1872
+m_rotateModeNonPhysics = 0x186c
+m_rotateSpeed = 0x1844
+m_rotateToTimeEaseIn = 0x1830
+m_rotateToTimeEaseOut = 0x1834
+m_rotateToTimeEnd = 0x182c
+m_rotateToTimeStart = 0x1828
+m_scriptNameIndex = 0x588
+m_trainAcceleration = 0x17c0
+m_trainAutoRollLookAheadDistance = 0x1804
+m_trainAutoRollMax = 0x1808
+m_trainAutoRollStrength = 0x1800
+m_trainBreadcrumb = 0x17d8
+m_trainBreadcrumbBegin = 0x17f8
+m_trainBreadcrumbCount = 0x17fc
+m_trainCurrentNode = 0x17b0
+m_trainFollowDistance = 0x17d4
+m_trainFollowMover = 0x17d0
+m_trainGoalSpeed = 0x17bc
+m_trainInitialSpeed = 0x17b8
+m_trainLastDistance = 0x17c8
+m_trainLastNode = 0x17c4
+m_trainLastSpeed = 0x17cc
+m_trainPitchMax = 0x1860
+m_trainSimulateBeforeMeEntity = 0x180c
+m_trainStartDistance = 0x17ac
+m_trainStartTime = 0x17a4
+m_trainStopNode = 0x17b4
+m_trainStopTime = 0x17a8
+m_useNonPhysicsMoveInterpolation = 0x1884
+moveparent = 0x30
+
+[DT_ScriptMoverTrainNode]
+m_cellX = 0x0
+m_cellY = 0x4
+m_cellZ = 0x8
+m_firstChildEntityLink = 0x928
+m_firstParentEntityLink = 0x92c
+m_localOrigin = 0xc
+m_numSmoothPoints = 0x970
+m_perfectCircularRotation = 0x97c
+m_scriptNameIndex = 0x588
+m_tangentType = 0x978
+m_trainNodeMakeSmoothPointsParity = 0x974
+
+[DT_ScriptNetData_SNDC_DEATH_BOX]
+DT_ScriptNetData_SNDC_DEATH_BOX = 0x0
+m_bools = 0x0
+m_bools[0] = 0xc80
+m_entities = 0x0
+m_entities[0] = 0xcd4
+m_float32s = 0x0
+m_float32s[0] = 0xcc8
+m_int32s = 0x0
+m_int32s[0] = 0xc90
+m_ranges = 0x0
+m_ranges[0] = 0xc86
+
+[DT_ScriptNetData_SNDC_GLOBAL]
+DT_ScriptNetData_SNDC_GLOBAL = 0x0
+m_bools = 0x0
+m_bools[0] = 0xc80
+m_entities = 0x0
+m_entities[0] = 0xd90
+m_float32s = 0x0
+m_float32s[0] = 0xd28
+m_int32s = 0x0
+m_int32s[0] = 0xce0
+m_ranges = 0x0
+m_ranges[0] = 0xc92
+
+[DT_ScriptNetData_SNDC_GLOBAL_NON_REWIND]
+DT_ScriptNetData_SNDC_GLOBAL_NON_REWIND = 0x0
+m_bools = 0x0
+m_bools[0] = 0xc80
+m_entities = 0x0
+m_entities[0] = 0xd30
+m_float32s = 0x0
+m_float32s[0] = 0xce8
+m_int32s = 0x0
+m_int32s[0] = 0xcb8
+m_ranges = 0x0
+m_ranges[0] = 0xc92
+
+[DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE]
+DT_ScriptNetData_SNDC_PLAYER_EXCLUSIVE = 0x0
+m_bools = 0x0
+m_bools[0] = 0xc80
+m_entities = 0x0
+m_entities[0] = 0xd58
+m_float32s = 0x0
+m_float32s[0] = 0xd00
+m_int32s = 0x0
+m_int32s[0] = 0xce0
+m_ranges = 0x0
+m_ranges[0] = 0xca4
+
+[DT_ScriptNetData_SNDC_PLAYER_GLOBAL]
+DT_ScriptNetData_SNDC_PLAYER_GLOBAL = 0x0
+m_bools = 0x0
+m_bools[0] = 0xc80
+m_entities = 0x0
+m_entities[0] = 0xdb0
+m_float32s = 0x0
+m_float32s[0] = 0xd78
+m_int32s = 0x0
+m_int32s[0] = 0xce0
+m_ranges = 0x0
+m_ranges[0] = 0xc92
+
+[DT_ScriptProp]
+ = 0x1704
+DT_ScriptProp = 0x0
+m_bFollowsParentPlayerEyeYaw = 0x1711
+m_cloakEndTime = 0x1bc
+m_cloakFadeInDuration = 0x1c8
+m_cloakFadeInEndTime = 0x1c0
+m_cloakFadeOutStartTime = 0x1c4
+m_cloakFlickerAmount = 0x1cc
+m_cloakFlickerEndTime = 0x1d0
+m_footstepType = 0x16c0
+m_iHealth = 0x324
+m_iMaxHealth = 0x470
+m_minimapData = 0x848
+m_nameVisibilityFlags = 0x898
+m_renderColorFriendly = 0x1700
+m_renderColorFriendlyIsValid = 0x1710
+m_scriptPropFlags = 0x1708
+m_scriptPropSmartAmmoLockType = 0x170c
+m_title = 0x16a0
+
+[DT_ScriptTraceVolume]
+DT_ScriptTraceVolume = 0x0
+m_boxMaxs = 0x984
+m_boxMins = 0x978
+m_drawDebug = 0x990
+m_shapeType = 0x970
+m_sphereRadius = 0x974
+
+[DT_SequenceTransitionerLayer]
+m_sequenceTransitionerLayerActive = 0x18
+m_sequenceTransitionerLayerFadeOutDuration = 0x30
+m_sequenceTransitionerLayerPlaybackRate = 0x28
+m_sequenceTransitionerLayerSequence = 0x20
+m_sequenceTransitionerLayerStartCycle = 0x1c
+m_sequenceTransitionerLayerStartTime = 0x2c
+
+[DT_ServerAnimationData]
+m_animSequence = 0x1c
+m_animStartCycle = 0xc
+m_animStartTime = 0x8
+m_fireDeferredStopsStartTime = 0xda0
+m_nResetEventsStartTime = 0xd98
+
+[DT_SoundData]
+m_networkTableID = 0x10
+m_seek = 0x18
+m_selector = 0x1c
+m_soundID = 0x8
+m_soundIsStart = 0x14
+m_targetEnt = 0x0
+
+[DT_SpikeStripInfo]
+m_arePlayersInStrip = 0x978
+m_enabledLocations = 0x970
+m_mainSpike = 0x97c
+m_mainSpikeCreationTime = 0x980
+m_spikeLocalAngles = 0xc54
+m_spikeLocalOffsets = 0xa38
+m_spikeParents = 0x984
+
+[DT_StatusEffectPlugin]
+m_hOwnerEntity = 0x398
+m_statusEffectsEndlessPluginNV = 0x988
+m_statusEffectsTimedPluginNV = 0x970
+
+[DT_StatusEffectTimedData]
+seComboVars = 0x8
+seEaseOut = 0x10
+sePausedTimeRemaining = 0x14
+seTimeEnd = 0xc
+
+[DT_TEExplosion]
+DT_TEExplosion = 0x0
+m_chMaterialType = 0x5c
+m_fScale = 0x38
+m_impactEffectTableIndex = 0x6c
+m_nFlags = 0x40
+m_nFrameRate = 0x3c
+m_nMagnitude = 0x68
+m_nRadius = 0x60
+m_owner = 0x74
+m_surfaceProp = 0x70
+m_vecImpactDir = 0x50
+m_vecNormal = 0x44
+m_victim = 0x78
+
+[DT_TEParticleSystem]
+DT_TEParticleSystem = 0x0
+m_vecOrigin.x = 0x28
+m_vecOrigin.y = 0x2c
+m_vecOrigin.z = 0x30
+
+[DT_TEPhysicsProp]
+DT_TEPhysicsProp = 0x0
+m_angRotation.x = 0x34
+m_angRotation.y = 0x38
+m_angRotation.z = 0x3c
+m_nEffects = 0x58
+m_nFlags = 0x54
+m_nModelIndex = 0x4c
+m_nSkin = 0x50
+m_vecOrigin = 0x28
+m_vecVelocity = 0x40
+
+[DT_TEProjectileTrail]
+DT_TEProjectileTrail = 0x0
+m_endPos = 0x38
+m_impactEffectTable = 0x58
+m_modBitfield = 0x48
+m_owner = 0x28
+m_projectileTrailIndex = 0x54
+m_startPos = 0x2c
+m_weaponClassIndex = 0x44
+
+[DT_TEScriptParticleSystem]
+DT_TEScriptParticleSystem = 0x0
+m_angles = 0x38
+m_controlPoint1 = 0x44
+m_effectIndex = 0x28
+m_origin = 0x2c
+
+[DT_TEScriptParticleSystemOnEntity]
+DT_TEScriptParticleSystemOnEntity = 0x0
+m_attachType = 0x30
+m_attachType2 = 0x34
+m_attachmentId = 0x38
+m_attachmentId2 = 0x39
+m_effectIndex = 0x28
+m_ent = 0x2c
+
+[DT_TEShatterSurface]
+DT_TEShatterSurface = 0x0
+m_flHeight = 0x5c
+m_flShardSize = 0x60
+m_flWidth = 0x58
+m_nSurfaceType = 0x64
+m_vecAngles = 0x34
+m_vecForce = 0x40
+m_vecForcePos = 0x4c
+m_vecOrigin = 0x28
+
+[DT_Team]
+"player_array" = 0x0
+m_iTeamTeamNum = 0x97c
+m_score = 0x970
+m_score2 = 0x974
+m_scriptCustomValue = 0x978
+m_szTeamname = 0x9a0
+player_array_element = 0x0
+
+[DT_ThirdPersonView]
+m_thirdPersonEntBlendInEaseInDuration = 0x1c
+m_thirdPersonEntBlendInEaseOutDuration = 0x20
+m_thirdPersonEntBlendInTotalDuration = 0x18
+m_thirdPersonEntBlendOutDuration = 0x24
+m_thirdPersonEntDrawViewmodel = 0x12
+m_thirdPersonEntEnableCameraLag = 0x13
+m_thirdPersonEntFixedClientOnly = 0x10
+m_thirdPersonEntFixedDist = 0x30
+m_thirdPersonEntFixedHeight = 0x34
+m_thirdPersonEntFixedPitch = 0x28
+m_thirdPersonEntFixedRight = 0x38
+m_thirdPersonEntFixedYaw = 0x2c
+m_thirdPersonEntFreezeLookControls = 0x14
+m_thirdPersonEntLookaheadLerpAheadRate = 0xbc
+m_thirdPersonEntLookaheadLerpToCenterRate = 0xc0
+m_thirdPersonEntLookaheadLowerEntSpeed = 0xb0
+m_thirdPersonEntLookaheadMaxAngle = 0xb8
+m_thirdPersonEntLookaheadUpperEntSpeed = 0xb4
+m_thirdPersonEntMaxPitch = 0xa4
+m_thirdPersonEntMaxYaw = 0x9c
+m_thirdPersonEntMinPitch = 0xa0
+m_thirdPersonEntMinYaw = 0x98
+m_thirdPersonEntPitchIsFreelook = 0xd
+m_thirdPersonEntPushedInByGeo = 0x11
+m_thirdPersonEntShouldViewAnglesFollowThirdPersonEnt = 0xc
+m_thirdPersonEntSpringToCenterDelay = 0xac
+m_thirdPersonEntSpringToCenterRate = 0xa8
+m_thirdPersonEntUseFixedDist = 0xf
+m_thirdPersonEntVariableDistEnd = 0x40
+m_thirdPersonEntVariableDistEndTime = 0x48
+m_thirdPersonEntVariableDistLerpLogGrowthFactor = 0x50
+m_thirdPersonEntVariableDistLerpType = 0x4c
+m_thirdPersonEntVariableDistStart = 0x3c
+m_thirdPersonEntVariableDistStartTime = 0x44
+m_thirdPersonEntVariableHeightEnd = 0x58
+m_thirdPersonEntVariableHeightEndTime = 0x60
+m_thirdPersonEntVariableHeightLerpLogGrowthFactor = 0x68
+m_thirdPersonEntVariableHeightLerpType = 0x64
+m_thirdPersonEntVariableHeightStart = 0x54
+m_thirdPersonEntVariableHeightStartTime = 0x5c
+m_thirdPersonEntVariableRightEnd = 0x70
+m_thirdPersonEntVariableRightEndTime = 0x78
+m_thirdPersonEntVariableRightLerpLogGrowthFactor = 0x80
+m_thirdPersonEntVariableRightLerpType = 0x7c
+m_thirdPersonEntVariableRightStart = 0x6c
+m_thirdPersonEntVariableRightStartTime = 0x74
+m_thirdPersonEntViewOffset.x = 0x0
+m_thirdPersonEntViewOffset.y = 0x4
+m_thirdPersonEntViewOffset.z = 0x8
+m_thirdPersonEntYawIsFreelook = 0xe
+
+[DT_TriggerCylinderHeavy]
+DT_TriggerCylinderHeavy = 0x0
+m_airControlMoveAccel = 0xa30
+m_airControlMoveSpeed = 0xa2c
+m_blackholeInnerMoveSpeed = 0xa48
+m_blackholeInnerPullSpeed = 0xa40
+m_blackholeInnerRadius = 0xa4c
+m_blackholeIsStrongPulling = 0xa34
+m_blackholeOuterMoveSpeed = 0xa44
+m_blackholeOuterPullSpeed = 0xa3c
+m_blackholeStrongPullAddlSpeed = 0xa38
+m_enableDoubleJump = 0xa08
+m_gravityCannonLaunched = 0x9fc
+m_gravityLiftEjectForwardSpeed = 0xa20
+m_gravityLiftEjectUpSpeed = 0xa1c
+m_gravityLiftMaxEjectTime = 0xa24
+m_gravityLiftMaxHoverTime = 0xa28
+m_gravityLiftToCenterAccel = 0xa18
+m_gravityLiftToCenterSpeed = 0xa14
+m_gravityLiftUpAccel = 0xa10
+m_gravityLiftUpSpeed = 0xa0c
+m_launchDelayAmount = 0xa04
+m_launchDir = 0xa74
+m_launchFlightTime = 0xa00
+m_launchPower = 0x9e8
+m_limitedAirControl = 0xa09
+m_mortarRingSegementEnd = 0xa8c
+m_mortarRingSegementStart = 0xa88
+m_nextLaunchTime = 0x9f8
+m_punchHardAmount = 0x9f0
+m_punchRandomBoost = 0x9f4
+m_punchSoftAmount = 0x9ec
+m_teslaTrapBaseHeight = 0xa54
+m_teslaTrapEnd = 0xa64
+m_teslaTrapFXVisible = 0xa50
+m_teslaTrapObstructedEndTime = 0xa5c
+m_teslaTrapStart = 0xa60
+m_teslaTrapUp = 0xa68
+m_triggerType = 0x9e0
+m_vertOverride = 0x9e4
+
+[DT_TriggerCylinderNetworked]
+DT_TriggerCylinderNetworked = 0x0
+m_aboveHeight = 0x9bc
+m_belowHeight = 0x9c0
+m_radius = 0x9b8
+m_triggerFilterMask = 0x9b0
+
+[DT_TriggerSlipSphere]
+DT_TriggerSlipSphere = 0x0
+m_defaultSlipDirection = 0x9b0
+m_slipAcceleration = 0x9c0
+m_slipSpeed = 0x9bc
+m_sphereOverrideRadius = 0x9d0
+
+[DT_Turret]
+DT_Turret = 0x0
+m_driver = 0x195c
+m_driverDetachTime = 0x198c
+m_driverState = 0x1990
+m_forceAimPitch = 0x1984
+m_forceAimYaw = 0x1988
+m_iHealth = 0x324
+m_iMaxHealth = 0x470
+m_overlayEventParity = 0x1711
+m_settingsIndex = 0x1948
+m_title = 0x19a0
+m_turretWeapon = 0x1994
+
+[DT_UVAnimProp]
+DT_UVAnimProp = 0x0
+m_bUVAnimPlaying = 0x1680
+m_flLastKeyTime = 0x1688
+m_flUVAnimStartTime = 0x1684
+
+[DT_VehicleDriverExclusive]
+m_cryptoDroneBatteryFraction = 0x1fa4
+m_gravityLiftActive = 0x1d21
+m_gravityLiftEnterTime = 0x1d24
+m_gravityLiftExitTime = 0x1d28
+m_hoverVehicleAccel = 0x1e84
+m_hoverVehicleAirAccel = 0x1ea0
+m_hoverVehicleAirStartTime = 0x1ee4
+m_hoverVehicleBoostCollisionTime = 0x1ec0
+m_hoverVehicleBoostCooldown = 0x1eac
+m_hoverVehicleBoostMax = 0x1ea8
+m_hoverVehicleBoostMin = 0x1ea4
+m_hoverVehicleBoostPartialCooldown = 0x1eb0
+m_hoverVehicleBoostRegenRate = 0x1eb4
+m_hoverVehicleDebugFlyMode = 0x1f38
+m_hoverVehicleDecel = 0x1e90
+m_hoverVehicleDecelPowerBraking = 0x1e9c
+m_hoverVehicleDriverInFreelook = 0x1f14
+m_hoverVehicleGlideDuration = 0x1ee8
+m_hoverVehicleHoverOffsetPrev = 0x0
+m_hoverVehicleHoverOffsetPrev[0] = 0x1d70
+m_hoverVehicleIsBoosting = 0x1ec4
+m_hoverVehicleIsGliding = 0x1ec5
+m_hoverVehicleJumpBoostCost = 0x1ed4
+m_hoverVehicleJumpDebounceDuration = 0x1edc
+m_hoverVehicleJumpSpeed = 0x1ed0
+m_hoverVehicleJumpToExit = 0x1ecc
+m_hoverVehicleLastGlideEndTime = 0x1eec
+m_hoverVehicleLastGlideStartTime = 0x1ee0
+m_hoverVehicleLastJumpTime = 0x1ed8
+m_hoverVehicleLookAheadAcceleration = 0x1f18
+m_hoverVehicleMaxSpeed = 0x1e80
+m_hoverVehiclePhysPush = 0x1f74
+m_hoverVehicleSmoothTilt = 0x1ef4
+m_hoverVehicleSmoothTiltVelocity = 0x1f00
+m_hoverVehicleSmoothYaw = 0x1f0c
+m_hoverVehicleSmoothYawVelocity = 0x1f10
+m_hoverVehicleTotalBoostTime = 0x1eb8
+m_hoverVehicleUsedBoostTime = 0x1ebc
+m_inputHeldPostJump = 0x1ef0
+m_jumpEffectsStarted = 0x1d20
+m_localOrigin = 0x18
+m_localOrigin.z = 0x18
+m_pushedFixedPointOffset = 0x2070
+
+[DT_VortexSphere]
+DT_VortexSphere = 0x0
+m_bulletAbsorbedCount = 0x980
+m_bulletFov = 0x97c
+m_enabled = 0x970
+m_gunAttachment = 0x9a0
+m_height = 0x978
+m_iHealth = 0x324
+m_iMaxHealth = 0x470
+m_ownerWeapon = 0x988
+m_projectileAbsorbedCount = 0x984
+m_radius = 0x974
+m_spawnflags = 0xc4
+m_useExactSphereRadiusForHit = 0x9a8
+m_vortexEffect = 0x98c
+m_vortexLocalAngles = 0x990
+
+[DT_WeaponPlayerData]
+m_akimboDisabled = 0xec
+m_chargeAnimIndex = 0x78
+m_chargeAnimIndexOld = 0x7c
+m_chargeDebounce = 0x43
+m_charmAttachment = 0xe4
+m_charmItemFlavorGUID = 0xe8
+m_charmModelIndex = 0xe0
+m_clipModelIsHidden = 0x4b
+m_cooldownMilestone = 0xa4
+m_curZoomFOV = 0xc0
+m_currentAltFireAnimIndex = 0xd8
+m_customActivityAttachedModelAttachmentId = 0x64
+m_customActivityAttachedModelIndex = 0x60
+m_didFirstDeploy = 0x49
+m_fastHolster = 0x48
+m_fastHolsterScale = 0x3c
+m_fireRateLerp_startFraction = 0x6c
+m_fireRateLerp_startTime = 0x68
+m_fireRateLerp_stopFraction = 0x74
+m_fireRateLerp_stopTime = 0x70
+m_fullReloadStartTime = 0xac
+m_kickPatternScaleBase = 0x2c
+m_kickScaleBasePitch = 0x24
+m_kickScaleBaseYaw = 0x28
+m_kickSpreadADS = 0x1c
+m_kickSpreadHipfire = 0x18
+m_kickSpringHeatBaseTime = 0x30
+m_kickSpringHeatBaseValue = 0x34
+m_kickTime = 0x20
+m_latestDryfireTime = 0xd0
+m_legendaryModelIndex = 0xdc
+m_moveSpread = 0x8
+m_offhandHybridNormalMode = 0x46
+m_pendingReloadAttempt = 0x45
+m_pendingTriggerPull = 0x41
+m_pendingoffhandHybridToss = 0x47
+m_prevSeqWeight = 0xa8
+m_proScreen_float0 = 0x90
+m_proScreen_float1 = 0x94
+m_proScreen_float2 = 0x98
+m_proScreen_int0 = 0x84
+m_proScreen_int1 = 0x88
+m_proScreen_int2 = 0x8c
+m_proScreen_owner = 0x80
+m_realtimeModCanADS = 0x5c
+m_realtimeModCmdCount = 0x5b
+m_realtimeModCmdHead = 0x5a
+m_realtimeModCmds = 0x52
+m_rechamberMilestone = 0xa0
+m_reloadMilestone = 0x9c
+m_reloadStartedEmpty = 0x4d
+m_requestedAttackEndTime = 0xd4
+m_scriptFlags0 = 0xb8
+m_scriptInt0 = 0xbc
+m_scriptInt1 = 0xbe
+m_scriptTime0 = 0xb0
+m_scriptTime1 = 0xb4
+m_secondaryAttackRequested = 0x42
+m_segmentedAnimStartedAkimbo = 0x4f
+m_segmentedAnimStartedOneHanded = 0x4e
+m_segmentedReloadCanRestartLoop = 0x50
+m_segmentedReloadEndSeqRequired = 0x4c
+m_segmentedReloadLoopFireLocked = 0x51
+m_semiAutoNeedsRechamber = 0x44
+m_semiAutoTriggerDown = 0x40
+m_semiAutoTriggerHoldTime = 0x38
+m_shouldCatch = 0x4a
+m_spreadStartFracADS = 0x14
+m_spreadStartFracHip = 0x10
+m_spreadStartTime = 0xc
+m_targetZoomFOV = 0xc4
+m_zoomFOVLerpEndTime = 0xcc
+m_zoomFOVLerpTime = 0xc8
+
+[DT_World]
+DT_World = 0x0
+m_WorldMaxs = 0x97c
+m_WorldMins = 0x970
+m_bStartDark = 0x988
+m_civilTeamsMaskA = 0x1100
+m_civilTeamsMaskB = 0x1110
+m_crossPlayGen5PcRealmsBitMask = 0x1140
+m_crossPlayWithPcRealmsBitMask = 0x1148
+m_deathFieldIsActive = 0x9b8
+m_deathFieldOrigin = 0x9f8
+m_deathFieldRadiusEnd = 0xdf8
+m_deathFieldRadiusStart = 0xcf8
+m_deathFieldTimeEnd = 0xff8
+m_deathFieldTimeStart = 0xef8
+m_rabidTeamsMask = 0x1128
+m_spTitanLoadoutUnlocks = 0x9b4
+m_statusEffectsGenerationNV = 0x9a4
+m_teamRelationRulesForPVE = 0x10f8
+m_timeshiftArmDeviceSkin = 0x9b0
+m_worldFlags = 0x9ac
+
+[DT_Zipline]
+DT_Zipline = 0x0
+m_detachEndOnUse = 0x970
+m_dropToBottom = 0x971
+m_nextZipline = 0xb78
+m_numZiplinePoints = 0x8
+m_numZiplineRestPositions = 0xf8c
+m_prevZipline = 0xb74
+m_ropeColorModulation = 0x990
+m_ziplineAutoDetachDistance = 0x974
+m_ziplineEnabled = 0x984
+m_ziplineFadeDist = 0x988
+m_ziplineMaterialIndex = 0xec8
+m_ziplineMountReverseDistance = 0x978
+m_ziplinePhysics = 0xb80
+m_ziplinePositions = 0xc
+m_ziplinePreventManualDetach = 0x985
+m_ziplineRestPositions = 0xecc
+m_ziplineSpeedScale = 0x98c
+m_ziplineVerticalPreserveVelocity = 0x97d
+m_ziplineVerticalPushOffInDirectionX = 0x97c
+m_ziplineWidth = 0x980
+
+[DT_Ziprail]
+DT_Ziprail = 0x0
+m_numSmoothPointsForPathNodes = 0xfa4
+m_numZiprailPathNodes = 0xfa0
+m_pathExtentsMaxs = 0x12b4
+m_pathExtentsMins = 0x12a8
+m_positionsForPathNodes = 0x10a4
+m_smoothDistanceToNode = 0x1224
+m_tangentTypesForPathNodes = 0x1024
+m_ziprailPathLen = 0x12a4
+m_ziprailUseAutoDetachSpeed = 0x12c0
+
+
+[Convars] 
+Allow_auto_Party = 0x1ec9ca0
+AutoRejectInviteToPlay = 0x1eced30
+AutoRejectNewRules = 0x1ecedc0
+Backtrace_RuiDump_GroupCountThreshold = 0x2549450
+Backtrace_RuiDump_TopLimitForEachGroup = 0x2540a40
+BlendBonesMode = 0x1b56100
+ClientPakFile_scriptFakeDelay = 0x25101c0
+CrossPlay_user_optin = 0x1e8ee50
+DigiCertGlobalRoot_usable = 0x1ecea20
+DoorSoundPrefixDouble = 0x266b400
+DoorSoundPrefixSingle = 0x26a2a00
+EADP_AcceptInvite_Check_isAcceptingInvite = 0x25103a0
+EADP_RTM_DELAY_QUERRY_SCRIPT_SECONDS = 0x25156a0
+EADP_RTM_DELAY_QUERRY_SECONDS = 0x1ececa0
+EADP_RTM_Enabled = 0x1ece900
+EADP_RTM_Productid = 0x1ece990
+EADP_SEARCH_Enabled = 0x1eb9720
+EADP_code_redemption_enabled = 0x1eb9210
+EADP_code_redemption_hostname = 0x1eb9180
+EADP_friends_invite_has_platform = 0x1eb9450
+EADP_http_inbound_friend_invite_can_use_commentforname = 0x1eb94e0
+EADP_optin_datachange_throttle = 0x1eb9900
+EADP_search_accountname_count = 0x1eb97b0
+EADP_search_use_starts_with = 0x1eb9840
+EADP_server_environment = 0x1ec8dc0
+EADP_um_debug = 0x1eb9bd0
+EADP_um_enabled = 0x1eb9f30
+EADP_um_forceError = 0x1eb9990
+EADP_um_inbox_message_enabled = 0x1eb9ab0
+EADP_um_inbox_message_trigger_id_int = 0x1eb9a20
+EADP_um_inbox_message_trigger_id_prod = 0x1eb9b40
+EADP_um_path = 0x1eba050
+EADP_um_promo_id = 0x1eb9c60
+EADP_um_trigger_message_api_auth_token = 0x1eb9cf0
+EADP_um_trigger_message_api_env_int = 0x1eb9fc0
+EADP_um_trigger_message_api_env_prod = 0x1eb9d80
+EADP_um_trigger_message_api_hostname = 0x1eb9ea0
+EADP_um_trigger_message_enabled = 0x1eb9e10
+ListPanel_DestroyElementWhenInvisible = 0x24d8dc0
+OriginAllowRebootClientAuthTokens = 0x1eca0f0
+OriginRebootClientAuthTokens_Retryinterval = 0x1ec98e0
+Origin_VXS_Enabled = 0x1eca220
+PATCH_allow = 0x24ce330
+PATCH_file_endpoint = 0x24ce210
+PATCH_forceRunDirectory = 0x24ce3c0
+PATCH_ingameui = 0x24ce2a0
+PATCH_ingameui_interval = 0x24ce570
+PATCH_installed_ui_rpak_version = 0x24ce4e0
+PATCH_installed_version = 0x24ce6b0
+PATCH_rules_endpoint = 0x24ce450
+PATCH_staged_version = 0x24ce180
+PATCH_using_version = 0x24ce620
+PATCH_want_version = 0x24ce740
+PTCH_allow_stage_logic = 0x24ced60
+PTCH_allways_stage = 0x24cec40
+PTCH_blocking_maxduration = 0x24ce980
+PTCH_maxRetriesFiles = 0x24ce8f0
+PTCH_maxRetriesRules = 0x24ce7d0
+PTCH_max_active_staged_filegets = 0x24cecd0
+PTCH_seconds_stage_polls = 0x24ceb20
+PTCH_stage_maxRetries = 0x24cedf0
+PTCH_stage_timeout_file = 0x24cebb0
+PTCH_stage_timeout_rules = 0x24cea30
+PTCH_use_alt_endpoint = 0x24ce860
+PresenceForFirstPartyFriends = 0x1ecf1c0
+ScriptDisallowedToUsePersistenceOnSP = 0x26c03b0
+ScriptSaveAllowed = 0x26c2c40
+StreamMicDisabled = 0x1b7a5e0
+Stryder3PToken_debug = 0x1ecac40
+StryderEaIdFetchEnabled = 0x1e887f0
+StryderUseClientJwt = 0x1b750b0
+TLS_trust_cert = 0x1eceab0
+TextDataFromCommunityOnlyInLobby = 0x252fcd0
+VoiceChatMode = 0x1b7aaf0
+VoiceDataFromCommunityOnlyInLobby = 0x1b7a550
+VoiceNeedsReset = 0x1b7aa60
+XLOG_DigiCertGlobalRoot_usable = 0x24d6730
+XLOG_TLS_hostname = 0x24d6940
+XLOG_TLS_secure_conn = 0x24d6d50
+XLOG_TLS_trust_cert = 0x24d69d0
+XLOG_telemetry_buffer_sends_per_second = 0x24d6ba0
+XLOG_telemetry_shortcircuit = 0x24d6c30
+XLOG_telemetry_socket_recv_freq = 0x24d6cc0
+XLOG_telemetry_socket_send_freq = 0x24d67c0
+XLOG_telemetry_streams = 0x24d68b0
+account_progression_version = 0x26c0690
+adjustableCharacterBoostIndirectDiffuse = 0x1ee7ee0
+ai_titan_grapple_max_len = 0x24e76b0
+aimassist_filter_aim_coefficient = 0x25169a0
+aimassist_filter_aim_enabled = 0x2511140
+aimassist_filter_enabled = 0x2511a80
+aimassist_filter_final_coefficient = 0x2518600
+aimassist_filter_final_enabled = 0x2519c80
+aimassist_filter_movement_coefficient = 0x250bb60
+aimassist_filter_movement_enabled = 0x2519d10
+aimassist_filter_threshold_aim_coefficient = 0x251e190
+aimassist_filter_threshold_aim_enabled = 0x2511020
+aimassist_filter_threshold_movement_coefficient = 0x2515460
+aimassist_filter_threshold_movement_enabled = 0x251f500
+aimassist_magnet_inputThresholdLook = 0x2517f10
+aimassist_magnet_inputThresholdMove = 0x2528670
+airslowmo_enabled = 0x26a58d0
+airslowmo_enter_time = 0x269b770
+airslowmo_ground_immediate_end = 0x26a0bf0
+airslowmo_leave_time = 0x266e550
+airslowmo_scripted_speed = 0x26a1af0
+airslowmo_when_hovering = 0x26a5750
+allowOffhandToSkipSequenceResetOnModelChanged = 0x24eb0e0
+allow_comms_filter = 0x1e90670
+allow_extended_range_use_ents = 0x26bb5e0
+allow_gamemode_dvs_adjustment_on_pc = 0x1b74f00
+allow_gamemode_dvs_adjustment_without_aa = 0x1b77a70
+always_touch_triggers_cl = 0x24f8a60
+animEvent_debug = 0x26703a0
+animEvent_debugEnt = 0x269e3c0
+animEvent_debug_cl = 0x24f69e0
+animEvent_imgui = 0x26718c0
+animStateGestureSlotTestPlayerSeq = 0x24d7e90
+anim_playerMovementAngleMargin = 0x24d84c0
+anim_player_ragdoll_fix = 0x24d7c50
+anim_print_transition_overflow = 0x26b4fa0
+anim_set_prev_seq_reporting = 0x26a1b80
+anim_showstate = 0x24d7a10
+anim_showstatelog = 0x24d7d70
+anim_transitionsequences = 0x26b9ed0
+anim_view_entity_third_person_camera_use_move_parent = 0x26bdc60
+anim_window_debug = 0x269d400
+anim_window_imgui = 0x269dfc0
+announcement = 0x1ec8b80
+area_cloak_material_set = 0x26a52d0
+armored_leap_disable_player_move_input = 0x266f430
+arsenal_debug = 0x26b3b70
+assert_on_activate_weapon_in_lobby = 0x24ee360
+assetdownloads_NeedsTempFileLogic = 0x1e903d0
+assetdownloads_allow_outside_lobby = 0x1e8ffe0
+assetdownloads_desiredState = 0x1e90190
+assetdownloads_enabled = 0x1e90220
+assetdownloads_forceError = 0x1e902b0
+assetdownloads_hostname = 0x1e90100
+assetdownloads_log_level = 0x1e90460
+assetdownloads_trace_script_ui = 0x1e904f0
+assetdownloads_verify_after_file_received = 0x1e90070
+assetdownloads_verify_after_file_write = 0x1e90340
+async_read_helper_uncompressed_job_fix = 0x274da80
+async_serialize = 0x1ec37f0
+attachment_orthogonal_warnings = 0x24f63c0
+autoConnect = 0x1e86700
+autohitch = 0x1ec6e30
+automantle_backoff_anim_maxfrac = 0x26a0060
+automantle_cooldown = 0x266b790
+automantle_dangle_required_space = 0x269ddd0
+automantle_debug = 0x266e600
+automantle_disable_hang = 0x26a6c20
+automantle_enable = 0x269f4d0
+automantle_forwarddist = 0x26a1c30
+automantle_gun_enable_height = 0x26a1500
+automantle_height_above = 0x268ab00
+automantle_height_below = 0x26a2b20
+automantle_height_level = 0x2671950
+automantle_jumpoff_anim_maxfrac = 0x2671ed0
+automantle_jumpoff_duration = 0x269f440
+automantle_maxangle_push = 0x269e190
+automantle_maxangle_view = 0x26a1740
+automantle_mindist = 0x2672240
+automantle_rest_frac = 0x26a1450
+automantle_rest_frac_below = 0x2672190
+automantle_searchdist = 0x26a6b90
+automantle_trace_debug = 0x266aea0
+automantle_view_high_yaw_max = 0x24fddf0
+automantle_view_pitch_max = 0x24ff0f0
+automantle_view_pitch_min = 0x2502430
+automantle_view_yaw_max = 0x24fd0f0
+automantle_wallrun_maxangle_view = 0x26a0ee0
+backtrace_disable = 0x1e88fc0
+backtrace_reporting_disconnect = 0x1e88f00
+backtrace_reporting_error = 0x1e89090
+banktilt_accel = 0x24f06d0
+banktilt_maxvel = 0x24f2d30
+baseanimatingoverlay_playbackRateThreshold = 0x266a820
+baselines_print = 0x1e8fac0
+battlepass_unlock_all_weeklies = 0x26c3ad0
+bind_exec_sanitize = 0x1b758f0
+bink_materials_enabled = 0x1d59500
+bleedout_sliding_disables_jump = 0x26a6b00
+boost_jetwash_prediction_factor = 0x2502550
+bot_lagOut = 0x1e8c390
+bot_num_exclusive_teams = 0x1e8f490
+botprofile_hostname = 0x1b75980
+breach_trace_use_object_placement_special = 0x26c3c10
+brushmodel_colors = 0x1b58630
+budget_animatingEntities = 0x1b5a7a0
+budget_animationOverlayEntities = 0x1b581c0
+budget_combatCharEntities = 0x1b597f0
+budget_weaponEntities = 0x1b57e20
+budget_ziplineGrowCount = 0x1b58310
+budget_ziplineInitialEntities = 0x1b58750
+budget_ziplineMaxEntitiesEver = 0x1b593b0
+bug_reproNum = 0x26c0320
+build_nonmerged = 0x2517cb0
+buildcubemaps_async = 0x1b5b6a0
+buildcubemaps_default_cubemap = 0x1b5af80
+buildcubemaps_first_pass_behavior = 0x1b5a8c0
+buildcubemaps_index = 0x1b5aef0
+buildcubemaps_preconvolve = 0x1b5ab50
+buildcubemaps_pvs_start_early = 0x1b588a0
+buildcubemaps_single_step = 0x1b5b1c0
+building_cubemaps = 0x1b59cf0
+bulletPredictionDebug = 0x24ee480
+bullet_trace_test_debug = 0x26b3930
+bullet_trace_test_enable = 0x26b7c00
+c_dropship_ground_fx_dist_interval = 0x24f7650
+c_dropship_ground_fx_time_interval = 0x24f6180
+c_dropship_rope_debug = 0x2510310
+c_dropship_rope_events = 0x251a1a0
+c_dropship_rope_magnitude = 0x251d540
+c_dropship_rope_range = 0x250e0b0
+c_hover_vehicle_ground_fx_dist_interval = 0x24f46f0
+c_hover_vehicle_ground_fx_time_interval = 0x24f6d40
+c_maxdistance = 0x252e960
+c_maxpitch = 0x252b640
+c_maxyaw = 0x253c970
+c_mindistance = 0x2531290
+c_minpitch = 0x2533560
+c_minyaw = 0x2535ac0
+c_thirdpersonshoulderaimdistADS_110 = 0x253e340
+c_thirdpersonshoulderaimdistADS_70 = 0x253e3d0
+c_thirdpersonshoulderaimdistADS_90 = 0x253e460
+c_thirdpersonshoulderaimdist_110 = 0x253e580
+c_thirdpersonshoulderaimdist_70 = 0x253e610
+c_thirdpersonshoulderaimdist_90 = 0x253e4f0
+c_thirdpersonshoulderdist = 0x253baf0
+c_thirdpersonshouldergetsviewpunch = 0x253e2b0
+c_thirdpersonshoulderheight = 0x253e730
+c_thirdpersonshoulderoffset = 0x253e6a0
+c_threadedAnimPostData = 0x24f5f40
+cam_collision = 0x25306c0
+cam_debug_collision = 0x2538140
+cam_idealdelta = 0x2536cf0
+cam_idealdist = 0x252d500
+cam_ideallag = 0x2539260
+cam_idealpitch = 0x253cc90
+cam_idealyaw = 0x2538e40
+cam_pitchLock_feetRelative = 0x252b210
+cam_pitchfreeze_on = 0x253d8c0
+cam_pitchlock_on = 0x2531a50
+cam_pitchlock_period = 0x253ad60
+cam_pitchlock_phase = 0x252d6a0
+cam_pitchlock_pitchBase = 0x253b520
+cam_pitchlock_pitchRange = 0x252e1a0
+cam_pitchlock_pitchWiggleRoom = 0x252a8b0
+cam_player_viewheight_scale = 0x253e190
+cam_showangles = 0x252e840
+cam_yawfreeze_on = 0x2534290
+cam_zoomfreeze_on = 0x2535b50
+can_stand_on_obb = 0x269dc20
+cant_continue_on_switch = 0x1eceb40
+cc_captiontrace = 0x253ae30
+cc_global_norepeat = 0x2534530
+cc_linger_time = 0x253d830
+cc_max_duration = 0x2532980
+cc_minvisibleitems = 0x2532e90
+cc_predisplay_time = 0x2536a50
+cc_text_size = 0x2531cf0
+cc_timeshift_norepeat = 0x252f5e0
+cdndownloads_hostname = 0x1ed5970
+challenges_on_demand_stats_update_frequency_seconds = 0x26c0d80
+chasecam_distanceMax_override = 0x24fab30
+chat_rules_MuteIsMute = 0x1e90820
+chat_rules_log_details = 0x1e90940
+chatroom_debug = 0x1eca680
+chatroom_nameLength = 0x24d9000
+chatroom_namePaddingX = 0x24d9960
+chatroom_nameWidth = 0x24d98d0
+chatroom_useSlopSpace = 0x24d9690
+cheap_captions_fadetime = 0x2547000
+cheap_captions_test = 0x25468f0
+cheap_track_dev_telemetry_period_seconds = 0x24d2480
+cheap_track_disabled = 0x24d2640
+cheap_track_report_non_fatal_errors = 0x24d2520
+cheaptrack_button_combo = 0x1b73fc0
+checkBreaksCloakOnChargeBegin = 0x24eaf60
+checkBreaksCloakOnWeaponToss = 0x24ee2b0
+chroma_enable = 0x1d595f0
+clPlayCustomActGesture = 0x24f0450
+cl_NotifyAllLevelAssetsLoaded_endframe = 0x24fcf00
+cl_RunClientConnectScripts_Before_ProcessOnDataChangedEvents = 0x251fa00
+cl_SetupAllBones = 0x24f5fd0
+cl_ShowBoneSetupEnts = 0x250fbc0
+cl_adjustTimeEntsPerJob = 0x1e868b0
+cl_aggregate_particles = 0x2548720
+cl_allowABSCalculationDuringSnapshotScriptCalls = 0x2512880
+cl_allowABSDuringSnapshotScriptCalls = 0x250a5b0
+cl_allowRemotePrintAsChat = 0x1ec50a0
+cl_allow_async_anim_particle_commands = 0x251f050
+cl_allow_small_display_size_detection_windows = 0x24cdcb0
+cl_always_draw_3p_player = 0x26665c0
+cl_always_ragdoll_radius = 0x24f6830
+cl_anglespeedkey = 0x253b490
+cl_anim_always_play_nonlobby_sfx = 0x24f6450
+cl_anim_attachment_sound_enabled = 0x24f6060
+cl_anim_blend_transition_dist = 0x24f74a0
+cl_anim_deferredstop_onbecomepredictable = 0x24f65f0
+cl_anim_detail_dist = 0x24f55e0
+cl_anim_eventreset_mode = 0x24f75c0
+cl_anim_face_dist = 0x24f54c0
+cl_anim_layerfxcleanup = 0x251f410
+cl_anim_newfxclear = 0x24f62a0
+cl_anim_resetEvents_firstPredictionOnly = 0x26a6fb0
+cl_anim_resetevents_on_seq_change = 0x26a4940
+cl_anim_sequence_transition_full_weight_optimization = 0x24f5d00
+cl_anim_sounds_seek = 0x24f76e0
+cl_approx_footstep_origin = 0x24f4780
+cl_approx_tracer_origin = 0x253cf60
+cl_async_bone_setup = 0x2529b70
+cl_base_entity_effect_lock = 0x24f8850
+cl_base_entity_link_with_locks = 0x24fa280
+cl_bones_incremental_transform = 0x24f4d80
+cl_bones_oldhack = 0x24f6a70
+cl_bounds_show_errors = 0x26a6390
+cl_burninggibs = 0x26b06f0
+cl_checkForFrametimeHitch = 0x1e1a340
+cl_checkForFrametimeHitch_thresh = 0x1e1a550
+cl_clock_correction_ahead_correct_interval = 0x1b59880
+cl_clock_correction_behind_correct_interval = 0x1b585a0
+cl_cmdFrametimes_print = 0x1e1b750
+cl_cmdbackup = 0x1e1abb0
+cl_comms_filter = 0x1e90580
+cl_cull_weapon_fx = 0x24e26c0
+cl_deathhints_enabled = 0x26c3a00
+cl_debugClientEntities = 0x24f7e30
+cl_debug_deferred_trace = 0x26b38a0
+cl_debug_deferred_trace_overlay = 0x26b7950
+cl_debug_model_fx_sounds = 0x253b340
+cl_decal_alwayswhite = 0x266ef70
+cl_decal_backoff = 0x26a6700
+cl_deferred_effects = 0x2666650
+cl_deferred_trace_normal_priority = 0x26b2d40
+cl_deferredstop_customactchange = 0x24ebb10
+cl_deferredstop_fromsv_whenpredicted = 0x24f6b90
+cl_demoviewoverride = 0x25193a0
+cl_disableTagForPrivateMatch = 0x24faa10
+cl_disable_ragdolls = 0x24f7410
+cl_disconnectOnTooManySnapshotFrames = 0x1d59710
+cl_doNetworkAsserts = 0x24f0570
+cl_doRecreateEnts = 0x1d59680
+cl_draw_player_model = 0x24fc990
+cl_drawhud = 0x251fe10
+cl_drawmonitors = 0x254a790
+cl_enable_remote_splitscreen = 0x2541510
+cl_entCreateDeleteDebug = 0x1d59a70
+cl_events_ignore_invalidate = 0x2510a70
+cl_ezlaunch_button = 0x1e1a940
+cl_failremoteconnections = 0x1ec3c80
+cl_fasttempentcollision = 0x253ca00
+cl_flip_vis_bits = 0x24f7f50
+cl_flushentitypacket = 0x1d59830
+cl_footstep_event_max_dist = 0x24f6cb0
+cl_footstep_event_max_dist_titan = 0x24f6210
+cl_forceAdjustTime = 0x1e856e0
+cl_fovScale = 0x1ed0440
+cl_gib_allow = 0x1ed03b0
+cl_gib_attack_dir_scale = 0x251ec40
+cl_gib_lifetime = 0x25032f0
+cl_idealpitchscale = 0x2543800
+cl_ignorepackets = 0x1e1b010
+cl_interp_all = 0x24f8af0
+cl_interpolate = 0x24f8700
+cl_interpolation_before_prediction = 0x2528cf0
+cl_ipgeo_country = 0x1e86a60
+cl_isUnderAge = 0x1ec63f0
+cl_is_softened_locale = 0x1e1b190
+cl_jiggle_bone_debug = 0x24d57c0
+cl_jiggle_bone_debug_pitch_constraints = 0x24d56a0
+cl_jiggle_bone_debug_yaw_constraints = 0x24d58f0
+cl_jiggle_bone_invert = 0x24d5730
+cl_jiggle_bone_sanity = 0x24d5860
+cl_jip_timeout = 0x1ec8800
+cl_keepPersistentDataOnDisconnect = 0x1e85410
+cl_lagcompensation = 0x25450b0
+cl_language = 0x1e1bb10
+cl_leafsystemvis = 0x25291e0
+cl_lerpIfChildrenLerp = 0x24f9cc0
+cl_liveapi_allow_requests = 0x1e88400
+cl_liveapi_allow_stdout = 0x1e87c90
+cl_liveapi_config_file = 0x1e880a0
+cl_liveapi_dir = 0x1e87d20
+cl_liveapi_enabled = 0x1e87e40
+cl_liveapi_pretty_print_log = 0x1e88490
+cl_liveapi_requests_psk = 0x1e87f80
+cl_liveapi_requests_psk_tries = 0x1e886d0
+cl_liveapi_session_name = 0x1e88010
+cl_liveapi_skipservermessage = 0x253ece0
+cl_liveapi_spectator_only = 0x253ebc0
+cl_liveapi_stdout_prefix_filter = 0x1e88760
+cl_liveapi_use_protobuf = 0x1e88250
+cl_liveapi_use_websocket = 0x1e88520
+cl_liveapi_write_event_file = 0x253eb30
+cl_liveapi_ws_event_delay = 0x1e88130
+cl_liveapi_ws_keepalive = 0x1e881c0
+cl_liveapi_ws_lax_ssl = 0x1e88370
+cl_liveapi_ws_retry_count = 0x1e88640
+cl_liveapi_ws_retry_time = 0x1e885b0
+cl_liveapi_ws_servers = 0x1e882e0
+cl_liveapi_ws_timeout = 0x1e87ed0
+cl_loadBspFromServerInfo = 0x1ec4ce0
+cl_loadStaticPropsInJob = 0x1b79d50
+cl_matchmaking_timeout = 0x1e865e0
+cl_model_fx_gib_cull_front_dist = 0x2538be0
+cl_model_fx_gib_cull_radius = 0x25386f0
+cl_mouseenable = 0x253b820
+cl_mute_override_default = 0x1e90700
+cl_mute_toggle_to_default = 0x1b57f40
+cl_nameObserverOverride = 0x2518940
+cl_noTimeoutLocalHost = 0x1e19fe0
+cl_observerVFXOverrides_enabled = 0x2503fc0
+cl_observer_preset_playerHash = 0x2671c50
+cl_observer_preset_playerSlot = 0x26a44b0
+cl_observer_preset_team = 0x269b800
+cl_odsl_enabled = 0x2541f90
+cl_overrideEventTimes = 0x1e1bcc0
+cl_parallelParticlePreDrawWork = 0x2665a60
+cl_parallel_clientside_animations = 0x24f4ec0
+cl_particle_batch_mode = 0x26698e0
+cl_particle_control_snap_dist = 0x2669850
+cl_particle_control_snap_mode = 0x26697c0
+cl_particle_fallback_base = 0x1ed0170
+cl_particle_fallback_multiplier = 0x1ed04d0
+cl_particle_limiter_display_killed = 0x2547800
+cl_particle_limiter_hide_killable = 0x274d510
+cl_particle_limiter_max_particle_count = 0x2542260
+cl_particle_limiter_max_system_count = 0x25423c0
+cl_particle_limiter_min_kill_distance = 0x25438f0
+cl_particle_limiter_overlay = 0x2547310
+cl_particle_max_count = 0x2543110
+cl_particle_render_fallback_threshold_ms = 0x25441f0
+cl_particle_sim_fallback_base_multiplier = 0x2548690
+cl_particle_sim_fallback_threshold_ms = 0x2540ef0
+cl_particle_snoozetime = 0x25461a0
+cl_particles_show_bbox = 0x2543cf0
+cl_particles_show_bbox_name = 0x2547bb0
+cl_particles_show_controlpoints = 0x25447c0
+cl_pclass = 0x2549050
+cl_pdump = 0x2546740
+cl_phys_maxticks = 0x2541010
+cl_phys_show_active = 0x2544f00
+cl_phys_timescale = 0x2545460
+cl_physics_invalidate_ents = 0x2547e20
+cl_physicsshadowupdate_render = 0x26ba4c0
+cl_pitchspeed = 0x253bb80
+cl_playback_screenshots = 0x1e1b660
+cl_postSnapshotTransitionBlockCount = 0x1d598c0
+cl_preSnapshotTransitionBlockCount = 0x24f92b0
+cl_precache_player_models = 0x24ff780
+cl_precache_root_lgnd_skins = 0x1eca4c0
+cl_precache_use_pso_threads = 0x1eca550
+cl_pred_error_verbose = 0x2669a00
+cl_pred_optimize = 0x2544160
+cl_predict = 0x1e1b3d0
+cl_predict_basetoggles = 0x2502970
+cl_predict_cmdlimit = 0x2541360
+cl_predict_cmdlimit_fullsnap = 0x2541810
+cl_predict_error_icon_duration = 0x2548570
+cl_predict_error_icon_show = 0x2543230
+cl_predict_error_icon_threshold_angle = 0x2546b30
+cl_predict_error_icon_threshold_dist = 0x2541b80
+cl_predict_viewangles = 0x2549620
+cl_prediction_error_timestamps = 0x2541af0
+cl_predictionlist = 0x2546670
+cl_predictweapons = 0x2544280
+cl_prevent_weapon_text_hints = 0x24deec0
+cl_ragdoll_force_fade_time = 0x24f7340
+cl_ragdoll_force_fade_time_local_view_player = 0x24f6c20
+cl_ragdoll_force_fade_time_on_moving_geo = 0x2669580
+cl_ragdoll_force_fade_time_titan = 0x24f6560
+cl_ragdoll_maxcount = 0x1ed0290
+cl_ragdoll_self_collision = 0x1ed0560
+cl_ranked_reconnect_timeout = 0x1e85800
+cl_release_children_on_release = 0x24f9180
+cl_replayDelayTolerance = 0x1e862e0
+cl_requireAnimForAnimEventsHdr = 0x24f7770
+cl_resend = 0x1e86040
+cl_resend_timeout = 0x1e86460
+cl_restoreSimulationTimeBase = 0x2501da0
+cl_retire_low_priority_lights = 0x1e1a760
+cl_runWeaponCloneThinkWhenHidden = 0x2515800
+cl_safearea = 0x26c3dc0
+cl_screenshotname = 0x1e1aca0
+cl_scriptCompileAsync = 0x2549e00
+cl_script_perf_dump_on_shutdown = 0x2544d80
+cl_showClanTags = 0x25182b0
+cl_show_splashes = 0x25388b0
+cl_showfiredbullets = 0x24e8030
+cl_showfps = 0x2546980
+cl_showfps_altframetime = 0x25436e0
+cl_showpausedimage = 0x2545a20
+cl_showpos = 0x2540d70
+cl_showtime = 0x25440d0
+cl_simulateAllModelsRegardless = 0x24f5d90
+cl_skipAnimEventsOnProps = 0x24f4e30
+cl_skipfastpath = 0x2547520
+cl_small_display_detection_size = 0x24cdd40
+cl_smooth = 0x2500fc0
+cl_smooth_debug = 0x2500e20
+cl_smoothtime = 0x2501ec0
+cl_snapshot_draw = 0x1ed5e80
+cl_strict_transport_checks = 0x1ec4aa0
+cl_threaded_bone_setup = 0x24f4cf0
+cl_update_visibility_for_non_predicted_local_player_always = 0x24f93a0
+cl_updatedirty_async = 0x268b620
+cl_updatedirty_early = 0x2510b90
+cl_updaterate_mp = 0x1e1bba0
+cl_updaterate_mp_override = 0x1ec83e0
+cl_upspeed = 0x253ba60
+cl_useFutureSnapForEvents = 0x1e1bc30
+cl_use_raw_input_buffer = 0x274de50
+cl_use_target_visibility_collision_group = 0x250b080
+cl_use_virtual_keyboard_on_desktop_when_controller = 0x2751150
+cl_view_cone = 0x25017d0
+cl_view_cone_debug = 0x2500060
+cl_viewmodel_audio_seek_correction = 0x251fd80
+cl_viewmodel_pre_animate = 0x2529600
+cl_viewmodel_simulate_invisible = 0x251ed60
+cl_viewmodel_simulate_on_weapon_think = 0x24f03c0
+cl_voice_lvl_blocks = 0x1d50980
+cl_voice_lvl_samples_per_block = 0x1d50080
+cl_voicein_normalize = 0x1d501a0
+cl_voicein_normalize_attack = 0x1d4fff0
+cl_voicein_normalize_attenuate_on_clip = 0x1d4fed0
+cl_voicein_normalize_db_decrease_per_sec = 0x1d4ff60
+cl_voicein_normalize_db_increase_per_sec = 0x1d50860
+cl_voicein_normalize_max_boost = 0x1d50500
+cl_voicein_normalize_min_boost = 0x1d50aa0
+cl_voicein_normalize_min_gain = 0x1d50590
+cl_voicein_normalize_release = 0x1d508f0
+cl_voicein_normalize_rms_tweak = 0x1d50740
+cl_voicein_normalize_target = 0x1d507d0
+cl_voiceout_normalize = 0x1d503e0
+cl_voiceout_normalize_attack = 0x1d50350
+cl_voiceout_normalize_attenuate_on_clip = 0x1d50230
+cl_voiceout_normalize_db_decrease_per_sec = 0x1d506b0
+cl_voiceout_normalize_db_increase_per_sec = 0x1d502c0
+cl_voiceout_normalize_max_boost = 0x1d50110
+cl_voiceout_normalize_min_boost = 0x1d50b30
+cl_voiceout_normalize_min_gain = 0x1d4fe40
+cl_voiceout_normalize_release = 0x1d50a10
+cl_voiceout_normalize_rms_tweak = 0x1d50620
+cl_voiceout_normalize_target = 0x1d50470
+cl_warnAboutSoundsOnInvalidEntities = 0x2539e60
+cl_windows_virtual_keyboard_closedelay = 0x2751270
+cl_windows_virtual_keyboard_dualshock = 0x2751300
+cl_windows_virtual_keyboard_enabled = 0x27511e0
+cl_windows_virtual_keyboard_kind = 0x27510c0
+cl_yawspeed = 0x252aa70
+clearEffectsOnAnimChange = 0x24f5550
+clear_scriptname_on_remove = 0x266fd50
+clientQoSport = 0x1b7a360
+client_boostCount = 0x1ecad60
+client_deferredSnapshotScriptCalls = 0x25496b0
+client_script_compile_debug_dump_rprof = 0x1e85f20
+client_side_mimic_debug = 0x26b0180
+clientport = 0x1b752f0
+clip_mouse_to_letterbox = 0x1ed31c0
+cloak_enabled = 0x1edf5b0
+cloak_pilotAberrationScale = 0x1ee6b30
+cloak_pilotBrightenAdd = 0x1ee7940
+cloak_pilotNoiseFactor = 0x1ee7310
+cloak_pilotTint1 = 0x1ee7430
+cloak_pilotTint2 = 0x1ee6fb0
+cloak_pilotTint3 = 0x1ee6f20
+clock_bias_mp = 0x1b5a4e0
+clock_bias_sp = 0x1b5b550
+clock_showcorrections = 0x1b5ad00
+clock_showdebuginfo = 0x1b5b4c0
+closecaption = 0x1ec73a0
+clusteredlighting_2dbounds = 0x1f3f040
+clusteredlighting_cluster_depth = 0x1f3ef20
+clusteredlighting_cluster_depth_lobby = 0x1f3f5e0
+clusteredlighting_enable_fulllights = 0x1f3f3a0
+clusteredlighting_enable_quad_dist = 0x1f3f4c0
+clusteredlighting_enable_shlights = 0x1f3eaa0
+clusteredlighting_light_importance_threshold = 0x1f3ee90
+clusteredlighting_no_realtime_check = 0x1f3eb30
+clusteredlighting_pixels_per_cluster = 0x1f3ed70
+clusteredlighting_rasterize = 0x1f3f160
+clusteredlighting_skip_behind_depth = 0x1f3f1f0
+clusteredlighting_veryfar_enabled = 0x1f3ea10
+clusteredlighting_veryfar_minsize = 0x1f3ec50
+clusteredlighting_z_first_far = 0x1f3ece0
+clusteredlighting_z_first_far_lobby = 0x1f3f0d0
+clusteredlighting_z_last = 0x1f3e8f0
+clusteredlighting_z_last_lobby = 0x1f3e860
+cockpitDrift_scalePitch = 0x26ba930
+cockpitDrift_scaleYaw = 0x26bb0b0
+cockpitDrift_speedPitch = 0x26bc2f0
+cockpitDrift_speedYaw = 0x26ba670
+cockpitShake_sourceRollRange = 0x24dc180
+cockpitShake_translateRange = 0x24de220
+cockpit_damage_chroma_scale = 0x24dab10
+cockpit_hit_chroma_max_time = 0x24db130
+cockpit_hit_chroma_scale = 0x24dd770
+cockpit_pitch_down_frac = 0x24dc520
+cockpit_pitch_up_frac = 0x24df350
+cockpit_screen_boot_chroma_scale = 0x24dd060
+cockpit_screen_boot_delay_bottom = 0x24dbaa0
+cockpit_screen_boot_delay_left = 0x24df4e0
+cockpit_screen_boot_delay_mid = 0x24da890
+cockpit_screen_boot_delay_right = 0x24dc400
+cockpit_screen_boot_delay_top = 0x24dfab0
+coll_spatial_entry_limit_client = 0x1e89a90
+coll_spatial_optimize_prefetch = 0x1e89b20
+coll_use_bolt_size = 0x1b56190
+colorblind_mode = 0x2544430
+comms_connect_delay = 0x1e871b0
+comms_deditext = 0x1e86d30
+comms_dedivoice = 0x1e86c10
+comms_keepalive = 0x1e87240
+comms_lobbytext = 0x1e86ca0
+comms_reconnect = 0x1e86f70
+comms_restrict_forcevalue = 0x1e908b0
+comms_restrict_usenucloc = 0x1e90790
+comms_udp_keepalive = 0x1e87090
+comms_udp_minactivity = 0x1e86ee0
+comms_udpestablish = 0x1e87120
+comms_udpestablish_early = 0x1e87000
+comms_use_cl_name = 0x1e872d0
+communicationBlock_block_num = 0x1e90fd0
+communicationBlock_block_threshold = 0x1e90eb0
+communicationBlock_enabled = 0x1e90f40
+communicationBlock_report_self = 0x1e90b00
+communicationBlock_report_threshold = 0x1e90c70
+communicationBlock_server_authoritative = 0x1e91060
+communicationBlock_time_to_unblock = 0x1e90d00
+communicationBlock_warning_fade = 0x1e90a70
+communicationBlock_warning_num = 0x1e90d90
+communicationBlock_warning_sustain = 0x1e90be0
+communicationBlock_warning_threshold = 0x1e90e20
+communities_hostname = 0x1eb8eb0
+community = 0x1e91210
+community_frame_run = 0x1e91600
+community_spam = 0x1eb89a0
+community_staleUserInfoTime = 0x1e91330
+con_logfile = 0x1ece2d0
+con_timestamp = 0x1b5a390
+concommands_exec_sanitize = 0x1b57fd0
+controller_constant_aim_sense_debounce = 0x26a7aa0
+controller_debug_show_detection = 0x1ed1590
+controller_fast_duration_time_generic = 0x1ed17d0
+controller_fast_press_time_generic = 0x1ed12f0
+controller_max_fast_presses_generic = 0x1ed1620
+controller_out_of_bounds_threshold_generic = 0x1ed1380
+controller_pattern_rec_error_generic = 0x1ed14a0
+controller_report_freq_generic = 0x1ed16b0
+controller_trigger_max_velocity_generic = 0x1ed1410
+controller_use_cheat_detection_generic = 0x1ed1260
+cpu_level = 0x2517d40
+createentitydecals = 0x24f9910
+crossPlay_Enabled = 0x1e8eb80
+csm0_on_worker = 0x251d5d0
+csm_cascade_res = 0x2518100
+csm_coverage = 0x1edf6d0
+csm_culling_use_base_planes = 0x251fab0
+csm_culling_use_exclusion_planes = 0x2515ea0
+csm_culling_use_inclusion_planes = 0x25028e0
+csm_culling_use_planes = 0x25294e0
+csm_debug_2d = 0x250e870
+csm_debug_culling = 0x2511d50
+csm_debug_vis_hi_range = 0x251d980
+csm_debug_vis_lo_range = 0x2511790
+csm_depth_bias = 0x25119d0
+csm_dropsequence_adjusted_coverage = 0x251f240
+csm_dropsequence_adjustment = 0x2502c50
+csm_enabled = 0x1ee2190
+csm_fadeModels = 0x250bed0
+csm_force_no_csm_in_reflections = 0x250e780
+csm_frustum_draw = 0x24d5600
+csm_frustum_draw_lock = 0x24d5570
+csm_heightmap_shadows = 0x251d390
+csm_ignore_cascade12 = 0x251d4b0
+csm_ignore_edge_planes = 0x250af60
+csm_ignore_face_planes = 0x25138d0
+csm_max_z_offset = 0x251efc0
+csm_min_z_offset = 0x2510f90
+csm_renderable_shadows = 0x2502ce0
+csm_rope_shadows = 0x251f0e0
+csm_shadow_split_lerp_factor_range = 0x251f970
+csm_texel_size_cascade_0 = 0x250edf0
+csm_texel_size_cascade_1 = 0x2512760
+csm_texel_size_cascade_2 = 0x250b400
+csm_texel_size_cascade_onecascade = 0x2519e10
+csm_use_env_light_direction = 0x250ac10
+csm_world_shadow_meshes = 0x2515e10
+csm_world_shadows = 0x2519fc0
+csm_z_cover_world = 0x2519b40
+cull_entity_circle_replicated = 0x1ec3bf0
+cull_target_info_offscreen_for_players = 0x24df6c0
+cull_target_info_offscreen_for_spectators = 0x24db1c0
+cupsPub_hostname = 0x1b70510
+cups_check_activation_from_reveal = 0x1d51870
+cups_debug = 0x1d516f0
+cups_enabled = 0x1d519f0
+cups_has_match_history = 0x1d510a0
+cups_has_post_match = 0x1d50dd0
+cups_leaderboardRequestCacheLimit = 0x1d515b0
+cups_leaderboardRequestCacheTimeout = 0x1d51a80
+curl_spamAllQueryStates = 0x1ec9760
+cursorWide = 0x2777710
+curved_zipline_skip_cooldown_increase = 0x24f1500
+customMatchChannel_hostname = 0x1d524a0
+customMatchPub_hostname = 0x1b79570
+customMatch_allowBanningLegends = 0x1d52a20
+customMatch_bannedLegends = 0x1d52250
+customMatch_channel = 0x1d51c90
+customMatch_enabled = 0x1d521a0
+customMatch_fastStart = 0x1d51bc0
+customMatch_fillBotsMode = 0x1d52930
+customMatch_forceHiddenPlaylistAccess = 0x1d52040
+customMatch_forceSpecialAccess = 0x1d52620
+customMatch_hasMultiplePlayers = 0x1d51e10
+customMatch_liveapi = 0x1d520d0
+customMatch_playerToken = 0x1d523f0
+customMatch_public_enabled = 0x1d52880
+customMatch_startMatchmakingDelay = 0x1d52360
+dac = 0x1e88910
+damageIndicatorReplayTimeOffset = 0x24dece0
+damage_indicator_style_pilot = 0x26c3f20
+damageinfo_defendInvalidValues = 0x266a770
+debugFootstepEffects = 0x24f68c0
+debug_controller_menu_test_generic = 0x1ed1740
+debug_debug_overlay = 0x1b58060
+debug_force_textRestriction = 0x1e91570
+debug_force_ugcRestriction = 0x1e912a0
+debug_force_voiceRestriction = 0x1e91450
+debug_map_crc = 0x1b5a830
+defer_weapon_effects = 0x24e3470
+delayPostSnapshotNotificationsToAfterInterpolation = 0x2503020
+deltaBuf_dump_includeFields = 0x1e850e0
+deltaBuf_forceOverflow = 0x1e85200
+deltaBuf_fullUpdateOnOverflow = 0x1e85170
+deltaBuf_restrictSizePercent = 0x1e85290
+demo_autoRecord = 0x1e861f0
+demo_autoRecordName = 0x1e85e90
+demo_connect_string = 0x24d8c10
+demo_ui_enable = 0x24d8a60
+depth_prepass_dist_cutouts = 0x1ec3640
+depth_prepass_dist_opaques = 0x1ec4fb0
+depth_prepass_include_opaques = 0x1ec3da0
+devStats = 0x26c0fc0
+dev_telemetry_enabled = 0x1ec8770
+dev_telemetry_logging = 0x1e89610
+dev_telemetry_send_timeout_seconds = 0x1e89580
+developer = 0x1ec8650
+dialogue_cat_generic = 0x2669e78
+dialogue_cat_host_flavor = 0x266a170
+dialogue_cat_host_important = 0x266a208
+dialogue_cat_legend_flavor = 0x266a040
+dialogue_cat_legend_important = 0x266a0d8
+dialogue_cat_ping_flavor = 0x2669f10
+dialogue_cat_ping_important = 0x2669fa8
+dialogue_cat_weapon_flavor = 0x266a2a0
+dialogue_debug = 0x266a330
+directlighting_debug = 0x1f3ebc0
+directlighting_debug_clusters = 0x1f3f550
+directlighting_debug_freeze = 0x1f3e980
+directlighting_debug_lightidx = 0x1f3e6b0
+directlighting_debug_lightvolume = 0x1f3e740
+directlighting_debugout = 0x1f3e7d0
+directlighting_debugpick = 0x1f3efb0
+directlighting_debugpick_drawmode = 0x1f3f430
+directlighting_debugpick_freeze = 0x1f3ee00
+directlighting_debugpick_highlight = 0x1f3f280
+directlighting_debugpick_ztest = 0x1f3f310
+directlighting_emissive_mul = 0x24cc430
+directlighting_falloff = 0x1f4b9d0
+directlighting_falloff_cap = 0x1f4b810
+directlighting_global_mul = 0x1f4bdc0
+directlighting_mode = 0x1f3e620
+disable_bone_lods = 0x277a730
+disable_object_placement_in_oob_trigger = 0x24e37c0
+disable_use_unspoofedid_social = 0x1ecaf60
+disallow_object_placement_special_in_oob_trigger = 0x24e7f10
+disallow_object_placement_special_in_slip_trigger = 0x24e1da0
+disallow_object_placement_special_in_slip_trigger_floor = 0x24e24f0
+discord_largeImage = 0x1e873f0
+discord_smallImage = 0x1e87360
+discord_updatePresence = 0x1e87480
+dlight_default_falloff = 0x1b58810
+dlight_early_clear = 0x1b5aa30
+dlight_enable = 0x1e1b2e0
+dlight_lumen_conversion = 0x1f4b930
+dlight_overlay = 0x1e1a1c0
+do_blurfade_at_eighth_res_ingame = 0x2544cf0
+dodgeInputAllowed = 0x252dd60
+dodge_cockpitHack = 0x26ab530
+dodge_cockpitOffsetMax = 0x26ab710
+dodge_cockpitTiltMax = 0x26ab650
+dodge_vertical_enable = 0x266be20
+dodge_vertical_horzspeedscale = 0x26700b0
+dodge_vertical_in_air = 0x26a48b0
+dodge_vertical_threshold = 0x26a5440
+dodge_viewTiltDecreaseSpeed = 0x266ba20
+dodge_viewTiltFalloffTime = 0x269fbb0
+dodge_viewTiltIncreaseSpeed = 0x266b170
+dodge_viewTiltMax = 0x269fac0
+dof_enable = 0x2545f00
+dof_farDepthEnd = 0x1ee6740
+dof_farDepthStart = 0x1ee67d0
+dof_monitorFarDepthEnd = 0x1ee68f0
+dof_monitorFarDepthStart = 0x1ee6620
+dof_monitorNearDepthEnd = 0x1ee64f0
+dof_monitorNearDepthStart = 0x1ee66b0
+dof_nearDepthEnd = 0x1ee6860
+dof_nearDepthStart = 0x1ee6580
+dof_overrideParams = 0x1ee6980
+dof_variable_blur = 0x2543080
+dormant_debug = 0x24f7bf0
+dsp_enabled = 0x26a1a60
+dsp_health_multiplier = 0x266b4e0
+dsp_notify_damage = 0x266f060
+dtwatchclass = 0x1b58490
+dtwatchdecode = 0x1b5b9c0
+dtwatchencode = 0x1b57ca0
+dtwatchent = 0x1b5b840
+dtwatchvar = 0x1b58250
+dump_varsights_calculations = 0x26c4770
+durango_voice_chat_team_only = 0x24fd880
+dvs_enable = 0x1ee5130
+dvs_enable_in_lobby = 0x251a110
+dvs_gpuframetime_max = 0x1ee50a0
+dvs_gpuframetime_min = 0x1ee5250
+dvs_gputimedelay_frames = 0x251d8f0
+dvs_scale_min = 0x1ee51c0
+ea_qvt_ident = 0x1eb8fd0
+eadpAuth_hostname = 0x1b75b60
+eadpCodeRedemption_hostname = 0x1b78600
+eadpFriends_hostname = 0x1b76bc0
+eadpGroups_hostname = 0x1b5d540
+eadpRtm_hostname = 0x1b77950
+eadpSearch_hostname = 0x1b76430
+eadpUM_hostname = 0x1b5bf80
+eadp_ctId = 0x1eb9330
+eadp_do_pidinfo_fetch = 0x1eb95a0
+eadp_force_nxNameDiscoverable = 0x1eb9630
+eadp_friend_filter_invalid = 0x1eb93c0
+eadp_friend_use_ctid = 0x1eb92a0
+eadp_presence_encode_gamesessiondata = 0x1ecf0d0
+eadp_presence_encode_presence_state = 0x1ecef60
+eadp_rtm_spam_log = 0x1ece850
+effect_update_array_spam = 0x2549570
+enable_KVFileOverrides = 0x1ec52f0
+enable_PlayerSettingOverrides = 0x1ec3ec0
+enable_debug_free_energize = 0x24e1f20
+enable_debug_overlays = 0x1b59110
+enable_height_based_land_anims = 0x26a31d0
+enable_height_based_land_anims_titans = 0x26a13c0
+enable_height_based_land_pov_anims_titans = 0x269fd70
+enable_io_error_reporting_to_backtrace = 0x274db10
+enable_non_fatal_error_reports = 0x24cdb90
+enable_object_placement_special_post_validation = 0x24e1e80
+enable_rotationStartTimeContiguous = 0x1ec5380
+enable_script_string_cache = 0x26b3520
+enable_skeleton_draw = 0x24f5c70
+enable_skeleton_draw_single_ent = 0x24f7530
+enable_uninitialized_netvar_crashes = 0x26b35f0
+enforce_entitlements_fingerprint_match = 0x1ec77c0
+engine_pump_messages_before_sleep = 0x1ece230
+ent_lightweightEnts = 0x24f8b80
+ent_repack_almostFull = 0x24f7890
+ent_repack_threshhold = 0x24f7c80
+entity_error_on_hitbox_count_mismatch = 0x26a18b0
+entity_skipRedundantAddEffects = 0x268aa40
+entity_useNetworkFieldBuffer = 0x1e85320
+entityreport_minAllocations = 0x24f8970
+eosIgnoreAuthFailures = 0x1e88ac0
+eosIsActive = 0x1e88a30
+eosJWT = 0x1e88b50
+eosLoginRetryMaxTime = 0x1e88880
+eosScriptDoTest = 0x1e889a0
+eos_clientId = 0x1e88d00
+eos_clientSecret = 0x1e88be0
+eos_deploymentId = 0x1e88c70
+eos_sandboxId = 0x1e88d90
+equip_all_emotes = 0x26c0440
+error_if_non_standard_ent_create = 0x24f7ec0
+error_save_message_for_crash_dump = 0x1ec5ab0
+eula_version = 0x2668a10
+eula_version_accepted = 0x2668390
+eventseq_debug = 0x25111d0
+everything_unlocked = 0x26bff50
+fast_intro = 0x26c38a0
+fast_path_updates_player_proxy_vis = 0x26bdcf0
+fatal_error_signal_abort = 0x24d20f0
+fatal_script_error_prompt = 0x277b2c0
+fatal_script_errors = 0x277b0f0
+fatal_script_errors_client = 0x277b190
+fatal_script_errors_dump_n_struct_members = 0x277b220
+fatal_script_errors_server = 0x277b350
+feature_suppression_flags = 0x26674a0
+filesystem_buffer_size = 0x1ed0de0
+filesystem_max_stdio_read = 0x1ed1110
+filesystem_native = 0x1ed11a0
+filesystem_report_buffered_io = 0x1ed0ff0
+filesystem_unbuffered_io = 0x1ed0ed0
+filesystem_use_overlapped_io = 0x1ed1080
+find_mismatched_player_collision_bug = 0x26ab3b0
+fire_animevents_overlay_not_active = 0x26a80c0
+first_person_bullet_delay = 0x24eb9d0
+first_person_proxy_blend_distance = 0x25025f0
+first_person_proxy_debug = 0x24e7040
+first_time_player_state = 0x2667390
+fog_enable = 0x2666530
+fog_enableskybox = 0x2665c10
+footstep_voice_override = 0x24f4f50
+footstep_voice_override_onlygears = 0x24f5670
+force3PLaserAttachment = 0x24eed00
+force_EAAccess = 0x1e914e0
+force_stance_v2 = 0x26bd390
+fov_disableAbilityScaling = 0x24fff40
+fps_absolute_max = 0x1ec5990
+fps_max = 0x1ec58f0
+fps_max_use_refresh = 0x1ec4440
+fps_max_vsync = 0x1ec4b30
+fps_swings_tracking = 0x1ec7190
+freecam_swallowButtonInput = 0x24fd020
+freefall_sound_autoplay_time = 0x266aad0
+freefall_sound_height = 0x269d8a0
+friends_invitePreferFirstParty = 0x1ecaba0
+friends_joinUsePresence = 0x1ecb330
+friends_onlineUpdateInterval = 0x1ecd9e0
+fs_fwrite_report_partial_writes = 0x1ed0f60
+fs_intralevel_reads = 0x1ed0740
+fs_report_intra_level_readopens = 0x1ed0860
+fs_report_long_reads = 0x1ed0bb0
+fs_report_sync_opens = 0x1ed07d0
+fs_report_sync_opens_callstack = 0x1ed09e0
+fs_report_sync_opens_fatal = 0x1ed0ad0
+fs_showAllReads = 0x1ed0950
+fs_warning_mode = 0x1ed0d00
+ftue_enable_experimentation = 0x26c4260
+ftue_exp_killswitch = 0x26c4080
+ftue_flow_enabled = 0x26c4140
+ftue_npp_assignment_enabled = 0x26c0950
+full_crash_dumps_all_crashes = 0x1e896a0
+full_crash_dumps_backtrace_fingerprint = 0x1e898e0
+full_crash_dumps_enabled = 0x1e89a00
+full_crash_dumps_max_attachments = 0x1e89730
+full_crash_dumps_max_count = 0x1e89970
+full_crash_dumps_size = 0x1e89850
+full_crash_dumps_wait_for_debugger = 0x1e897c0
+fullscreen_enabled = 0x1f4b4a0
+func_break_max_pieces = 0x2536ae0
+fx_allow_force_mvecs_to_zero = 0x274c940
+fx_debug = 0x2529c60
+fx_deferWorldTraceConstraint = 0x274b680
+fx_impact_ally = 0x2548450
+fx_impact_enemy = 0x2540c40
+fx_impact_neutral = 0x25444c0
+fx_screenspacepass = 0x274d3f0
+fx_sound_ambient = 0x2503d40
+fx_sound_oneshot = 0x2511de0
+fx_sound_oneshot_max_radius = 0x274bc80
+fx_sound_thinkinterval_max = 0x250b330
+fx_think_debug = 0x2515f30
+g_debug_ragdoll_removal = 0x2669c40
+g_ragdoll_fadespeed = 0x24f72b0
+g_ragdoll_important_maxcount = 0x2669610
+g_ragdoll_lvfadespeed = 0x24f6330
+gameCursor_ModeActive = 0x2533650
+gameCursor_Velocity = 0x2534410
+gamemode_select_show_decorated_playlist = 0x1ec51c0
+gamemode_select_show_undecorated_playlist = 0x1ec3100
+gamemovement_duck_debounce_threshold = 0x26a6270
+gamemovement_player_respawn_sounds_cooldown = 0x26a1ce0
+gamepad_ads_advanced_sensitivity_scalar_0 = 0x250f740
+gamepad_ads_advanced_sensitivity_scalar_1 = 0x250f7d0
+gamepad_ads_advanced_sensitivity_scalar_2 = 0x250f860
+gamepad_ads_advanced_sensitivity_scalar_3 = 0x250f8f0
+gamepad_ads_advanced_sensitivity_scalar_4 = 0x250f980
+gamepad_ads_advanced_sensitivity_scalar_5 = 0x250fa10
+gamepad_ads_advanced_sensitivity_scalar_6 = 0x250faa0
+gamepad_ads_advanced_sensitivity_scalar_7 = 0x250fb30
+gamepad_aim_assist_ads_high_power_scopes = 0x25191f0
+gamepad_aim_assist_ads_low_power_scopes = 0x2515770
+gamepad_aim_assist_hip_high_power_scopes = 0x2504110
+gamepad_aim_assist_hip_low_power_scopes = 0x25139c0
+gamepad_aim_assist_melee = 0x251d300
+gamepad_aim_speed = 0x2518070
+gamepad_aim_speed_ads_0 = 0x2514260
+gamepad_aim_speed_ads_1 = 0x25142f0
+gamepad_aim_speed_ads_2 = 0x2514380
+gamepad_aim_speed_ads_3 = 0x2514410
+gamepad_aim_speed_ads_4 = 0x25144a0
+gamepad_aim_speed_ads_5 = 0x2514530
+gamepad_aim_speed_ads_6 = 0x25145c0
+gamepad_aim_speed_ads_7 = 0x2514650
+gamepad_button_layout = 0x26694f0
+gamepad_buttons_are_southpaw = 0x26682e0
+gamepad_custom_ads_pitch = 0x2519430
+gamepad_custom_ads_turn_delay = 0x25112f0
+gamepad_custom_ads_turn_pitch = 0x2503980
+gamepad_custom_ads_turn_time = 0x251fc60
+gamepad_custom_ads_turn_yaw = 0x250b490
+gamepad_custom_ads_yaw = 0x251eaf0
+gamepad_custom_assist_on = 0x250a660
+gamepad_custom_assist_style = 0x2511820
+gamepad_custom_curve = 0x2517b90
+gamepad_custom_deadzone_in = 0x2517e80
+gamepad_custom_deadzone_out = 0x25034c0
+gamepad_custom_enabled = 0x25149b0
+gamepad_custom_hip_pitch = 0x250e020
+gamepad_custom_hip_turn_delay = 0x251d660
+gamepad_custom_hip_turn_pitch = 0x251f5f0
+gamepad_custom_hip_turn_time = 0x251eea0
+gamepad_custom_hip_turn_yaw = 0x25183d0
+gamepad_custom_hip_yaw = 0x25150c0
+gamepad_custom_pilot = 0x2667530
+gamepad_custom_titan = 0x26671d0
+gamepad_deadzone_index_look = 0x2514920
+gamepad_deadzone_index_move = 0x250f380
+gamepad_enabled = 0x253e070
+gamepad_look_curve = 0x2519280
+gamepad_stick_layout = 0x2669460
+gamepad_toggle_ads = 0x252a6a0
+gamepad_toggle_survivalSlot_to_weaponInspect = 0x252a9e0
+gamepad_togglecrouch_hold = 0x2535810
+gamepad_trigger_threshold = 0x1ed5800
+gamepad_use_per_scope_ads_settings = 0x2519140
+gamepad_use_per_scope_sensitivity_scalars = 0x25153d0
+gamepad_use_type = 0x26693d0
+gamma_adjusted = 0x2668920
+gamma_scale = 0x1f4b050
+gatherprops_no_wait = 0x250ca40
+gfx_amdUseLowLatency = 0x1f3cd80
+gfx_desaturate_force = 0x1ee7e50
+gfx_dump_shaders = 0x1f4b780
+gfx_forceAllowedLowLatencyMode = 0x1f3cc60
+gfx_growablebuffer_debug = 0x1f3cb40
+gfx_growablebuffer_debug_force_decommit = 0x1f3cbd0
+gfx_nvnUseLowLatency = 0x1f3ce10
+gfx_nvnUseLowLatencyBoost = 0x1f3ccf0
+gfx_paranoid_flushing = 0x1f4bd30
+gfx_vrs_enabled = 0x1f3cec0
+gfx_vrs_override_baserate = 0x1f3cf50
+gl_clear_color_buffer = 0x26664a0
+gl_clear_fogcolor = 0x2665310
+gl_clear_mrt4 = 0x2666060
+gl_clear_randomcolor = 0x2665550
+gl_clear_randomcolor_period_sec = 0x26650d0
+gladCards_debug = 0x2543f90
+gladcard_cache_debugging_enabled = 0x1f3df30
+gladcard_cache_enabled = 0x1f3dea0
+gladcard_precache_concurrency = 0x1f3de10
+gladcards_delayed_gcard_release_max = 0x25460b0
+gladcards_update_delay_range = 0x25482d0
+gladcards_wait_for_free_pip = 0x2546550
+glass_break_required_speed = 0x25118b0
+glass_shatter_direction_force_scale = 0x253cd20
+glass_shatter_force_scale = 0x2532020
+glass_shatter_size_scale = 0x2536bd0
+glass_shatter_use_real_direction = 0x2530f20
+glitch_aberrationScale = 0x1ee7d30
+global_lighting_partial_buffer = 0x24cc0d0
+gpu_level = 0x25285e0
+gpu_mem_level = 0x25038f0
+gpu_vram_size_mb = 0x1ee4f80
+grapple_accel_human = 0x26ab010
+grapple_accel_titan = 0x26aa350
+grapple_around_obstacle_accel = 0x26a4c90
+grapple_autoMantle = 0x26a3820
+grapple_autoMeleeConvergeTime = 0x26ab1e0
+grapple_autoMeleeOnDetach = 0x26ab320
+grapple_autoMeleePredict = 0x26aae60
+grapple_autoMeleePredictTime = 0x26a9d90
+grapple_autoMeleeViewRotateSpeedFar = 0x26a8c20
+grapple_autoMeleeViewRotateSpeedNear = 0x26a8b90
+grapple_debug = 0x26a9ef0
+grapple_decelMeleeStrength = 0x26a9a40
+grapple_decel_human = 0x26aaaa0
+grapple_decel_titan = 0x26aa0e0
+grapple_detachExtraAllowedLength = 0x26aa200
+grapple_disableMeleeWhenActive = 0x2670680
+grapple_fallSpeed = 0x26a9960
+grapple_forcedRetractVel = 0x26aaef0
+grapple_gracePeriod = 0x26aa030
+grapple_gravityPushUnderContribution = 0x2670820
+grapple_initialImpulseOffGround_human = 0x26a9d00
+grapple_initialImpulseOffGround_human_npc = 0x26ab130
+grapple_initialImpulseOffGround_titan = 0x26aa630
+grapple_initialImpulse_human = 0x26aa170
+grapple_initialImpulse_titan = 0x26a9c70
+grapple_initialSlowFracVert_human = 0x26aa4c0
+grapple_initialSlowFracVert_titan = 0x26aa6c0
+grapple_initialSlowFrac_human = 0x26aabf0
+grapple_initialSlowFrac_titan = 0x26aab30
+grapple_initialSpeedMin_human = 0x26aa9f0
+grapple_initialSpeedMin_titan = 0x26a9e40
+grapple_jumpFrac = 0x269d4e0
+grapple_letGravityHelpCosAngle = 0x269d6d0
+grapple_lift = 0x26aa960
+grapple_pullDelay_human = 0x26ab0a0
+grapple_pullDelay_titan = 0x26aaca0
+grapple_rodeoVerticalImpulse = 0x26a61e0
+grapple_speedRampMax_human = 0x26aa840
+grapple_speedRampMax_titan = 0x26ab290
+grapple_speedRampMin_human = 0x26aa2c0
+grapple_speedRampMin_titan = 0x26aa580
+grapple_speedRampTime_human = 0x26aadb0
+grapple_speedRampTime_titan = 0x26a9f80
+grapple_swingAngle = 0x26aa7b0
+grapple_swingPullAngle = 0x2670bd0
+grapple_swingPullSpeedLength = 0x26aa400
+grapple_swingPullSpeedScale = 0x26a9be0
+grapple_titanEmbarkDist = 0x26a4c00
+grapple_windowCheckDist = 0x26aa8d0
+gravity_grenade_decel = 0x26bfda0
+gravity_grenade_projectile_min_speed = 0x26bf250
+grenades_collide_against_hitboxes = 0x266eee0
+ground_debug = 0x266bbc0
+ground_reject_bvh_vertex = 0x269cfb0
+ground_trace_hull_radius = 0x26a9440
+grx_hasUnknownItems = 0x1d55270
+grx_vertical_dialogue_confirmation = 0x2669000
+gtao_angle_bias = 0x1f41260
+gtao_intensity = 0x1f40840
+gtao_intensity_in_lobby = 0x1f414a0
+gtao_thickness_heuristic = 0x1f41650
+hasAnyAssetsWithDiscardedStreamableData = 0x1e85c50
+hasMic = 0x1e86550
+hasPartialInstall = 0x1e85b30
+has_seasonal_video = 0x1e85980
+hbao_angle_bias = 0x1f412f0
+hbao_intensity = 0x1f40b10
+hbao_stepsize_random = 0x1f40d50
+hbaobasic_tangent_bias = 0x1f409f0
+hdr_screenshot_default_filename = 0x2666b60
+hdr_screenshot_directory = 0x2666ad0
+hdr_ui_brightness = 0x1e8af20
+healthbar_particles_enabled = 0x26c0000
+hidehud = 0x253bd30
+highlight_deferred_update = 0x25115e0
+highlight_draw = 0x1f3e410
+highlight_enable_discard = 0x1f3e380
+highlight_lazy_clear_buffers = 0x1f3e590
+highlight_object_max_count = 0x1f3e500
+highlight_verbose = 0x26a8d40
+highlight_visibility_use_spin_lock = 0x24f8670
+hitch_alert_active = 0x2544f90
+hitch_alert_color = 0x25446d0
+hitch_alert_show_large_snapshots = 0x25422f0
+host_ShowIPCCallCount = 0x1ec7be0
+host_forceTakeHomeBuild = 0x1ec7580
+host_framerate = 0x1ec8890
+host_hasIrreversibleShutdown = 0x1b784e0
+host_limitlocal = 0x1ec86e0
+host_map = 0x1b5c970
+host_print_frame_times = 0x1ec8470
+host_profile = 0x1ec70a0
+host_runframe_input_parcelremainder = 0x1ec7ac0
+host_sleep = 0x1ec6870
+host_speeds = 0x1ec6cb0
+host_syncfps = 0x1e1ae30
+host_thread_join_fast = 0x1ec6ec0
+host_thread_mode = 0x1ec82c0
+host_timescale = 0x1ec8a40
+hostname = 0x1b74b40
+hoverVehicleViewRollMultiplier = 0x26bab00
+hover_vehicle_air_brake_style = 0x26b7680
+hover_vehicle_air_jump = 0x26b57e0
+hover_vehicle_banking_effects = 0x26b8f10
+hover_vehicle_boost_collision_delay = 0x26b46d0
+hover_vehicle_boost_collision_tolerance = 0x26b6a10
+hover_vehicle_boost_direction_style = 0x26b51e0
+hover_vehicle_boost_direction_style_freelook = 0x26b4c40
+hover_vehicle_boost_max_vert_speed = 0x26b77a0
+hover_vehicle_boost_on_hold = 0x26b7c90
+hover_vehicle_boost_speed_decay_with_pitch = 0x26b8120
+hover_vehicle_boost_style = 0x26b7100
+hover_vehicle_boost_vert_jump_pad_delay = 0x26b4cd0
+hover_vehicle_camera_offset_height_base = 0x25313b0
+hover_vehicle_camera_offset_height_speedDelta = 0x253aec0
+hover_vehicle_camera_smooth_rate = 0x2538810
+hover_vehicle_collision_damage_debounce = 0x26ac770
+hover_vehicle_collision_force = 0x26abfb0
+hover_vehicle_collision_min_speed_threshold_vert = 0x26ac800
+hover_vehicle_collision_player_damage = 0x26b78c0
+hover_vehicle_collision_player_damage_boost_only = 0x26ac2e0
+hover_vehicle_disembark_eye_angles_are_world_angles = 0x26bb430
+hover_vehicle_eject_enabled = 0x26b0af0
+hover_vehicle_full_recharge_on_zero_boost = 0x26b18e0
+hover_vehicle_glide_air_accel = 0x26b33b0
+hover_vehicle_glide_check_max_air_time = 0x26b10a0
+hover_vehicle_glide_debounce = 0x26b8090
+hover_vehicle_glide_debug = 0x26b25b0
+hover_vehicle_glide_descent_speed = 0x26b4d60
+hover_vehicle_glide_height_check_dist = 0x26b3a50
+hover_vehicle_glide_max_duration = 0x26b4e80
+hover_vehicle_glide_max_thrust = 0x26b7ee0
+hover_vehicle_glide_max_total_air_time = 0x26b6980
+hover_vehicle_glide_min_height = 0x26b7380
+hover_vehicle_glide_min_thrust = 0x26b6050
+hover_vehicle_glide_post_jump_delay = 0x26b5150
+hover_vehicle_glide_single_press = 0x26b1f70
+hover_vehicle_glide_thrust_speed = 0x26ac250
+hover_vehicle_glide_tightness_down = 0x26b7220
+hover_vehicle_glide_tightness_up = 0x26b0050
+hover_vehicle_glide_to_min_thrust_duration = 0x26b3780
+hover_vehicle_glide_type = 0x26b5d90
+hover_vehicle_glide_when_ascending = 0x26b7f70
+hover_vehicle_gravity_lift_eject = 0x26b60e0
+hover_vehicle_ground_effects = 0x26b9e40
+hover_vehicle_health_start_on = 0x26abf20
+hover_vehicle_hover_height = 0x26b7da0
+hover_vehicle_hover_height_parked = 0x26b1850
+hover_vehicle_invisible_when_camera_is_too_close = 0x253e850
+hover_vehicle_jump_effect_min_time = 0x26ac660
+hover_vehicle_jump_on_hold = 0x26b0780
+hover_vehicle_passenger_left_attachment_name = 0x24d8430
+hover_vehicle_player_pushaway_damage_max = 0x26b4160
+hover_vehicle_player_pushaway_damage_min = 0x26b3810
+hover_vehicle_player_pushaway_speed_based_damage = 0x26b5750
+hover_vehicle_player_pushaway_speed_max = 0x26b5030
+hover_vehicle_player_pushaway_speed_min = 0x26b00e0
+hover_vehicle_reset_camera_while_embarking = 0x26b5fc0
+hover_vehicle_yaw_nospring_smoothtime = 0x26b7010
+hover_vehicle_yaw_nospring_smoothtime_boosting = 0x26b5ef0
+hover_vehicle_yaw_spring_enabled = 0x26b8470
+http_StryderKey = 0x1ec9520
+http_debug = 0x1ec8c10
+http_debug_forceFailRate = 0x1ec9370
+http_debug_forceFailStatus = 0x1ec9120
+http_debug_forceFailUrlMatch = 0x1ec9400
+http_expoBackoff_Enabled = 0x1ec92e0
+http_expoBackoff_Factor = 0x1ec8ca0
+http_expoBackoff_FirstDelay = 0x1ec91c0
+http_expoBackoff_LongScale = 0x1ec8ee0
+http_expoBackoff_MaxFailureWait = 0x1ec9490
+http_expoBackoff_ScaleFactor = 0x1ec9000
+http_failuresAsErrors = 0x1ec8d30
+http_maxAllocateAttempts = 0x1ec9250
+http_sandbox = 0x1ec95b0
+http_showQueries = 0x1ec9090
+http_showRequestInfo = 0x1ec8f70
+hud_autoreloadscript = 0x26c4be0
+hud_setting_accessibleChat = 0x2546bc0
+hud_setting_accolades_hudState = 0x2542080
+hud_setting_accolades_tier_filter = 0x25412d0
+hud_setting_adsDof = 0x2541f00
+hud_setting_aind = 0x24dc700
+hud_setting_anonymousMode = 0x1e8be20
+hud_setting_chainHeal = 0x2544b40
+hud_setting_compactOverHeadNames = 0x24dad20
+hud_setting_damageIndicatorStyle = 0x25479e0
+hud_setting_damageTextStyle = 0x25443a0
+hud_setting_energyAmmoDisplay = 0x25426e0
+hud_setting_minimapRotate = 0x2543e10
+hud_setting_observerFullmapAutoZoom = 0x2541720
+hud_setting_pingAlpha = 0x25478f0
+hud_setting_pingDoubleTapEnemy = 0x2544a20
+hud_setting_showButtonHints = 0x2540f80
+hud_setting_showCallsigns = 0x2547280
+hud_setting_showEnemyHealthBar = 0x2542dd0
+hud_setting_showEnemyHighlight = 0x2545580
+hud_setting_showHopUpPopUp = 0x2541dd0
+hud_setting_showLevelUp = 0x2546490
+hud_setting_showMedals = 0x2545610
+hud_setting_showMeter = 0x2548600
+hud_setting_showObituary = 0x25457c0
+hud_setting_showOffscreenPortrait = 0x2543450
+hud_setting_showTeamNamesOnMap = 0x25419d0
+hud_setting_showTips = 0x2542450
+hud_setting_showWeaponFlyouts = 0x25481b0
+hud_setting_streamerMode = 0x2548240
+hud_simplifiedStackingDamageEnabled = 0x2543a10
+hudchat_clear_on_hide = 0x252a480
+hudchat_enable_old_history_handling = 0x2539fe0
+hudchat_new_message_fade_duration = 0x2530510
+hudchat_new_message_shown_duration = 0x2536d80
+hudchat_play_text_to_speech = 0x2531040
+hudchat_retain_input_state = 0x252acc0
+hudchat_text_check_teams = 0x252ade0
+hudchat_text_to_speech_max_age = 0x252a030
+hudchat_transition_message_mode_fade_duration = 0x252fde0
+hudchat_visibility = 0x252e8d0
+hudwarp_chopsize = 0x277a270
+hudwarp_xScale = 0x277a1e0
+huntMode_fovLerpTimeRatio = 0x26b7450
+huntMode_useFovEaseOutOverDuration = 0x26b2520
+idcolor_ally = 0x2541e60
+idcolor_ally_cb1 = 0x2548840
+idcolor_ally_cb2 = 0x25465e0
+idcolor_ally_cb3 = 0x2546a10
+idcolor_enemy = 0x25493c0
+idcolor_enemy_cb1 = 0x2545d20
+idcolor_enemy_cb2 = 0x2545900
+idcolor_enemy_cb3 = 0x2540ce0
+idcolor_neutral = 0x25421d0
+ignore_fatal_errors = 0x1ec5bf0
+ignore_material_flags_for_decals = 0x1f3dfc0
+ignore_script_errors = 0x26c0c10
+ik_debug = 0x26a9390
+ik_debug_chain = 0x266a560
+ik_debug_ent = 0x26a3930
+ik_debug_text = 0x26a73b0
+ik_enable = 0x266f1f0
+ik_enable_client = 0x269d2c0
+ik_height_adjust = 0x26a4eb0
+ik_height_adjust_debug = 0x266f8e0
+ik_height_adjust_move_speed = 0x266de40
+ik_height_adjust_sine = 0x266b650
+ik_height_adjust_speed = 0x26a6470
+ik_latch = 0x26a1310
+ik_normal_lerp_rate = 0x268b480
+ik_unlatch_max_rate = 0x269fe30
+ime_enabled = 0x1ed3050
+imgui_buildmode = 0x2777670
+impact_allow = 0x253a070
+impact_debug_info = 0x2545850
+impact_victim_offset_always = 0x25391d0
+impact_victim_offset_dist = 0x253bca0
+impulse_low_decel_duration_scalar = 0x26ba370
+inPartyChat = 0x1e86670
+in_syncRT = 0x1ec4f20
+in_usekeyboardsampletime = 0x252a0c0
+inflight_stream_texture_max = 0x1ee8c00
+infoblock_requestInterval = 0x1e913c0
+input_detection_antirecoil_match_max = 0x2538a40
+input_detection_antirecoil_threshold = 0x252e020
+input_detection_enabled = 0x252ef10
+input_did_turn_threshold = 0x253c7c0
+input_only_allow_client = 0x1b75da0
+inputstack_debugger = 0x1ed3130
+intro_viewed = 0x2667cd0
+ip = 0x1b77760
+it_periodic_wakeup_ns = 0x274dee0
+it_use_high_resolution_wakeups = 0x274df70
+it_use_periodic_timer = 0x274ddc0
+jitter_aim_prevention_oscillation_threshold = 0x26a7a10
+joy_advaxisr = 0x253ac10
+joy_advaxisu = 0x252b300
+joy_advaxisv = 0x253ced0
+joy_advaxisx = 0x2535c50
+joy_advaxisy = 0x25382f0
+joy_advaxisz = 0x25358a0
+joy_inverty = 0x253c730
+joy_legacy = 0x253e100
+joy_movement_stick = 0x2531320
+joy_requireFocus = 0x1eba0f0
+joy_rumble = 0x253eaa0
+joy_xcontroller_cfg_loaded = 0x253a810
+jpeg_quality = 0x1e1a3d0
+jt_batch_cnt = 0x24d1aa0
+jt_cpu_counter_perf = 0x24d1950
+jt_help_with_anything_ignore_preference = 0x24d0870
+jt_use_hyper_threads = 0x24d1b40
+jt_yield_spin = 0x24d1a10
+jump_grace_controller_disable_duration = 0x26a7660
+jump_grace_cutoff_speed = 0x2670c60
+jump_grace_decay_start_tap_count = 0x269e300
+jump_grace_jump = 0x269f170
+jump_grace_limit_to_90 = 0x266aa20
+jump_grace_max = 0x26a7500
+jump_grace_max_tap_count = 0x26a2d30
+jump_grace_min_tap_period = 0x269eb30
+jump_grace_multi_tap_decay = 0x269d640
+jump_grace_multi_tap_decay_velocity_based_easing_type = 0x2671570
+jump_grace_multi_tap_decay_velocity_based_max_decay = 0x266dd50
+jump_grace_multi_tap_decay_velocity_based_max_speed = 0x269fec0
+jump_grace_require_tap = 0x266dbd0
+jump_grace_strength = 0x26a0690
+jump_graceperiod = 0x26a5390
+jump_graceperiodmax = 0x26a6500
+jump_graceperiodmin = 0x26a49d0
+jump_pad_geo_trace_debug = 0x266ad20
+kepler_hostname = 0x1d52b80
+kepler_isEnabled = 0x1d52ab0
+laserSightColor = 0x26bb550
+laserSightColorCustomized = 0x26ba550
+leaf_threadedRecompute = 0x25186f0
+leaf_threadedRecompute_batchSize = 0x2514800
+leech_npc_angle_cos = 0x24e2c40
+lerp_debugEnt = 0x266b8a0
+lerp_opt = 0x24f9a80
+lerp_threaded = 0x24f79b0
+lerp_threaded_numEntsPerTask = 0x24f90f0
+light_maxcone = 0x1b5d660
+lighting_debug_overlay = 0x2667070
+lightmap_realtimelight = 0x1edf880
+lightmap_realtimeshadows = 0x1ee4c20
+liveapi_session = 0x1ec7b50
+load_base_lods_synchronously = 0x24cf270
+loaderrorsCount = 0x24d9720
+loaderrorsNeedShown = 0x24d92d0
+lobatac_fix = 0x24ee120
+lobby_battlepass_milestone_enabled = 0x26c32d0
+lobby_cullNetEntities = 0x26b0a60
+lobby_flicker_fix_disable = 0x24f7a40
+lobby_max_fps = 0x1eba3a0
+localClientPlayerCachedLevel = 0x24d9450
+locationInfo = 0x1e1ba20
+locationInfo_nucleus = 0x1e1b990
+locator_background_border_color = 0x252e9f0
+locator_background_border_thickness = 0x2529f30
+locator_background_color = 0x2531ba0
+locator_background_shift_x = 0x2531d80
+locator_background_shift_y = 0x2532710
+locator_background_style = 0x2535a30
+locator_background_thickness_x = 0x2532570
+locator_background_thickness_y = 0x252ae70
+locator_fade_time = 0x2530860
+locator_icon_max_size_non_ss = 0x253c520
+locator_icon_min_size_non_ss = 0x2536220
+locator_lerp_rest = 0x2530950
+locator_lerp_speed = 0x2532a80
+locator_lerp_time = 0x2534380
+locator_pulse_time = 0x2538ad0
+locator_split_len = 0x252a790
+locator_split_maxwide_percent = 0x2532c80
+locator_start_at_crosshair = 0x2538390
+locator_target_offset_x = 0x2536940
+locator_target_offset_y = 0x252e110
+locator_topdown_style = 0x253b070
+lookspring = 0x2536ea0
+lookstrafe = 0x253b660
+m_acceleration = 0x25321a0
+m_clamp_to_window = 0x253d530
+m_forward = 0x253b5b0
+m_invert_pitch = 0x2530fb0
+mainmenu_background_movie = 0x24d94e0
+mantle_boost_disables_tap_strafes = 0x26a36d0
+mantle_boost_input_setting = 0x26720a0
+mantle_boost_ui_setting = 0x26c2fa0
+map_settings_override = 0x253ab50
+mat_autoexposure_compensation = 0x2541480
+mat_autoexposure_debug = 0x2546c50
+mat_autoexposure_disable_controllers = 0x250e1d0
+mat_autoexposure_force_value = 0x24cc1f0
+mat_autoexposure_max = 0x2546ce0
+mat_autoexposure_max_luminance = 0x1eea270
+mat_autoexposure_max_multiplier = 0x2544ab0
+mat_autoexposure_min = 0x25483c0
+mat_autoexposure_min_multiplier = 0x2545340
+mat_autoexposure_speed = 0x2543360
+mat_autoexposure_target_lum_max = 0x2541d30
+mat_autoexposure_target_lum_min = 0x25418a0
+mat_autoexposure_uncap = 0x2548fc0
+mat_bloom_amount_override = 0x2549270
+mat_bloom_clamp = 0x25484e0
+mat_bloom_cutoff_default = 0x25432d0
+mat_bloom_cutoff_exposure_adapt = 0x2543ea0
+mat_bloom_cutoff_override = 0x25453d0
+mat_bloom_global_baseline = 0x25454f0
+mat_bloom_streak_amount = 0x1ee6d70
+mat_bloom_streak_clamp = 0x2544310
+mat_bloom_streak_cutoff = 0x2545f90
+mat_bloom_streak_cutoff_exposure_adapt = 0x25456a0
+mat_bloom_streak_exponent_post = 0x1ee7b80
+mat_bloom_streak_exponent_pre = 0x2544e70
+mat_bloom_wide_allow_monitor = 0x2543980
+mat_bloom_wide_clamp = 0x2547770
+mat_bloom_wide_exponent_pre = 0x2545e70
+mat_cloudmask = 0x1edfa90
+mat_colcorrection_disableentities = 0x251d420
+mat_colcorrection_editor = 0x2510e70
+mat_colcorrection_forceentitiesclientside = 0x25110b0
+mat_colorcorrection = 0x1b59700
+mat_cubemap_dir_norm_bias = 0x1eea030
+mat_cubemap_dir_norm_enable = 0x1ee9df0
+mat_cubemap_dir_norm_max_sh_directionality = 0x1ee9cd0
+mat_cubemap_dir_norm_sky_auto_intensity = 0x1eea0c0
+mat_cubemap_dir_norm_sky_intensity_prior_weight = 0x1ee9e80
+mat_cubemap_streaming_enabled = 0x1ee9d60
+mat_cubemap_streaming_fade_duration = 0x1ee9fa0
+mat_cubemap_streaming_max_requests = 0x1ee9c20
+mat_cubemap_streaming_max_samples = 0x1ee9f10
+mat_debug_alpha_mask_threshold = 0x1f4bc10
+mat_debug_grayscale = 0x1ee7820
+mat_debug_luminance = 0x1ee71f0
+mat_debug_luminance_max = 0x1ee7550
+mat_debug_luminance_min = 0x1ee7160
+mat_debug_postprocess_allowed = 0x1ee7c10
+mat_debug_postprocessing_effects = 0x2546290
+mat_debug_tonemapping = 0x1ee7af0
+mat_debug_tonemapping_always_use_lut = 0x1ee6bc0
+mat_debug_tonemapping_disable = 0x1ee7670
+mat_debug_tonemapping_fb_blend = 0x1ee6ce0
+mat_debug_tonemapping_linear_segment_end = 0x1ee7ca0
+mat_debug_tonemapping_lut_d = 0x1ee6e00
+mat_debug_tonemapping_lut_h = 0x1ee6a10
+mat_debug_tonemapping_lut_w = 0x1ee75e0
+mat_debug_tonemapping_mid1 = 0x1ee73a0
+mat_debug_tonemapping_mid2 = 0x1ee7040
+mat_debug_tonemapping_shoulder = 0x1ee7280
+mat_debug_tonemapping_toe = 0x1ee70d0
+mat_debugalphasort = 0x2666a40
+mat_debugalttab = 0x1ee5010
+mat_depthbias_decal = 0x1f43970
+mat_depthbias_normal = 0x1f43b20
+mat_depthbias_shadowmap = 0x1f43850
+mat_depthbias_tightshadowmap = 0x1f43a00
+mat_depthbias_ui = 0x1f43580
+mat_depthbias_zfill = 0x1f43a90
+mat_depthbiasclamp_decal = 0x1f434f0
+mat_depthbiasclamp_normal = 0x1f43d60
+mat_depthbiasclamp_shadowmap = 0x1f43610
+mat_depthbiasclamp_ui = 0x1f437c0
+mat_depthbiasclamp_zfill = 0x1f43730
+mat_diffuse = 0x1ed5c40
+mat_disable_lightmap_ambient = 0x24cc040
+mat_disable_lightmaps = 0x1ee1fe0
+mat_disable_model_ambient = 0x1edd300
+mat_drawMenuGrid = 0x1ec3400
+mat_drawTitleSafe = 0x1ec5a20
+mat_dynamic_cubemap_blending = 0x24cc550
+mat_enable_emissive_fade = 0x1f4bca0
+mat_enable_ssr = 0x1ee7f70
+mat_envmap_capture_res = 0x1b59a80
+mat_envmap_output_res = 0x1b59f60
+mat_envmap_scale = 0x2783cb0
+mat_exposure_counteraction_override = 0x24cc310
+mat_fastnobump = 0x1ee2580
+mat_fastspecular = 0x1b77b60
+mat_filter_null_mesh_data = 0x24cf1e0
+mat_filterlightmaps = 0x1ee4950
+mat_filtertextures = 0x1edd180
+mat_force_irradiance_volume = 0x1f4b6f0
+mat_force_r5ao_model = 0x1f4b8a0
+mat_forceaniso = 0x1ee24f0
+mat_frame_color_bias = 0x2542e60
+mat_frame_color_enabled = 0x2544640
+mat_frame_color_scale = 0x2549150
+mat_frame_color_spot_metering_screen_ratio = 0x2543540
+mat_fullbright = 0x1b76730
+mat_global_lighting = 0x254a040
+mat_gpu_buffer_min_commit_mb = 0x1f3cab0
+mat_gpu_buffer_usage_decrease_factor = 0x1f3c900
+mat_gpu_buffer_usage_increase_factor = 0x1f3ca20
+mat_gpu_buffer_wait_for_fence = 0x1f3c990
+mat_hdr_debug_heatmap = 0x1ee7dc0
+mat_hdr_debug_heatmap_max_nits = 0x1ee6aa0
+mat_hdr_debug_heatmap_min_nits = 0x1ee74c0
+mat_hdr_paper_white_nits = 0x1ee1da0
+mat_hdrcolorcorrection = 0x1ed5a00
+mat_hide_sun_in_last_cascade = 0x1f4baf0
+mat_instancing = 0x1f4b660
+mat_letterbox_aspect_goal = 0x1f4aed0
+mat_letterbox_aspect_max = 0x1f4ae40
+mat_letterbox_aspect_min = 0x1f4af60
+mat_lightcull_subviews = 0x2665040
+mat_materialmip_character_0 = 0x1ee61c0
+mat_materialmip_character_1 = 0x1ee56d0
+mat_materialmip_character_2 = 0x1ee5a30
+mat_materialmip_character_3 = 0x1ee5d00
+mat_materialmip_character_4 = 0x1ee5c70
+mat_materialmip_cockpit_0 = 0x1ee5f80
+mat_materialmip_cockpit_1 = 0x1ee5880
+mat_materialmip_cockpit_2 = 0x1ee5520
+mat_materialmip_cockpit_3 = 0x1ee5640
+mat_materialmip_cockpit_4 = 0x1ee60a0
+mat_materialmip_model_0 = 0x1ee55b0
+mat_materialmip_model_1 = 0x1ee5ac0
+mat_materialmip_model_2 = 0x1ee6130
+mat_materialmip_model_3 = 0x1ee63d0
+mat_materialmip_model_4 = 0x1ee5be0
+mat_materialmip_other_0 = 0x1ee6010
+mat_materialmip_other_1 = 0x1ee59a0
+mat_materialmip_other_2 = 0x1ee6460
+mat_materialmip_other_3 = 0x1ee5760
+mat_materialmip_other_4 = 0x1ee62e0
+mat_materialmip_world_0 = 0x1ee5b50
+mat_materialmip_world_1 = 0x1ee5490
+mat_materialmip_world_2 = 0x1ee57f0
+mat_materialmip_world_3 = 0x1ee6250
+mat_materialmip_world_4 = 0x1ee5910
+mat_minimize_on_alt_tab = 0x1f4b170
+mat_mip_linear = 0x1edf970
+mat_mipmaptextures = 0x1edfb20
+mat_new_sky_ambient_adjustment = 0x1b75bf0
+mat_new_sky_ambient_weight = 0x24cc5e0
+mat_no_stretching = 0x1f4b0e0
+mat_norendering = 0x1ed5d60
+mat_pbr_falloff_bias = 0x24cc160
+mat_picmip = 0x1edd390
+mat_postprocess_enable = 0x2546dd0
+mat_repeat_state_changes_after_submit = 0x1ee5370
+mat_reset_contexts_after_deferred_submit = 0x1ee5400
+mat_reset_tex_stream_when_unloading = 0x1ee8000
+mat_screen_blur_enabled = 0x2542c20
+mat_set_dress_level = 0x1ed05f0
+mat_sharpen_amount = 0x1ee6c50
+mat_sharpen_threshold = 0x1ee7790
+mat_sharpen_width = 0x1ee7a60
+mat_showlowresimage = 0x1ed5b20
+mat_showmiplevels = 0x1ee2220
+mat_skipid = 0x1b75410
+mat_slopescaledepthbias_decal = 0x1f43cd0
+mat_slopescaledepthbias_normal = 0x1f436a0
+mat_slopescaledepthbias_shadowmap = 0x1f43c40
+mat_slopescaledepthbias_ui = 0x1f438e0
+mat_slopescaledepthbias_zfill = 0x1f43bb0
+mat_submit_multiple_contexts_at_once = 0x1f4b200
+mat_surfacefilter = 0x1b75860
+mat_surfaceid = 0x1b748a0
+mat_surfacemat = 0x1b77bf0
+mat_sync_rt = 0x1ee2340
+mat_sync_rt_flushes_gpu = 0x1ee82c0
+mat_use_alloc_for_tex_streaming = 0x1f3c680
+mat_vsyncMode = 0x1f4b2f0
+mat_wide_bloom_amount_override = 0x2547fd0
+mat_wide_bloom_global_baseline = 0x2547a70
+mat_wide_pillarbox = 0x1f4b410
+matchRequeue_check_chat_rule = 0x1b77d10
+matchRequeue_leaveGraceTime = 0x1b5c8e0
+matchSquadRequeue_enabled = 0x1b5d4b0
+matchSquadRequeue_timeLimit = 0x1b5c3c0
+match_allowMapRotationPreloading = 0x1b75260
+match_backingOutMaxTimeToWait = 0x1b5d900
+match_backoutslow = 0x1b77640
+match_checkSearchPlaylistChanged = 0x1b76e60
+match_connect = 0x1b5cc40
+match_datacenter = 0x1b79ab0
+match_defaultMap_party = 0x1b6e170
+match_dir = 0x1b77f20
+match_displayDatacenter = 0x1b6de10
+match_dumpSearchResults = 0x1b70170
+match_emptyUpdateRate = 0x1b5c580
+match_enabled = 0x1b788d0
+match_ezlaunch = 0x1b79840
+match_fakePort = 0x1b6e050
+match_fakeS2SPort = 0x1b5c6a0
+match_forcePostMatchSurvey = 0x1b74bd0
+match_forceVerboseSearches = 0x1b79a20
+match_goodReputation = 0x1b75e30
+match_jip = 0x1b75ad0
+match_maxPingsSent = 0x1b764c0
+match_myBestDatacenter = 0x1b77da0
+match_myDatacenter = 0x1b77c80
+match_myRankedDatacenter = 0x1b78010
+match_myTeam = 0x1b5d300
+match_partyChangeNum = 0x1b77400
+match_partySize = 0x1b5d0f0
+match_partySub = 0x1b5c850
+match_pingWaveInterval = 0x1b5c090
+match_playlist = 0x1b78840
+match_precachemap = 0x1b6d5b0
+match_precachemapOnMismatch = 0x1b754a0
+match_privateMatchListWithStryder = 0x1b6e970
+match_publicIp = 0x1b5c7c0
+match_rankedMaxPing = 0x1b746f0
+match_resetPlaylistBetweenMatches = 0x1b78370
+match_roleToken = 0x1b776d0
+match_searchInterval = 0x1b749c0
+match_searching = 0x1b78c00
+match_skipRedundantServerResets = 0x1b751d0
+match_teamNoFill = 0x1b767c0
+match_trackMMR = 0x1b70480
+match_updateNotableRate = 0x1b77370
+match_updateRate = 0x1b774f0
+match_verbosePrintsInterval = 0x1b782e0
+match_visiblePlaylists = 0x1b6ec40
+matchmake_from_match_enabled = 0x1b79210
+matchmaking_hostname = 0x1b75740
+max_bounces_to_allow_extra_bounce = 0x24eb940
+max_explosive_damage_mass = 0x26b0870
+max_explosive_damage_velocity = 0x26b75f0
+max_tweak_shadow_updates = 0x2503ae0
+melee_aim_assist_can_lock_pitch = 0x24e23b0
+melee_aim_assist_use_target_velocity = 0x24e9090
+melee_attack_trace_can_use_lunge_distance = 0x24e0310
+melee_cone_trace_box_check = 0x24e2050
+melee_lunge_abort_distance = 0x26a0ca0
+melee_lunge_abort_if_blocked = 0x266f770
+melee_lunge_adjust_trace_distance = 0x24e7200
+melee_lunge_align_eye_position = 0x24e7590
+melee_lunge_debugDraw = 0x24e7420
+melee_lunge_dot_check = 0x24e2300
+melee_lunge_force_enable_flying = 0x26a5630
+melee_lunge_lag_compensate_target = 0x26a78f0
+melee_lunge_no_melee_custom_range_fallback = 0x26bac20
+melee_lunge_no_melee_custom_range_fallback_value = 0x26bb3a0
+melee_lunge_scale_by_speed = 0x24ebf10
+melee_lunge_slide = 0x2671db0
+melee_lunge_use_closest_distance_between_cylinders = 0x266b970
+melee_lunge_use_command_time = 0x24e8f10
+melee_queue_attack_anim_event = 0x26bde10
+melee_script_trace_player_movement_col_group = 0x24e8770
+mem_dumpstats = 0x1ec85c0
+mem_incremental_compact_rate = 0x1ec6bc0
+mem_level = 0x250dae0
+mem_rolling_incremental_compaction = 0x24d1760
+mem_runheapchecks = 0x24d2d10
+mem_saving_release_mb = 0x24d2180
+mem_saving_request_mb = 0x24d26d0
+mem_saving_trigger_mb = 0x24d22b0
+mem_saving_use_factor = 0x24d25b0
+mem_saving_vram_release_mb = 0x24d23f0
+mem_saving_vram_request_mb = 0x24d2340
+mem_saving_vram_trigger_mb = 0x24d2220
+mem_test_each_frame = 0x1ec7310
+mem_test_every_n_seconds = 0x1ec76a0
+mem_test_quiet = 0x1ec6aa0
+menu_was_multiplayer_played_last = 0x2667e70
+metric_recent_period = 0x24cf840
+metric_update_interval = 0x24cf7b0
+metrichttp_enabled = 0x24cf6d0
+metrichttp_max_pending_http_requests = 0x24cf5b0
+metrichttp_reset_on_level_shutdown = 0x24cf640
+metricmanagernet_enabled = 0x24cf9c0
+metricmanagernet_reset_on_level_shutdown = 0x24cf8d0
+metricmanagernet_update_interval = 0x24cfa50
+micro_event_enabled = 0x1d50e60
+migrate_attempt_interval = 0x1eca9f0
+migrate_attempt_max_retries = 0x1eca7a0
+miles_actor_update_min_facing = 0x24df630
+miles_adjust = 0x24df110
+miles_adsScaleSprint = 0x24f5e20
+miles_advox_subtitles_angle = 0x24dac90
+miles_advox_subtitles_maxdist = 0x24db870
+miles_bankpaging = 0x24dfe70
+miles_cache_size = 0x24dff00
+miles_channels = 0x24dde70
+miles_channels_menuoption = 0x24dbbc0
+miles_channels_menuoption_headphones = 0x24de710
+miles_channels_menuoption_mono = 0x24dda40
+miles_client_enable_radius_culling = 0x26bdf30
+miles_devnet_screenshot_attach_dump = 0x24dce20
+miles_devnet_screenshot_attach_samples = 0x24dc0f0
+miles_driver = 0x24dbf30
+miles_driver_mix_mode = 0x24deff0
+miles_dumpuploadtime = 0x24db6c0
+miles_error_counter_data_error_threshold = 0x24dea70
+miles_error_counter_display = 0x24debc0
+miles_error_counter_limits_error_threshold = 0x24dcbb0
+miles_error_counter_starvation_error_threshold = 0x24dd860
+miles_evtnamesindumps = 0x24dc790
+miles_flagset = 0x24dc2b0
+miles_flip_active_window_logic = 0x25113a0
+miles_force_emitter_environment = 0x24da7e0
+miles_force_listener_environment = 0x24dc490
+miles_force_min_rpm = 0x24dd650
+miles_freeze = 0x24df930
+miles_ignore_timescale_ignores_stop = 0x24deb30
+miles_importancevol = 0x24de130
+miles_importancevol_factor = 0x24dc340
+miles_importancevol_pow = 0x24dcb20
+miles_init_null_fallback = 0x24db7e0
+miles_initial_occlusion_delay = 0x24de410
+miles_language = 0x24dff90
+miles_language_statsd = 0x24ddf80
+miles_lfe_lowpass_hz = 0x24dc960
+miles_lfe_lowpass_iterations = 0x24dd180
+miles_link_dist_start = 0x25393b0
+miles_link_dist_stop = 0x252b0e0
+miles_link_emitter_dot_start = 0x252eb80
+miles_link_emitter_dot_stop = 0x252b050
+miles_link_emitter_strict = 0x253c640
+miles_link_generation = 0x252b730
+miles_link_occlusion_emitter_factor = 0x2532680
+miles_link_occlusion_emitter_pow = 0x2538250
+miles_link_occlusion_listener_factor = 0x252ec10
+miles_link_occlusion_listener_pow = 0x253a100
+miles_link_onlysamefloor = 0x252a2b0
+miles_link_open_factor = 0x252fc40
+miles_link_open_pow = 0x253d6b0
+miles_link_transitionPoint_1pTailSwitch = 0x24da6d0
+miles_link_transitionPoint_3pTailSwitch = 0x24ddc10
+miles_link_transitionPoint_convolutionPreset = 0x24dd920
+miles_link_transitionPoint_suffix = 0x24dd3c0
+miles_listener_freeze = 0x24da9c0
+miles_listener_soundscape_roof_iter_count = 0x253bc10
+miles_listener_soundscape_roof_min_z_separation = 0x24dc060
+miles_listener_soundscape_roof_offset = 0x2532da0
+miles_listener_soundscape_roof_overhang_enable = 0x253c5b0
+miles_listener_update_always = 0x24daed0
+miles_listener_update_min_angle = 0x24de010
+miles_load_lang_sources = 0x24dd5c0
+miles_mbcompress = 0x24db900
+miles_metrics_ftsp = 0x24dcd30
+miles_metrics_ftsp_daywindow = 0x24ddd40
+miles_metrics_ftsp_perfcharts = 0x24df2c0
+miles_metrics_ftsp_radius = 0x24df810
+miles_mix = 0x24db2b0
+miles_mix_menuoption = 0x24dd480
+miles_mixahead = 0x24dd210
+miles_mixahead_highpri = 0x24daa80
+miles_mixahead_wasapi = 0x24db010
+miles_nopandist = 0x24dceb0
+miles_occlusion = 0x24de5d0
+miles_occlusion_blocked_by_contents_playerclip = 0x24ddcb0
+miles_occlusion_endpoints_slim = 0x24dfc50
+miles_occlusion_floor_additive = 0x24dac00
+miles_occlusion_force = 0x24dd510
+miles_occlusion_minendpenetration = 0x24df5a0
+miles_occlusion_minpenetration = 0x24de9e0
+miles_occlusion_partial = 0x24db0a0
+miles_output_device = 0x24dcfd0
+miles_parallel_csom_cache = 0x24dddd0
+miles_radius_cull_fudge_factor_speed = 0x26bb790
+miles_recreate_on_default_changed = 0x24dca00
+miles_render_dir = 0x24dadb0
+miles_replay_transition_enable_early_cleanup = 0x26a8cb0
+miles_samplerate = 0x24df8a0
+miles_samples_dither = 0x24de4b0
+miles_samples_folddown = 0x24de660
+miles_samples_noise_shape = 0x24dca90
+miles_scale_floor_occlusion = 0x24dd330
+miles_scale_soundscape_occlusion = 0x24de2f0
+miles_scale_unadjusted_occlusion = 0x24de540
+miles_send_csom_telemetry = 0x24df080
+miles_server_sounds_print = 0x1b7a4b0
+miles_sitrep = 0x24dcc80
+miles_sitrep_cadence = 0x24ddad0
+miles_sitrep_forceupload = 0x24de8c0
+miles_sitrep_forceupload_uniquenames = 0x24dd6e0
+miles_sitrep_pin = 0x24dc220
+miles_sitrep_thres_count = 0x24db750
+miles_sitrep_window_begin = 0x24de830
+miles_sitrep_window_end = 0x24dfde0
+miles_solo_ents = 0x24da920
+miles_soundscape_floor_updates = 0x24dc820
+miles_soundscape_imgui = 0x252d590
+miles_soundscape_skipfloors = 0x252efa0
+miles_soundscape_skipfloors_distance = 0x252b550
+miles_soundscape_skipfloors_offset = 0x2530750
+miles_spatialize_channelPan_factor = 0x24df230
+miles_spatialize_fovscalefactor = 0x24dd2a0
+miles_spatialize_front_degrees = 0x24db990
+miles_spatialize_front_use_view_fov = 0x24df450
+miles_spatialize_height_degrees = 0x24dc5b0
+miles_spatialize_height_front_degrees = 0x24de7a0
+miles_spatialize_offplane_strength = 0x24ded70
+miles_spatialize_on = 0x24dbb30
+miles_spatialize_rear_degrees = 0x24dd0f0
+miles_spatialize_spread_factor = 0x24dfb40
+miles_suffixes = 0x24df1a0
+miles_test_sitrep = 0x24dbd70
+miles_threatviz = 0x24dc8d0
+miles_timescale_rate_factor = 0x24daf80
+miles_ui_sounds_survive_replay_transitions = 0x24dec50
+miles_voice_buffer_ms = 0x24dbce0
+miles_voice_max_age_ms = 0x24dbe00
+miles_voice_part_ms = 0x24db350
+miles_voice_warning = 0x24dcf40
+miles_voice_warning_hipri = 0x24dfce0
+miles_voice_warning_icon_display_time = 0x24de0a0
+miles_voicelimit_factor = 0x24dbc50
+miles_wallRunIsSprint = 0x24f6b00
+min_explosive_damage_mass = 0x26b2790
+mirror_main_scene = 0x26bdfc0
+misprediction_stuck_report_time = 0x2542fc0
+missile_default_speed = 0x24e9130
+missile_homing_speed = 0x24e86e0
+mod_irradiance_volume_quality = 0x1b74d50
+model_animFadeEndScale = 0x1ec6070
+model_animFadeMinDistSqBias = 0x1ec4170
+model_animFadeStartScale = 0x1eba5b0
+model_defaultFadeDistMin = 0x25290a0
+model_defaultFadeDistScale = 0x250e5c0
+model_fadeRangeFraction = 0x2529d80
+model_fadeRangeFractionNear = 0x2529e10
+modelswap_allow_anim_continuation = 0x26bbb80
+monitor_cc = 0x254a310
+monitor_mat_sharpen_amount = 0x1ee6e90
+monitor_postfx = 0x254a880
+monitor_rui_world_enabled = 0x2665670
+monitor_snapshot_frame_delay = 0x25037b0
+monitor_zfar_default = 0x250b5a0
+monitor_zfar_override = 0x26654c0
+monitor_zfar_override_enabled = 0x2549fb0
+mouse_sensitivity = 0x253b160
+mouse_use_per_scope_sensitivity_scalars = 0x2530a10
+mouse_zoomed_sensitivity_scalar_0 = 0x2530aa0
+mouse_zoomed_sensitivity_scalar_1 = 0x2530b30
+mouse_zoomed_sensitivity_scalar_2 = 0x2530bc0
+mouse_zoomed_sensitivity_scalar_3 = 0x2530c50
+mouse_zoomed_sensitivity_scalar_4 = 0x2530ce0
+mouse_zoomed_sensitivity_scalar_5 = 0x2530d70
+mouse_zoomed_sensitivity_scalar_6 = 0x2530e00
+mouse_zoomed_sensitivity_scalar_7 = 0x2530e90
+move_one_cmd_per_client_frame = 0x1ec8af0
+movement_anim_downed_playback_maxrate = 0x24d8550
+movement_anim_playback_maxrate = 0x24d7bc0
+movement_anim_playback_minrate = 0x24d7b30
+movement_anim_sprint_playback_maxrate = 0x24d7fb0
+mp_accountLink_requestInterval = 0x1b78ae0
+mp_allowed = 0x1b5cfa0
+mp_bodyyawrate = 0x24d81f0
+mp_countRRNobodyAsLobby = 0x1e86160
+mp_disconnect_multipleLoginLobby = 0x1b6edc0
+mp_enablematchending = 0x26a2c70
+mp_enabletimelimit = 0x266f3a0
+mp_gamemode = 0x26abe90
+mp_linkingAccountTime = 0x1ecdb90
+mp_linkingAccountWindow = 0x1ecdb00
+mp_maxbodyyaw = 0x24d7ce0
+mp_permission_requestInterval = 0x1b79600
+mp_permission_rerequestInterval = 0x1b78250
+mp_player_level = 0x2671b90
+mp_scaleAnimationSpeeds = 0x24d7f20
+mp_showgestureslots = 0x24d8160
+mtx_BPLevelDefaultPrice = 0x1d53090
+mtx_allowPersistenceBadgeConversion = 0x1d535a0
+mtx_allow_pending_grants_for_item_ownership = 0x1d54f80
+mtx_battlepassGiftingEnabled = 0x1d54b90
+mtx_bonus_meter_enabled = 0x1d53a20
+mtx_clawBackBattlePass = 0x1d54d40
+mtx_containerExpireAfterDays = 0x1d537e0
+mtx_deathbox_aura_enabled = 0x1d543b0
+mtx_digital_garments_enabled = 0x1d544d0
+mtx_dynamic_store_config_filename = 0x1d550a0
+mtx_dynamic_store_info_enabled = 0x1d55130
+mtx_first_time_ac_bonus_enabled = 0x1d53870
+mtx_forceSendEntireInventoryDataBitfield = 0x1d54a70
+mtx_generatePartyDediConnectRprof = 0x1d53ea0
+mtx_getGlobalDiscountsEnabled = 0x1d53b40
+mtx_getGlobalDiscountsMaxRetries = 0x1d52c10
+mtx_get_pack_preview_enabled = 0x1d53c60
+mtx_get_smart_merchandising_data_enabled = 0x1d54b00
+mtx_get_user_segment_for_untrusted_players_enabled = 0x1d54050
+mtx_get_user_segment_for_untrusted_players_max_retries = 0x1d53000
+mtx_giftingEnabled = 0x1d54c20
+mtx_giftingForce2FA = 0x1d54320
+mtx_giftingLimit = 0x1d53bd0
+mtx_giftingMinAccountLevel = 0x1d54680
+mtx_giftingMinFriendshipInDays = 0x1d53f30
+mtx_gifting_notifications_enabled = 0x1d53480
+mtx_inventoryReadyCheckTimeSeconds = 0x1d547a0
+mtx_log_level = 0x1d52ca0
+mtx_mass_pack_opening_enabled = 0x1d540e0
+mtx_mass_pack_opening_max_packs_to_open = 0x1d52e50
+mtx_mass_pack_opening_max_wishlist_packs_to_open = 0x1d53510
+mtx_numInventoryItemsSendItemIndicesCutoff = 0x1d549e0
+mtx_nx_end_of_service_warning = 0x1d54cb0
+mtx_old_twitch_drops_flow_enabled = 0x1d55010
+mtx_pack_upgrade_enabled = 0x1d52ee0
+mtx_progression_modifier_dev_boosts_enabled = 0x1d536c0
+mtx_purchaseBPLevelsWithLegendTokensEnabled = 0x1d54200
+mtx_purchaseBPLevelsWithLegendTokensEndDaysOffset = 0x1d54950
+mtx_purchaseBPLevelsWithLegendTokensLimit = 0x1d53360
+mtx_purchaseBPLevelsWithLegendTokensMinLevel = 0x1d53d80
+mtx_purchaseBPLevelsWithLegendTokensStartDaysOffset = 0x1d54830
+mtx_recommendations_cache_max_age_seconds = 0x1d55540
+mtx_recommendations_enabled = 0x1d555d0
+mtx_recommendations_retries = 0x1d55420
+mtx_recommendations_shop_ordering_cache_enabled = 0x1d55390
+mtx_rewardSummarySequenceDumpRProf = 0x1d545f0
+mtx_rewardSummarySequenceEnabled = 0x1d54290
+mtx_scriptProcessNewOfferInIncrementalUpdate = 0x1d55300
+mtx_segment_matching_int_endpoint = 0x1d54e60
+mtx_segment_matching_prod_endpoint = 0x1d53900
+mtx_sendInventoryOptimizationPinEventThreshold = 0x1d53240
+mtx_shopPersonalizationEnabled = 0x1d53750
+mtx_showDebugTime = 0x1d52f70
+mtx_showEarnedRewards = 0x1d53fc0
+mtx_svEdition = 0x1d54560
+mtx_targeted_ads_integration_segment_id = 0x1d53e10
+mtx_targeted_ads_production_segment_id = 0x1d53990
+mtx_telem_OnDemandContainer = 0x1d54440
+mtx_trackAutoOperationFailures = 0x1d531b0
+mtx_trackQueryGoalFailures = 0x1d53120
+mtx_trigger_message_enabled = 0x1d55690
+mtx_untrusted_players_integration_segment_id = 0x1d52dc0
+mtx_untrusted_players_production_segment_id = 0x1d54dd0
+mtx_useClientContainersForEntitlementNotification = 0x1d53ab0
+mtx_useMarketplaceLocalization = 0x1d54170
+mtx_use_entity = 0x26ba080
+mtx_userInfo_assertOnMatchAccess = 0x1d53cf0
+mtx_userInfo_canQueue = 0x1d53630
+mtx_userInfo_matchDedisHaveUserInfo = 0x1d548c0
+mtx_userInfo_maxDelay = 0x1d54ef0
+mtx_userInfo_sendInMatch = 0x1d533f0
+mtx_wishlist_enabled = 0x1d52d30
+mtx_wishlist_seeding_debug_enabled = 0x1d532d0
+mtx_writeContainersInUserInfo = 0x1d54710
+multiplay_ip = 0x1b75fe0
+multiplay_serverid = 0x1b6ea00
+multiplayer_animstate_duck_fraction_threshold = 0x24d8040
+muteWeaponSounds = 0x24ebd60
+name = 0x1e86af0
+nemesis_use_looping_sound = 0x24eb270
+net_RunInvalidatePhysics = 0x25127f0
+net_async_sendto = 0x1b76d40
+net_autoUnthrottle = 0x1b757d0
+net_bindToSpecificAddress = 0x1b792a0
+net_blockmsg = 0x1b5ca60
+net_chokeloop = 0x1b79de0
+net_clearReliableDataOnReset = 0x1b756b0
+net_client_side_weapon_animations = 0x24eb300
+net_compressAlgorithm = 0x1b761f0
+net_compressAlgorithmOptim = 0x1b6ecd0
+net_compressDataBlock = 0x1b7a1e0
+net_createUndoDeltas = 0x1b5a710
+net_dataRate = 0x1e8ca60
+net_dataRateCL = 0x1e858f0
+net_dataRateDev = 0x1e8f760
+net_dataRateDev_enabled = 0x1e8bd00
+net_data_block_enabled = 0x1e8fe20
+net_datablock_debugReceiver = 0x1b5ce80
+net_datablock_debugSender = 0x1b7a020
+net_datablock_dumpBlocks = 0x1b79cc0
+net_datablock_dumpMsg = 0x1e8c430
+net_datablock_dumpOnlyRealClients = 0x1e8e6a0
+net_datablock_fastRate = 0x1b5d390
+net_datablock_longSendTime = 0x1b74e70
+net_datablock_minResendInterval = 0x1b78f40
+net_datablock_networkLossForSlowSpeed = 0x1b76610
+net_datablock_printSummaries = 0x1b79480
+net_datablock_qos_budgetRollover = 0x1b6d400
+net_datablock_qos_enabled = 0x1b7a110
+net_datablock_qos_rateMax = 0x1b77160
+net_datablock_qos_rateMin = 0x1b75380
+net_datablock_resendRateForSlowSpeed = 0x1b6dc00
+net_datablock_slowRate = 0x1b78960
+net_deltaFieldEntityBlockSize = 0x1e86790
+net_dumpChangesPrecise = 0x1b5ac70
+net_encrypt_copyCtx = 0x1b6d890
+net_encrypt_debug = 0x1b5bb10
+net_encrypt_dtls = 0x1b5bbe0
+net_encrypt_dtls_hkdf = 0x1b5c450
+net_encrypt_dtls_time = 0x1b75d10
+net_encrypt_multiKey = 0x1b74780
+net_forceUnnecessaryUndoDeltas = 0x1b594f0
+net_forcetimeout = 0x1b78570
+net_highPacketLatencyThreshold = 0x1e1af20
+net_highPacketLossThreshold = 0x1e19f50
+net_ignoreAllSnapshots = 0x1e19d70
+net_largeSnapshotThreshold = 0x1e85aa0
+net_lerpFields = 0x1d59950
+net_maxAccumulatedClearTimeBalance = 0x1b5c4f0
+net_maxRecvCall = 0x1b777f0
+net_maxRecvPacket = 0x1b5d6f0
+net_maxcleartime = 0x1b5d420
+net_minConnectionTimeForSpam = 0x1b5ccd0
+net_minResetIdleTimerInterval = 0x2668480
+net_minimumPacketLossDC = 0x1b5d5d0
+net_netGraph2 = 0x1e1a9d0
+net_noPostDataForDeletedEnts = 0x1e86940
+net_optimize_persistent_data = 0x1e8d390
+net_optimize_playlists = 0x1e8f9a0
+net_optimize_weapons = 0x24eeb30
+net_portTryMax = 0x1b5c240
+net_predictParentEntities = 0x24f7fe0
+net_predictedEntsUseFirstAvailableSnapshot = 0x1e85fb0
+net_predictionDebug = 0x1e85770
+net_pretendSnapshotArrayFull = 0x1d59b00
+net_printCompression = 0x1b6e300
+net_printOutOfSnapshots = 0x1e860d0
+net_printUnnecessaryDeltas = 0x1b591a0
+net_processSocketStats_trigger = 0x1b5d810
+net_protocol_base = 0x1ecf340
+net_protocol_increment = 0x1ecf610
+net_protocol_use_script_md5 = 0x1ecf520
+net_protocol_use_script_rpak = 0x1ecf3d0
+net_queuedPackets_PrintOversleeps = 0x1b5bcd0
+net_queuedPackets_SkipSmallSleeps = 0x1b755c0
+net_queuedPackets_debug = 0x1b78e10
+net_queuedPackets_emptyQueueSleep = 0x1b5d270
+net_queuedPackets_force = 0x1b6dad0
+net_queuedPackets_printThreshold = 0x1b74f90
+net_recentNetworkGapWindow = 0x1b744e0
+net_recentNetworkGapsNeeded = 0x1b76160
+net_recentWindowTime = 0x1b76850
+net_recreateScriptInstanceOnReplayTransition = 0x1e85530
+net_recvBufferSizeOverride = 0x1b5d990
+net_recv_dumpChanges = 0x1d59c20
+net_recv_dumpNetworkedChangesOnEntCreate = 0x1b59c60
+net_recv_dumpNetworkedChangesOnNoDelta = 0x1d599e0
+net_recv_watchEnt = 0x1b5a080
+net_recv_watchField1 = 0x1b59580
+net_recv_watchField2 = 0x1b5b130
+net_sendFloatDeltas = 0x1b58f20
+net_sendtoInJob = 0x1b76ef0
+net_showFailedAuth = 0x1b79b40
+net_showLargeSnapshot = 0x1e85e00
+net_showServerStruggle = 0x1d597a0
+net_showUndoDeltas = 0x1b58400
+net_showUserWarnings = 0x1e1a250
+net_showdrop = 0x1b74930
+net_showfragments = 0x1b5c610
+net_showmsg = 0x1b76280
+net_showpacketflagerrors = 0x1b79720
+net_showsendrecv = 0x1b74110
+net_showsplits = 0x1b6dc90
+net_showudp = 0x1b74810
+net_showudp_oob = 0x1b5c120
+net_showudp_remoteonly = 0x1b7a2d0
+net_showusercmd = 0x26b7190
+net_skipUnnecessaryDeltas = 0x1b57a80
+net_splitrate = 0x1b779e0
+net_splitrateDefaultMP = 0x1b76cb0
+net_splitrateDefaultSP = 0x1b6ebb0
+net_tamperPackets = 0x1b5bef0
+net_threadedEntityDeltas = 0x1e85650
+net_threadedProcessPacket = 0x1e869d0
+net_timeoutUsesLastReadTime = 0x1b5d180
+net_traceroute = 0x1ecf730
+net_traceroute_max_hops = 0x1ecf6a0
+net_trackEnt_bandwidthFrame = 0x1b6dd20
+net_trackerWarningInterval = 0x1b77280
+net_transmission_events_enabled = 0x1e86370
+net_use_valve_relay = 0x1ecf7e0
+net_usesocketsforloopback = 0x1b79060
+net_verifyEncryption = 0x1b780a0
+net_warnAboutSocketReadGaps = 0x1b5cf10
+net_warnGapTime = 0x1b78690
+net_wifi = 0x1b79330
+net_worldHitchSlopTime = 0x1e854a0
+netchan_stats_window_time = 0x1b6d520
+newPlayerMatchMaking_disablePlaylistOverride = 0x1b78720
+new_player_match_making_enabled = 0x26c3030
+next = 0x1ec78b0
+nextEnergizeCooldownTime = 0x24e2580
+noReloadAfterUse = 0x26bad80
+no_classname_asserts = 0x24f7ad0
+no_classname_rtti_check = 0x24f8550
+nointerp_att_debug = 0x24f6710
+nointerp_subframe_debug = 0x1b55f00
+noise_filter_scale = 0x1ee79d0
+non_fatal_error_report_period_seconds = 0x24cdc20
+not_focus_sleep = 0x1ec3020
+notification_displayTime = 0x1e91690
+nucleus_id = 0x1e85a10
+nucleus_persona_id = 0x1e85d70
+number_shortenToMillionsAfter = 0x25415a0
+nx_static_lobby_capture_debug = 0x2665fd0
+nx_static_lobby_capture_delay_frames = 0x2664ec0
+nx_static_lobby_mode = 0x2664f50
+nx_viewportscale_max_handheld = 0x2518f10
+nx_viewportscale_max_handheld_lobby = 0x250e2f0
+nx_viewportscale_min_handheld = 0x2514140
+nx_viewportscale_min_handheld_lobby = 0x250f460
+object_placement_debug = 0x24e70d0
+object_placement_special_allow_on_movers = 0x24e7620
+object_placement_special_allow_on_moving_movers = 0x24e7330
+object_placement_special_allow_over_tracing_client = 0x24e74e0
+object_placement_special_energy_shield_end_offset = 0x24e1fc0
+object_placement_special_energy_shield_trace_debug = 0x24e7fa0
+object_placement_special_energy_shield_trace_extents = 0x24e3520
+object_placement_special_energy_shield_trace_offset = 0x24e2620
+object_placement_special_find_exit_max_loops = 0x24e8650
+object_placement_special_find_exit_max_tomb_checks = 0x24e8950
+object_placement_special_max_spl_traces = 0x24e0400
+object_placement_special_mover_blocker_validation = 0x24e2450
+object_placement_special_verbose_logging = 0x24e7290
+odl_artificial_load_time_ms = 0x27509c0
+odl_send_pin_events = 0x2750a90
+offhandTossOverheadPitchThreshold = 0x24ef650
+offhand_cancelled_by_melee_v2 = 0x26ba1a0
+offhand_weapon_self_interrupt_weapon_activation = 0x2671f60
+one_handed_change_rate = 0x26a76f0
+openinvite_duration_default = 0x1ecadf0
+opus_bitrate = 0x1d50c50
+opus_complexity = 0x1d50bc0
+opus_vbr = 0x1d50ce0
+ordnanceSwapSelectCooldown = 0x252ad50
+orientation_matches_disabled = 0x26c2e60
+origin_Errorlevel_OldBehaviour = 0x1eca060
+origin_Errorlevel_Telemetry = 0x1ec9c10
+origin_authCodeFailureMaxBackoffSeconds = 0x1eca3d0
+origin_autoRefreshTokenClient = 0x1ec9b80
+origin_autoRefreshTokenServer = 0x1eca190
+origin_debug = 0x1ec9ee0
+origin_ignoreInvitesOnLoadScreen = 0x1ec9af0
+origin_igo_mutes_sound_enabled = 0x1ecdc20
+origin_igo_muting_sound = 0x2510b00
+origin_keepOldPresence = 0x1ec99d0
+origin_presense_updateRate = 0x1ec9f70
+origin_tokenFailureMaxBackoffSeconds = 0x1eca340
+origin_useGamePresence = 0x1ec9a60
+origin_use_jwt = 0x1eca2b0
+overheat_uses_multiple_weapon_slots = 0x24eb890
+pak_hash_check_blake_hasher = 0x2750df0
+pak_hash_use_virtual_span = 0x2750e80
+pak_hash_virtual_span_mark_readonly = 0x2750fa0
+pak_load_use_job_continuations = 0x2750cd0
+pak_suggest_user_repair = 0x2750f10
+paks_allow_async_inserts_on_allowed_states = 0x2750bb0
+paks_precache_lower_priority = 0x2750d60
+paks_use_old_precache_insert_algo = 0x2750c40
+panel_showVisChanges = 0x2778940
+panel_test_title_safe = 0x2778610
+parenting_debug = 0x24f7920
+particleEffect_checkShouldStillPlay = 0x2669a90
+particleEffect_skipViewmodelControlPointFormatting = 0x26696a0
+particle_allow_per_pixel_lights = 0x274d240
+particle_alpha_trim = 0x274ce30
+particle_alwayswakeonstop = 0x274d630
+particle_cpu_level = 0x1ed0200
+particle_dlights_enable = 0x251fbd0
+particle_dlights_spew = 0x2529150
+particle_enable_batching = 0x274cfd0
+particle_enable_bindless = 0x274ccb0
+particle_gpu_level = 0x2549310
+particle_lighting_allow_normal_maps = 0x1f3f700
+particle_lighting_clear_enable = 0x1f3f820
+particle_lighting_single_pass = 0x1f3f790
+particle_lighting_size = 0x1f3f670
+particle_lighting_viewmodel_enable = 0x274d1b0
+particle_los_blockscan_enabled = 0x2547400
+particle_position_lock_query_previous_vals = 0x274c370
+particle_position_lock_query_reset_origin = 0x274c1c0
+particle_remap_vol2cp_debug = 0x274c820
+particle_render_error_material_sprites = 0x274d5a0
+particle_script_dump = 0x274b4a0
+particle_script_list = 0x274b530
+particle_script_log = 0x274b5c0
+particle_scrub_debug = 0x2543770
+particle_scrub_debug_effect = 0x274d2d0
+particle_scrub_is_using_time_scrub = 0x274d900
+particle_scrub_quality = 0x274d7e0
+particle_scrub_time = 0x274d6c0
+particlemanager_hack_cleanup = 0x25445b0
+particlemanager_print_logs = 0x2544c60
+particles_cull_dlights = 0x274d870
+particles_max_passes = 0x274d750
+particles_spawncull = 0x274d360
+particles_spawncull_report = 0x274d480
+parties_alwaysReadSubs = 0x1ecae80
+party_anyone_can_join = 0x1eb8910
+party_autoCreatePartyAlways = 0x1eca710
+party_autoCreatePartyDelay = 0x1ecb3c0
+party_bringParty_leadersOnly = 0x1eca960
+party_color_enabled = 0x26c4ad0
+party_createPartyImmediately = 0x1ecb450
+party_forceMapLoadedCorrection = 0x1eb8b50
+party_hostname = 0x1eb8d90
+party_httpHandleTimeout = 0x1eca8d0
+party_join_requires_ack = 0x1ecb4e0
+party_join_retry_interval = 0x1eca5f0
+party_join_timeout = 0x1ecb200
+party_keepAliveTime = 0x1ecacd0
+party_leaderReadyOnly = 0x1ecab10
+party_leaveMatchOnJoin = 0x1eb8be0
+party_migrateFromMatch = 0x1eca840
+party_migrateWhenSearchStatusIsConnecting = 0x1ecb170
+party_minSize = 0x1ecaa80
+party_noSlotsUsedTimeout = 0x1ecb290
+party_nobody_can_join = 0x1eb8a30
+party_nofill_selected = 0x1ecb050
+party_privacy = 0x1ecb0e0
+party_readyToSearch = 0x1ecb570
+party_relyOnPartyForMemberUserInfo = 0x1e91180
+party_requireConsensusForSearch = 0x1ecb600
+party_userinfo_allowstale = 0x1e910f0
+pause_ui = 0x1b78fd0
+paused = 0x1b74c60
+perTriangleCollisionForced = 0x1ec6190
+perfcharts_SendDataBlock = 0x24cfd60
+perfcharts_cmetric_pin_verbosity = 0x24cff10
+perfcharts_heartbeat_debug = 0x24d0030
+perfcharts_heartbeat_enabled = 0x24d01f0
+perfcharts_heartbeat_force = 0x24d00d0
+perfcharts_heartbeat_interval = 0x24d0160
+perfcharts_io_metrics_verbosity = 0x24cfbb0
+perfcharts_json_builder = 0x24cfb20
+perfcharts_killswitch = 0x24cfdf0
+perfcharts_pin_enabled = 0x24cfe80
+perfcharts_pin_print = 0x24cffa0
+perfcharts_send_unlockedFPS = 0x24cfcd0
+persistenceDef_hostname = 0x1b79ed0
+persistenceDef_queryMaxHttpRetries = 0x1ecf990
+persistenceDef_readMaxHttpRetries = 0x1ecf900
+persistenceDef_retryReadAfterErrorTime = 0x1ecfa20
+persistenceDef_writeMaxHttpRetries = 0x1ecfab0
+persistence_avoidWritingAfterError = 0x1ecfcf0
+persistence_clForceNew = 0x1ecfbd0
+persistence_disableForBuildProcess = 0x1ecfd80
+persistence_domain = 0x1ed00e0
+persistence_enforce_manifest = 0x1ecfe10
+persistence_hostname = 0x1b79180
+persistence_new_player_if_upgrade_fails = 0x1ed0050
+persistence_run_pdef_autogen_on_connect = 0x26c3d30
+persistence_stat_migration_enabled = 0x1ecfc60
+persistence_upload_def = 0x1ecfb40
+persistence_upload_failure_is_error = 0x1ecffc0
+persistence_use_rson_schema = 0x1ecfea0
+pertrianglecollision = 0x1eba730
+phys_bounce = 0x26fa700
+phys_cfm = 0x26fa790
+phys_cfm_anglejointstop = 0x26fa550
+phys_drawContacts = 0x26fa5e0
+phys_drawContactsDuration = 0x26fa670
+phys_drawGeoms = 0x26fa280
+phys_drawTunnelChecks = 0x26fa3a0
+phys_enableObjectPairCollidePrototype = 0x26f5a70
+phys_erp = 0x26f5950
+phys_erp_anglejointstop = 0x26fa1f0
+phys_frictionDefault = 0x26fa4c0
+phys_showObjectCount = 0x25475b0
+phys_threadGoWide = 0x26f5b00
+physics_async_cl = 0x26faac0
+physics_autoSleepAngularThreshold = 0x26fa9a0
+physics_autoSleepDebug = 0x26fa430
+physics_autoSleepGroundHysteresis = 0x26fa310
+physics_autoSleepSpeedThreshold = 0x26faa30
+physics_collideWithMovingGeo = 0x26f59e0
+physics_collision_speed_threshold = 0x2544bd0
+physics_tunnelChecks = 0x26fa160
+physics_tunnelChecksForceAlways = 0x26fa910
+pil_hostname = 0x1b5c730
+pin_EntitlementSource = 0x1ec46e0
+pin_automation_type = 0x1ec5130
+pin_detail_statsd = 0x1ecb960
+pin_hack_size_report = 0x1ecb690
+pin_opt_in = 0x1ec5740
+pin_plat_id = 0x1e85bc0
+pin_send_client_entity_budgets = 0x2503bd0
+pin_sid = 0x1ec6340
+pin_spam_seconds = 0x1ec48f0
+pin_telemetry_actually_send = 0x1eba520
+pin_telemetry_anti_teaming_on = 0x1ec3e30
+pin_telemetry_debug_code = 0x1ec5d10
+pin_telemetry_debug_http_requests = 0x1ecb720
+pin_telemetry_debug_name = 0x1ec5f80
+pin_telemetry_debug_payload = 0x1ecb8d0
+pin_telemetry_debug_script = 0x26c4400
+pin_telemetry_dont_send_events = 0x1eba6a0
+pin_telemetry_hostname = 0x1ec3ac0
+pin_telemetry_inactivity_send_time = 0x1ec3760
+pin_telemetry_max_payload_size = 0x1ec39a0
+pin_telemetry_mqueue_allow = 0x1ecb840
+pin_telemetry_mqueue_max = 0x1ecb7b0
+pin_telemetry_report_date = 0x1ec3b60
+pin_telemetry_report_interval = 0x1ec5e60
+pin_telemetry_send_debug = 0x1ec4bc0
+ping_drmMaxPing = 0x1b6dfc0
+ping_minSentForChoice = 0x1b74660
+ping_qos_units = 0x1b763a0
+ping_sendToStryderInterval = 0x1b5cdf0
+ping_usePacketLoss = 0x1b79690
+pip_wait_frames_before_scriptcb = 0x26659d0
+pixvis_draw = 0x251db00
+pixvis_draw_opacity = 0x250e260
+pixvis_enable = 0x2503410
+pixvis_maxquads = 0x24cc810
+pixvis_spew = 0x2503140
+plat_environment = 0x1ec9640
+platform_user_id = 0x1e86b80
+play_melee_gesture_on_anim_end = 0x24d7aa0
+playerListPartyColorB = 0x24d8e50
+playerListPartyColorG = 0x24d9840
+playerListPartyColorR = 0x24d8b80
+playerListUseFriendColor = 0x24d99f0
+player_ADS_buffer_time_seconds = 0x26ba9e0
+player_allow_scaled_scripted_anims_3p = 0x24d8310
+player_debugPredictedPosition = 0x2501d10
+player_deltaAnimsMakeMeUnpredicted = 0x24fa890
+player_doJetwashEffects = 0x25008b0
+player_extraairaccelleration = 0x269ebe0
+player_highFrequencyThinkDistance = 0x2501bf0
+player_input_detection_capture_controller_info = 0x26b7710
+player_input_detection_enabled = 0x26b3ae0
+player_launch_debug = 0x269f850
+player_movementBounds_predictionShare = 0x26a7980
+player_movingDeathThreshold = 0x24d8280
+player_overheat_cooldown_delay = 0x2672010
+player_overheat_cooldown_time = 0x266a3c0
+player_overheat_rechamber_time_multiplier = 0x26a4b20
+player_overheat_time_to_overheat = 0x2670d20
+player_overheat_weapon_switch_block_update = 0x266b280
+player_proxy_visibility_fade_speed = 0x26bdd80
+player_proxy_visibility_radius = 0x26bdb40
+player_proxy_visibility_update_max_distance = 0x26bdbd0
+player_respawnInputDebounceDuration = 0x2501050
+player_setting_arsenals_maphudidentifiers = 0x2547c40
+player_setting_autosprint = 0x25370a0
+player_setting_damage_closes_deathbox_menu = 0x2668aa0
+player_setting_gamestateawareness_callouts = 0x2541ca0
+player_setting_holdtosprint = 0x26ba7a0
+player_setting_lowammo_setting = 0x2547190
+player_setting_stickysprintforward = 0x26bb670
+player_setting_tutorialization = 0x25411a0
+player_showEyePosition = 0x24ff180
+player_silence_after_1p_blend = 0x24ffd80
+player_silence_listener_on_pov_change = 0x24ff6f0
+player_silence_on_pov_change = 0x24ffcf0
+player_tag = 0x1e86820
+player_useMovementBounds = 0x266b010
+player_use_prompt_enabled = 0x24dfa20
+player_usercmd_skipping_enabled = 0x269db60
+player_viewchange_debug_pitch = 0x2501140
+player_viewchange_debug_roll = 0x2501e30
+player_viewchange_debug_yaw = 0x2500700
+playlist_allowGameDediToPatch = 0x1ec5410
+playlist_changeGamemodeAutomatically = 0x1ec54a0
+playlist_debug = 0x1ec43b0
+playlist_debug_localization = 0x1ec3a30
+playlist_debug_varByName = 0x1ec5ef0
+playlist_dump = 0x1ec4770
+playlist_mapRotationIgnoreFakeTime = 0x1ec5860
+playlist_schedule_treatment_config = 0x1ec5260
+playlist_use_decorated_names = 0x1ec36d0
+playlist_use_schedule_treatments = 0x1ec4200
+playlist_variableErrorsChecks = 0x269d210
+portal_edge_correction_use_adjusted_pos = 0x24e8810
+portal_pointpush_debug = 0x24da550
+portal_pointpush_think_rate = 0x24da5e0
+portal_use_player_avoidance = 0x26bb2f0
+post_process_resolution_mode = 0x2547490
+post_process_resolution_scale = 0x2544850
+postdataupdate_threaded = 0x24f88e0
+postdataupdate_threaded_chunksize = 0x24f7b60
+presence_teamscores_percentage_step = 0x1ecbd10
+print_timeprefix = 0x24d2060
+print_timeprefix_ticks = 0x24d1be0
+print_timeprefix_utc = 0x24d1f40
+process_pending_vm_effects = 0x24e7170
+profile_overlay = 0x2751030
+progressbar_allow_wrap = 0x24d8ca0
+progressbar_high_precision = 0x24d9090
+progressbar_single_bar = 0x24d8ee0
+progression_tray_enabled = 0x26c3ff0
+projectile_arcIndicatorAccountsForParentMoverVelocity = 0x24f0150
+projectile_debug_arc_client_offset = 0x24ea8b0
+projectile_fake_prediction_in_kill_replay = 0x24e3630
+projectile_faketrails = 0x24ea430
+projectile_filltrails = 0x24ea9d0
+projectile_killreplay_force_disable = 0x24faaa0
+projectile_lagCompensationDebug = 0x24e91d0
+projectile_lagCompensationDebugDrawNoReg = 0x24ea790
+projectile_lagCompensationDebugDrawTime = 0x24e95f0
+projectile_lagCompensationDebugExtra = 0x24ea670
+projectile_lagCompensationDebugForceNoReg = 0x24ea820
+projectile_lagCompensationDebugServerOffset = 0x24e9560
+projectile_lagCompensationMissileTimeStepScalar = 0x24e1d00
+projectile_muzzleOffsetFirstPersonDecayDist = 0x24ea550
+projectile_muzzleOffsetFirstPersonDecayMaxTime = 0x24e9d60
+projectile_muzzleOffsetThirdPersonDecayDist = 0x24e9bc0
+projectile_muzzleOffsetThirdPersonDecayMaxTime = 0x24ea700
+projectile_prediction = 0x24ea4c0
+projectile_predictionErrorCorrectTime = 0x24ea310
+projectile_prediction_move_to_impact = 0x24e9cd0
+projectile_whizby_newLengthCalc = 0x2532110
+prop_front_to_back_opt = 0x24cf150
+prop_lightweightPropsSkipAnimData = 0x251d800
+prop_survivalSkipsAnimData = 0x2502f90
+props_break_burst_rotation = 0x26b1ee0
+props_break_max_pieces = 0x26b1e50
+props_break_max_pieces_perframe = 0x26b8240
+ps5_activities_env = 0x1ec8e50
+ps5_enable_custom_haptics = 0x24f0600
+ps5_force_enable_adth = 0x253ea10
+ps5_fullmap_visible = 0x1e876d0
+ps5_haptics_controller_imgui = 0x1e87520
+ps5_haptics_imgui = 0x1e875b0
+ps5_l_trig_mode = 0x1e877f0
+ps5_l_trig_strength = 0x1e87760
+ps5_l_trig_v_freq = 0x1e87960
+ps5_r_trig_mode = 0x1e87a80
+ps5_r_trig_strength = 0x1e87b10
+ps5_r_trig_v_freq = 0x1e87ba0
+ps5_trig_break = 0x1e87640
+ps5_trig_enable = 0x253e980
+ps5_trig_incompatible = 0x1e878d0
+ps5_trig_start = 0x1e879f0
+pso_max_cache_size_MB = 0x24cc8b0
+pso_send_store_error_to_backtrace = 0x24cc9c0
+pso_use_threads_for_debug = 0x24cca50
+publication_hostname = 0x1eb8e20
+push_cl = 0x24fa7f0
+push_cl_always_update_prev_matrix = 0x24f85e0
+push_debug = 0x26b81b0
+push_debug_dont_kill = 0x26b83a0
+push_debug_ent = 0x26b4f10
+push_debug_visualize_collision = 0x26b11c0
+push_exit_traversal_if_goal_position_blocked = 0x26b17c0
+push_ignore_animation_entity_blockers = 0x26b82d0
+push_ragdolls = 0x26b09d0
+push_search_along_traversal_during_crush_resolution = 0x26b50c0
+putEntityInSafeSpot_maskExcludesMonster = 0x26c3670
+pve_debug = 0x26c0cf0
+pvs_addWorkItemsAccum = 0x26be050
+pvs_addWorkItemsThreshold_edges = 0x26be200
+pvs_addWorkItemsThreshold_leaves = 0x26be290
+pvs_cullBoxes = 0x26be320
+pvs_debug = 0x26be0e0
+pvs_debug_overlay = 0x2666da0
+pvs_frustumCullOnly = 0x26be170
+pvs_start_early = 0x2529270
+r_AirboatViewDampenDamp = 0x26a3510
+r_AirboatViewDampenFreq = 0x26a6a50
+r_AirboatViewZHeight = 0x26a4540
+r_JeepViewDampenDamp = 0x26a70d0
+r_JeepViewDampenFreq = 0x26a4790
+r_VehicleViewDampen = 0x266feb0
+r_WaterDrawRefraction = 0x1ee1ec0
+r_allow_unattached_skinned_decals = 0x24cefa0
+r_always_track_idle_time = 0x274dc10
+r_aspectratio = 0x1b5d780
+r_blurmenubg = 0x254a550
+r_brush_queue_mode = 0x1ec44d0
+r_brushmodel_create_all_render_batches = 0x1b5a1c0
+r_check_models_for_decal_correctness_on_load = 0x26fab50
+r_cockpit_allow_extra_refract_update = 0x254a160
+r_createmodeldecals = 0x1ec4e90
+r_cull_decal_distance_factor = 0x1b6d9b0
+r_cull_world_meshes_by_distance = 0x1b5cb50
+r_cullshadowworldmeshes = 0x1b75530
+r_debug_draw_box_depth_test = 0x266bc50
+r_decal_cover_count = 0x1ec55c0
+r_decal_cull_stretch_limit = 0x1b5b0a0
+r_decal_draw_basis = 0x1ec3370
+r_decal_drawclipped = 0x1b59ff0
+r_decal_overlap_area = 0x1ec5b50
+r_decal_overlap_count = 0x1ec4e00
+r_decal_test_scale = 0x1ec35b0
+r_decals = 0x1b76310
+r_deferred_decals = 0x24cf0c0
+r_deffer_sticker_creation = 0x2512ac0
+r_delay_texture_destroy = 0x1ee8e40
+r_ditherFade = 0x2516b40
+r_ditherFadeShadows = 0x2511700
+r_do_not_allow_more_odl_loads = 0x2750b20
+r_draw_cubemap_target_lines = 0x25188b0
+r_draw_cubemap_volume_depthtest = 0x251fea0
+r_draw_cubemap_volume_priority = 0x2513270
+r_draw_cubemap_volumes = 0x2514770
+r_draw_cubemaps = 0x2529570
+r_draw_skybox_before_ss_effects = 0x2665ca0
+r_drawallrenderables = 0x2528f20
+r_drawalphasort = 0x254a700
+r_drawbrushmodels = 0x1b79c30
+r_drawdecals = 0x1ec4c50
+r_drawdepth_of_blend2transparent = 0x2665f40
+r_drawdlights = 0x1b58d10
+r_drawentities = 0x1b6d920
+r_drawlight_simple = 0x1b5a300
+r_drawlight_ztest = 0x1b58b30
+r_drawlightdist = 0x1b5b010
+r_drawlightinfo = 0x1b5a450
+r_drawmodelsinzfill = 0x24f5eb0
+r_drawopaquerenderables = 0x2666410
+r_drawopaquestaticprops = 0x1ec3d10
+r_drawparticles = 0x25491e0
+r_drawrenderboxes = 0x24f7d10
+r_drawscreenspaceparticles = 0x254a3a0
+r_drawsky = 0x2665430
+r_drawsky_depth_prepass = 0x254a430
+r_drawstaticlight = 0x1b5ae30
+r_drawstaticprops = 0x2665eb0
+r_drawtracers = 0x25337a0
+r_drawtransrenderables = 0x2666210
+r_drawvgui = 0x1ec3910
+r_drawviewmodel = 0x26653a0
+r_drawworld = 0x1b78400
+r_drawworld_color_bindless = 0x1b797b0
+r_drawworld_depth_bindless = 0x1b771f0
+r_dynamic = 0x1b5c1b0
+r_earlyRenderables = 0x2665b80
+r_enable_rendering_jobs = 0x1ed5cd0
+r_fadeincode = 0x254a0d0
+r_farz = 0x2529360
+r_fix_decal_mirroring = 0x24cee80
+r_gpu_calibration_frequency = 0x274dca0
+r_heightmapRendererLodPixelErrorThres = 0x1f3e2f0
+r_heightmapRendererShadowDynamicBias = 0x1f3e1d0
+r_heightmapRendererShadowStaticBias = 0x1f3e140
+r_heightmapRendererShadowStaticLodErrorThres = 0x1f3e260
+r_include_idle_in_gpu_times = 0x274dd30
+r_jiggle_bones = 0x24f6680
+r_jobified_build_particle_list = 0x2540bb0
+r_jobify_update_dummies = 0x26f58c0
+r_lightmap = 0x1b78b70
+r_lightprobe_force_trans_dist = 0x1b787b0
+r_lightstyle = 0x1b78d80
+r_lod = 0x2549d70
+r_lod_shift = 0x2549e90
+r_lod_switch_scale = 0x24de380
+r_main_view_spline_pixel_scale = 0x254a910
+r_mapextents = 0x2513300
+r_modeldecal_maxtotal = 0x24cef10
+r_modeldecal_transform_non_rigid = 0x24cf030
+r_nearz = 0x2503260
+r_norefresh = 0x1b6d640
+r_particle_batching_size_razor = 0x274cf10
+r_particle_lighting_debug = 0x2665160
+r_particle_lighting_enable = 0x274cbf0
+r_particle_lighting_force = 0x274d0f0
+r_particle_low_res_debug = 0x254a1f0
+r_particle_low_res_indirect = 0x1f3e050
+r_particle_low_res_predraw = 0x1f3f940
+r_particle_low_res_tiled_clear = 0x1f3f8b0
+r_particle_sim_spike_increment_ms = 0x2543c60
+r_particle_sim_spike_threshold_ms = 0x2547b00
+r_particle_timescale = 0x253f620
+r_particles_early_distance_cull = 0x250da50
+r_rimlight = 0x1ee2460
+r_rootlod = 0x1b790f0
+r_ropetranslucent = 0x2531110
+r_runtimeVirtualTextureAllowStreamRequests = 0x1f3faf0
+r_runtimeVirtualTextureCompositeMipBiasMotionMax = 0x1f3fc10
+r_runtimeVirtualTextureCompositeMipBiasMotionWeight = 0x1f3fb80
+r_runtimeVirtualTextureCompositeRequestMipDistMax = 0x1f3fe50
+r_runtimeVirtualTextureCompositeStochasticTextureBlendExponent = 0x1f3fd30
+r_runtimeVirtualTextureDecalBlockCullAlphaCutoff = 0x1f3f9d0
+r_runtimeVirtualTextureDecalMinPixelWidth = 0x1f3fa60
+r_runtimeVirtualTextureDistanceStreamingMipBiasLerp = 0x1f400f0
+r_runtimeVirtualTextureDistanceStreamingScale = 0x1f3ff70
+r_runtimeVirtualTextureMipBiasBase = 0x1f3fdc0
+r_runtimeVirtualTextureMipBiasLerp = 0x1f3fca0
+r_runtimeVirtualTextureMipBiasPerMissedAllocation = 0x1f40000
+r_runtimeVirtualTextureWriteIdsAndWeightsOptimized = 0x1f3fee0
+r_s29_lighting_mode = 0x1edfbb0
+r_setupBoneWorkSize = 0x2545c00
+r_setupBoneWorkerThreadhold = 0x2549740
+r_setupBoneWortSort = 0x2542cb0
+r_skin_skip_invalid_materials = 0x24cf490
+r_skip_baked_lights_if_strict_realtime = 0x1b6e8e0
+r_sky_ignoreAngles = 0x254a670
+r_sort_trans_debug = 0x251fcf0
+r_sort_trans_debug_dist = 0x2511eb0
+r_terrainCollisionSkirts = 0x1e89120
+r_terrainDrawPatchCountMax = 0x25413f0
+r_terrainDynamicLightMaxCount = 0x2548f20
+r_terrainHeightCacheHeightInTiles = 0x2549860
+r_terrainHeightCacheWidthInTilesLog2 = 0x2545730
+r_terrainLod0RadiusInTiles = 0x2549b30
+r_terrainLodPatchCountMax = 0x25480c0
+r_terrainShaderLODDist = 0x2549a10
+r_terrainUseLargestCubemap = 0x25431a0
+r_terrainVirtualTextureBackgroundMipMin = 0x2549ce0
+r_terrainVirtualTextureCacheHeightInTiles = 0x2549c50
+r_terrainVirtualTextureCacheWidthInTilesLog2 = 0x2545c90
+r_terrainVirtualTextureCompactCache = 0x25498f0
+r_terrainVirtualTextureCompositeRequestMaxCount = 0x2541c10
+r_terrainVirtualTextureCompositeTilesPerFrameMax = 0x2549bc0
+r_terrainVirtualTextureMipMin = 0x2549980
+r_terrainVirtualTextureUseCompressedSplatmap = 0x25497d0
+r_terrainVirtualTextureUseDistanceStreaming = 0x2549aa0
+r_threaded_particles = 0x2542ef0
+r_updaterefracttexture = 0x2541930
+r_updaterefracttexture_allowmultiple = 0x25487b0
+r_visambient = 0x1b586c0
+r_visambient_orig = 0x1b5a570
+r_visambient_point = 0x1b5ada0
+r_vismodellighting_lightpos = 0x1ec56b0
+r_vismodellighting_maxdist = 0x2541230
+r_vismodellighting_mindist = 0x2545990
+r_vismodellighting_offset_x = 0x1ec4650
+r_vismodellighting_offset_y = 0x1ec3280
+r_vismodellighting_offset_z = 0x1ec4320
+r_vissky_cone = 0x1b5a600
+r_vissun_transitions = 0x1b5b8d0
+r_visualizeproplightcaching = 0x251c950
+r_visualizetraces = 0x26b9ff0
+r_visualizetraces_duration = 0x26b9f60
+r_visualizetraceshulls = 0x26b7830
+r_volumetric_lighting_blur_count = 0x1f42b20
+r_volumetric_lighting_blur_type = 0x1f42a90
+r_volumetric_lighting_defer_init = 0x1f42a00
+r_volumetric_lighting_enabled = 0x1f42970
+r_volumetric_lighting_min_relative_contribution = 0x1f42cd0
+r_volumetric_lighting_numSteps = 0x1f42c40
+r_volumetric_lighting_rotate_dither = 0x1f42bb0
+r_water_draw_env_volumes = 0x1f42e80
+r_water_draw_mode = 0x1f42d60
+r_water_force_envmap = 0x1f42df0
+r_water_render_only_body = 0x1f42f10
+r_water_rendering_enabled = 0x1f430c0
+r_water_use_irradiance_volume = 0x1f43150
+r_water_wave_debug = 0x1f42fa0
+r_water_wireframe = 0x1f43030
+r_watersim_debug = 0x1f43290
+r_watersim_enabled_override = 0x1f431e0
+r_wave_fx_debug_emitters = 0x252a570
+r_wave_fx_enabled = 0x252fed0
+r_wave_fx_progress_tolerance = 0x2539140
+r_wave_fx_start_progress = 0x2536c60
+r_wave_fx_view_radius = 0x252ddf0
+r_wideAspect_adjustNearZEnabled = 0x251ef30
+r_wideAspect_minLimit = 0x251fb40
+r_wideAspect_startRange = 0x251db90
+r_zfill = 0x26666e0
+r_zfill_all = 0x254a4c0
+r_zfill_all_lobby = 0x26660f0
+r_zfill_heightmap = 0x2666180
+r_zfill_opaque_renderables = 0x26655e0
+r_zfill_static_props = 0x2666770
+r_zfill_static_props_deferred = 0x2665d30
+r_zfill_world_meshes = 0x26651f0
+r_zfill_world_occluder = 0x2666380
+ragdoll_debug = 0x24f5be0
+ragdoll_sleepaftertime = 0x2547eb0
+ranked_champion_trails_enabled = 0x26c3ca0
+ranked_current_period_guidstring = 0x26c3700
+ranked_current_period_start_score = 0x26c4530
+ranked_disable_full_bonus_system = 0x26c0ea0
+ranked_disable_placement_matches = 0x26c05a0
+ranked_disable_point_gain = 0x26c2f10
+ranked_disable_promo_trials = 0x26c2d80
+ranked_enable_2pt0_cross_split_reward = 0x26c3550
+ranked_enable_non_ranked_score_position = 0x26c1140
+ranked_enable_old_kill_bonus = 0x26c3430
+ranked_enable_road_to_ranked = 0x26c35e0
+ranked_event_enabled = 0x1d51490
+ranked_event_entry_cost_disabled = 0x1d51520
+ranked_event_leaderboard_hard_pick_duration = 0x1d51640
+ranked_event_loss_forgiveness_disabled = 0x1d51b10
+ranked_event_trail_reward_enabled = 0x1d51940
+ranked_league_debug = 0x1d55720
+ranked_league_enabled = 0x1d557b0
+ranked_reward_has_min_match_requirement = 0x26c01c0
+rankedplay_display_enabled = 0x2667db0
+rankedplay_voice_enabled = 0x2667300
+raw_input_client_send_enable = 0x24cdfc0
+raw_input_collection_disable = 0x24cdf30
+raw_input_deadzone = 0x24cde10
+raw_input_fileoutput_cl = 0x24cdea0
+reactive_wakeOnStop = 0x2669b20
+real_time_update_dt = 0x252fb50
+realms_add_child_to_parent_by_default = 0x26714b0
+realms_script_error_on_parenting_mismatch = 0x26a7470
+reassignPendingVMFXHandlesOnUpdate = 0x24ef820
+recalculateOrigin_threaded_chunksize = 0x1d59b90
+recommendations_hostname = 0x1d554b0
+reconnect_available_timespan = 0x1ecbf40
+reconnect_cache_delete = 0x1ecbeb0
+reconnect_check_user_id = 0x1ecc0a0
+reconnect_debug = 0x1e8fd00
+reconnect_delay = 0x1ecc010
+reconnect_enabled = 0x1ecc130
+reconnect_party_enabled = 0x1ecbe20
+reconnect_timeout = 0x1b58bc0
+remote_function_clear_stats_on_game_state_change = 0x269e970
+remote_function_pin_tracking = 0x266f850
+rendering_debug_overlay = 0x2666d10
+replay_enable = 0x1ec6480
+replay_prediction_smooth = 0x1ec4040
+replay_sendNetMessages = 0x1ec6270
+report_cliententitysim = 0x24f9c30
+report_clientthinklist = 0x2511cc0
+report_legacy_attachment_errors = 0x24e7e70
+resource_binder_validate_transition_state = 0x1e89ca0
+reticle_color = 0x2545b10
+rhi.dx12.DefaultHeapAllocatorRecordStep = 0x1e8a450
+rhi.dx12.EnableGPUUploadHeaps = 0x1e8a180
+rhi.dx12.EnableUploadHeaps = 0x1e89eb0
+rhi.dx12.GpuUploadHeapAllocatorRecordStep = 0x1e8a0f0
+rhi.dx12.MemoryPoolDefaultHeapSizeInMBs = 0x1e89f40
+rhi.dx12.MemoryPoolGpuUploadHeapSizeInMBs = 0x1e8a210
+rhi.dx12.MemoryPoolReadbackHeapSizeInMBs = 0x1e89fd0
+rhi.dx12.MemoryPoolUploadHeapSizeInMBs = 0x1e8a3c0
+rhi.dx12.ReadbackHeapAllocatorRecordStep = 0x1e8a060
+rhi.dx12.SelectHigherPerfGpu = 0x1e8a2a0
+rhi.dx12.ShutdownDevice = 0x1e8a330
+rhi.dx12.UploadHeapAllocatorRecordStep = 0x1e8a4e0
+rhi.dx12.constantBufferAllocatorBlockIncrement = 0x1e8a600
+rhi.dx12.constantBufferAllocatorGrowthSizeInMBs = 0x1e8a690
+rhi.dx12.constantBufferAllocatorInitialSizeInMBs = 0x1e8a8d0
+rhi.dx12.roSubAllocatorBlockIncrement = 0x1e8a960
+rhi.dx12.roSubAllocatorGrowthSizeInMBs = 0x1e8a7b0
+rhi.dx12.roSubAllocatorInitialSizeInMBs = 0x1e8a9f0
+rhi.dx12.rwSubAllocatorBlockIncrement = 0x1e8a570
+rhi.dx12.rwSubAllocatorGrowthSizeInMBs = 0x1e8a720
+rhi.dx12.rwSubAllocatorInitialSizeInMBs = 0x1e8a840
+rhi.hazards.useJobForReclaim = 0x1e89d30
+rhi.memorypool.LargeAllocationFrac = 0x1e89c10
+rhi_data_upload_ms_to_wait_before_helping = 0x1e89dc0
+rhi_dx12_present_do_not_wait = 0x1e8aa80
+rhi_dx12_present_restart = 0x1e8ab10
+ribbon_visibility_fx_enable = 0x274d060
+roamingcam_altitudeLocked = 0x2511670
+roamingcam_cameraspacemotion = 0x250bd00
+roamingcam_downSpeedMult = 0x250dd20
+roamingcam_fakeTeam = 0x26a19d0
+roamingcam_forwardSpeed = 0x2503f30
+roamingcam_forwardSpeed_fast = 0x251f740
+roamingcam_forwardSpeed_slow = 0x250dc90
+roamingcam_moveCollisionThreshold = 0x2502f00
+roamingcam_movecollision = 0x2516a30
+roamingcam_movesmoothing = 0x2515510
+roamingcam_rollSpeed = 0x2502ab0
+roamingcam_roll_smoothtime = 0x251e3a0
+roamingcam_rollsmoothing = 0x2502b40
+roamingcam_serverupdateinterval = 0x2510450
+roamingcam_sideSpeedMult = 0x25141d0
+roamingcam_smoothcam_downSpeedMultiplier = 0x2515300
+roamingcam_smoothcam_enabled = 0x2510130
+roamingcam_smoothcam_smoothtime = 0x250aca0
+roamingcam_smoothtime = 0x2504580
+roamingcam_speedChangeRate = 0x2528ff0
+roamingcam_viewsmoothing = 0x25129a0
+rodeo_camera_smooth_blend_out_time = 0x25024c0
+rodeo_camera_smooth_enable = 0x25005d0
+rodeoed_anims_enabled = 0x24d7e00
+rope_collide = 0x253cbe0
+rope_debug_shake = 0x253b730
+rope_parallelMeshBuilder = 0x252df90
+rope_regenMeshEachDraw = 0x253c430
+rope_shake = 0x2530480
+rope_texels_per_world_unit = 0x24f44c0
+rope_visibility_fx_enable = 0x274cd90
+rope_wiggle_harmonic_falloff = 0x252af60
+rope_wiggle_magnitude_loose = 0x253d620
+rope_wiggle_magnitude_tight = 0x25311a0
+rope_wiggle_oscillate_speed = 0x2538f90
+rope_wiggle_rotate_speed = 0x252abd0
+rope_wiggle_zipline_min_points = 0x2535990
+rope_wind_dist = 0x252a610
+rotate_ents = 0x24fffd0
+rppMatchMaking_disablePlaylistOverride = 0x1b6da40
+rpp_assignment_enabled = 0x26c04f0
+rpp_match_making_enabled = 0x26c30e0
+rprof_dump_with_compression = 0x1ec6660
+rprof_dump_with_deltacompression = 0x1ec6b30
+rprof_no_devnet = 0x1b74de0
+rprof_prune_path_from_draw_events = 0x1f4b5c0
+rspn_motd = 0x1b5cd60
+rt_forcewake = 0x1ee8110
+rt_sleep = 0x1ee81a0
+rt_worker = 0x1ee8230
+rtk_alwaysreparse = 0x2751910
+rtk_cache_max_memory = 0x27519a0
+rtk_cache_policy = 0x2751c70
+rtk_clearCacheAfterLeavingLobby = 0x2518220
+rtk_dpadnavigation_debug = 0x27750c0
+rtk_enableErrorPopup = 0x2753970
+rtk_enableLaserScreen = 0x2751500
+rtk_enableRTL = 0x2751470
+rtk_enableStatsScreen = 0x27513e0
+rtk_handle_clean_rate = 0x27520d0
+rtk_parallelClone = 0x2753b20
+rtk_parser_enable_extra_checks = 0x2752040
+rtk_styleConstantsDefault = 0x2774350
+rtk_useconstants = 0x2751f30
+rtk_verboseLogging = 0x27538e0
+rtk_vgui_use_defered_creation_order = 0x2774440
+rtm_force_disconnect_on_switch = 0x1ecebd0
+ruiPanel_resArgName = 0x24d9600
+rui_asyncTracks = 0x2546ec0
+rui_defaultFontFace = 0x277a0c0
+rui_defaultFontHeight = 0x2778f60
+rui_depth_write_enabled = 0x1e8b280
+rui_depth_write_prepass = 0x1e8ae90
+rui_overrideVguiTextRendering = 0x27775c0
+rui_padDist = 0x1e8b4c0
+rui_safeAreaFrac = 0x1e8b1f0
+rui_script_call_optimization = 0x1e8b160
+rui_staticPropLimit = 0x2547d30
+rui_text_drawing_enabled = 0x1e8b0d0
+rui_textcache_logstats_period = 0x24cf520
+rui_useWidgetDraws = 0x1e8b430
+save_enable = 0x1e8f880
+scheme_manager_font_debug = 0x27789e0
+scr_centertime = 0x2544970
+screen_indicator_back_range = 0x250be20
+screen_indicator_ellipse_height = 0x2519ea0
+screen_indicator_ellipse_width = 0x2503630
+screen_indicator_pitch_limit = 0x250dec0
+screen_indicator_pitch_scale = 0x250e400
+screenfade_debug = 0x2546aa0
+scriptNetVar_categoryAsserts = 0x26b72b0
+script_assert_on_dst_offset_error = 0x26c3e90
+script_compile_all_levels = 0x26c0090
+script_compile_debug_dump_rprof = 0x277b880
+script_compile_debug_track_timing = 0x277b920
+script_compile_debug_verbose_logging = 0x277b9b0
+script_debugger_connect_client_on_mapspawn = 0x25451c0
+script_debugger_connect_ui_auto = 0x2669160
+script_debugger_host = 0x277ae90
+script_debugger_port_client = 0x277af20
+script_debugger_port_server = 0x277ae00
+script_debugger_port_ui = 0x277ace0
+script_disallow_newslot_on_globals = 0x277bb90
+script_div_0_script_error = 0x277c7e0
+script_dump_simple = 0x277ad70
+script_eat_NOOPs = 0x277baf0
+script_enable_ranked_game_state_pin = 0x2544040
+script_enable_sort_challenge_flavs_by_progress_verify = 0x2541690
+script_enable_sort_challenge_flavs_by_progress_with_cache = 0x2547640
+script_infinite_loop_ms = 0x277ac40
+script_localize_arg_overflow_raise_error = 0x2545020
+script_mover_traversal_mover_support = 0x26b8000
+script_obfuscated_id_magic = 0x2547f40
+script_obfuscated_id_technique = 0x25470a0
+script_parallel_trace_LOS_multiple = 0x26c3190
+script_precache_errors = 0x26a4e20
+script_printDeferredCalls = 0x2540e60
+script_ranked_debug = 0x26c3220
+script_retry_after_compile_errors = 0x26c45c0
+script_showErrorDialogs = 0x24d8d30
+script_slopTimeBeforeBudgetEnforcement = 0x1ec67e0
+script_threads_wait_check_differential_against_zero = 0x277ab20
+script_tracehull_square_check = 0x26c3810
+script_weapon_mythic_multikill_kill_threshold = 0x2543bd0
+script_weapon_mythic_multikill_roll_chance = 0x25476e0
+script_weapon_mythic_multikill_variety_timeout_sec = 0x2542570
+script_weapon_mythic_vo_delay_sec = 0x25424e0
+scriptremotefunctions_assert_on_bad_params = 0x26a0d30
+scriptremotefunctions_checkRestrictedType = 0x266bb30
+scriptremotefunctions_debug = 0x266df00
+scriptremotefunctions_dropNullEntity = 0x269d590
+scriptremotefunctions_enforceTypedEntity = 0x266b5c0
+scriptremotefunctions_printReconnectDiscards = 0x269dcb0
+scriptremotefunctions_printWarningNullEntity = 0x266dcc0
+scriptremotefunctions_reject_floats_outside_range = 0x26a56c0
+scriptremotefunctions_saveFuncName = 0x269ea50
+scriptremotefunctions_stringMaxStored = 0x26a2fc0
+seasonquest_force_missionscleared_count = 0x26c11d0
+seasonquest_force_treasurepacks_count = 0x26c1090
+send_pin_on_error = 0x1eba190
+sequence_transitioner_enable = 0x26ac140
+serverFilter = 0x1b79990
+serverReports_hostname = 0x1eb8c70
+server_build_datenum = 0x1ec8920
+server_concommands_allways_network = 0x1b57d30
+server_is_playtest_build = 0x1ec8220
+settings_field_lookup_doesnt_exist_is_fatal = 0x26fa820
+sh_odsl_enabled_test_name = 0x26c3b60
+sh_odsl_test_time_sec = 0x26c0e10
+shader_lod_world_mesh_scaled_dist = 0x1b78130
+shader_lods_enable = 0x1ec3490
+shader_lods_static_prop_scaled_dist = 0x1ec3f50
+shadow_bleedfudge = 0x24cc280
+shadow_capable = 0x1b6d490
+shadow_clear_dist = 0x2665790
+shadow_combine_copy_with_filter = 0x251e280
+shadow_cull_in_lobby = 0x25126d0
+shadow_cull_renderables_by_dist = 0x2518fa0
+shadow_dbg_cone_depthtest = 0x2503550
+shadow_dbg_cones = 0x2502680
+shadow_dbg_draw = 0x250f6b0
+shadow_default_filter_size = 0x250f530
+shadow_depth_dimen_min = 0x251ea60
+shadow_depth_upres_factor_max = 0x2510c20
+shadow_drawfrustum = 0x2517df0
+shadow_dynamic_spot_budgets = 0x25031d0
+shadow_enable = 0x1b781c0
+shadow_esm_enable = 0x25125a0
+shadow_filter_maxstep = 0x2509a10
+shadow_info = 0x2528780
+shadow_lobby_depth_dimen_min = 0x25027a0
+shadow_lobby_mode_allowed = 0x251d770
+shadow_max_downsizing_spot_updates = 0x251f2d0
+shadow_max_dynamic_lobby = 0x251cca0
+shadow_max_old_dynamic = 0x250db70
+shadow_max_spot_updates = 0x2514890
+shadow_maxdynamic = 0x250a040
+shadow_min_count_smallest = 0x2511260
+shadow_minvariance = 0x24cc4c0
+shadow_noLOD = 0x250bd90
+shadow_pcf_bias = 0x1f4bb80
+shadow_pcf_kernel_width = 0x1f4ba60
+shadow_pcf_mode = 0x2502e10
+shadow_show_spot_update_infos = 0x251e9d0
+shadow_tools_depth_dimen_min = 0x2518340
+shadow_tools_depth_upres_factor_max = 0x2511550
+shadow_tools_min_count_smallest = 0x2517b00
+shadow_tools_mode = 0x251da10
+shadow_update_culling = 0x25199e0
+shadow_vsm_format_16_bit = 0x25190b0
+shake_angleFactor_human = 0x2501c80
+shake_angleFactor_titan = 0x24fd7f0
+shake_basicPitchFactor = 0x2542770
+shake_basicRandomRollFactor = 0x25448e0
+shake_offsetFactor_human = 0x2500820
+shake_offsetFactor_titan = 0x24fcf90
+shake_viewmodelFactor_ads_human = 0x251ecd0
+shake_viewmodelFactor_ads_titan = 0x251e100
+shake_viewmodelFactor_human = 0x250bc70
+shake_viewmodelFactor_titan = 0x251edf0
+show_champion_screen = 0x26c08c0
+showassets_enabled = 0x1edf7f0
+showbot_enabled = 0x1ed5a90
+showfps_enabled = 0x1ee4710
+showfps_heightpercent = 0x1edf760
+showfps_max_ms = 0x1ed9fe0
+showfps_mouse_latency = 0x1ed5480
+showfps_smoothtime = 0x1ee2070
+showfps_spinner = 0x1ee4e00
+showfs_async_file_handles = 0x1edd270
+showinput_enabled = 0x1edfc40
+showio_enabled = 0x1ee4680
+showmap_enabled = 0x1ee1e30
+showmem_cheaptrack_datatypes = 0x1ee4830
+showmem_cheaptrack_features = 0x1ee1f50
+showmem_cheaptrack_sources = 0x1ee4b90
+showmem_enabled = 0x1edfa00
+showmem_mode_bottom = 0x1ee47a0
+showmem_mode_top = 0x1ee4ce0
+showmem_sbh_stats = 0x1ee4d70
+showmemnumstats = 0x2546020
+showmemnumstatsrefresh = 0x2545250
+shownet_enabled = 0x1ee49e0
+sidearmSwapSelectCooldown = 0x252ed00
+sidearmSwapSelectDoubleTapTime = 0x2538cd0
+singlestep = 0x1ec8010
+skill_hostname = 0x1b6e0e0
+skipIntroVideos = 0x1e85ce0
+skip_jump_height_fraction = 0x2671780
+skip_jump_height_speed = 0x26a51b0
+skip_lobby_tutorial = 0x26c2a10
+skip_replenish_double_jump = 0x26a65f0
+skip_sounds = 0x266ee30
+skip_speed_reduce = 0x26a5fe0
+skip_speed_retain = 0x26a32b0
+skip_time = 0x26a6ef0
+skip_training = 0x26c0290
+skyward_launch_obstacle_avoidance = 0x266ed10
+sleep_when_meeting_framerate = 0x1ec2d00
+sleep_when_meeting_framerate_headroom_ms = 0x1ec57d0
+slide_auto_stand = 0x26a2410
+slide_max_angle_dot = 0x266dae0
+slide_max_duck_frac_to_start = 0x269fa10
+slide_step_velocity_reduction = 0x2671a20
+slide_viewTiltDecreaseSpeed = 0x26bbca0
+slide_viewTiltIncreaseSpeed = 0x26bc120
+slide_viewTiltPlayerSpeed = 0x26ba2c0
+slide_viewTiltSide = 0x26bb260
+slide_while_on_unwalkable_ground = 0x268af40
+slowconsolelog_old_logic = 0x1b59e20
+smoothstairs_lunge = 0x26bbe50
+snapshot_cache_force_use_clients_allow_list = 0x1ecc990
+snapshot_cache_max_snapshots_multiply_factor = 0x1ecce10
+snapshot_diffs_enabled = 0x1ecc900
+snapshot_diffs_force_enable = 0x1eccd80
+snapshot_diffs_fraction = 0x1ecc870
+snapshot_diffs_max_creation_time = 0x1ecc7e0
+snapshot_force_local_client_player_transmit = 0x1eccc60
+snapshot_historical_cache_enabled = 0x1ecc750
+snapshot_historical_cache_force_enable = 0x1eccb40
+snapshot_local_client_player_delete_assert = 0x1eccbd0
+snapshot_recipient_code_affects_tick_last_changed = 0x1ecccf0
+snapshot_shutdown_mtrim_pad = 0x1eccab0
+snapshot_tlc_sorted_props_enabled = 0x1ecca20
+solid_obb_pass_standard_filter = 0x26b4df0
+sound_ambientgeneric_allow_refresh = 0x2518570
+sound_ambientgeneric_force_entity = 0x2519f30
+sound_entity_seek_snap = 0x253e7c0
+sound_musicReduced = 0x26c0a90
+sound_num_speakers = 0x25293f0
+sound_only_warn_on_missing_sound_events_in_client_script = 0x24dae40
+sound_printloaderrors = 0x1e1b840
+sound_spectator_dialogue = 0x1ec7e90
+sound_volume = 0x250adc0
+sound_volume_dialogue = 0x2512b50
+sound_volume_dialogue_sp = 0x2512a30
+sound_volume_music_game = 0x2515270
+sound_volume_music_game_sp = 0x25131e0
+sound_volume_music_lobby = 0x2512440
+sound_volume_sfx = 0x2502a20
+sound_volume_sfx_observer = 0x250d490
+sound_volume_sfx_observer_affectdialogue = 0x250e530
+sound_volume_sfx_observer_affectmusic = 0x25146e0
+sound_volume_sfx_sp = 0x251f7d0
+sound_volume_voice = 0x2529ea0
+sound_without_focus = 0x2519a70
+soundtrigger_repeat_interval = 0x24f60f0
+sp_not_focus_pause = 0x1eba230
+spam_skinning_matrices_used = 0x1f40180
+spam_skinning_matrices_used_detailed = 0x1f40210
+spatial_partition_deadlock_assert = 0x266fca0
+spectator_analog_altitude_control = 0x2503a50
+spectator_playerTagRange_large = 0x24ff060
+spectator_playerTagRange_medium = 0x2500790
+spectator_playerTagRange_small = 0x24fc900
+speechtotext_audioenabled = 0x1d4fd20
+speechtotext_disable_expire_logic = 0x1ecd050
+speechtotext_disable_time = 0x1ecd680
+speechtotext_enabled = 0x1ecd290
+speechtotext_expire_duration = 0x1ecd320
+speechtotext_forcedisabled = 0x1eccfc0
+speechtotext_gettokentime_interval = 0x1ecd560
+speechtotext_hostname = 0x1ecd440
+speechtotext_msg_droptimeout = 0x1ecd5f0
+speechtotext_new_userSetting = 0x1eccea0
+speechtotext_path = 0x1eccf30
+speechtotext_quiettime = 0x1ecd710
+speechtotext_stats_errorspermin = 0x1ecd0e0
+speechtotext_stats_interval = 0x1ecd4d0
+speechtotext_stats_senderrors = 0x1ecd200
+speechtotext_stats_sendrequests = 0x1ecd170
+speechtotext_stats_sendsuccess = 0x1ecd3b0
+speechtotexttoken_hostname = 0x1b75020
+spinner_debug_info = 0x26c4650
+sprint_powerdrain = 0x26baa70
+sprint_view_shake_style = 0x2529cf0
+sprinttilt_accel = 0x266a900
+sprinttilt_maxvel = 0x26a39c0
+sprinttilt_turnrange = 0x266e750
+ss_force_primary_fullscreen = 0x25410b0
+ss_mimic = 0x2537190
+ss_splitmode = 0x2543d80
+ss_verticalsplit = 0x25467d0
+ss_viewmodelfov = 0x2528d80
+ss_voice_hearpartner = 0x1e8d8a0
+ssao_allow_partial = 0x1f40570
+ssao_blur = 0x1f40960
+ssao_blur_4x4 = 0x1f41800
+ssao_blur_edge_sharpness = 0x1f41020
+ssao_blur_quality = 0x1f40de0
+ssao_blur_slope_threshold = 0x1f40e70
+ssao_depth_max = 0x1f40ba0
+ssao_downsample_scale = 0x1f411d0
+ssao_enabled = 0x1f408d0
+ssao_exponent = 0x1f40c30
+ssao_force_legacy = 0x1f40690
+ssao_jitter_scale = 0x1f403c0
+ssao_max_res = 0x1f41140
+ssao_max_res_threshold = 0x1f407b0
+ssao_num_directions = 0x1f40330
+ssao_num_steps = 0x1f416e0
+ssao_on_everything = 0x1f41410
+ssao_quality = 0x1ed0320
+ssao_radius = 0x1f402a0
+ssao_radius_in_lobby = 0x1f40a80
+ssao_show = 0x1f41890
+ssao_snap_uv = 0x1f40450
+ssao_tech = 0x2665940
+ssao_temporal_noise = 0x1f40720
+ssao_upsample_ranged = 0x1f41770
+ssao_upsample_ranged_midsize = 0x1f415c0
+ssso_cone_angle = 0x1f40f00
+ssso_enabled = 0x1f41530
+ssso_exponent = 0x1f404e0
+ssso_intensity = 0x1f40cc0
+ssso_num_steps = 0x1f40f90
+ssso_radius = 0x1f40600
+standardHandshake = 0x24ce050
+startButtonCommand = 0x1ec40e0
+staticPropSkipEarlyDepthOnlyTranslucent = 0x1ec3880
+staticPropUseDepthSortBulkGrab = 0x1ec4a10
+staticProp_BucketSortMode = 0x1eba490
+staticProp_budget = 0x1ec2f00
+staticProp_buildlists_on_worker = 0x250ad30
+staticProp_debug_draw = 0x1ec4290
+staticProp_earlyDepthPrepass = 0x1eba8e0
+staticProp_gather_size_weight = 0x1ec5530
+staticProp_max_scaled_dist = 0x1ec2f90
+staticProp_no_fade_scalar = 0x1ec5c80
+staticProp_refineDrawOnWorker = 0x26662a0
+static_prop_dist_debug_draw = 0x1ec3520
+static_shadow = 0x2503720
+static_shadow_bounds_per_env = 0x2512910
+static_shadow_debug_2d = 0x2665280
+static_shadow_debug_dirty_rects = 0x2510dc0
+static_shadow_depth_bias_scale = 0x2528e90
+static_shadow_expand_z = 0x250de30
+static_shadow_good_merge_ratio = 0x2510d30
+static_shadow_good_merge_score = 0x2518820
+static_shadow_max_partitions = 0x250e140
+static_shadow_prop_min_size = 0x251f860
+static_shadow_proplightweight_min_size = 0x2510f00
+static_shadow_res = 0x1ee48c0
+static_shadow_shrink_culler = 0x250f620
+static_shadow_use_d16 = 0x1ee4a70
+static_shadow_uses_shadow_lod = 0x250aff0
+staticfile_hostname = 0x1b745d0
+staticprop_color_use_bindless = 0x1ec4980
+staticprop_depth_use_bindless = 0x1ec4d70
+stationary_fly_ground_detect = 0x26b74e0
+stats_hostname = 0x1b76070
+status_effect_warning_level = 0x26b0900
+status_tracker_enabled = 0x24d06b0
+status_tracker_log_events = 0x24d0280
+status_tracker_send_dev_telemetry = 0x24d0740
+status_tracker_sleep_time_ms = 0x24d07d0
+steam_debug = 0x1ecde30
+steam_environment = 0x1ecdf20
+steam_id = 0x1ecd800
+steam_name = 0x1ecd950
+steam_presence_player_group_issession = 0x1ecdcb0
+steam_presence_updateRate = 0x1ecdda0
+steam_use_jwt = 0x1eb9060
+steamlink_hostname = 0x1ecda70
+stream_addnoise = 0x1ee8720
+stream_async_resource_creation_on_pc = 0x1ee8b70
+stream_cache_align_memory_estimates = 0x274ad50
+stream_cache_capacity_animseq = 0x274b410
+stream_cache_capacity_mdl = 0x274b2f0
+stream_cache_capacity_while_loading = 0x274b260
+stream_cache_high_priority_animations = 0x274af00
+stream_cache_high_priority_static_models = 0x274ae70
+stream_cache_mdl_freeze_threshlold = 0x274ade0
+stream_cache_multithreaded = 0x274af90
+stream_cache_preload_from_rpak = 0x274acc0
+stream_cache_read_buffer_cap = 0x274b020
+stream_cache_read_count_cap = 0x274b1d0
+stream_cache_speculative_drop_animseq = 0x274b140
+stream_cache_speculative_drop_mdl = 0x274b0b0
+stream_depth_prepass_material = 0x1ee9a10
+stream_drop_unused = 0x1ee85a0
+stream_enable = 0x1ee83f0
+stream_handle_allocation_max_stall_msec = 0x274b380
+stream_highest_quality_pc = 0x1ee9b90
+stream_load_after_drop = 0x1ee8360
+stream_low_mips_to_batch = 0x1ee9b00
+stream_memory = 0x1ee8d20
+stream_memory_ignore = 0x1ee88d0
+stream_memory_min = 0x1ee8840
+stream_memory_while_loading = 0x1ee87b0
+stream_mode = 0x1ee8960
+stream_never_high_priority_frac = 0x1ee89f0
+stream_overlay = 0x1ee8c90
+stream_overlay_mode = 0x1ee8a80
+stream_pause = 0x1ee8510
+stream_picmip = 0x1ee8480
+stream_texture_bandwidth = 0x1ee8690
+stringtable_compress = 0x1b766a0
+stryder_forceOriginUsersInvisible = 0x1ec9d30
+stryder_security = 0x1eb8f40
+stuck_debugging = 0x2670ae0
+stuck_debugging_world_only = 0x26a2890
+studiobonecache_unlimited = 0x1b56070
+subscription_hostname = 0x1eb8d00
+superjump_drain_power_onfail = 0x26a6e10
+superjump_fail_sound_when_jump_limit = 0x26a1040
+superjump_jumppad_enable_time = 0x26a6070
+superjump_limit = 0x26a3360
+superjump_limitreset_onwallrun = 0x269f260
+superjump_min_height_fraction = 0x2671650
+superjump_powerreset_onground = 0x269d930
+sv_XLOG_telemetry_shortcircuit = 0x24d1fd0
+sv_airaccelerate = 0x26a1940
+sv_allTicksFinal = 0x1ec7280
+sv_allowSendTableTransmitToClients = 0x1e8c670
+sv_allowSpectatorClients = 0x1e8e460
+sv_asyncSendSnapshot = 0x1e8d5d0
+sv_backspeed = 0x266fa20
+sv_bounce = 0x268ae20
+sv_cheats = 0x1e8ff50
+sv_checkSpectatorType = 0x1e8d780
+sv_compressPlaylists = 0x1e8d000
+sv_compressTimeValEpsilon = 0x1b58e90
+sv_compressTimeVals = 0x1b58fe0
+sv_connectEnforceServerFilter = 0x1e8d4b0
+sv_connectingClientDelay = 0x1e8c940
+sv_disconnectOnScriptError = 0x1e8f130
+sv_dumpstringtables = 0x1b6d7c0
+sv_earlyPersistenceRead = 0x1e8f7f0
+sv_enableSignonStateTimeOuts = 0x1e8dab0
+sv_everyThirdTick = 0x1ec79d0
+sv_fakeClientBaseId = 0x1e8ec10
+sv_firstConnectCheckForMatchPhase = 0x1e8d930
+sv_fixedUpdateRate = 0x1e8f400
+sv_footsteps = 0x26a8450
+sv_friction = 0x266fc10
+sv_fullsnap_stall_replay_delay = 0x1e8d120
+sv_fullsnap_stall_timescale = 0x1e8dc60
+sv_fullsnap_stall_updaterate = 0x1e8f910
+sv_fullsnap_stall_wait = 0x1e8e4f0
+sv_fullsnap_stalls_allowed = 0x1e8e970
+sv_gracefulDisconnectOnScriptError = 0x1e8bac0
+sv_gravity = 0x26a9840
+sv_ignoreAllNewConnections = 0x1e8eaf0
+sv_ignoreDuplicateConnectionRequests = 0x1e8d2a0
+sv_includeProtInRejection = 0x1e8eca0
+sv_infinite_ammo = 0x26bc410
+sv_instancebaselines = 0x1e8e850
+sv_liveapi_hitch_notify_frequency_sec = 0x1e87db0
+sv_loadMapModelEarly = 0x1b5bd60
+sv_maxSetClientEntitlements = 0x1e8fd90
+sv_max_fullsnap_stalls = 0x1e8c270
+sv_max_prop_data_dwords_lobby = 0x1e8cdc0
+sv_max_prop_data_dwords_multiplayer = 0x1e8d660
+sv_max_prop_data_dwords_singleplayer = 0x1e8caf0
+sv_max_props_lobby = 0x1e8cf70
+sv_max_props_multiplayer = 0x1e8c9d0
+sv_max_props_singleplayer = 0x1e8c820
+sv_max_snapshots_lobby = 0x1e8e580
+sv_max_snapshots_multiplayer = 0x1e8b8b0
+sv_max_snapshots_singleplayer = 0x1e8fa30
+sv_maxspeed = 0x26a4f90
+sv_maxupdaterate = 0x1e8e340
+sv_maxvelocity = 0x26aaf80
+sv_minupdaterate = 0x1e8d420
+sv_net_disconnect_normalize = 0x1e8fb50
+sv_net_disconnect_track = 0x1e8fc70
+sv_netstrcmd_retail_enabled = 0x1e8d6f0
+sv_netstrcmd_retail_track = 0x1e8b9d0
+sv_optimizedmovement = 0x26a15c0
+sv_parallel_sendsnapshot = 0x1e8c550
+sv_partyFiringRangeJIPAllowed = 0x1b77e90
+sv_pausable = 0x1e8c030
+sv_players = 0x26a69c0
+sv_playertag_checkInterval = 0x1e8d090
+sv_playertag_request_reset = 0x1e8d540
+sv_playertag_rspn_tag_allowed = 0x1e8d210
+sv_printHighWaterMark = 0x1e8ea00
+sv_private_assist_style_override = 0x26a05d0
+sv_pushaway_accel = 0x269dad0
+sv_pushaway_clientside = 0x266a5f0
+sv_pushaway_clientside_size = 0x26b1130
+sv_pushaway_debug = 0x26a5580
+sv_pushaway_dist = 0x266b310
+sv_pushaway_min_player_speed = 0x26a10d0
+sv_pushaway_player_accel = 0x26a1280
+sv_pushaway_player_dist = 0x2670140
+sv_reconnectCheckFullConnectV2 = 0x1e8b700
+sv_rejectClientConnects = 0x1e8dbd0
+sv_rejectConnections = 0x1e8bc70
+sv_rejectIconPuaUtf8ClientName = 0x1e8e8e0
+sv_rejectNonUtf8ClientName = 0x1e8e2b0
+sv_rejectOnPeersFull = 0x1e8e190
+sv_requireOriginToken = 0x1e8cc10
+sv_resendSignonData = 0x1e8dcf0
+sv_rollangle = 0x26a5ef0
+sv_rollspeed = 0x269ffa0
+sv_rprofDumpDuringLoad = 0x1e8c1e0
+sv_runSnapshotDiffWorkInJobs = 0x1e8ed30
+sv_runSpatialOptimizeInJob = 0x1e8bbe0
+sv_scarySnapDeltaPrints = 0x1e8e3d0
+sv_script_compile_during_map_load = 0x1ec6900
+sv_sendEarlyServerInfo = 0x1e8f370
+sv_sendReplayNetMessagesOnNoDeltaSnaps = 0x1e8cee0
+sv_sendReportIncludeConVars = 0x1e8c790
+sv_sendReportOnClientConnect = 0x1e8e7c0
+sv_showClientTickCmds = 0x1e8c300
+sv_showLargeSnapshotSize = 0x1e8b940
+sv_showSnapshots = 0x1e8b670
+sv_showUserCmds = 0x1e8b820
+sv_single_core_dedi = 0x1e8f010
+sv_skipSendingUnnecessaryPersistence = 0x1e8bb50
+sv_snapshot_pps_mtrim_pad = 0x1e8edc0
+sv_snapshot_tempent_warn_threshold = 0x1e8bd90
+sv_snapshot_tempent_warn_throttle = 0x1e8fbe0
+sv_snapshot_uniform_interval = 0x1e8e220
+sv_specaccelerate = 0x26a0a90
+sv_specnoclip = 0x2671d20
+sv_specspeed = 0x266f5a0
+sv_stats = 0x1e8b550
+sv_stopspeed = 0x266fb80
+sv_stressbots = 0x1e8f250
+sv_strictReconnect = 0x1e8cd30
+sv_struggleCheck = 0x1e8f640
+sv_struggleSpam = 0x1e8c5e0
+sv_struggleSpamInterval = 0x1e8ef80
+sv_tempents_send_from_delta = 0x1e8d810
+sv_tempents_send_from_last_sent = 0x1e8b790
+sv_testLargeDatablock = 0x1ecf870
+sv_teststepsimulation = 0x24f7800
+sv_tournament_anonymous_mode = 0x266a6c0
+sv_tournament_assist_style_override = 0x269f730
+sv_transmitToAllPlayersMask_allBitsSet = 0x1e8f1c0
+sv_transmitToAllPlayersMask_print = 0x1e8f0a0
+sv_truncateNameToNotCrashKillFeedLocalization = 0x1e8b5e0
+sv_unnecessaryConnectDelay = 0x1e8db40
+sv_unreliableSnapMaxSize = 0x1e8c700
+sv_updaterate_mp = 0x1e8bfa0
+sv_updaterate_sp = 0x1e8e610
+sv_useReputation = 0x1e8c8b0
+sv_use_real_model_always = 0x1b74a50
+sv_verifyNucleusIdByTokenResult = 0x1e8c150
+sv_voiceEcho = 0x1e8f520
+sv_voiceenable = 0x1e8eef0
+sv_waitForClientInfo = 0x1e8f2e0
+sv_warnAboutCmdNumJumps = 0x1e8cca0
+sv_watchdogTimer = 0x1b7a3f0
+sv_wateraccelerate = 0x266a4b0
+sv_waterdist = 0x26a72c0
+sv_writePersistenceOnShutdown = 0x1b78c90
+svperf_query_hitch_frametime_msec = 0x1e8f6d0
+svperf_query_near_frametime_msec = 0x1e8ce50
+svperf_query_packetchoke_threshold = 0x1e8c0c0
+svperf_query_packetloss_threshold = 0x1e8c4c0
+svperf_query_player_subset_size = 0x1e8cb80
+svperf_query_slow_frametime_msec = 0x1e8bf10
+svperf_query_slow_frametime_threshold = 0x1e8d9c0
+svperf_querynear_frametime_threshold = 0x1e8e730
+sync_on_streaming_loads_before_hot_swap = 0x1ec7610
+system_alt_f4_closes_window = 0x1ec45c0
+tagfilter_enabled = 0x1ece700
+tapstrafe_repeated_tapping_number_of_taps = 0x2670480
+tapstrafe_repeated_tapping_time_between_taps = 0x26a2bb0
+tapstrafe_telemetry_delay = 0x26a1820
+tapstrafe_telemetry_max_events_per_jump = 0x26a4a60
+teams_unassigned_are_friendly = 0x26a27e0
+telemetry_client_enable = 0x1ec6d40
+telemetry_client_sendInterval = 0x1ec7940
+telemetryevent_client_enable = 0x1ec66f0
+test_fakeTimeDays = 0x1ec65d0
+test_fakeTimeStamp = 0x1ec7f20
+test_fakeTimeStampShouldAddTimePassed = 0x1ec7730
+test_faketimedays_limit = 0x1ec89b0
+tether_default_damageScale = 0x266ff90
+tether_default_healthDrain = 0x2670530
+tether_default_healthDrainCutoffPct = 0x26a3110
+tether_default_healthDrainDelay = 0x266b6e0
+tether_default_radius = 0x26a77e0
+tether_default_strength = 0x26a16b0
+tether_dodge_damage = 0x266af60
+tether_gravity_dmg_frac_per_sec = 0x26a11f0
+tether_healthDrainNPC = 0x266fe00
+tether_maxStretchDamage = 0x268aeb0
+tether_max_stretch_scale = 0x269d7e0
+tether_max_stretch_strength_mult = 0x2671810
+tether_maxvel = 0x26a6d60
+tether_strength_healthScale = 0x269df10
+tether_zipline_scaling_min_vel = 0x266f2b0
+tether_zipline_strength_scale = 0x26a54f0
+texmgr_tsaa_format = 0x1ee8db0
+thirdperson_mayamode = 0x2532d10
+thirdperson_screenspace = 0x253b1f0
+threatlevel_ch_miles_threatlevel = 0x25324e0
+threatlevel_ch_miles_threatleveldialogue = 0x252a820
+threatlevel_disablechannels = 0x253a940
+threatlevel_enabled = 0x25344a0
+timeout = 0x1b5b310
+timeout_during_load = 0x1b5b430
+timeout_waiting_for_fully_connected = 0x1b59670
+titan_sprint_sound = 0x26bd300
+toggle_on_jump_to_deactivate = 0x24f04e0
+toggle_on_jump_to_deactivate_changed = 0x24eefd0
+tracehull_height_error_check = 0x1e909d0
+tracer_debug = 0x2536310
+translucent_brushmodel_colors = 0x1b57eb0
+traversal_anim = 0x26a9af0
+traversal_cooldown = 0x266d790
+traversal_enable = 0x26a0800
+traversal_hand_debug = 0x26705f0
+traversal_hand_required_width = 0x26a0dc0
+traversal_mantle_cap_camera_height = 0x24e3340
+traversal_move_crouch_mantles_enabled = 0x26a22d0
+traversal_viewLerpInDuration = 0x24e33d0
+traversal_viewLerpOut = 0x24e6fb0
+traversal_viewLerpOutAngle = 0x24e88b0
+traversal_viewLerpOutDebug = 0x24e0240
+traversal_viewLerpOutPos = 0x24e8fc0
+traversal_window_duration = 0x266f110
+traversal_window_enable = 0x266d840
+traversal_window_finish_angle = 0x2670220
+traversal_window_forward_offset = 0x269f560
+traversal_window_hand_vertical_offset = 0x26a6850
+traversal_window_sideways_offset = 0x26a3760
+traversal_window_view_pitch_max = 0x24fefd0
+traversal_window_view_pitch_min = 0x24fd760
+traversal_window_yaw_max = 0x2501950
+trident_melee_offset_fix = 0x26bb940
+trigger_ignore_nonsolids = 0x26a4820
+tsaa_blendfactorincreaseatmaxvelocity = 0x1f41a40
+tsaa_blendfactorincreasewhenunoccluded = 0x1f41ad0
+tsaa_blendfactormaxesoutatvelocity = 0x1f41bf0
+tsaa_blendfactormodulationonsparklesandunocclusion = 0x1f41e30
+tsaa_blendfactoroverride = 0x1f41c80
+tsaa_curframeblendamount = 0x1f41b60
+tsaa_debugresponsiveflag = 0x1f41d10
+tsaa_fixneighborhoodclamping = 0x1f41da0
+tsaa_neighborhoodclamping = 0x1f41920
+tsaa_neighborhoodclampingsoftened = 0x1f419b0
+tsaa_numsamples = 0x2546860
+tts_usejob = 0x24d6690
+tweak_light_shadows_every_frame = 0x253bec0
+twitch_check_interval = 0x1e19e00
+twitch_debug = 0x26ba430
+twitch_drops = 0x1e1b0a0
+twitch_drops_initialized = 0x1e1b460
+twitch_drops_simulate_failure = 0x1e1aac0
+twitch_prime_fulfillmentToken = 0x1e1a7f0
+twitch_prime_rewards = 0x1e1ad90
+twitch_shouldQuery = 0x1e1a130
+ui_DpadNavigationDeActive = 0x24d8940
+ui_allow_free_loaded_parcel_without_delay = 0x1e8aba0
+ui_brightness = 0x1e8b310
+ui_cache_resource_data = 0x2778710
+ui_culling_for_style_limit_stage_mask = 0x1e8ae00
+ui_culling_for_style_limit_time_window = 0x1e8afb0
+ui_fadexui_time = 0x24d93c0
+ui_gameui_ctrlr_title = 0x24d89d0
+ui_gameui_modal = 0x24d8f70
+ui_image_enable_robust = 0x1e8acd0
+ui_layout_mode = 0x1e8b040
+ui_loadingscreen_fadein_time = 0x24d9120
+ui_loadingscreen_fadeout_time = 0x24d91b0
+ui_lobby_noautostart = 0x24d97b0
+ui_posedebug_fade_in_time = 0x24d5bc0
+ui_posedebug_fade_out_time = 0x24d5b30
+ui_text_drawing_new = 0x1e8b3a0
+ui_virtualnav_render = 0x24d8af0
+unique_entity_names = 0x266bd30
+universal_weapon_disable = 0x266eda0
+unload_server_temp_pak = 0x1b75c80
+update_player_proxy_visibility = 0x26bdab0
+use_eadp_shorthash = 0x2542d40
+use_latest_predicted_time_for_calc_anim_position = 0x24f9ba0
+use_monitors = 0x2665700
+use_no_interp_frames = 0x1b55fd0
+use_presence_to_refresh_userInfoCache = 0x1ecf250
+use_refraction_cloak = 0x26a92b0
+use_sony_pad_library = 0x1ed5770
+use_vm_cloak_offset = 0x26a3080
+use_ziprail_activity = 0x24d80d0
+user_tracking_enabled = 0x1ec96d0
+usercmd_byte_threshold = 0x1e1a460
+usercmd_frametime_max = 0x1b5b3a0
+usercmd_frametime_min = 0x1b59d80
+usercmd_frametime_min_lobby = 0x1b59bd0
+usercmd_frametime_min_observer = 0x1b58e00
+users_hostname = 0x1b6d730
+v_centermove = 0x2502850
+v_centerspeed = 0x250dc00
+valk_skyward_launch_stuck_fix = 0x26c2cf0
+valve_relay_cert_refresh_threshold = 0x24d2880
+valve_relay_config_refresh_time = 0x24d2a00
+valve_relay_debug_log_level = 0x24d2ab0
+valve_relay_encrypt_traffic = 0x24d2760
+valve_relay_exclusive_transport = 0x24d27f0
+valve_relay_log_identity_lifetime = 0x24d2b40
+valve_relay_timeout_jitter = 0x24d2970
+valve_relay_use_config_cache = 0x24d2bd0
+variable_sights_gravity_scale_override = 0x26c4890
+vehicle_predictViaPlayer = 0x253a780
+vfc_clusteredlighting_2dbounds = 0x1f42070
+vfc_clusteredlighting_pixels_per_cluster = 0x1f41fe0
+vfc_clusteredlighting_rasterize = 0x1f41f50
+vfc_clusteredlighting_skip_behind_depth = 0x1f41ec0
+vfog_debug_freeze_cbuf = 0x1f42850
+vfog_debug_freeze_volumebuf = 0x1f42340
+vfog_debug_print_num_volumes_in_frame = 0x1f42190
+vfog_debug_show_filled_clusters = 0x1f422b0
+vfog_enable = 0x1f424f0
+vfog_enable_apply_blur = 0x1f42610
+vfog_enable_taa = 0x1f42460
+vfog_fogbuffer_x = 0x1f426a0
+vfog_fogbuffer_y = 0x1f42220
+vfog_fogbuffer_z = 0x1f42580
+vfog_out_of_frustrum_sample_count = 0x1f42730
+vfog_perf_level = 0x1f428e0
+vfog_show_volume_outline = 0x253edf0
+vfog_thin_surface_factor = 0x1f427c0
+vfog_zfar = 0x1f42100
+vfog_znear = 0x1f423d0
+vgui_EnableFixedAspectScaling = 0x27787d0
+vgui_drawPolyShapes = 0x24d9240
+vgui_drawfocus = 0x1ec2d90
+vgui_drawkeyfocus = 0x1ec4860
+vgui_interactive = 0x24fa920
+vgui_noquads = 0x277a150
+vgui_notext = 0x277a030
+vgui_printFocus = 0x1eba7c0
+vgui_resize_on_resolution_change = 0x27777e0
+vgui_show_glyph_miss = 0x2778e70
+vgui_simulate_during_bone_setup = 0x1b789f0
+video_menu_uiscript_reset = 0x24dbea0
+viewDrift = 0x26baea0
+viewDrift_ads_delay_debounce_time = 0x26bbaf0
+viewDrift_pitch_base1_amp = 0x26bbdc0
+viewDrift_pitch_base1_freq = 0x26bbd30
+viewDrift_pitch_base1_phase = 0x26bab90
+viewDrift_pitch_base2_amp = 0x26bb4c0
+viewDrift_pitch_base2_freq = 0x26bd270
+viewDrift_pitch_base2_phase = 0x26bae10
+viewDrift_pitch_scaler_amp = 0x26ba850
+viewDrift_pitch_scaler_base = 0x26bd4b0
+viewDrift_pitch_scaler_freq = 0x26ba710
+viewDrift_pitch_scaler_phase = 0x26ba5e0
+viewDrift_pitch_shifter_amp = 0x26bba60
+viewDrift_pitch_shifter_freq = 0x26bb9d0
+viewDrift_pitch_shifter_phase = 0x26bc240
+viewDrift_yaw_base1_amp = 0x26bd420
+viewDrift_yaw_base1_freq = 0x26bc000
+viewDrift_yaw_base1_phase = 0x26ba110
+viewDrift_yaw_base2_amp = 0x26baf30
+viewDrift_yaw_base2_freq = 0x26bb8b0
+viewDrift_yaw_base2_phase = 0x26bb820
+viewDrift_yaw_scaler_amp = 0x26bacf0
+viewDrift_yaw_scaler_base = 0x26bc090
+viewDrift_yaw_scaler_freq = 0x26bc380
+viewDrift_yaw_scaler_phase = 0x26bc1b0
+viewDrift_yaw_shifter_amp = 0x26ba230
+viewDrift_yaw_shifter_freq = 0x26bb700
+viewDrift_yaw_shifter_phase = 0x26bd540
+view_models_draw_early_depth = 0x26658b0
+view_offset_entity_enable = 0x26bdea0
+viewangle_debug = 0x253e220
+viewangles_simpler = 0x24f7da0
+viewmodelShake = 0x25030b0
+viewmodelShake_sourceRollRange = 0x2519310
+viewmodel_attachment_fov_fix = 0x26a7180
+viewmodel_bounds_draw = 0x2665af0
+viewmodel_bounds_draw_lock = 0x254a5e0
+viewmodel_enforce_monotonic_anim = 0x26a94f0
+viewmodel_selfshadow = 0x1ee4b00
+viewmodel_selfshadow_debug_2d = 0x2665820
+viewmodel_selfshadow_tightbounds = 0x254a280
+viewportscale = 0x250aed0
+viewpunch_base_springConstantX = 0x269d370
+viewpunch_base_springConstantY = 0x26a5810
+viewpunch_base_springConstantZ = 0x26a4d20
+viewpunch_base_springDampingX = 0x268b150
+viewpunch_base_springDampingY = 0x26a5070
+viewpunch_base_springDampingZ = 0x2670970
+violence_ablood = 0x26affc0
+violence_agibs = 0x26b2700
+violence_hblood = 0x26b7e30
+violence_hgibs = 0x26b39c0
+visible_ent_cone_debug_duration_client = 0x26c41d0
+vm_effect_format_attachments = 0x2669bb0
+voice_allow_mute_self = 0x24dee00
+voice_always_monitored = 0x1b7a940
+voice_clientdebug = 0x2669730
+voice_debugfeedback = 0x1ec2e20
+voice_enabled = 0x1b7ad20
+voice_force_volume = 0x24d5aa0
+voice_input_device = 0x1b7a700
+voice_late_update = 0x2502710
+voice_loopback = 0x1d4fb10
+voice_modenable = 0x2669970
+voice_noxplat = 0x1e8f5b0
+voice_peak_amplitude = 0x1b7a670
+voice_profile = 0x1d4fc90
+voice_quiet_threshold = 0x1b7aba0
+voice_quiet_window = 0x1d4fc00
+voice_recordtofile = 0x1b75140
+voice_scale = 0x1b7a9d0
+voice_showchannels = 0x1b7ac90
+voice_showincoming = 0x1b7a820
+voice_threshold_delay = 0x1b7a8b0
+voice_volume_saveinterval = 0x24d5980
+voice_vox = 0x1d4fdb0
+voice_wasapi = 0x1b7a790
+voice_xsend_debug = 0x1b6db70
+vortex_damageimpulsescale = 0x24e20f0
+vram_ignore_driver_budget = 0x1f4b380
+vscript_ui_do_delay_init = 0x2668e00
+vsm_culling = 0x2517fa0
+vsm_ignore_edge_planes = 0x251f170
+vsm_ignore_face_planes = 0x2503840
+vtx_hostname = 0x1eb90f0
+wall_climb_pose_paramteter_hands_enabled = 0x26bafc0
+wallclimb_vertical_gain_reduction = 0x26a4680
+wallrun_angleChangeMinCos = 0x26a75b0
+wallrun_avoid_wall_top_decel = 0x26a6cb0
+wallrun_curveDebug = 0x24e3730
+wallrun_curveEnable = 0x24e2260
+wallrun_debug = 0x26a2970
+wallrun_enable = 0x2671b00
+wallrun_fallAwaySpeed = 0x26a35c0
+wallrun_hangStopTime = 0x26a2dc0
+wallrun_hangslipduration = 0x266d9a0
+wallrun_hangslipstarttime = 0x26a0920
+wallrun_maxViewTilt = 0x269d0c0
+wallrun_minAngle_air = 0x268ad90
+wallrun_noInputSlipFrac = 0x26a3420
+wallrun_pushAwayFallOffTime = 0x266faf0
+wallrun_repelEnable = 0x269b6e0
+wallrun_repelSoftness = 0x269f7c0
+wallrun_repelTimeMax = 0x26a6300
+wallrun_repelTimeMin = 0x26a0a00
+wallrun_retry_interval = 0x269dd40
+wallrun_rotateMaxRate = 0x269e220
+wallrun_sameWallDist = 0x269d180
+wallrun_sameWallDot = 0x269d9f0
+wallrun_sameWallSlope = 0x266ae10
+wallrun_slipduration = 0x26a6120
+wallrun_slipstarttime = 0x26a25e0
+wallrun_strengthLossEnd = 0x2670020
+wallrun_strengthLossStart = 0x266f510
+wallrun_upwardAutoPush = 0x26a0e50
+wallrun_viewTiltPredictTime = 0x26a5100
+wallrun_viewTiltSpeed = 0x2670a20
+was_loaded = 0x269f910
+watchdog_active_during_assert_reporting = 0x24d09a0
+watchdog_active_in_debugger = 0x24d0d00
+watchdog_debug = 0x24d0e20
+watchdog_dialog = 0x24d0be0
+watchdog_ignore_time_seconds = 0x24d0900
+watchdog_log_thread_callstacks = 0x24d0ac0
+watchdog_low_fps_report_threshold = 0x24d0d90
+watchdog_low_fps_report_time_seconds = 0x24d0b50
+watchdog_noassert = 0x24d0eb0
+watchdog_sleep_time_milliseconds = 0x24d0a30
+watchdog_time_milliseconds = 0x24d0c70
+waypoint_deferred_update = 0x26b5e20
+weaponFastHolsterScale = 0x24eb010
+weaponModDebug = 0x26c4950
+weaponSwitch3p_checkNewWeapon = 0x26a6910
+weaponSwitch3p_onHolster = 0x24ef0a0
+weapon_activity_modifier_fully_charged_weapon_specific = 0x24eae30
+weapon_auto_swap_ordnance_no_ammo = 0x26bb140
+weapon_check_custom_client_cmd = 0x26bb1d0
+weapon_debugScript = 0x24eebc0
+weapon_deferredstop_on_natural_inspect_stop = 0x24ee220
+weapon_doIdleForSurvivalMelee = 0x24ee570
+weapon_friendly_fire_prevent_ui = 0x2501b00
+weapon_fxAlias_3pskins = 0x24ef770
+weapon_hide_heirlooms_during_valk_ult = 0x24ee3f0
+weapon_mastery_trials_version = 0x26c34c0
+weapon_meleeButtonPressProtection = 0x26bbf70
+weapon_parentingFixLerp = 0x24f9df0
+weapon_pickup_allow_dupes = 0x26bc4a0
+weapon_poseParamMaxDistance = 0x2503380
+weapon_render_with_fastpath = 0x24eef40
+weapon_setting_autocycle_on_empty = 0x253e8e0
+weapon_sprint_raise_delay = 0x24eec50
+weapons_onehanded_traverse = 0x26bbc10
+weaponx_predicting_client_only_optimization = 0x24ef6e0
+weaponx_smartammo_data_optimization = 0x24f01e0
+wind_dir = 0x2666ec0
+wind_draw_dir = 0x2666e30
+wind_draw_emitters = 0x253f420
+wind_draw_overlap_only = 0x2667100
+wind_draw_volumes = 0x2666f50
+wind_enabled = 0x1f43440
+wind_gust_scale = 0x2666fe0
+wind_override_color = 0x2666800
+wind_override_flags = 0x2666bf0
+wind_override_time = 0x26669b0
+wind_override_volumes = 0x2666890
+wind_speed = 0x2666c80
+wind_speed_multiplier = 0x1f433b0
+wind_speed_multiplier_fx = 0x1f43320
+wind_time = 0x2666920
+window_hint_debug = 0x24e0090
+window_hint_fov_down = 0x268b3f0
+window_hint_fov_horz = 0x26a45d0
+window_hint_fov_up = 0x269de60
+window_hint_keyboard_fov_horz = 0x26a2750
+window_hint_lookahead_time = 0x266df90
+window_hint_max_horz_vel_change_dot = 0x26a67c0
+window_hint_max_vel_change_down = 0x269f320
+window_hint_max_vel_change_up = 0x26a5e60
+window_hint_min_horz_vel = 0x2671e40
+window_hint_permissive_max_horz_vel_change_dot = 0x26a7040
+window_hint_permissive_max_vel_change_down = 0x26a2670
+window_hint_permissive_max_vel_change_up = 0x269cf20
+xlog_tls_allow_vip_upload = 0x24dbfc0
+z_ragdoll_impact_strength = 0x24f67a0
+zipline_check_usable_before_deploy = 0x24ebc50
+zipline_cooldown_apply_cooldown_across_ziplines = 0x24f2c10
+zipline_cooldown_debug = 0x24f29e0
+zipline_cooldown_decay = 0x24f3490
+zipline_cooldown_decay_rate = 0x24f2450
+zipline_cooldown_time_0 = 0x24f3a00
+zipline_cooldown_time_1 = 0x24f3a90
+zipline_cooldown_time_2 = 0x24f3b20
+zipline_cooldown_time_3 = 0x24f3bb0
+zipline_cooldown_time_4 = 0x24f3c40
+zipline_detection_player_in_front = 0x24f24e0
+zipline_disable_weapons_during_mount = 0x24f2570
+zipline_disallow_in_oob_trigger = 0x24ea940
+zipline_fade_dist = 0x24f1da0
+zipline_path_drawAllExtents = 0x24f1b20
+zipline_path_mount_debug = 0x24f3400
+zipline_path_mount_debug_crosshair_dist = 0x24f1470
+zipline_ping_enabled = 0x24f1bb0
+zipline_roll_debug_draw = 0x2501730
+zipline_roll_minSpeedFraction = 0x2501a70
+zipline_slope_offset_correction = 0x24f2a70
+zipline_slope_offset_correction_debug = 0x24f2600
+zipline_subdiv_lod_dist_base = 0x24f1ec0
+zipline_subdiv_slices = 0x253cb50
+zipline_subdiv_slices_lod = 0x24f42d0
+zipline_subdiv_stacks = 0x2535710
+zipline_use_range = 0x24f0780
+ziprail_3pBank = 0x24f45d0
+ziprail_3pBank_Anim = 0x24f3d60
+ziprail_adaptive_stackSubdiv = 0x24f1c80
+ziprail_duck_detach = 0x24f2690
+ziprail_grapple_disable = 0x24f2e50
+ziprail_max_tolerance_distance = 0x24f2ca0
+ziprail_max_tolerance_value = 0x24f1a70
+ziprail_mid_mount = 0x24f0e80
+ziprail_path_extends_fudge_factor = 0x24f4430
+ziprail_path_max_subSectionLen = 0x24f2dc0
+ziprail_path_section_tolerance = 0x24f0910
+ziprail_roll_debug = 0x2501860
+ziprail_roll_strength = 0x24fee90
+ziprail_rope_render = 0x24f4380
+ziprail_shape = 0x24f27b0
+ziprail_shape_bigAngleStep = 0x2536e10
+ziprail_speed_change = 0x24f1d10
+ziprail_speed_debug = 0x24f2b80
+ziprail_subdiv_lod_dist_base = 0x24f1e30
+ziprail_subdiv_stacks = 0x24f2720
+ziprail_subdiv_stacks_lod = 0x24f2950
+ziprail_width = 0x24f2840
+
+[DataMap] 
+[CBaseViewModel]
+m_angAbsRotation = 0x154
+m_angNetworkAngles = 0x384
+m_attackEventStartTime = 0x1f6c
+m_bBlockEventLayer = 0x1f60
+m_bSequenceFinished = 0xe34
+m_currentFrame.animCycle = 0xe8
+m_currentFrame.modelIndex = 0xcc
+m_currentFrameAnimatingOverlay.animOverlayAnimTime = 0x182c
+m_currentFrameAnimatingOverlay.animOverlayCycle = 0x1898
+m_currentFrameAnimatingOverlay.animOverlayFadeInDuration = 0x1850
+m_currentFrameAnimatingOverlay.animOverlayFadeOutDuration = 0x1874
+m_currentFrameAnimatingOverlay.animOverlayIsActive = 0x1734
+m_currentFrameAnimatingOverlay.animOverlayModelIndex = 0x17ac
+m_currentFrameAnimatingOverlay.animOverlayPlaybackRate = 0x1788
+m_currentFrameAnimatingOverlay.animOverlaySequence = 0x17d0
+m_currentFrameAnimatingOverlay.animOverlayStartCycle = 0x1764
+m_currentFrameAnimatingOverlay.animOverlayStartTime = 0x1740
+m_currentFrameAnimatingOverlay.animOverlayWeight = 0x17e4
+m_currentFrameBaseAnimating.animModelIndex = 0xe58
+m_currentFrameBaseAnimating.animPlaybackRate = 0xe54
+m_currentFrameBaseAnimating.animSequence = 0xe60
+m_currentFrameBaseAnimating.animStartCycle = 0xe50
+m_currentFrameBaseAnimating.animStartTime = 0xe4c
+m_eventSoundFadeStart = 0x1f70
+m_fEffects = 0x330
+m_hWeapon = 0x1f64
+m_isAdsTransition = 0x1f61
+m_localAngles = 0x184
+m_localOrigin = 0x178
+m_nBody = 0xd8c
+m_nResetEventsStartTime = 0xd98
+m_nextFidgetTime = 0x1f74
+m_projectileIsVisible = 0x19c4
+m_tracerAttachments = 0x1f68
+m_tracerAttachmentsScoped = 0x1f6a
+m_vecAbsOrigin = 0x16c
+m_viewModelOwner = 0x19c0
+
+[CCollisionProperty]
+m_collisionDetailLevel = 0x2e
+m_nSolidType = 0x2c
+m_triggerBloat = 0x2d
+m_usSolidFlags = 0x28
+m_vecMaxs = 0x1c
+m_vecMins = 0x10
+
+[CGrappleHook]
+m_grappleZipline = 0x1600
+m_localAngles = 0x184
+m_localOrigin = 0x178
+m_pMoveParent = 0x138
+m_parentAttachment = 0x754
+m_visibilityFlags = 0x32c
+
+[CPlayerShared]
+m_nPlaye = 0x8
+
+[CPlayerState]
+deadflag = 0x6c
+
+[CPredictedFirstPersonProxy]
+m_SequenceTransitioner = 0xb50
+m_angNetworkAngles = 0x384
+m_localAngles = 0x184
+m_localOrigin = 0x178
+m_vecVelocity = 0x378
+
+[CTurret]
+m_aimAngle = 0x1960
+m_maxConeAngle = 0x1978
+m_minConeAngle = 0x196c
+
+[CWeaponX]
+m_ActiveState = 0x162c
+m_SequenceTransitioner = 0xb50
+m_ammoInClip = 0x1630
+m_ammoInStockpile = 0x1634
+m_attackTimeThisFrame = 0x1610
+m_bInReload = 0x164a
+m_bRemoveable = 0x2f74
+m_burstFireCount = 0x17b0
+m_burstFireIndex = 0x17b4
+m_chargeEndTime = 0x1784
+m_chargeEnergyDepleteStepCounter = 0x17a8
+m_chargeStartTime = 0x1780
+m_chargeWithoutManualInputCancelled = 0x178c
+m_cooldownEndTime = 0x1798
+m_curReactiveSkinKillCount = 0x187f
+m_curReactiveSkinKnockdownCount = 0x1880
+m_curSharedEnergyCost = 0x1844
+m_customActivity = 0x166e
+m_customActivityEndTime = 0x1678
+m_customActivityFlags = 0x167c
+m_customActivityOwner = 0x1674
+m_customActivitySequence = 0x1670
+m_discarded = 0x1649
+m_droppedModelIndex = 0x1620
+m_emissiveEventData = 0x1888
+m_energizeState = 0x1658
+m_energizedEndTime = 0x1660
+m_flNextEmptySoundTime = 0x2f50
+m_flTimeWeaponIdle = 0x1640
+m_fullyHeated = 0x166c
+m_grappleWeaponNeedsDryfire = 0x1848
+m_hasPendingMod = 0x1840
+m_heatValue = 0x1664
+m_heatValueOnLastFire = 0x1668
+m_holsterModelIndex = 0x161c
+m_iWorldModelIndex = 0x1618
+m_idealActivity = 0x1626
+m_idealSequence = 0x1624
+m_lastChargeFrac = 0x1788
+m_lastChargeLevel = 0x17a0
+m_lastEnergizeFrac = 0x1790
+m_lastEnergizeState = 0x1659
+m_lastFullyCharged = 0x17a4
+m_lastPrimaryAttackTime = 0x1604
+m_lastRegenTime = 0x1794
+m_lifetimeShots = 0x163c
+m_localOrigin = 0x178
+m_modBitfieldCurrent = 0x17e4
+m_modBitfieldDisabled = 0x17f0
+m_modBitfieldFromPlayer = 0x17cc
+m_modBitfieldInternal = 0x17d8
+m_nNextThinkTick = 0x46c
+m_needsEmptyCycleCheck = 0x1776
+m_needsReloadCheck = 0x1775
+m_nextPrimaryAttackTime = 0x160c
+m_nextReadyTime = 0x1608
+m_offhandSwitchSlot = 0x1654
+m_pendingModIndex = 0x183c
+m_playerData = 0x1680
+m_scriptActivated = 0x187e
+m_scriptControlledModValues = 0x17fc
+m_scriptControlledModValuesMap = 0x181c
+m_scriptFloat0 = 0x184c
+m_scriptVector = 0x1870
+m_scriptVectorTransitionDuration = 0x1850
+m_scriptVectorTransitionEnd = 0x1864
+m_scriptVectorTransitionStart = 0x1858
+m_scriptVectorTransitionStartTime = 0x1854
+m_shotCount = 0x17bc
+m_shotIndexForSpread = 0x17b8
+m_shouldPlayIdleAnims = 0x187c
+m_shouldPlaySprintAnims = 0x187d
+m_skinOverride = 0x1778
+m_skinOverrideIsValid = 0x177c
+m_startEnergizingTime = 0x165c
+m_stockPileWasDraining = 0x179c
+m_sustainedDischargeEndTime = 0x17c0
+m_sustainedDischargeIsInPrimaryAttack = 0x17c8
+m_sustainedLaserCurrentSpread = 0x17c4
+m_sustainedLaserNextRandomSeed = 0x17c9
+m_targetingLaserEnabledScript = 0x1774
+m_tossRelease = 0x1650
+m_weapState = 0x1644
+m_weaponActivity = 0x1628
+m_weaponChargeLevelIncreasedAnimPlaying = 0x179e
+m_weaponIsActivelyFiring = 0x3084
+m_weaponIsCharging = 0x179d
+m_weaponOwner = 0x1600
+m_worldModelIndexOverride = 0x1614
+
+[C_ArsenalProp]
+m_ammoType = 0x1685
+m_consoleMaxInteractAngle = 0x1670
+m_consoleObbMaxs = 0x1664
+m_consoleObbMins = 0x1658
+m_consolePos0 = 0x1640
+m_consolePos1 = 0x164c
+m_groupNumber = 0x1687
+m_itemCount = 0x1686
+m_itemRespawnDuration = 0x1600
+m_itemRespawnEndTime = 0x1604
+m_serverBody = 0x1674
+m_specialItemCount = 0x1684
+m_specialItemDuration = 0x162c
+m_specialItemIndex = 0x163c
+
+[C_BaseAnimating]
+m_SequenceTransitioner = 0xb50
+m_animActive = 0x9a2
+m_animAutoPlayBeginTime = 0x99c
+m_animCollisionEnabled = 0x9a3
+m_animNetworkFlags = 0x998
+m_animPlantingEnabled = 0x9a5
+m_animRelativeToGroundEnabled = 0x9a4
+m_bSequenceFinished = 0xe34
+m_bSequenceLooped = 0xe3c
+m_bSequenceLoops = 0xe3d
+m_bSequenceReadyForBreakout = 0xe3e
+m_camoIndex = 0xd90
+m_currentFrame.animCycle = 0xe8
+m_currentFrameBaseAnimating.animModelIndex = 0xe58
+m_currentFrameBaseAnimating.animPlaybackRate = 0xe54
+m_currentFrameBaseAnimating.animSequence = 0xe60
+m_currentFrameBaseAnimating.animStartCycle = 0xe50
+m_currentFrameBaseAnimating.animStartTime = 0xe4c
+m_currentFrameBaseAnimating.m_flPoseParameters = 0xe70
+m_fireDeferredStopsStartTime = 0xda0
+m_flModelScale = 0xe40
+m_nBody = 0xd8c
+m_nResetEventsStartTime = 0xd98
+m_nSkin = 0xd80
+m_networkAnimActive = 0x9a0
+m_predictedAnimEventData = 0xaa0
+m_skinMod = 0xd84
+
+[C_BaseAnimatingOverlay]
+m_AnimOverlay = 0x1608
+m_AnimOverlayCount = 0x16e0
+m_currentFrameAnimatingOverlay.animOverlayAnimTime = 0x182c
+m_currentFrameAnimatingOverlay.animOverlayCycle = 0x1898
+m_currentFrameAnimatingOverlay.animOverlayFadeInDuration = 0x1850
+m_currentFrameAnimatingOverlay.animOverlayFadeOutDuration = 0x1874
+m_currentFrameAnimatingOverlay.animOverlayIsActive = 0x1734
+m_currentFrameAnimatingOverlay.animOverlayModelIndex = 0x17ac
+m_currentFrameAnimatingOverlay.animOverlayOrder = 0x1808
+m_currentFrameAnimatingOverlay.animOverlayPlaybackRate = 0x1788
+m_currentFrameAnimatingOverlay.animOverlaySequence = 0x17d0
+m_currentFrameAnimatingOverlay.animOverlayStartCycle = 0x1764
+m_currentFrameAnimatingOverlay.animOverlayStartTime = 0x1740
+m_currentFrameAnimatingOverlay.animOverlayWeight = 0x17e4
+
+[C_BaseEntity]
+m_Collision = 0x3b8
+m_ModelName = 0x30
+m_MoveCollide = 0x3ab
+m_MoveType = 0x3aa
+m_angAbsRotation = 0x154
+m_angNetworkAngles = 0x384
+m_bIsSoundCodeControllerValueSet = 0x370
+m_bRenderWithViewModels = 0x39c
+m_currentFrame.modelIndex = 0xcc
+m_currentFrame.viewOffset = 0xdc
+m_deathVelocity = 0x35c
+m_fEffects = 0x330
+m_fFlags = 0xc8
+m_flFriction = 0x390
+m_flGravity = 0x30c
+m_flMaxspeed = 0x328
+m_flProxyRandomValue = 0x310
+m_flSoundCodeControllerValue = 0x374
+m_hGroundEntity = 0x320
+m_hOwnerEntity = 0x398
+m_iEFlags = 0x88
+m_iTeamNum = 0x334
+m_localAngles = 0x184
+m_localOrigin = 0x178
+m_nRenderFX = 0x39d
+m_nRenderMode = 0x3a9
+m_passThroughDirection = 0x358
+m_passThroughFlags = 0x350
+m_passThroughThickness = 0x354
+m_rgflCoordinateFrame = 0x7d0
+m_vecAbsOrigin = 0x16c
+m_vecAbsVelocity = 0x160
+m_vecAngVelocity = 0x148
+m_vecPrevAbsOrigin = 0x300
+m_vecVelocity = 0x378
+m_visibilityFlags = 0x32c
+
+[C_BreachableGlassManager]
+m_iHealths = 0x970
+m_managerIdx = 0xa38
+
+[C_CrossbowBolt]
+m_bounceCount = 0x3010
+m_doesGrow = 0x3018
+m_growStage1Size = 0x3028
+m_growStage1Tick = 0x3024
+m_growStage2Size = 0x3030
+m_growStage2Tick = 0x302c
+m_growStageFinalSize = 0x3038
+m_growStageFinalTick = 0x3034
+m_growStartSize = 0x3020
+m_maxBounceCount = 0x3014
+
+[C_DynamicProp]
+m_bClientSide = 0x1600
+
+[C_EnvWindShared]
+m_CurrentSwayVector = 0x58
+m_PrevSwayVector = 0x64
+m_Stream = 0x98
+m_WindAveQueue = 0x108
+m_WindVariationQueue = 0x138
+m_WindVariationStream = 0xd0
+m_bGusting = 0x88
+m_currentWindVector = 0x4c
+m_flAveWindSpeed = 0x84
+m_flGustDuration = 0x2c
+m_flInitialWindSpeed = 0x74
+m_flMaxGustDelay = 0x28
+m_flMinGustDelay = 0x24
+m_flSimTime = 0x7c
+m_flStartTime = 0x8
+m_flSwitchTime = 0x80
+m_flVariationTime = 0x78
+m_flWindAngleVariation = 0x8c
+m_flWindSpeed = 0x48
+m_flWindSpeedVariation = 0x90
+m_iEntIndex = 0x94
+m_iGustDirChange = 0x30
+m_iInitialWindDir = 0x70
+m_iMaxGust = 0x20
+m_iMaxWind = 0x14
+m_iMinGust = 0x1c
+m_iMinWind = 0x10
+m_iWindDir = 0x44
+m_iWindSeed = 0xc
+m_iszGustSound = 0x40
+m_location = 0x34
+m_windRadius = 0x18
+
+[C_ExposureController]
+m_autoCompensation = 0x970
+m_autoForceValue = 0x974
+m_autoMax = 0x97c
+m_autoMin = 0x978
+m_autoSpeed = 0x980
+m_directionalHalfAngle = 0x98c
+m_isDirectional = 0x988
+m_minFadeTime = 0x984
+
+[C_ExposureVolume]
+m_exposurePriority = 0x988
+m_exposureTarget = 0x978
+m_exposureTargetName = 0x980
+m_volumeTester = 0x970
+
+[C_FogController]
+m_fogAngles = 0x9dc
+m_fogParams = 0x970
+m_useAbsAngles = 0x9e8
+
+[C_FogVolume]
+m_fogPriority = 0x988
+m_fogTarget = 0x978
+m_fogTargetName = 0x980
+m_volumeTester = 0x970
+
+[C_GlobalNonRewinding]
+m_playerMiscData = 0xd78
+m_playerObserver = 0x978
+
+[C_KnockBack]
+beginTime = 0x14
+endTime = 0x18
+velocity = 0x8
+
+[C_Missile]
+m_expandContractMissile = 0x309d
+m_expandContractSettings = 0x3134
+m_explosionIgnoreEntity = 0x3190
+m_flGracePeriodEndsAt = 0x3098
+m_hSpecificTarget = 0x3074
+m_hasPlayedWhizby = 0x3010
+m_homingSpeed = 0x3060
+m_homingSpeedDodgingPlayer = 0x3064
+m_lastThinkTime = 0x318c
+m_launchDir = 0x3068
+m_pathSettingsInitialized = 0x309c
+m_postIgnitionSpeed = 0x3094
+m_spiralMissile = 0x309f
+m_spiralSettings = 0x30c4
+m_targetOffset = 0x3078
+m_targetPosition = 0x3084
+m_useTargetPosition = 0x3090
+m_whizBySoundName = 0x3020
+m_whizByStart = 0x3014
+
+[C_NPC_SentryTurret]
+m_killCount = 0x1eb4
+m_titanKillCount = 0x1eb8
+
+[C_ParticleSystem]
+m_bActive = 0x979
+m_bClientSide = 0x978
+m_bInSkybox = 0x985
+m_bPlaySounds = 0xa44
+m_killForReplay = 0x986
+m_killIfOverLimit = 0x987
+m_pauseAfterWarmup = 0x984
+m_soundSuffix = 0xa48
+m_warmUpTime = 0x980
+
+[C_Player]
+m_Local = 0x1e88
+m_SequenceTransitioner = 0xb50
+m_activateBoost = 0x30a5
+m_activateGlide = 0x30b8
+m_activateJetpack = 0x30ad
+m_activeViewmodelModifiers = 0x3a6c
+m_afButtonLast = 0x2a88
+m_afButtonPressed = 0x2a8c
+m_afButtonReleased = 0x2a90
+m_ammoPoolCapacity = 0x262c
+m_animAimPitch = 0x2b6c
+m_animAimYaw = 0x2b70
+m_bDoMultiJumpPenalty = 0x381d
+m_bHasJumpedSinceTouchedGround = 0x381c
+m_bIsStickySprinting = 0x2e52
+m_bPlayedSprintStartEffects = 0x2aa4
+m_blackholeActive = 0x2ca0
+m_boostMeter = 0x30a8
+m_boosting = 0x30a4
+m_currentFrame.animCycle = 0xe8
+m_currentFrameBaseAnimating.animPlaybackRate = 0xe54
+m_currentFrameBaseAnimating.animSequence = 0xe60
+m_currentFrameBaseAnimating.animStartCycle = 0xe50
+m_currentFrameBaseAnimating.animStartTime = 0xe4c
+m_currentFrameBaseAnimating.m_flPoseParameters = 0xe70
+m_currentFrameLocalPlayer.m_duckTransitionRemainderMsec = 0x250c
+m_currentFrameLocalPlayer.m_localGravityRotation = 0x257c
+m_currentFrameLocalPlayer.m_stepSmoothingOffset = 0x2500
+m_currentFrameLocalPlayer.m_vecPunchBase_Angle = 0x2510
+m_currentFrameLocalPlayer.m_vecPunchBase_AngleVel = 0x251c
+m_currentFrameLocalPlayer.m_vecPunchWeapon_Angle = 0x2528
+m_currentFrameLocalPlayer.m_vecPunchWeapon_AngleVel.x = 0x2534
+m_currentFrameLocalPlayer.m_vecPunchWeapon_AngleVel.y = 0x2538
+m_currentFrameLocalPlayer.m_vecPunchWeapon_AngleVel.z = 0x253c
+m_currentFramePlayer.m_ammoPoolCount = 0x232c
+m_currentFramePlayer.m_flHullHeight = 0x2310
+m_currentFramePlayer.m_sprintTiltFrac = 0x2318
+m_currentFramePlayer.m_traversalAnimProgress = 0x2314
+m_currentFramePlayer.m_ziprailBankTiltFrac = 0x231c
+m_currentFramePlayer.statusEffectsEndlessPlayerCUR = 0x2270
+m_currentFramePlayer.timeBase = 0x2178
+m_detachGrappleOnPlayAnimationEnd = 0x306c
+m_dodging = 0x37ad
+m_dodgingInAir = 0x381e
+m_doingHalfDuck = 0x2b00
+m_fFlags = 0xc8
+m_fIsWalking = 0x2aad
+m_fStickySprintMinTime = 0x2aa0
+m_fallSpeedGlideMultiplier = 0x30c0
+m_flFriction = 0x390
+m_flJumpGraceMultiTapFactor = 0x37e8
+m_flLastLandFromHeight = 0x37f8
+m_flMaxspeed = 0x328
+m_flStepSoundTime = 0x2a98
+m_flTimeAllSuitDevicesOff = 0x2a9c
+m_flTimeLastJumpGraceTap = 0x37e4
+m_flTimeLastJumped = 0x37e0
+m_flTimeLastLanded = 0x37f4
+m_flTimeLastTouchedGround = 0x37dc
+m_flTimeLastTouchedWall = 0x37d4
+m_gameMovementUtil.m_surfaceFriction = 0x4200
+m_glideRechargeDelayAccumulator = 0x30b4
+m_glideUpwardsBoostEndTime = 0x30bc
+m_gliding = 0x30af
+m_grapple = 0x2d90
+m_grappleActive = 0x2e18
+m_grappleNeedWindowCheck = 0x2e20
+m_grappleNextWindowHint = 0x2e24
+m_gravityGrenadeStatusEffect = 0x2e48
+m_gravityLiftActive = 0x2c7e
+m_gravityLiftEjectTime = 0x2c84
+m_gravityLiftEjectVelocity = 0x2c94
+m_gravityLiftEnterTime = 0x2c80
+m_gravityLiftHoverTime = 0x2c88
+m_gravityLiftLastOrigin = 0x2c8c
+m_hGroundEntity = 0x320
+m_hoverMeter = 0x30d0
+m_hoverRechargeDelayAccumulator = 0x30d4
+m_hovering = 0x30cc
+m_ignoreEntityForMovementUntilNotTouching = 0x3d30
+m_isHoverStrafed = 0x30cd
+m_isLungingToPosition = 0x4280
+m_jetDriveAccel = 0x2ccc
+m_jetDriveActive = 0x2ca2
+m_jetDriveDecelWindowTimeOutTime = 0x2cd0
+m_jetDriveDoubleJumpVelBackFrac = 0x2ce8
+m_jetDriveDoubleJumpVelocity = 0x2cdc
+m_jetDriveInDecelWindow = 0x2cd4
+m_jetDriveSpeed = 0x2cc8
+m_jetDriveStartPos = 0x2cb8
+m_jetDriveStartTime = 0x2cc4
+m_jetDriveTargetEnt = 0x2cb0
+m_jetDriveTargetEntZOffset = 0x2cb4
+m_jetDriveTargetPos = 0x2ca4
+m_jetDriveTimeout = 0x2cd8
+m_jetDriveWasActive = 0x2ca1
+m_jetpack = 0x30ac
+m_jetpackAfterburner = 0x30ae
+m_jumpGraceTapCount = 0x37ec
+m_jumpPadDebounceExpireTime = 0x34c
+m_lastFakeFloorPos = 0x3810
+m_lastJumpHeight = 0x30dc
+m_lastJumpWasSlide = 0x3838
+m_lastJumpWasSlideSuperJump = 0x3839
+m_lastSlideBoost = 0x2e44
+m_lastSlideSuperJumpTime = 0x383c
+m_lastSlideTime = 0x2e40
+m_lastSlideWasBoost = 0x2e3f
+m_lastUCmdSimulationRemainderTime = 0x1d38
+m_lastUCmdSimulationTicks = 0x1d34
+m_lastUseTime = 0x3800
+m_lastWallNormal = 0x37a0
+m_lastWallRunStartPos = 0x2b50
+m_lastZipline = 0x2fb0
+m_lastZiplineDetachTime = 0x2fb4
+m_launcherAirControlActive = 0x3244
+m_lerpToEndPos = 0x2c44
+m_lerpToEndTime = 0x2c54
+m_lerpToStartPos = 0x2c38
+m_lerpToStartTime = 0x2c50
+m_lungeCanFly = 0x42b0
+m_lungeEndPositionOffset = 0x429c
+m_lungeEndTime = 0x42ac
+m_lungeLockPitch = 0x42b1
+m_lungeMaxEndSpeed = 0x42c0
+m_lungeMaxTime = 0x42bc
+m_lungeSmoothTime = 0x42b8
+m_lungeStartPitch = 0x42b4
+m_lungeStartPositionOffset = 0x4290
+m_lungeStartTime = 0x42a8
+m_lungeTargetEntity = 0x427c
+m_lungeTargetPosition = 0x4284
+m_mantleBoostState = 0x2c6c
+m_melee = 0x3370
+m_nButtons = 0x2a94
+m_nNextThinkTick = 0x46c
+m_onSlopeTime = 0x379c
+m_oneHandFraction = 0x2b68
+m_pMoveParent = 0x138
+m_pilotModeActive = 0x30c4
+m_playAnimationNext = 0x306e
+m_playAnimationType = 0x3068
+m_playerKnockBacks = 0x4b50
+m_playerLaunchActivate = 0x2d70
+m_playerLaunchAvoidedMantle = 0x2d71
+m_playerLaunchHangTimeEnd = 0x2d84
+m_playerLaunchHangTimeRequested = 0x2d88
+m_playerLaunchLock3pRotation = 0x2d72
+m_playerLaunchStartTime = 0x2d80
+m_playerLaunchVelocity = 0x2d74
+m_prepClimbPusher = 0x4908
+m_prevMantleAngleOffset = 0x2c70
+m_prevMoveYaw = 0x2e54
+m_pushAwayFromTopAcceleration = 0x490c
+m_repeatedBoost = 0x30a6
+m_shouldBeOneHanded = 0x2b65
+m_skydiveAnticipateEndTime = 0x49a4
+m_skydiveAnticipateStartTime = 0x49a0
+m_skydiveDisableSkydiveEndEntityHitNormal = 0x49f4
+m_skydiveDisableSkydiveEndEntityHitPosition = 0x49e8
+m_skydiveDistanceToLand = 0x49a8
+m_skydiveEndTime = 0x499c
+m_skydiveFollowing = 0x49d4
+m_skydiveForwardPoseValueCurrent = 0x4964
+m_skydiveForwardPoseValueVelocity = 0x495c
+m_skydiveFreelookEnabled = 0x49bc
+m_skydiveFreelookLockedAngle = 0x49c0
+m_skydiveFromUpdraft = 0x4a0c
+m_skydiveIsNearDisableSkydiveEndEntity = 0x4978
+m_skydiveSidePoseValueCurrent = 0x4970
+m_skydiveSidePoseValueVelocity = 0x4968
+m_skydiveSlipVelocity = 0x4a00
+m_skydiveStartTime = 0x4998
+m_skydiveUnfollowVelocity = 0x49d8
+m_skydiveYawVelocity = 0x4974
+m_skywardDeployEndTime = 0x4a44
+m_skywardDeploySpeed = 0x4a4c
+m_skywardDeployStartPos = 0x4a2c
+m_skywardObstacleAvoidanceEndPos = 0x4a6c
+m_skywardOffsetSpeed = 0x4a64
+m_slideGateDebounceExpireTime = 0x30c8
+m_slideLongJumpAllowed = 0x2e3e
+m_sliding = 0x2e3d
+m_slipAirRestrictDirection = 0x31c4
+m_slipAirRestrictTime = 0x31d0
+m_slowMoEnabled = 0x2e3c
+m_sprintEndedFrac = 0x2ad0
+m_sprintEndedTime = 0x2acc
+m_sprintStartedFrac = 0x2ac8
+m_sprintStartedTime = 0x2ac4
+m_sprintTiltVel = 0x2e58
+m_stickySprintStartTime = 0x2ad4
+m_timeShouldTryGivePlayerDoubleJump = 0x3868
+m_touchingSlipTriggersAcceleration = 0x31a8
+m_touchingSlipTriggersCount = 0x31c0
+m_touchingSlipTriggersDirection = 0x3148
+m_touchingSlipTriggersOrigin = 0x3100
+m_touchingSlipTriggersSpeed = 0x3190
+m_traversalBegin = 0x2bcc
+m_traversalBlendOutStartOffset = 0x2c20
+m_traversalBlendOutStartTime = 0x2c1c
+m_traversalEnd = 0x2be4
+m_traversalHandAppearTime = 0x2c14
+m_traversalMid = 0x2bd8
+m_traversalMidFrac = 0x2bf0
+m_traversalProgress = 0x2c0c
+m_traversalReleaseTime = 0x2c18
+m_traversalStartTime = 0x2c10
+m_upDirPredicted = 0x2b44
+m_updraftCount = 0x4bd0
+m_updraftEnterTime = 0x4bd8
+m_updraftLeaveTime = 0x4bdc
+m_updraftLiftAcceleration = 0x4bf0
+m_updraftLiftActivationHeight = 0x4be8
+m_updraftLiftExitDuration = 0x4bf4
+m_updraftLiftSpeed = 0x4bec
+m_updraftMaxShakeActivationHeight = 0x4be4
+m_updraftMinShakeActivationHeight = 0x4be0
+m_updraftSlowTime = 0x4bf8
+m_updraftStage = 0x4bd4
+m_usePressedTime = 0x37fc
+m_vPrevGroundNormal = 0x45f8
+m_vecAbsVelocity = 0x160
+m_vecPreviouslyPredictedOrigin = 0x37c8
+m_vecVelocity = 0x378
+m_wallDangleClimbProgressFloor = 0x2c78
+m_wallDangleDisableWeapon = 0x2c74
+m_wallDangleForceFallOff = 0x2c69
+m_wallDangleJumpOffTime = 0x2c64
+m_wallDangleLastPushedForward = 0x2c6a
+m_wallDangleMayHangHere = 0x2c68
+m_wallHangTime = 0x2bc0
+m_wallRunClearTime = 0x3798
+m_wallRunCount = 0x2b60
+m_wallRunPushAwayTime = 0x2b80
+m_wallRunStartTime = 0x3794
+m_wallRunWeak = 0x2b64
+m_wallrunRetryTime = 0x2b8c
+m_zipline = 0x2fc0
+m_ziplineCooldownIndex = 0x3064
+m_ziplineGrenadeEntity = 0x3050
+m_ziplineReattachCooldownTime = 0x3060
+m_ziplineViewOffsetPosition = 0x3038
+m_ziplineViewOffsetVelocity = 0x3044
+m_ziprailBankTiltVel = 0x2e4c
+pl = 0x25a8
+
+[C_PlayerVehicle]
+m_SequenceTransitioner = 0xb50
+m_blockDuckInput = 0x1d09
+m_cameraVehicleAccel2d = 0x1d44
+m_cameraVehicleAccelVert = 0x1d48
+m_cameraVehicleDecel = 0x1d4c
+m_cameraVehicleSpeed2d = 0x1d3c
+m_cameraVehicleSpeedVert = 0x1d40
+m_gravityLiftActive = 0x1d21
+m_gravityLiftEnterTime = 0x1d24
+m_gravityLiftExitTime = 0x1d28
+m_hoverVehicleAirStartTime = 0x1ee4
+m_hoverVehicleBanking = 0x1f50
+m_hoverVehicleBoostCollisionTime = 0x1ec0
+m_hoverVehicleDriverInFreelook = 0x1f14
+m_hoverVehicleFrictionLastTime = 0x1f54
+m_hoverVehicleFrictionNormal = 0x1f5c
+m_hoverVehicleFrictionPos = 0x1f68
+m_hoverVehicleFrictionSurfPropOther = 0x1f58
+m_hoverVehicleGlideDuration = 0x1ee8
+m_hoverVehicleGroundAngles = 0x1d80
+m_hoverVehicleHoverOffsetPrev = 0x1d70
+m_hoverVehicleHoverSimulationIsAwake = 0x1d8e
+m_hoverVehicleIsBoosting = 0x1ec4
+m_hoverVehicleIsGliding = 0x1ec5
+m_hoverVehicleIsMarkedAsDrivingForward = 0x1f3a
+m_hoverVehicleIsOnGround = 0x1d8c
+m_hoverVehicleLastBoostEffectTime = 0x1f2c
+m_hoverVehicleLastBoostTime = 0x1f24
+m_hoverVehicleLastGlideEndTime = 0x1eec
+m_hoverVehicleLastGlideStartTime = 0x1ee0
+m_hoverVehicleLastJumpTime = 0x1ed8
+m_hoverVehicleLookAheadAcceleration = 0x1f18
+m_hoverVehiclePhysPush = 0x1f74
+m_hoverVehicleSmoothTilt = 0x1ef4
+m_hoverVehicleSmoothTiltVelocity = 0x1f00
+m_hoverVehicleSmoothYaw = 0x1f0c
+m_hoverVehicleSmoothYawVelocity = 0x1f10
+m_hoverVehicleStunTimeEnd = 0x1f3c
+m_hoverVehicleThrottle = 0x1f48
+m_hoverVehicleUsedBoostTime = 0x1ebc
+m_inputHeldPostJump = 0x1ef0
+m_jumpEffectsStarted = 0x1d20
+m_localOrigin = 0x178
+m_vehicleActivated = 0x1d08
+m_vehicleDriver = 0x1ce4
+m_vehicleGroundDist = 0x1d6c
+m_vehicleGroundEntity = 0x1d5c
+m_vehicleGroundNormal = 0x1d60
+m_vehicleLaunchTime = 0x1d2c
+m_vehicleVelocity = 0x1d50
+
+[C_PropDoor]
+m_angle = 0x16b4
+m_interactingPlayer = 0x1718
+m_interactingPlayerWantsOpen = 0x171c
+m_lastThinkTime = 0x16d0
+m_localAngles = 0x184
+m_localOrigin = 0x178
+m_nNextThinkTick = 0x46c
+m_nextHitSoundTime = 0x16cc
+m_prevAngle = 0x1728
+m_startAngle = 0x16b8
+m_startAngleVel = 0x16bc
+m_startMoveTime = 0x16c0
+m_useDebounceEndTime = 0x1720
+
+[C_SequenceTransitioner]
+m_sequenceTransitionerLayerCount = 0x1a0
+m_sequenceTransitionerLayers = 0x50
+
+[C_SequenceTransitionerLayer]
+m_sequenceTransitionerLayerActive = 0x18
+m_sequenceTransitionerLayerFadeOutDuration = 0x30
+m_sequenceTransitionerLayerPlaybackRate = 0x28
+m_sequenceTransitionerLayerSequence = 0x20
+m_sequenceTransitionerLayerStartCycle = 0x1c
+m_sequenceTransitionerLayerStartTime = 0x2c
+m_weight = 0x24
+
+[C_Team]
+m_iTeamTeamNum = 0x97c
+m_score = 0x970
+m_score2 = 0x974
+m_scriptCustomValue = 0x978
+m_szTeamname = 0x9a0
+
+[C_TriggerCylinderHeavy]
+m_nextLaunchTime = 0x9f8
+m_teslaTrapObstructedEndTime = 0xa5c
+
+[C_TriggerHurt]
+m_bitsDamageInflict = 0x9c4
+m_damageModel = 0x9c8
+m_flDamage = 0x9b4
+m_flDamageCap = 0x9b8
+m_flDmgResetTime = 0x9c0
+m_flLastDmgTime = 0x9bc
+m_flOriginalDamage = 0x9b0
+
+[C_VortexSphere]
+m_bulletAbsorbedCount = 0x980
+m_bulletFov = 0x97c
+m_enabled = 0x970
+m_gunAttachment = 0x9a0
+m_height = 0x978
+m_listNext = 0x9b8
+m_listPrev = 0x9b0
+m_ownerWeapon = 0x988
+m_projectileAbsorbedCount = 0x984
+m_radius = 0x974
+m_useExactSphereRadiusForHit = 0x9a8
+m_vortexEffect = 0x98c
+m_vortexLocalAngles = 0x990
+
+[C_WallrunCurve]
+height = 0x984
+width = 0x980
+
+[C_WindSettings]
+m_windGustTexture = 0x970
+
+[C_WindVolume]
+m_params.edgeFade = 0x9ac
+m_params.enabled = 0x9b8
+m_params.scale = 0x97c
+m_params.shapeParams = 0x970
+m_params.shapeType = 0x9b0
+m_params.sortPriority = 0x9b4
+m_params.windDir = 0x994
+m_params.windGustScale = 0x9a8
+m_params.windOrigin = 0x988
+m_params.windSpeed = 0x9a0
+m_params.windType = 0x9a4
+
+[C_WindowHint]
+halfSize = 0x998
+halfSize[0] = 0x998
+halfSize[1] = 0x99c
+normal = 0x980
+right = 0x98c
+
+[C_ZiplinePhysics]
+m_attachedEntities = 0x240
+m_nodes = 0x28
+m_numAttachedEntities = 0x340
+m_numNodes = 0x228
+m_remainingUnsimulatedTime = 0x234
+m_springDistance = 0x22c
+m_ziplineEnd = 0x1c
+m_ziplineOwner = 0x344
+m_ziplineStart = 0x10
+m_ziplineType = 0xc
+
+[C_ZiplinePhysicsAttachedEntity]
+attachAcceleration = 0xc
+attachTime = 0x18
+entity = 0x8
+
+[C_ZiplinePhysicsNode]
+position = 0x8
+prevPosition = 0x14
+
+[PlayerZiplineData_Client]
+m_lastMoveDir2D = 0x58
+m_mountingZiplineAlpha = 0xc
+m_mountingZiplineSourcePosition = 0x18
+m_mountingZiplineSourceVelocity = 0x24
+m_mountingZiplineTargetPosition = 0x30
+m_slidingZiplineAlpha = 0x54
+m_ziplineEndTime = 0x14
+m_ziplinePathDirection = 0x68
+m_ziplineReenableWeapons = 0x8
+m_ziplineReverse = 0x64
+m_ziplineStartTime = 0x10
+m_ziplineUsePosition = 0x48
+
+[Player_ViewOffsetEntityData]
+lerpInDuration = 0xc
+lerpOutDuration = 0x10
+stabilizePlayerEyeAngles = 0x14
+viewOffsetEntityHandle = 0x8
+
+[PredictedAnimEventData]
+m_predictedAnimEventCount = 0x58
+m_predictedAnimEventIndices = 0x30
+m_predictedAnimEventModel = 0x64
+m_predictedAnimEventSequence = 0x60
+m_predictedAnimEventTarget = 0x5c
+m_predictedAnimEventTimes = 0x8
+m_predictedAnimEventsReadyToFireTime = 0x68
+
+[StatusEffectEndlessData]
+seComboVars = 0x8
+
+[StatusEffectTimedData]
+seComboVars = 0x8
+seEaseOut = 0x10
+seTimeEnd = 0xc
+
+
+[weaponSettings] 
+{empty} = 0x0
+active_crosshair_count = 0x2a8
+active_optic_appearance = 0x448
+activitymodifier1p = 0x148
+activitymodifier3p = 0x150
+additional_holster_anim_duration = 0x12a4
+ads_anim_blend_enabled = 0xcd4
+ads_button_presses_melee = 0x3eb
+ads_force_firstperson = 0xa74
+ads_fov_zoomfrac_end = 0xa78
+ads_fov_zoomfrac_start = 0xa7c
+ads_move_speed_scale = 0xcd8
+aimassist_adspull_weaponclass = 0x138
+aimassist_adspull_zoomEnd = 0x140
+aimassist_adspull_zoomStart = 0x13c
+aimassist_disable_ads = 0x131
+aimassist_disable_ads_humansonly = 0x135
+aimassist_disable_ads_titansonly = 0x133
+aimassist_disable_hipfire = 0x130
+aimassist_disable_hipfire_humansonly = 0x134
+aimassist_disable_hipfire_titansonly = 0x132
+akimbo_deploy_holsters_althand = 0x147
+akimbo_weapon_flip_mouse_button_input = 0x144
+allow_empty_fire = 0x12d8
+allow_headshots = 0x1d0
+allow_zoom_on_raise = 0x3fc
+alt_fire_alternates_viewkick_yaw = 0x3ed
+alt_fire_anim_count = 0x3f4
+alt_hand_3p_attach_name = 0x400
+althand_allow_mainhand_on_zipline = 0x410
+ammo_clip_random_loss_on_npc_drop = 0x4c4
+ammo_clip_random_loss_on_npc_drop_chunksize = 0x4bc
+ammo_clip_reload_max = 0x928
+ammo_clip_size = 0x934
+ammo_default_total = 0x92c
+ammo_display = 0x388
+ammo_display_as_clips = 0x3b5
+ammo_drains_to_empty_on_fire = 0x3b4
+ammo_min_to_fire = 0x4cc
+ammo_min_to_fire_autoreloads = 0x4b8
+ammo_no_remove_from_clip = 0x3b7
+ammo_no_remove_from_stockpile = 0x3b6
+ammo_per_shot = 0x924
+ammo_pool_type = 0x374
+ammo_regen_takes_from_stockpile = 0x36c
+ammo_size_segmented_reload = 0x3b8
+ammo_stockpile_max = 0x930
+ammo_suck_behavior = 0xa70
+anim_alt_idleAttack = 0x454
+anim_reuse_fists = 0x15a
+anim_stop_start_gesture_on_attack = 0x15b
+ap_aim_accuracy_easy = 0x188
+ap_aim_accuracy_hard = 0x18c
+ap_leghead_ratio_easy = 0x180
+ap_leghead_ratio_hard = 0x184
+ap_max_burst = 0x19c
+ap_max_close_range_burst = 0x1a4
+ap_max_engage_range = 0x1b4
+ap_max_range_for_close_burst = 0x1a8
+ap_min_burst = 0x198
+ap_min_close_range_burst = 0x1a0
+ap_min_engage_range = 0x1b8
+ap_optimal_range = 0x1bc
+ap_rest_time_between_bursts_max = 0x1b0
+ap_rest_time_between_bursts_min = 0x1ac
+ap_zoom_accuracy_easy = 0x190
+ap_zoom_accuracy_hard = 0x194
+ap_zoom_allowed = 0x1c0
+attack_button_presses_ads = 0x3ec
+attack_button_presses_melee = 0x3ea
+auto_reload_no_ammo = 0x1330
+ballistic_type = 0x860
+battle_chatter_event = 0x460
+blast_pattern = 0x1d8
+blast_pattern_default_scale = 0x1dc
+blast_pattern_npc_scale = 0x1e0
+blast_pattern_zero_distance = 0x1e4
+body_skin = 0x450
+bodygroup10_set = 0x20c
+bodygroup11_set = 0x210
+bodygroup12_set = 0x214
+bodygroup13_set = 0x218
+bodygroup14_set = 0x21c
+bodygroup15_set = 0x220
+bodygroup16_set = 0x224
+bodygroup17_set = 0x228
+bodygroup18_set = 0x22c
+bodygroup19_set = 0x230
+bodygroup1_set = 0x1e8
+bodygroup20_set = 0x234
+bodygroup21_set = 0x238
+bodygroup22_set = 0x23c
+bodygroup23_set = 0x240
+bodygroup24_set = 0x244
+bodygroup25_set = 0x248
+bodygroup26_set = 0x24c
+bodygroup27_set = 0x250
+bodygroup28_set = 0x254
+bodygroup29_set = 0x258
+bodygroup2_set = 0x1ec
+bodygroup30_set = 0x25c
+bodygroup31_set = 0x260
+bodygroup32_set = 0x264
+bodygroup3_set = 0x1f0
+bodygroup4_set = 0x1f4
+bodygroup5_set = 0x1f8
+bodygroup6_set = 0x1fc
+bodygroup7_set = 0x200
+bodygroup8_set = 0x204
+bodygroup9_set = 0x208
+bodygroup_ads_scope_set = 0x268
+bodygroup_ammo_index_count = 0x26c
+bolt_bounce_frac = 0x298
+bolt_gravity_enabled = 0x29c
+bolt_hitsize = 0x27c
+bolt_hitsize_grow1_size = 0x284
+bolt_hitsize_grow1_time = 0x280
+bolt_hitsize_grow2_size = 0x28c
+bolt_hitsize_grow2_time = 0x288
+bolt_hitsize_growfinal_lerptime = 0x290
+bolt_hitsize_growfinal_size = 0x294
+bolt_zero_distance = 0x2a0
+bounce_effect_table = 0x14c8
+breaks_cloak = 0x45c
+burst_fire_count = 0x12c8
+burst_fire_delay = 0x12cc
+burst_fire_delay_ramp_bursts = 0x12d4
+burst_fire_delay_ramp_max = 0x12d0
+burst_or_looping_fire_sound_end = 0x5f8
+burst_or_looping_fire_sound_end_1p = 0x638
+burst_or_looping_fire_sound_end_3p = 0x658
+burst_or_looping_fire_sound_end_npc = 0x618
+burst_or_looping_fire_sound_middle = 0x5f0
+burst_or_looping_fire_sound_middle_1p = 0x630
+burst_or_looping_fire_sound_middle_3p = 0x650
+burst_or_looping_fire_sound_middle_npc = 0x610
+burst_or_looping_fire_sound_resume_1p = 0x628
+burst_or_looping_fire_sound_resume_3p = 0x648
+burst_or_looping_fire_sound_resume_npc = 0x608
+burst_or_looping_fire_sound_start = 0x5e8
+burst_or_looping_fire_sound_start_1p = 0x620
+burst_or_looping_fire_sound_start_3p = 0x640
+burst_or_looping_fire_sound_start_npc = 0x600
+bypass_semiauto_hold_protection = 0x3e7
+can_attack_when_dead = 0x12e8
+can_energize_when_energized = 0x2f8
+challeng_req = 0x468
+challenge_tier = 0x470
+chance_for_bonus_last_shot_in_clip = 0x378
+charge_additional_damage_multiplier = 0x1224
+charge_allow_anim_updates = 0x1193
+charge_allow_hold_when_full = 0x1191
+charge_allow_melee = 0x1184
+charge_allow_midway_charge = 0x1183
+charge_ammo_drain_time = 0x11a4
+charge_attack_min_charge_required = 0x1174
+charge_calculate_from_equip_time = 0x11a8
+charge_cooldown_delay = 0x1158
+charge_cooldown_time = 0x1154
+charge_cooldown_time_post_fire = 0x1170
+charge_curve_coefficients = 0x1228
+charge_delay_when_triggered_by_ADS = 0x1188
+charge_drain_sound_1p = 0x11d0
+charge_drain_sound_3p = 0x11d8
+charge_drain_sound_seek_to_charge_fraction = 0x11e3
+charge_drain_sound_stop_when_empty = 0x11e2
+charge_drains_ammo = 0x11a0
+charge_duration_used_for_anim_sequence_duration = 0x1195
+charge_effect2_1p = 0x1350
+charge_effect2_3p = 0x1348
+charge_effect2_attachment = 0x11f0
+charge_effect2_attachment_scoped = 0x1208
+charge_effect_1p = 0x1370
+charge_effect_3p = 0x1368
+charge_effect_attachment = 0x11e8
+charge_effect_attachment_scoped = 0x1200
+charge_effect_burn_mod_1p = 0x1360
+charge_effect_burn_mod_3p = 0x1358
+charge_effect_charge_full_ready_1p = 0x1340
+charge_effect_charge_full_ready_attachment = 0x11f8
+charge_effect_charge_full_ready_attachment_scoped = 0x1210
+charge_effect_show_during_drain = 0x1218
+charge_end_forces_fire = 0x118c
+charge_finish_primary_attack_on_cancel = 0x1197
+charge_frac_maintained_on_time_changed = 0x1196
+charge_fraction_scales_anim_rate = 0x1194
+charge_full_sound_1p = 0x11c0
+charge_full_sound_3p = 0x11c8
+charge_is_triggered_by_ADS = 0x1185
+charge_level_base = 0x117c
+charge_levels = 0x1178
+charge_maintained_until_fired = 0x118e
+charge_offhand_hybrid_switch_on_fully_charged = 0x118d
+charge_overheat_cooldown_delay = 0x116c
+charge_overheat_cooldown_time = 0x115c
+charge_overheat_cooldown_time_late1 = 0x1160
+charge_overheat_cooldown_time_late2 = 0x1164
+charge_overheat_cooldown_time_late3 = 0x1168
+charge_overheats_when_full = 0x1190
+charge_remain_full_when_fired = 0x118f
+charge_require_input = 0x1181
+charge_require_input_once_manually_fired = 0x1182
+charge_rumble_max = 0x1220
+charge_rumble_min = 0x121c
+charge_sound_1p = 0x11b0
+charge_sound_3p = 0x11b8
+charge_sound_seek_to_charge_fraction = 0x11e1
+charge_sound_stop_when_full = 0x11e0
+charge_stop_on_mod_change = 0x1198
+charge_time = 0x1150
+charge_uses_debounce = 0x1199
+charge_weapon_fires_while_charging = 0x1192
+chroma_color = 0x494
+clear_fx_on_new_view_model = 0x350
+client_preview_fx_show_during_toss = 0x393
+client_preview_fx_show_from_hip = 0x390
+client_preview_fx_show_in_sprint = 0x392
+client_preview_fx_show_on_raise = 0x391
+client_preview_fx_show_only_if_ready = 0x394
+clip_bodygroup_show_for_milestone_0 = 0x278
+clip_bodygroup_show_for_milestone_1 = 0x279
+clip_bodygroup_show_for_milestone_2 = 0x27a
+clip_bodygroup_show_for_milestone_3 = 0x27b
+clone_anim_blending = 0x3e2
+clone_sync_to_player = 0x3e1
+cooldown_time = 0x1298
+cooldown_type = 0x858
+cooldown_viewkick_adsScale = 0x960
+cooldown_viewkick_hardScale = 0x95c
+cooldown_viewkick_pitch_base = 0x940
+cooldown_viewkick_pitch_random = 0x944
+cooldown_viewkick_pitch_random_innerexclude = 0x948
+cooldown_viewkick_softScale = 0x958
+cooldown_viewkick_yaw_base = 0x94c
+cooldown_viewkick_yaw_random = 0x950
+cooldown_viewkick_yaw_random_innerexclude = 0x954
+core_build_time = 0x41c
+core_duration = 0x418
+critical_hit = 0x10fc
+critical_hit_damage_scale = 0x1100
+crosshair_force_sprint_fade_disabled = 0x2b0
+custom_bool_0 = 0xc08
+custom_bool_1 = 0xc09
+custom_bool_2 = 0xc0a
+custom_bool_3 = 0xc0b
+custom_bool_4 = 0xc0c
+custom_bool_5 = 0xc0d
+custom_bool_6 = 0xc0e
+custom_bool_7 = 0xc0f
+custom_float_0 = 0xc30
+custom_float_1 = 0xc34
+custom_float_2 = 0xc38
+custom_float_3 = 0xc3c
+custom_float_4 = 0xc40
+custom_float_5 = 0xc44
+custom_float_6 = 0xc48
+custom_float_7 = 0xc4c
+custom_haptics_control = 0x52c
+custom_int_0 = 0xc10
+custom_int_1 = 0xc14
+custom_int_2 = 0xc18
+custom_int_3 = 0xc1c
+custom_int_4 = 0xc20
+custom_int_5 = 0xc24
+custom_int_6 = 0xc28
+custom_int_7 = 0xc2c
+custom_laser_sight_color_enabled = 0xc97
+cycle_to_next_when_out_of_ammo = 0x12ed
+damage_additional_bullets = 0x10d8
+damage_additional_bullets_titanarmor = 0x1148
+damage_falloff_type = 0x10c4
+damage_far_distance = 0x110c
+damage_far_value = 0x10cc
+damage_far_value_titanarmor = 0x1140
+damage_flags = 0x10c0
+damage_headshot_scale = 0x10dc
+damage_inverse_distance = 0x1114
+damage_leg_scale = 0x10e4
+damage_near_distance = 0x1108
+damage_near_value = 0x10c8
+damage_near_value_titanarmor = 0x113c
+damage_rodeo = 0x10d4
+damage_shield_scale = 0x10ec
+damage_unshielded_scale = 0x10e8
+damage_very_far_distance = 0x1110
+damage_very_far_value = 0x10d0
+damage_very_far_value_titanarmor = 0x1144
+damage_viewpunch_scale = 0x1104
+deflect_missile_impacts = 0x408
+deflect_missile_impacts_dot = 0x40c
+deploy_allow_ads = 0x1268
+deploy_time = 0x125c
+deploycatch_time = 0x1264
+deployfirst_time = 0x1260
+description = 0x3d0
+destroy_on_all_ammo_take = 0x384
+destroy_on_drop = 0x491
+disable_zoomed_rechamber = 0x540
+disallow_sprint_when_held = 0x4c0
+dof_nearDepthEnd = 0x2bc
+dof_nearDepthStart = 0x2b8
+dof_zoom_focusArea_Bottom = 0x2d0
+dof_zoom_focusArea_Horizontal = 0x2c8
+dof_zoom_focusArea_Top = 0x2cc
+dof_zoom_nearDepthEnd = 0x2c4
+dof_zoom_nearDepthStart = 0x2c0
+enable_highlight_networking_on_creation = 0x541
+energize_activity_time = 0x2e0
+energize_effect0_1p = 0x1578
+energize_effect0_3p = 0x1570
+energize_effect0_attachment = 0x2e8
+energize_effect0_attachment_scope = 0x2f0
+energize_on_reload_input = 0x123e
+energized_duration = 0x2d8
+energized_primary_attack_effect_1p = 0x1568
+energized_primary_attack_effect_3p = 0x1560
+energized_time_consumed_per_shot = 0x2dc
+explosion_damage = 0x111c
+explosion_damage_flags = 0x1118
+explosion_damage_heavy_armor = 0x1120
+explosion_damages_owner = 0x1138
+explosion_inner_radius = 0x1130
+explosion_shake_amplitude = 0xe10
+explosion_shake_duration = 0xe18
+explosion_shake_frequency = 0xe14
+explosion_shake_radius = 0xe0c
+explosionradius = 0x1134
+fast_swap_from = 0x123c
+fast_swap_scale = 0x1238
+fast_swap_to = 0x123d
+fire_duration = 0x12c0
+fire_in_real_world_while_phased = 0x411
+fire_mode = 0x12a8
+fire_rate = 0x12ac
+fire_rate_max = 0x12b0
+fire_rate_max_time_cooldown = 0x12b8
+fire_rate_max_time_speedup = 0x12b4
+fire_rate_max_use_ads = 0x12bc
+fire_rumble = 0x12e0
+fire_sound_1 = 0x558
+fire_sound_1_npc = 0x578
+fire_sound_1_player_1p = 0x598
+fire_sound_1_player_3p = 0x5b8
+fire_sound_2 = 0x560
+fire_sound_2_npc = 0x580
+fire_sound_2_player_1p = 0x5a0
+fire_sound_2_player_3p = 0x5c0
+fire_sound_3 = 0x568
+fire_sound_3_npc = 0x588
+fire_sound_3_player_1p = 0x5a8
+fire_sound_3_player_3p = 0x5c8
+fire_sound_first_shot = 0x570
+fire_sound_first_shot_npc = 0x590
+fire_sound_first_shot_player_1p = 0x5b0
+fire_sound_first_shot_player_3p = 0x5d0
+fire_sound_partial_burst_player_1p = 0x5d8
+fire_sound_partial_burst_player_3p = 0x5e0
+fire_to_redirect_projectile_mid_flight = 0x412
+force_has_weapon_clone = 0x3e0
+force_zoom_in_on_activate = 0xd38
+fully_heated_effect_1p = 0x14e8
+fully_heated_effect_3p = 0x14e0
+fully_heated_sound_1p = 0x768
+fully_heated_sound_3p = 0x770
+fx_muzzle_flash2_attach = 0x318
+fx_muzzle_flash2_attach_scoped = 0x338
+fx_muzzle_flash2_view = 0x1548
+fx_muzzle_flash2_world = 0x1540
+fx_muzzle_flash_attach = 0x310
+fx_muzzle_flash_attach_scoped = 0x330
+fx_muzzle_flash_view = 0x1558
+fx_muzzle_flash_world = 0x1550
+fx_shell_eject2_attach = 0x328
+fx_shell_eject2_attach_scoped = 0x348
+fx_shell_eject2_view = 0x1528
+fx_shell_eject2_world = 0x1520
+fx_shell_eject_attach = 0x320
+fx_shell_eject_attach_scoped = 0x340
+fx_shell_eject_view = 0x1538
+fx_shell_eject_world = 0x1530
+gamepad_use_yaw_speed_for_pitch_ads = 0x3e8
+give_command_forced_inventory_slot = 0x3f0
+grapple_maxLength = 0x3a4
+grapple_maxLengthVert = 0x3a8
+grapple_power_required = 0x39c
+grapple_power_use_rate = 0x3a0
+grapple_retractVel = 0x3b0
+grapple_scaled_ammo_drain = 0x398
+grapple_shootVel = 0x3ac
+grapple_weapon = 0x397
+grenade_angle_dependant_throw_max_speed_angle = 0x1070
+grenade_angle_dependant_throw_min_speed = 0x106c
+grenade_angle_dependant_throw_min_speed_angle = 0x1074
+grenade_arc_impact_indicator_blocked_effect = 0x1378
+grenade_arc_impact_indicator_effect = 0x1380
+grenade_arc_indicator_bounce_count = 0x1084
+grenade_arc_indicator_effect = 0x1390
+grenade_arc_indicator_effect_first = 0x1388
+grenade_arc_indicator_extra_bounce_for_hit_normal = 0x1088
+grenade_arc_indicator_ignore_base_velocity = 0x1089
+grenade_arc_indicator_max_duration = 0x1080
+grenade_arc_indicator_show_during_toss = 0x107c
+grenade_arc_indicator_show_floor_impact = 0x1091
+grenade_arc_indicator_show_from_hip = 0x1079
+grenade_arc_indicator_show_in_sprint_if_ready = 0x107b
+grenade_arc_indicator_show_landing_position = 0x108a
+grenade_arc_indicator_show_on_raise_if_ready = 0x107a
+grenade_arc_indicator_show_wall_impact = 0x1090
+grenade_arc_indicator_show_while_airborne = 0x107d
+grenade_arc_indicator_smooth = 0x108b
+grenade_arc_indicator_smooth_radius = 0x108c
+grenade_bounce_extra_vertical_randomness = 0x1010
+grenade_bounce_randomness = 0x100c
+grenade_bounce_vel_frac_along_normal = 0x1008
+grenade_bounce_vel_frac_shallow = 0x1000
+grenade_bounce_vel_frac_sharp = 0x1004
+grenade_can_roll = 0x1014
+grenade_death_drop_velocity_extraUp = 0x1058
+grenade_death_drop_velocity_scale = 0x1054
+grenade_drop_to_ground_bounce_vel_frac = 0x1064
+grenade_drop_to_ground_on_bounce = 0x1061
+grenade_drop_velocity = 0x1068
+grenade_fuse_time = 0x1048
+grenade_hull_maxs = 0x1030
+grenade_hull_mins = 0x1024
+grenade_ignition_time = 0x104c
+grenade_ignore_friendly_players = 0x105f
+grenade_ignore_planted_grenades = 0x1060
+grenade_mover_destroy_when_planted = 0x105d
+grenade_orient_to_velocity = 0x1050
+grenade_radius_horizontal = 0x1020
+grenade_radius_vertical = 0x101c
+grenade_roll_vel_frac_per_second = 0x1018
+grenade_touch_triggers_on_impact = 0x105e
+grenade_use_mask_ability = 0x105c
+grenade_view_launch_offset = 0x103c
+has_energized = 0x2d4
+has_heat_decay = 0x4a8
+has_linked_anims = 0x159
+has_mp_artifact_activation_emote_activity = 0x15e
+has_mp_weapon_inspect_activity = 0x15d
+headshot_distance = 0x10e0
+heartbeat_sensor_size = 0x4b4
+heat_decay_sound_1p = 0x778
+heat_decay_sound_3p = 0x780
+heat_decay_sound_play_only_on_fully_heated_decay = 0x788
+heat_per_bullet = 0x4a4
+heat_per_melee_attack = 0x4ac
+heat_tracks_charge = 0x4a0
+hideForSkydive = 0x4d0
+hide_holstered_sidearm_when_active = 0x2a
+hide_when_holstered = 0x4d1
+holster_angles_offset = 0x124c
+holster_offset = 0x1240
+holster_time = 0x1258
+holster_type = 0x85c
+holstermodel = 0x1490
+hud_icon = 0x1440
+hud_icon_akimbo = 0x1438
+hud_icon_akimbo_active = 0x1430
+hud_icon_akimbo_mastered = 0x1428
+idle_sound_player_1p = 0x660
+ignition_distance = 0xd78
+ignition_effect = 0xda8
+ignition_sound = 0xda0
+ignore_attack_input = 0x12eb
+impact_effect_table = 0x14d8
+impact_effect_table_aliases = 0x14d0
+impulse_force = 0x10f8
+impulse_force_explosions = 0x112c
+instant_swap_from = 0x1236
+instant_swap_to = 0x1237
+interrupt_looping_sound_on_mod_update = 0x758
+inverse_attack_input = 0x12ea
+is_akimbo_weapon = 0x145
+is_artifact = 0x856
+is_burn_mod = 0x853
+is_clacker = 0x852
+is_consumable = 0x850
+is_event_only_melee = 0x855
+is_heirloom = 0x854
+is_melee_weapon = 0xf92
+is_psuedo_artifact = 0x857
+is_semi_auto = 0x3e4
+is_twohanded_consumable = 0x851
+l_trig_custom_mode = 0x53c
+l_trig_custom_str = 0x538
+lifesteal_heal_percent = 0x4b0
+lifetime_shots_default = 0x37c
+loadout_child_ref = 0x10b8
+loadout_parent_ref = 0x10b0
+loadout_selectable = 0x10a4
+loadout_type = 0x10a8
+locks_weapon_change = 0x3e9
+longdesc = 0x3d8
+looping_sounds = 0x430
+low_ammo_fraction = 0x380
+low_ammo_sound_name_1 = 0x668
+low_ammo_sound_name_10 = 0x6b0
+low_ammo_sound_name_11 = 0x6b8
+low_ammo_sound_name_12 = 0x6c0
+low_ammo_sound_name_13 = 0x6c8
+low_ammo_sound_name_14 = 0x6d0
+low_ammo_sound_name_15 = 0x6d8
+low_ammo_sound_name_2 = 0x670
+low_ammo_sound_name_3 = 0x678
+low_ammo_sound_name_4 = 0x680
+low_ammo_sound_name_5 = 0x688
+low_ammo_sound_name_6 = 0x690
+low_ammo_sound_name_7 = 0x698
+low_ammo_sound_name_8 = 0x6a0
+low_ammo_sound_name_9 = 0x6a8
+low_ammo_sound_range_name_1 = 0x6e0
+low_ammo_sound_range_name_2 = 0x6e8
+low_ammo_sound_range_name_3 = 0x6f0
+low_ammo_sound_range_start_1 = 0x75c
+low_ammo_sound_range_start_2 = 0x760
+low_ammo_sound_range_start_3 = 0x764
+lower_time = 0x126c
+max_cook_time = 0x1284
+max_fidget_time = 0x12a0
+melee_allow_held = 0xf91
+melee_angle = 0xfb4
+melee_anim_1p = 0xf80
+melee_anim_3p = 0xf88
+melee_attack_animtime = 0xf74
+melee_can_hit_humansized = 0xfa8
+melee_can_hit_titans = 0xfa9
+melee_damage = 0xff8
+melee_damage_heavyarmor = 0xffc
+melee_damagesource_override = 0xff0
+melee_freezelook_on_hit = 0xfc8
+melee_has_charge = 0xfe1
+melee_has_gesture = 0xf90
+melee_has_primary_attack = 0xf93
+melee_has_secondary_attack = 0xf94
+melee_knockback_duration = 0xfe8
+melee_knockback_velocity_magnitude = 0xfac
+melee_knockback_velocity_reduction_magnitude = 0xfe4
+melee_lunge_no_target_range = 0xfa0
+melee_lunge_target_angle = 0xfa4
+melee_lunge_target_range = 0xf9c
+melee_lunge_time = 0xf98
+melee_raise_recovery_animtime_normal = 0xf78
+melee_raise_recovery_animtime_quick = 0xf7c
+melee_range = 0xfb0
+melee_respect_next_attack_time = 0xfe0
+melee_rumble_on_hit = 0xfb8
+melee_rumble_on_hit_partial = 0xfc0
+melee_sound_attack_1p = 0xfd0
+melee_sound_attack_3p = 0xfd8
+menu_alt_icon = 0xab0
+menu_icon = 0xaa8
+menu_image = 0xaa0
+min_fidget_time = 0x129c
+minimap_reveal_distance = 0x458
+missile_hit_only_friendlies = 0x1078
+mod_description = 0x488
+mod_print_name = 0x478
+mod_short_print_name = 0x480
+move_speed_modifier = 0xcd0
+move_speed_modifier_ads_passive = 0xc98
+move_speed_modifier_cap = 0xca4
+net_bullet_fix = 0x12c4
+never_drop = 0x490
+npc_accuracy_multiplier_heavy_armor = 0xeb8
+npc_accuracy_multiplier_npc = 0xec0
+npc_accuracy_multiplier_pilot = 0xebc
+npc_aim_at_feet = 0xe47
+npc_aim_at_feet_vs_heavy_armor = 0xe48
+npc_attack_cone_angle = 0xe20
+npc_burst_radius_distribution_bias_max_precision = 0xedc
+npc_burst_radius_distribution_bias_min_precision = 0xed8
+npc_burst_radius_max_precision = 0xed4
+npc_burst_radius_min_precision = 0xed0
+npc_burst_secondary = 0xe40
+npc_charge_time_max = 0xe78
+npc_charge_time_min = 0xe74
+npc_check_last_attack_time_for_looping_fire = 0xee0
+npc_clear_charge_if_not_fired = 0xe4f
+npc_compensate_gravity = 0xe51
+npc_damage_far_distance = 0xf00
+npc_damage_far_value = 0xeec
+npc_damage_far_value_titanarmor = 0xef0
+npc_damage_near_distance = 0xefc
+npc_damage_near_value = 0xee4
+npc_damage_near_value_titanarmor = 0xee8
+npc_damage_very_far_distance = 0xf04
+npc_damage_very_far_value = 0xef4
+npc_damage_very_far_value_titanarmor = 0xef8
+npc_dangerous_to_heavy_armor = 0xe4c
+npc_dangerous_to_normal_armor = 0xe4b
+npc_directed_fire_ang_limit = 0xeb0
+npc_explosion_damage = 0x1124
+npc_explosion_damage_heavy_armor = 0x1128
+npc_fire_at_enemy_defense_time = 0xe9c
+npc_full_auto_vs_heavy_armor = 0xe45
+npc_lead_projectiles = 0xe50
+npc_lead_projectiles_fraction_max_precision = 0xe58
+npc_lead_projectiles_fraction_min_precision = 0xe54
+npc_lob_shot_pitch = 0xecc
+npc_max_burst = 0xe28
+npc_max_burst_max_precision = 0xe38
+npc_max_burst_min_precision = 0xe30
+npc_max_engage_range = 0xe90
+npc_max_engage_range_heavy_armor = 0xe98
+npc_max_range = 0xe80
+npc_max_range_secondary = 0xe88
+npc_max_rest_time_between_bursts_max_precision = 0xe70
+npc_max_rest_time_between_bursts_min_precision = 0xe68
+npc_min_burst = 0xe24
+npc_min_burst_max_precision = 0xe34
+npc_min_burst_min_precision = 0xe2c
+npc_min_engage_range = 0xe8c
+npc_min_engage_range_heavy_armor = 0xe94
+npc_min_range = 0xe7c
+npc_min_range_secondary = 0xe84
+npc_min_rest_time_between_bursts_max_precision = 0xe6c
+npc_min_rest_time_between_bursts_min_precision = 0xe64
+npc_miss_fast_player = 0xe44
+npc_pre_fire_delay = 0xea8
+npc_pre_fire_delay_interval = 0xeac
+npc_refresh_burst_location_per_shot = 0xe3c
+npc_reload_enabled = 0xeb4
+npc_rest_time_between_bursts_expedite = 0xea0
+npc_rest_time_between_bursts_max = 0xe60
+npc_rest_time_between_bursts_min = 0xe5c
+npc_rest_time_secondary = 0xea4
+npc_self_explosion_safety = 0xe4a
+npc_spread_cone_distribution_bias_max_precision = 0xf5c
+npc_spread_cone_distribution_bias_min_precision = 0xf58
+npc_spread_cone_focus_time = 0xf60
+npc_spread_cone_max_precision = 0xf54
+npc_spread_cone_min_precision = 0xf50
+npc_spread_defocused_cone_multiplier = 0xf64
+npc_spread_pattern_focus_time = 0xf68
+npc_spread_pattern_not_in_fov_factor = 0xf70
+npc_spread_pattern_not_in_fov_time = 0xf6c
+npc_suppress_abs_position = 0xe4e
+npc_suppress_lsp_allowed = 0xe4d
+npc_use_ads_move_speed_scale = 0xe1c
+npc_use_long_duration = 0xec8
+npc_use_max_damage = 0xf0c
+npc_use_min_damage = 0xf08
+npc_use_min_projectile_damage = 0xf10
+npc_use_short_duration = 0xec4
+npc_use_strict_muzzle_dir = 0xe46
+npc_vortex_block = 0xe49
+object_placement_clearance_behind = 0x4e8
+object_placement_distance_max = 0x4dc
+object_placement_distance_to_ground_max = 0x4f8
+object_placement_drop_to_ground_offset_max = 0x4f4
+object_placement_force_upright = 0x4e4
+object_placement_ground_penetration_max = 0x500
+object_placement_hill_angle_max = 0x4e0
+object_placement_ignore_players = 0x511
+object_placement_last_good_angle_max = 0x4f0
+object_placement_last_good_distance_max = 0x4ec
+object_placement_model = 0x1488
+object_placement_percent_off_ledge_max = 0x4fc
+object_placement_run_mode = 0x4d4
+object_placement_special = 0x524
+object_placement_top_distance_pierce_max = 0x50c
+object_placement_top_side_percent_pierce_max = 0x508
+object_placement_trace_through_turrets = 0x510
+object_placement_use_top_trace = 0x504
+object_placement_vehicle_attachment_index = 0x514
+object_placement_vehicle_offset = 0x518
+object_placer = 0x4d8
+offhand_activates_on_zoom = 0x27
+offhand_active_slot = 0x18
+offhand_allow_swap_to_on_zipline = 0x40
+offhand_allows_inpect = 0x38
+offhand_blocks_sprint = 0x1c
+offhand_can_interrupt_itself = 0x45
+offhand_can_reactivate = 0x4c
+offhand_cancelled_by_melee = 0x46
+offhand_chargeEnd_holster_on_noattack = 0x3e
+offhand_clear_zoom_on_activate = 0x3f
+offhand_deactivate_on_dodge_toggle_or_release = 0x3c
+offhand_default_inventory_slot = 0x20
+offhand_deploy_requires_input = 0x29
+offhand_disable_other_offhands = 0x3a
+offhand_dont_lower_on_toss = 0x4a
+offhand_hidden_for_fullscreen_ads = 0x36
+offhand_hide_shared_anim_prop_3p = 0x4b
+offhand_hold_enabled = 0x28
+offhand_holds_on_tactical = 0x3b
+offhand_hybrid_alt_hand_uses_attack_button = 0x33
+offhand_hybrid_block_switch_if_empty = 0x32
+offhand_hybrid_reset_shot_count_on_attack = 0x35
+offhand_hybrid_switch_on_attack = 0x30
+offhand_hybrid_switch_on_lower = 0x31
+offhand_hybrid_tracks_projectiles = 0x34
+offhand_include_primary_activity_mods = 0x43
+offhand_instant_swap_to_offhand = 0x3d
+offhand_interrupt_climbing = 0x42
+offhand_interupts_weapon_anims = 0x24
+offhand_match_player_skin = 0x44
+offhand_move_speed_modifier_scale_with_ammo_max = 0xc9c
+offhand_move_speed_modifier_scale_with_ammo_min = 0xca0
+offhand_only_swap_to_on_ground = 0x41
+offhand_raise_is_interrupt_resumable = 0x26
+offhand_restore_after_melee = 0x48
+offhand_script_activate_ignores_ready_check = 0x25
+offhand_skips_sequence_reset_on_model_changed = 0x4d
+offhand_switch_force_draw = 0x49
+offhand_switch_on_attack = 0x2f
+offhand_switch_slot = 0x47
+offhand_toss_activates_on_attack = 0x2d
+offhand_toss_hold_is_resumable = 0x2c
+offhand_transition_has_attach_detach_anim_events = 0x2b
+offhand_uses_hud_ammo_status = 0x37
+offhand_wants_first_deploy = 0x39
+ordnance_crosshair_always_on_start_index = 0x2ac
+ors_tags_add = 0x8
+ors_tags_remove = 0x10
+pass_through_damage_preserved_scale = 0x10f4
+pass_through_depth = 0x10f0
+play_one_handed_alt_hand_anim_on_mainhand = 0x158
+player_hands_attachment = 0x428
+player_hands_effect = 0x1508
+player_overheat_per_bullet = 0x0
+playermodel = 0x1498
+pre_ignition_damage = 0xd80
+pre_ignition_damage_titanarmor = 0xd84
+pre_ignition_flight_sound = 0xd90
+pre_ignition_impact_effect_table = 0x14b8
+pre_ignition_npc_damage = 0xd88
+pre_ignition_npc_damage_titanarmor = 0xd8c
+pre_ignition_speed = 0xd7c
+pre_ignition_trail_effect = 0xd98
+primary_attack_ignores_spread = 0x814
+primary_fire_does_not_block_sprint = 0x3e6
+primary_melee_ammo_cost = 0x920
+primary_melee_fallback_ammo_cost = 0x91c
+printname = 0x3c0
+proficiency_average_additional_rest = 0xf40
+proficiency_average_bias = 0xf2c
+proficiency_average_spreadscale = 0xf18
+proficiency_good_additional_rest = 0xf44
+proficiency_good_bias = 0xf30
+proficiency_good_spreadscale = 0xf1c
+proficiency_perfect_additional_rest = 0xf4c
+proficiency_perfect_bias = 0xf38
+proficiency_perfect_spreadscale = 0xf24
+proficiency_poor_additional_rest = 0xf3c
+proficiency_poor_bias = 0xf28
+proficiency_poor_spreadscale = 0xf14
+proficiency_very_good_additional_rest = 0xf48
+proficiency_very_good_bias = 0xf34
+proficiency_very_good_spreadscale = 0xf20
+projectile_air_friction = 0xdcc
+projectile_air_friction_2 = 0xde0
+projectile_air_friction_final = 0xdec
+projectile_airburst_on_death = 0xcfe
+projectile_always_randomize_bounce = 0xd08
+projectile_bounce_damage_reduction_scale = 0xce8
+projectile_chasecamDistanceMax = 0xd0c
+projectile_chasecamMaxOrbitDepth = 0xd10
+projectile_chasecamMaxPitchUp = 0xd14
+projectile_chasecamOffsetForward = 0xd20
+projectile_chasecamOffsetRight = 0xd1c
+projectile_chasecamOffsetUp = 0xd18
+projectile_collide_with_owner_grace_time = 0xcf0
+projectile_damages_owner = 0xcfc
+projectile_death_sound = 0xd28
+projectile_deflection_max_count = 0xcf8
+projectile_do_predict_impact_effects = 0xce2
+projectile_drag_coefficient = 0xdd0
+projectile_drift_intensity = 0xdf4
+projectile_drift_windiness = 0xdf0
+projectile_first_person_offset_fraction = 0xdbc
+projectile_flamethrower_status_effect_duration = 0xd04
+projectile_flamethrower_status_effect_range = 0xd00
+projectile_flight_sound = 0xd30
+projectile_gravity_scale = 0xdc8
+projectile_gravity_scale_2 = 0xddc
+projectile_gravity_scale_final = 0xde8
+projectile_gravity_scale_time_2 = 0xdd8
+projectile_gravity_scale_time_final = 0xde4
+projectile_inherit_base_velocity_scale = 0xdb8
+projectile_inherit_owner_velocity_scale = 0xdb4
+projectile_killreplay_enabled = 0xd09
+projectile_launch_pitch_offset = 0xdc4
+projectile_launch_speed = 0xdc0
+projectile_lifetime = 0xce4
+projectile_max_deployed = 0xdd4
+projectile_muzzle_offset_decay_max_time = 0xcdc
+projectile_passthrough_friendlies = 0xcfd
+projectile_predict_move_to_impact = 0xce0
+projectile_ricochet_max_count = 0xcf4
+projectile_speed_decay = 0xe08
+projectile_speed_reduction_factor = 0xcec
+projectile_straight_radius_max = 0xe04
+projectile_straight_radius_min = 0xe00
+projectile_straight_time_max = 0xdfc
+projectile_straight_time_min = 0xdf8
+projectile_trail_effect_0_1p = 0x13e8
+projectile_trail_effect_0_3p = 0x13e0
+projectile_trail_effect_1_1p = 0x13d8
+projectile_trail_effect_1_3p = 0x13d0
+projectile_trail_effect_2_1p = 0x13c8
+projectile_trail_effect_2_3p = 0x13c0
+projectile_trail_effect_3_1p = 0x13b8
+projectile_trail_effect_3_3p = 0x13b0
+projectile_trail_effect_4_1p = 0x13a8
+projectile_trail_effect_4_3p = 0x13a0
+projectile_trail_start_from_origin = 0xdb0
+projectile_visible_to_smart_ammo = 0xce1
+projectilemodel = 0x1398
+projectiles_per_shot = 0x1d4
+r_trig_custom_mode = 0x534
+r_trig_custom_str = 0x530
+raise_from_sprint_time = 0x1274
+raise_time = 0x1270
+rapid_fire_overrides_min_ammo = 0x4c8
+readyhint = 0x440
+readymessage = 0x438
+rechamber_time = 0x544
+rechamber_time_late1 = 0x548
+rechamber_time_late2 = 0x54c
+rechamber_time_late3 = 0x550
+red_crosshair_range = 0x2b4
+regen_ammo_directly_to_stockpile = 0x361
+regen_ammo_forced_delay = 0x304
+regen_ammo_refill_rate = 0x368
+regen_ammo_refill_rate_per_clip = 0x364
+regen_ammo_refill_rate_sprinting = 0x35c
+regen_ammo_refill_start_delay = 0x358
+regen_ammo_sound_range_name_1 = 0x120
+regen_ammo_sound_range_name_2 = 0x118
+regen_ammo_sound_range_name_3 = 0x1338
+regen_ammo_sound_range_start_1 = 0x2fc
+regen_ammo_sound_range_start_2 = 0x12c
+regen_ammo_sound_range_start_3 = 0x128
+regen_ammo_stockpile_drain_rate_when_charging = 0x308
+regen_ammo_stockpile_max_fraction = 0x354
+regen_ammo_stockpile_only_when_idle = 0x360
+regen_ammo_while_firing = 0x300
+reload_allow_ads = 0x132d
+reload_alt_anim = 0x132f
+reload_enabled = 0x12ec
+reload_is_segmented = 0x132c
+reload_no_auto_if_ads_pressed = 0x132e
+reload_time = 0x12f0
+reload_time_late1 = 0x12f4
+reload_time_late2 = 0x12f8
+reload_time_late3 = 0x12fc
+reload_time_late4 = 0x1300
+reload_time_late5 = 0x1304
+reloadempty_time = 0x1308
+reloadempty_time_late1 = 0x130c
+reloadempty_time_late2 = 0x1310
+reloadempty_time_late3 = 0x1314
+reloadempty_time_late4 = 0x1318
+reloadempty_time_late5 = 0x131c
+reloadsegment_time_end = 0x1324
+reloadsegment_time_loop = 0x1320
+reloadsegmentempty_time_end = 0x1328
+rui_crosshair_index = 0x2a4
+script_manages_charge_level = 0x1180
+secondary_fire_is_semi_auto_only = 0x3e5
+secondary_fire_on_zoom = 0x12e9
+secondary_melee_ammo_cost = 0x918
+secondary_melee_fallback_ammo_cost = 0x528
+sfx_aliases = 0x14b0
+shared_anim_prop_3p_attachment_name = 0x168
+shared_anim_prop_3p_model_name = 0x160
+shared_anim_prop_3p_persistent_particle_attachment_name = 0x178
+shared_anim_prop_3p_persistent_particle_effect_name = 0x170
+shared_energy_charge_cost = 0x119c
+shared_energy_cost = 0x414
+shortprintname = 0x3c8
+show_client_preview_fx = 0x395
+show_grenade_indicator = 0x1092
+show_grenade_indicator_to_owner = 0x1093
+show_pre_modded_tracer = 0x493
+silenced = 0x3e3
+smart_ammo_active_shot_damage_multiplier = 0xf0
+smart_ammo_active_shot_on_first_lock_only = 0xec
+smart_ammo_active_shot_time = 0xe8
+smart_ammo_alert_npc_fraction = 0x78
+smart_ammo_allow_ads_lock = 0x85
+smart_ammo_allow_hip_fire_lock = 0x86
+smart_ammo_allow_search_while_firing = 0x87
+smart_ammo_allow_search_while_inactive = 0x88
+smart_ammo_alt_lock_style = 0x84
+smart_ammo_always_do_burst = 0x8a
+smart_ammo_apply_new_target_delay_to_first_target = 0x68
+smart_ammo_draw_acquisition_lines = 0xac
+smart_ammo_hold_and_reset_after_all_locks = 0xe4
+smart_ammo_hud_type = 0x50
+smart_ammo_lock_effect2_1p = 0x1588
+smart_ammo_lock_effect2_3p = 0x1580
+smart_ammo_lock_effect2_attachment = 0x108
+smart_ammo_lock_effect_3p = 0x1590
+smart_ammo_lock_effect_attachment = 0x100
+smart_ammo_lock_type = 0x58
+smart_ammo_looping_sound_acquiring = 0xd0
+smart_ammo_looping_sound_locked = 0xd8
+smart_ammo_max_targeted_burst = 0x80
+smart_ammo_max_targets = 0x7c
+smart_ammo_new_target_delay = 0x64
+smart_ammo_npc_targets_must_be_tracked = 0xf5
+smart_ammo_only_search_on_charge = 0x89
+smart_ammo_other_targets_must_be_tracked = 0xf6
+smart_ammo_player_targets_must_be_tracked = 0xf4
+smart_ammo_search_angle = 0x5c
+smart_ammo_search_distance = 0x60
+smart_ammo_search_enemy_team = 0x111
+smart_ammo_search_friendly_team = 0x110
+smart_ammo_search_neutral_team = 0x112
+smart_ammo_search_npcs = 0xe0
+smart_ammo_search_phase_shift = 0x113
+smart_ammo_search_players = 0xe1
+smart_ammo_stick_to_fully_locked_targets = 0xe2
+smart_ammo_target_confirmed_sound = 0xb0
+smart_ammo_target_confirming_sound = 0xb8
+smart_ammo_target_found_sound = 0xc0
+smart_ammo_target_lost_sound = 0xc8
+smart_ammo_target_max_locks_heavy = 0x70
+smart_ammo_target_max_locks_normal = 0x6c
+smart_ammo_target_npc_lock_factor = 0x74
+smart_ammo_targeting_time_max = 0x90
+smart_ammo_targeting_time_max_npc = 0x98
+smart_ammo_targeting_time_min = 0x8c
+smart_ammo_targeting_time_min_npc = 0x94
+smart_ammo_targeting_time_modifier_cloaked = 0x9c
+smart_ammo_targeting_time_modifier_projectile = 0xa0
+smart_ammo_targeting_time_modifier_projectile_owner = 0xa4
+smart_ammo_track_cloaked_targets = 0x8b
+smart_ammo_tracked_targets_check_visibility = 0xf7
+smart_ammo_tracker_status_effects = 0xf9
+smart_ammo_unlock_debounce_time = 0xa8
+smart_ammo_use_tracker_frac = 0xf8
+smart_ammo_weapon_type = 0x54
+sound_cook_warning = 0x718
+sound_deploy_1p = 0x730
+sound_deploy_3p = 0x738
+sound_disabledfire = 0x6f8
+sound_dryfire = 0x700
+sound_grenade_projectile = 0x740
+sound_pickup = 0x708
+sound_throw_1p = 0x720
+sound_throw_3p = 0x728
+sound_trigger_pull = 0x748
+sound_trigger_release = 0x750
+sound_weapon_ready = 0x710
+sound_zoom_in = 0xd58
+sound_zoom_in_althand = 0xd48
+sound_zoom_out = 0xd50
+sound_zoom_out_althand = 0xd40
+spread_air_ads = 0x7ac
+spread_air_ads_moving = 0x7b0
+spread_air_hip = 0x7a4
+spread_air_hip_moving = 0x7a8
+spread_crouch_ads = 0x7a0
+spread_crouch_hip = 0x79c
+spread_decay_delay = 0x80c
+spread_decay_rate = 0x808
+spread_hover_ads = 0x7bc
+spread_hover_ads_moving = 0x7c0
+spread_hover_hip = 0x7b4
+spread_hover_hip_moving = 0x7b8
+spread_kick_on_fire_air_ads = 0x7e8
+spread_kick_on_fire_air_hip = 0x7e4
+spread_kick_on_fire_crouch_ads = 0x7e0
+spread_kick_on_fire_crouch_hip = 0x7dc
+spread_kick_on_fire_stand_ads = 0x7d8
+spread_kick_on_fire_stand_hip = 0x7d4
+spread_max_kick_air_ads = 0x804
+spread_max_kick_air_hip = 0x800
+spread_max_kick_crouch_ads = 0x7fc
+spread_max_kick_crouch_hip = 0x7f8
+spread_max_kick_stand_ads = 0x7f4
+spread_max_kick_stand_hip = 0x7f0
+spread_min_kick = 0x7ec
+spread_moving_decay_rate = 0x7cc
+spread_moving_increase_rate = 0x7d0
+spread_stand_ads = 0x798
+spread_stand_hip = 0x78c
+spread_stand_hip_run = 0x790
+spread_stand_hip_sprint = 0x794
+spread_time_to_max = 0x810
+spread_update_hipfire_in_ads = 0x815
+spread_wallhanging = 0x7c8
+spread_wallrunning = 0x7c4
+sprint_fractional_anims = 0x127c
+sprintcycle_time = 0x1278
+stat_accuracy = 0xa84
+stat_damage = 0xa80
+stat_handling = 0xa94
+stat_hipfire = 0xa90
+stat_range = 0xa88
+stat_rof = 0xa8c
+stat_stability = 0xa98
+stop_all_persistent_particle_effects_when_deactivated = 0x396
+sustained_discharge_allow_melee = 0xc55
+sustained_discharge_duration = 0xc50
+sustained_discharge_ends_in_primary_attack = 0xc5e
+sustained_discharge_pulse_frequency = 0xc58
+sustained_discharge_require_input = 0xc54
+sustained_discharge_updates_charge = 0xc5d
+sustained_discharge_want_pulse_callbacks = 0xc5c
+sustained_laser_attachment = 0xc70
+sustained_laser_attachment_scoped = 0xc78
+sustained_laser_damage_effect = 0x1408
+sustained_laser_damage_scale = 0xc8c
+sustained_laser_effect_1p = 0x1420
+sustained_laser_effect_3p = 0x1418
+sustained_laser_effect_loops = 0xc80
+sustained_laser_enabled = 0xc5f
+sustained_laser_impact_distance = 0xc84
+sustained_laser_impact_effect = 0x1410
+sustained_laser_impact_effect_loops = 0xc81
+sustained_laser_impact_effect_table = 0x14c0
+sustained_laser_radial_iterations = 0xc64
+sustained_laser_radial_step = 0xc68
+sustained_laser_radius = 0xc60
+sustained_laser_range = 0xc6c
+sustained_laser_spread_pattern = 0xc90
+sustained_laser_use_deferred_traces = 0xc88
+sustained_laser_use_single_laser_effect = 0xc89
+sway_rotate_scale_unzoomed = 0x420
+sway_rotate_scale_zoomed = 0x424
+tactical_bonus_charges = 0x370
+targeting_laser_always_use_aimpoint = 0xc95
+targeting_laser_attachment_1p = 0xcb0
+targeting_laser_attachment_3p = 0xcb8
+targeting_laser_beam_length_1p = 0xcc4
+targeting_laser_beam_length_3p_enemy = 0xccc
+targeting_laser_beam_length_3p_friendly = 0xcc8
+targeting_laser_effect_1p = 0x1400
+targeting_laser_effect_3p_enemy = 0x13f0
+targeting_laser_effect_3p_friendly = 0x13f8
+targeting_laser_enabled = 0xca8
+targeting_laser_range = 0xcc0
+targeting_laser_trace_ignores_collision = 0xc96
+tergeting_laser_use_forward_direction = 0xc94
+thirdperson_fire_from_mount_point = 0x492
+threat_scope_bounds_height = 0x844
+threat_scope_bounds_tagname1 = 0x830
+threat_scope_bounds_tagname2 = 0x838
+threat_scope_bounds_width = 0x840
+threat_scope_enabled = 0x820
+threat_scope_fadeWithDistance = 0x848
+threat_scope_fadedist_end = 0x81c
+threat_scope_fadedist_start = 0x818
+threat_scope_zoomToggle_only = 0x821
+threat_scope_zoomfrac_end = 0x828
+threat_scope_zoomfrac_start = 0x824
+titanarmor_critical_hit_required = 0x114c
+toss_disables_ads = 0x4c1
+toss_has_post_loop = 0x2e
+toss_hides_world_model = 0x1294
+toss_overhead_time = 0x128c
+toss_pullout_time = 0x1290
+toss_time = 0x1288
+tossholdsprintcycle_time = 0x1280
+tracer_effect = 0x1518
+tracer_effect_first_person = 0x1510
+trophy_system_ignores = 0x1c8
+ui10_draw_cloaked = 0xae1
+ui10_enable = 0xac1
+ui10_mesh_override = 0xb40
+ui11_draw_cloaked = 0xae2
+ui11_enable = 0xac2
+ui11_mesh_override = 0xb48
+ui12_draw_cloaked = 0xae3
+ui12_enable = 0xac3
+ui12_mesh_override = 0xb50
+ui13_draw_cloaked = 0xae4
+ui13_enable = 0xac4
+ui13_mesh_override = 0xb58
+ui14_draw_cloaked = 0xae5
+ui14_enable = 0xac5
+ui14_mesh_override = 0xb60
+ui15_draw_cloaked = 0xae6
+ui15_enable = 0xac6
+ui15_mesh_override = 0xb68
+ui16_draw_cloaked = 0xae7
+ui16_enable = 0xac7
+ui16_mesh_override = 0xb70
+ui17_draw_cloaked = 0xae8
+ui17_enable = 0xac8
+ui17_mesh_override = 0xb78
+ui18_draw_cloaked = 0xae9
+ui18_enable = 0xac9
+ui18_mesh_override = 0xb80
+ui19_draw_cloaked = 0xaea
+ui19_enable = 0xaca
+ui19_mesh_override = 0xb88
+ui1_draw_cloaked = 0xad8
+ui1_enable = 0xab8
+ui1_mesh_override = 0xaf8
+ui20_draw_cloaked = 0xaeb
+ui20_enable = 0xacb
+ui20_mesh_override = 0xb90
+ui21_draw_cloaked = 0xaec
+ui21_enable = 0xacc
+ui21_mesh_override = 0xb98
+ui22_draw_cloaked = 0xaed
+ui22_enable = 0xacd
+ui22_mesh_override = 0xba0
+ui23_draw_cloaked = 0xaee
+ui23_enable = 0xace
+ui23_mesh_override = 0xba8
+ui24_draw_cloaked = 0xaef
+ui24_enable = 0xacf
+ui24_mesh_override = 0xbb0
+ui25_draw_cloaked = 0xaf0
+ui25_enable = 0xad0
+ui25_mesh_override = 0xbb8
+ui26_draw_cloaked = 0xaf1
+ui26_enable = 0xad1
+ui26_mesh_override = 0xbc0
+ui27_draw_cloaked = 0xaf2
+ui27_enable = 0xad2
+ui27_mesh_override = 0xbc8
+ui28_draw_cloaked = 0xaf3
+ui28_enable = 0xad3
+ui28_mesh_override = 0xbd0
+ui29_draw_cloaked = 0xaf4
+ui29_enable = 0xad4
+ui29_mesh_override = 0xbd8
+ui2_draw_cloaked = 0xad9
+ui2_enable = 0xab9
+ui2_mesh_override = 0xb00
+ui30_draw_cloaked = 0xaf5
+ui30_enable = 0xad5
+ui30_mesh_override = 0xbe0
+ui31_draw_cloaked = 0xaf6
+ui31_enable = 0xad6
+ui31_mesh_override = 0xbe8
+ui32_draw_cloaked = 0xaf7
+ui32_enable = 0xad7
+ui32_mesh_override = 0xbf0
+ui3_draw_cloaked = 0xada
+ui3_enable = 0xaba
+ui3_mesh_override = 0xb08
+ui4_draw_cloaked = 0xadb
+ui4_enable = 0xabb
+ui4_mesh_override = 0xb10
+ui5_draw_cloaked = 0xadc
+ui5_enable = 0xabc
+ui5_mesh_override = 0xb18
+ui6_draw_cloaked = 0xadd
+ui6_enable = 0xabd
+ui6_mesh_override = 0xb20
+ui7_draw_cloaked = 0xade
+ui7_enable = 0xabe
+ui7_mesh_override = 0xb28
+ui8_draw_cloaked = 0xadf
+ui8_enable = 0xabf
+ui8_mesh_override = 0xb30
+ui9_draw_cloaked = 0xae0
+ui9_enable = 0xac0
+ui9_mesh_override = 0xb38
+update_player_last_fire_time = 0x3fd
+use_akimbo_damage_source = 0x146
+use_discard_anim = 0x15c
+uses_ammo_pool = 0x385
+variable_sights_offset_range_1 = 0xbf8
+variable_sights_offset_range_2 = 0xbfc
+variable_sights_offset_range_3 = 0xc00
+variable_sights_offset_range_4 = 0xc04
+vfx_aliases = 0x14a8
+viewdrift_ads_air_scale_pitch = 0xa34
+viewdrift_ads_air_scale_yaw = 0xa44
+viewdrift_ads_crouch_scale_pitch = 0xa30
+viewdrift_ads_crouch_scale_yaw = 0xa40
+viewdrift_ads_delay = 0xa4c
+viewdrift_ads_speed_pitch = 0xa38
+viewdrift_ads_speed_yaw = 0xa48
+viewdrift_ads_stand_scale_pitch = 0xa2c
+viewdrift_ads_stand_scale_yaw = 0xa3c
+viewdrift_hipfire_air_scale_pitch = 0xa58
+viewdrift_hipfire_air_scale_yaw = 0xa68
+viewdrift_hipfire_crouch_scale_pitch = 0xa54
+viewdrift_hipfire_crouch_scale_yaw = 0xa64
+viewdrift_hipfire_speed_pitch = 0xa5c
+viewdrift_hipfire_speed_yaw = 0xa6c
+viewdrift_hipfire_stand_scale_pitch = 0xa50
+viewdrift_hipfire_stand_scale_yaw = 0xa60
+viewkick_ads_weaponFraction = 0x96c
+viewkick_ads_weaponFraction_vmScale = 0x970
+viewkick_air_scale_ads = 0x980
+viewkick_duck_scale = 0x974
+viewkick_hipfire_weaponFraction = 0x964
+viewkick_hipfire_weaponFraction_vmScale = 0x968
+viewkick_hover_scale = 0x978
+viewkick_move_scale = 0x97c
+viewkick_pattern = 0x938
+viewkick_pattern_valuePerShot = 0x93c
+viewkick_pc_pitch_scale = 0x9f0
+viewkick_pc_yaw_scale = 0x9ec
+viewkick_perm_pitch_base = 0x998
+viewkick_perm_pitch_random = 0x99c
+viewkick_perm_pitch_random_innerexclude = 0x9a0
+viewkick_perm_yaw_base = 0xa20
+viewkick_perm_yaw_random = 0xa24
+viewkick_perm_yaw_random_innerexclude = 0xa28
+viewkick_pitch_base = 0x984
+viewkick_pitch_hardScale = 0x994
+viewkick_pitch_random = 0x988
+viewkick_pitch_random_innerexclude = 0x98c
+viewkick_pitch_softScale = 0x990
+viewkick_roll_base = 0x9b4
+viewkick_roll_hardScale = 0x9b0
+viewkick_roll_randomMax = 0x9a8
+viewkick_roll_randomMin = 0x9a4
+viewkick_roll_softScale = 0x9ac
+viewkick_scale_firstshot_ads = 0x9bc
+viewkick_scale_firstshot_hipfire = 0x9b8
+viewkick_scale_max_ads = 0x9cc
+viewkick_scale_max_hipfire = 0x9c4
+viewkick_scale_min_ads = 0x9c8
+viewkick_scale_min_hipfire = 0x9c0
+viewkick_scale_pitch_valueLerpEnd = 0x9dc
+viewkick_scale_pitch_valueLerpStart = 0x9d4
+viewkick_scale_valueDecayDelay = 0x9e4
+viewkick_scale_valueDecayRate = 0x9e8
+viewkick_scale_valuePerShot = 0x9d0
+viewkick_scale_yaw_valueLerpEnd = 0x9e0
+viewkick_scale_yaw_valueLerpStart = 0x9d8
+viewkick_spring = 0x9f4
+viewkick_spring_cooldown_fadetime = 0xa04
+viewkick_spring_cooldown_holdtime = 0xa00
+viewkick_spring_heatpershot = 0x9fc
+viewkick_spring_hot = 0x9f8
+viewkick_spring_velocityScalePerShot = 0xa08
+viewkick_yaw_base = 0xa0c
+viewkick_yaw_hardScale = 0xa1c
+viewkick_yaw_random = 0xa10
+viewkick_yaw_random_innerexclude = 0xa14
+viewkick_yaw_softScale = 0xa18
+viewmodel = 0x14a0
+viewmodel_ads_centerpoint_attachment = 0x888
+viewmodel_ads_rui_bottomleft_attachment = 0x890
+viewmodel_color_by_soundmeter = 0x89c
+viewmodel_jolt_backwardPerShot = 0x8a8
+viewmodel_jolt_roll = 0x8b8
+viewmodel_jolt_scale = 0x8a4
+viewmodel_jolt_side = 0x8ac
+viewmodel_offset_ads = 0x870
+viewmodel_offset_ads_by_centerpoint = 0x898
+viewmodel_offset_hip = 0x864
+viewmodel_offset_offhand_scale = 0x884
+viewmodel_offset_zoom_frac_end = 0x880
+viewmodel_offset_zoom_frac_start = 0x87c
+viewmodel_skips_cloak = 0x45d
+viewmodel_spring_jolt = 0x8a0
+viewmodel_use_ads_certerpoint_offset_for_transition = 0x899
+vortex_absorb_effect = 0x1500
+vortex_absorb_effect_third_person = 0x14f8
+vortex_drain = 0x554
+vortex_impact_effect = 0x14f0
+weapon_cycle_is_blocked = 0x1235
+weapon_type_flags = 0x84c
+zipline_distance_max = 0x914
+zipline_distance_min = 0x910
+zipline_grenade = 0x900
+zipline_grenade_auto_detach_distance = 0x904
+zipline_grenade_snap_angle = 0x90c
+zipline_grenade_snap_distance = 0x908
+zipline_indicator_arc_blocked_effect = 0x1480
+zipline_indicator_impact_blocked_effect = 0x1460
+zipline_indicator_impact_ground_effect = 0x1470
+zipline_indicator_impact_wall_effect = 0x1468
+zipline_indicator_line_effect = 0x1478
+zipline_station_animation_begin = 0x8e0
+zipline_station_animation_ground = 0x8e8
+zipline_station_animation_ledge = 0x8f8
+zipline_station_animation_wall = 0x8f0
+zipline_station_attachment_ground = 0x8c8
+zipline_station_attachment_ledge = 0x8d8
+zipline_station_attachment_wall = 0x8d0
+zipline_station_model_ground = 0x1458
+zipline_station_model_ledge = 0x1448
+zipline_station_model_wall = 0x1450
+zoom_angle_shift_pitch = 0xd64
+zoom_angle_shift_yaw = 0xd60
+zoom_effects = 0x1234
+zoom_fov = 0x1094
+zoom_fov_viewmodel = 0xd70
+zoom_scope_frac_end = 0xd68
+zoom_scope_frac_start = 0xd6c
+zoom_time_in = 0x10a0
+zoom_time_out = 0x109c
+zoom_toggle_fov = 0xd74F
+zoom_toggle_lerp_time = 0x1098
+zoomed_convar_sensitivity_index = 0x270
+zoomed_convar_toggle_sensitivity_index = 0x274
+zoomfrac_autoattack = 0x3f8
